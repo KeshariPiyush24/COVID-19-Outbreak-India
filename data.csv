@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,59830,17901,1987,39938,09/05/2020 15:03:07,TT,140,14,1,
+Total,59831,17901,1987,39939,09/05/2020 15:41:07,TT,141,14,1,
 Maharashtra,19063,3470,731,14862,08/05/2020 20:54:08,MH,0,0,0,"[05-May]<br>
 - Total numbers are updated to the final figure reported for 05th May. <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>
@@ -31,7 +31,7 @@ Assam,60,35,2,23,09/05/2020 01:02:11,AS,0,0,0,Includes one case from Nagaland
 Himachal Pradesh,50,34,3,10,08/05/2020 21:03:13,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,42,18,0,24,09/05/2020 00:13:10,LA,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
-Meghalaya,12,10,1,1,01/05/2020 16:02:47,ML,0,0,0,
+Meghalaya,13,10,1,2,09/05/2020 15:41:09,ML,1,0,0,
 Puducherry,10,8,0,2,09/05/2020 10:03:10,PY,0,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,
 Manipur,2,2,0,0,20/04/2020 10:04:08,MN,0,0,0,
