@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,59831,17901,1987,39939,09/05/2020 15:41:07,TT,141,14,1,
+Total,59832,17906,1987,39935,09/05/2020 15:51:07,TT,142,19,1,
 Maharashtra,19063,3470,731,14862,08/05/2020 20:54:08,MH,0,0,0,"[05-May]<br>
 - Total numbers are updated to the final figure reported for 05th May. <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>
@@ -21,7 +21,7 @@ Karnataka,789,379,30,379,09/05/2020 12:33:08,KA,36,3,0,One active case in KA red
 Haryana,653,279,9,365,09/05/2020 15:03:08,HR,6,0,1,
 Bihar,580,267,5,308,09/05/2020 10:23:08,BR,1,0,0,
 Kerala,504,484,4,16,08/05/2020 17:23:10,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Odisha,287,63,2,222,09/05/2020 09:23:09,OR,17,0,0,
+Odisha,288,68,2,218,09/05/2020 15:51:09,OR,18,5,0,
 Chandigarh,146,21,2,123,09/05/2020 10:03:08,CH,0,0,0,
 Jharkhand,154,41,3,110,09/05/2020 09:44:09,JH,0,0,0,
 Tripura,118,2,0,116,09/05/2020 00:03:09,TR,0,0,0,
@@ -31,7 +31,7 @@ Assam,60,35,2,23,09/05/2020 01:02:11,AS,0,0,0,Includes one case from Nagaland
 Himachal Pradesh,50,34,3,10,08/05/2020 21:03:13,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,42,18,0,24,09/05/2020 00:13:10,LA,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
-Meghalaya,13,10,1,2,09/05/2020 15:41:09,ML,1,0,0,
+Meghalaya,13,10,1,2,09/05/2020 15:43:09,ML,1,0,0,
 Puducherry,10,8,0,2,09/05/2020 10:03:10,PY,0,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,
 Manipur,2,2,0,0,20/04/2020 10:04:08,MN,0,0,0,
