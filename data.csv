@@ -1,25 +1,25 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,60822,18311,2005,40502,09/05/2020 19:21:07,TT,908,424,19,
+Total,60844,18322,2007,40511,09/05/2020 19:35:07,TT,930,435,21,
 Maharashtra,19063,3470,731,14862,08/05/2020 20:54:08,MH,0,0,0,"[05-May]<br>
 - Total numbers are updated to the final figure reported for 05th May. <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>"
 Gujarat,7403,1872,449,5082,08/05/2020 20:14:10,GJ,0,0,0,
-Tamil Nadu,6535,1824,44,4667,09/05/2020 19:21:08,TN,526,219,4,
+Tamil Nadu,6535,1824,44,4667,09/05/2020 19:23:08,TN,526,219,4,
 Delhi,6542,2020,68,4454,09/05/2020 18:23:08,DL,0,0,0,
 Rajasthan,3655,2026,103,1526,09/05/2020 16:43:07,RJ,76,15,0,
 Madhya Pradesh,3341,1349,200,1792,08/05/2020 20:33:09,MP,0,0,0,
 Uttar Pradesh,3214,1387,66,1761,08/05/2020 21:54:11,UP,0,0,0,
 Andhra Pradesh,1930,887,44,999,09/05/2020 16:37:13,AP,43,45,3,
 Punjab,1762,157,31,1574,09/05/2020 18:53:08,PB,31,5,2,
-West Bengal,1786,372,169,1245,09/05/2020 19:21:09,WB,108,49,9,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
+West Bengal,1786,372,171,1243,09/05/2020 19:23:09,WB,108,49,11,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Telangana,1132,727,29,376,08/05/2020 21:33:10,TG,0,0,0,
 Jammu and Kashmir,836,368,9,459,09/05/2020 17:43:09,JK,13,4,0,
 Karnataka,794,386,30,377,09/05/2020 18:42:08,KA,41,10,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-Haryana,653,279,9,365,09/05/2020 15:03:08,HR,6,0,1,
-Bihar,589,318,5,266,09/05/2020 19:21:10,BR,10,51,0,
+Haryana,675,290,9,376,09/05/2020 19:35:08,HR,28,11,1,
+Bihar,589,318,5,266,09/05/2020 19:23:11,BR,10,51,0,
 Kerala,506,485,4,17,09/05/2020 17:13:09,KL,2,1,0,Mahe native who expired in Kannur included in Kerala's tally
 Odisha,294,68,2,224,09/05/2020 17:34:09,OR,24,5,0,
 Chandigarh,169,24,2,143,09/05/2020 19:03:11,CH,23,3,0,
