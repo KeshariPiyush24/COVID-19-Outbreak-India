@@ -5,16 +5,16 @@ Maharashtra,20228,3800,779,15649,09/05/2020 21:34:08,MH,1165,330,48,"[05-May]<br
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>"
 Gujarat,7797,2091,472,5234,09/05/2020 19:43:08,GJ,394,219,23,
-Tamil Nadu,6535,1824,44,4667,09/05/2020 19:23:08,TN,526,219,4,
 Delhi,6542,2020,68,4454,09/05/2020 18:23:08,DL,0,0,0,
+Tamil Nadu,6535,1824,44,4667,09/05/2020 19:23:08,TN,526,219,4,
 Rajasthan,3708,2162,106,1440,09/05/2020 22:13:08,RJ,129,151,3,
 Madhya Pradesh,3457,1480,211,1766,09/05/2020 20:35:08,MP,116,131,11,
 Uttar Pradesh,3214,1387,66,1761,08/05/2020 21:54:11,UP,0,0,0,
 Andhra Pradesh,1930,887,44,999,09/05/2020 16:37:13,AP,43,45,3,
-Punjab,1762,157,31,1574,09/05/2020 18:53:08,PB,31,5,2,
 West Bengal,1786,372,171,1243,09/05/2020 19:23:09,WB,108,49,11,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
+Punjab,1762,157,31,1574,09/05/2020 18:53:08,PB,31,5,2,
 Telangana,1163,751,30,382,09/05/2020 22:34:09,TG,31,24,1,
 Jammu and Kashmir,836,368,9,459,09/05/2020 17:43:09,JK,13,4,0,
 Karnataka,794,386,30,377,09/05/2020 18:42:08,KA,41,10,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
@@ -26,8 +26,8 @@ Chandigarh,169,24,2,143,09/05/2020 19:03:11,CH,23,3,0,
 Jharkhand,156,52,3,101,09/05/2020 20:23:09,JH,2,11,0,
 Tripura,118,2,0,116,09/05/2020 00:03:09,TR,0,0,0,
 Uttarakhand,67,46,1,20,09/05/2020 14:35:08,UT,4,1,0,
-Chhattisgarh,59,43,0,16,09/05/2020 18:13:09,CT,0,5,0,
 Assam,63,35,2,26,09/05/2020 22:34:11,AS,3,0,0,Includes one case from Nagaland
+Chhattisgarh,59,43,0,16,09/05/2020 18:13:09,CT,0,5,0,
 Himachal Pradesh,52,35,3,11,09/05/2020 22:22:10,HP,2,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,42,18,0,24,09/05/2020 00:13:10,LA,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
