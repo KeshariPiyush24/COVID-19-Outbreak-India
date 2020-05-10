@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,66378,20815,2207,43352,10/05/2020 22:31:22,TT,3513,1514,106,
-Maharashtra,21506,4199,832,16475,10/05/2020 22:31:23,MH,1278,399,53,"[05-May]<br>
+Total,67044,20815,2207,44018,10/05/2020 22:41:22,TT,4179,1514,106,
+Maharashtra,22171,4199,832,17140,10/05/2020 22:41:23,MH,1943,399,53,"[05-May]<br>
 - Total numbers are updated to the final figure reported for 05th May. <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>"
@@ -26,7 +26,7 @@ Kerala,513,489,4,20,10/05/2020 17:53:25,KL,7,4,0,Mahe native who expired in Kann
 Odisha,377,68,3,306,10/05/2020 20:42:28,OR,25,0,0,
 Chandigarh,173,24,3,146,10/05/2020 16:43:25,CH,4,0,1,
 Jharkhand,157,78,3,76,10/05/2020 21:42:24,JH,1,0,0,
-Tripura,151,2,0,149,10/05/2020 22:31:24,TR,16,0,0,
+Tripura,151,2,0,149,10/05/2020 22:33:25,TR,16,0,0,
 Uttarakhand,68,46,1,21,10/05/2020 20:07:24,UT,1,0,0,
 Assam,62,35,1,26,10/05/2020 09:52:09,AS,0,0,0,Includes one case from Nagaland
 Chhattisgarh,59,49,0,10,10/05/2020 14:34:24,CT,0,6,0,
@@ -34,7 +34,7 @@ Himachal Pradesh,55,35,3,14,10/05/2020 17:53:27,HP,3,0,0,"HP has 4 Migrated case
 Ladakh,42,21,0,21,10/05/2020 17:53:28,LA,0,3,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,13,10,1,2,09/05/2020 15:43:09,ML,0,0,0,
-Puducherry,11,8,0,3,10/05/2020 21:02:24,PY,1,0,0,
+Puducherry,12,8,0,4,10/05/2020 22:41:24,PY,2,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,
 Manipur,2,2,0,0,20/04/2020 10:04:08,MN,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,MZ,0,0,0,
