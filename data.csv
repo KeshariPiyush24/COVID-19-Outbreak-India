@@ -1,8 +1,8 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,67044,20815,2212,44013,10/05/2020 22:51:22,TT,4179,1514,111,
+Total,67138,20969,2212,43953,10/05/2020 23:00:23,TT,4273,1668,111,
 Maharashtra,22171,4199,832,17140,10/05/2020 22:45:23,MH,1943,399,53,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
-- 665 cases added by MH govt. on 4th May due to data cleaning <br>
+- 665 cases added by MH govt. on 10th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>"
 Gujarat,8195,2545,493,5157,10/05/2020 20:42:25,GJ,398,454,21,
@@ -12,7 +12,7 @@ Delhi,6923,2069,73,4781,09/05/2020 18:23:08,DL,381,49,5,"[10-May]<br>
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,3814,2241,108,1465,10/05/2020 22:22:24,RJ,106,79,2,
 Madhya Pradesh,3614,1676,215,1723,10/05/2020 20:33:28,MP,157,196,4,
-Uttar Pradesh,3373,1499,79,1795,10/05/2020 22:51:23,UP,0,0,5,
+Uttar Pradesh,3467,1653,79,1735,10/05/2020 23:00:23,UP,94,154,5,
 Andhra Pradesh,1980,925,45,1010,09/05/2020 16:37:13,AP,50,38,1,
 West Bengal,1939,417,185,1337,10/05/2020 20:02:28,WB,153,45,14,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
