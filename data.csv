@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,70765,22489,2291,45981,11/05/2020 22:11:22,TT,3588,1519,78,
+Total,70765,22549,2294,45918,11/05/2020 22:21:24,TT,3588,1579,81,
 Maharashtra,23401,4786,868,17747,11/05/2020 21:53:23,MH,1230,587,36,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -10,7 +10,7 @@ Tamil Nadu,8002,2051,53,5898,11/05/2020 19:53:26,TN,798,92,6,
 Delhi,7233,2129,73,5031,11/05/2020 14:17:25,DL,310,60,0,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,3988,2264,110,1614,11/05/2020 22:11:23,RJ,174,23,2,
+Rajasthan,3988,2324,113,1551,11/05/2020 22:21:25,RJ,174,83,5,
 Madhya Pradesh,3785,1747,221,1817,11/05/2020 19:53:27,MP,171,71,6,
 Uttar Pradesh,3573,1758,80,1735,11/05/2020 21:43:24,UP,106,105,1,
 Andhra Pradesh,2018,998,45,975,11/05/2020 12:02:24,AP,38,73,0,
@@ -32,7 +32,7 @@ Uttarakhand,68,46,1,21,11/05/2020 11:37:24,UT,0,0,0,
 Assam,65,40,1,24,11/05/2020 19:02:25,AS,2,5,0,Includes one case from Nagaland
 Chhattisgarh,59,53,0,6,11/05/2020 12:33:25,CT,0,4,0,
 Himachal Pradesh,59,35,3,18,11/05/2020 18:03:25,HP,1,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Ladakh,42,22,0,20,11/05/2020 22:11:25,LA,0,1,0,
+Ladakh,42,22,0,20,11/05/2020 22:14:25,LA,0,1,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,13,10,1,2,09/05/2020 15:43:09,ML,0,0,0,
 Puducherry,12,9,0,3,11/05/2020 11:42:24,PY,0,0,0,
