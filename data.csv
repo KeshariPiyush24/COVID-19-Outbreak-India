@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,71441,23059,2310,46068,12/05/2020 17:51:22,TT,673,510,16,
+Total,71442,23059,2310,46069,12/05/2020 18:01:38,TT,673,510,16,
 Maharashtra,23401,4786,868,17747,11/05/2020 21:53:23,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -20,11 +20,11 @@ West Bengal,2063,499,190,1374,11/05/2020 22:03:24,WB,0,0,0,"- Cases updated as p
 Punjab,1877,168,31,1678,11/05/2020 19:02:24,PB,0,0,0,
 Telangana,1275,801,30,444,11/05/2020 21:53:24,TG,0,0,0,
 Jammu and Kashmir,879,427,10,442,11/05/2020 18:53:25,JK,0,0,0,
-Karnataka,925,433,31,460,12/05/2020 17:51:24,KA,63,7,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-Haryana,741,340,11,390,12/05/2020 17:51:24,HR,11,3,0,
+Karnataka,925,433,31,460,12/05/2020 17:52:24,KA,63,7,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
+Haryana,741,340,11,390,12/05/2020 17:52:24,HR,11,3,0,
 Bihar,801,382,6,413,12/05/2020 17:43:24,BR,52,5,0,
 Kerala,525,489,4,32,12/05/2020 17:43:24,KL,5,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Odisha,437,85,3,349,12/05/2020 12:43:24,OR,23,0,0,
+Odisha,438,85,3,350,12/05/2020 18:01:00,OR,23,0,0,
 Chandigarh,187,28,3,156,12/05/2020 13:33:25,CH,6,0,0,
 Jharkhand,164,78,3,83,12/05/2020 17:43:25,JH,3,0,0,
 Tripura,152,2,0,150,11/05/2020 16:32:24,TR,0,0,0,
