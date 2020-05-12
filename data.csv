@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,71266,23028,2310,45924,12/05/2020 12:11:23,TT,498,479,16,
+Total,71268,23028,2310,45926,12/05/2020 12:13:22,TT,500,479,16,
 Maharashtra,23401,4786,868,17747,11/05/2020 21:53:23,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -13,7 +13,7 @@ Delhi will be releasing bulletins in the morning, containing data of the previou
 Rajasthan,4035,2362,115,1558,12/05/2020 10:02:24,RJ,47,38,2,
 Madhya Pradesh,3785,1747,221,1817,11/05/2020 19:53:27,MP,0,0,0,
 Uttar Pradesh,3573,1758,80,1735,11/05/2020 23:13:24,UP,0,0,0,
-Andhra Pradesh,2051,1056,46,949,12/05/2020 12:11:23,AP,33,58,1,
+Andhra Pradesh,2051,1056,46,949,12/05/2020 12:13:23,AP,33,58,1,
 West Bengal,2063,499,190,1374,11/05/2020 22:03:24,WB,0,0,0,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
@@ -26,7 +26,7 @@ Bihar,761,377,6,378,12/05/2020 11:42:23,BR,12,0,0,
 Kerala,520,489,4,27,11/05/2020 17:22:23,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Odisha,414,85,3,326,11/05/2020 20:33:25,OR,0,0,0,
 Chandigarh,181,28,3,150,11/05/2020 21:43:25,CH,0,0,0,
-Jharkhand,161,78,3,80,11/05/2020 20:52:24,JH,0,0,0,
+Jharkhand,163,78,3,82,12/05/2020 12:13:25,JH,2,0,0,
 Tripura,152,2,0,150,11/05/2020 16:32:24,TR,0,0,0,
 Uttarakhand,68,46,1,21,11/05/2020 11:37:24,UT,0,0,0,
 Assam,65,40,1,24,11/05/2020 19:02:25,AS,0,0,0,Includes one case from Nagaland
