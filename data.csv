@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,77847,26067,2544,49231,13/05/2020 21:21:23,TT,3517,1614,129,
+Total,77848,26069,2544,49230,13/05/2020 21:31:23,TT,3518,1615,129,
 Maharashtra,25922,5547,975,19400,13/05/2020 20:33:33,MH,1495,422,54,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -13,7 +13,7 @@ Delhi will be releasing bulletins in the morning, containing data of the previou
 Rajasthan,4278,2459,120,1699,13/05/2020 16:23:24,RJ,152,5,3,
 Madhya Pradesh,4173,2004,232,1937,13/05/2020 19:33:25,MP,187,144,7,
 Uttar Pradesh,3664,1873,82,1709,12/05/2020 23:23:24,UP,0,0,0,
-West Bengal,2290,702,207,1381,13/05/2020 21:21:24,WB,117,90,9,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
+West Bengal,2290,702,207,1381,13/05/2020 21:23:24,WB,117,90,9,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2137,1142,47,948,13/05/2020 11:54:24,AP,48,86,1,
@@ -32,11 +32,11 @@ Uttarakhand,72,46,1,25,13/05/2020 20:33:38,UT,3,0,0,
 Himachal Pradesh,66,35,3,25,12/05/2020 22:52:24,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Assam,80,40,2,37,13/05/2020 20:33:39,AS,15,0,0,"Includes one case from Nagaland <br>
 One patient who migrated to Bihar has been reduced from Active count"
-Chhattisgarh,59,53,0,6,11/05/2020 12:33:25,CT,0,0,0,
-Ladakh,42,22,0,20,11/05/2020 22:14:25,LA,0,0,0,
+Chhattisgarh,59,55,0,4,13/05/2020 21:31:26,CT,0,1,0,
+Ladakh,43,22,0,21,13/05/2020 21:31:27,LA,1,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,13,11,1,1,13/05/2020 11:13:25,ML,0,1,0,
-Puducherry,13,9,0,4,13/05/2020 21:21:26,PY,1,0,0,
+Puducherry,13,9,0,4,13/05/2020 21:23:25,PY,1,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,
 Manipur,2,2,0,0,20/04/2020 10:04:08,MN,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,MZ,0,0,0,
