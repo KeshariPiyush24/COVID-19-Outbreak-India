@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,77846,26067,2509,49265,13/05/2020 21:11:23,TT,3516,1614,94,
+Total,77847,26067,2544,49231,13/05/2020 21:21:23,TT,3517,1614,129,
 Maharashtra,25922,5547,975,19400,13/05/2020 20:33:33,MH,1495,422,54,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>"
-Gujarat,9268,3562,540,5166,13/05/2020 20:33:34,GJ,364,316,3,
+Gujarat,9268,3562,566,5140,13/05/2020 20:33:34,GJ,364,316,29,
 Tamil Nadu,9227,2176,64,6987,13/05/2020 20:33:35,TN,509,42,3,
 Delhi,7998,2858,106,5034,13/05/2020 11:13:23,DL,359,346,20,"[10-May]<br>
 
@@ -13,7 +13,7 @@ Delhi will be releasing bulletins in the morning, containing data of the previou
 Rajasthan,4278,2459,120,1699,13/05/2020 16:23:24,RJ,152,5,3,
 Madhya Pradesh,4173,2004,232,1937,13/05/2020 19:33:25,MP,187,144,7,
 Uttar Pradesh,3664,1873,82,1709,12/05/2020 23:23:24,UP,0,0,0,
-West Bengal,2290,702,198,1390,13/05/2020 21:11:24,WB,117,90,0,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
+West Bengal,2290,702,207,1381,13/05/2020 21:21:24,WB,117,90,9,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2137,1142,47,948,13/05/2020 11:54:24,AP,48,86,1,
@@ -36,7 +36,7 @@ Chhattisgarh,59,53,0,6,11/05/2020 12:33:25,CT,0,0,0,
 Ladakh,42,22,0,20,11/05/2020 22:14:25,LA,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,13,11,1,1,13/05/2020 11:13:25,ML,0,1,0,
-Puducherry,12,9,0,3,11/05/2020 11:42:24,PY,0,0,0,
+Puducherry,13,9,0,4,13/05/2020 21:21:26,PY,1,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,
 Manipur,2,2,0,0,20/04/2020 10:04:08,MN,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,MZ,0,0,0,
