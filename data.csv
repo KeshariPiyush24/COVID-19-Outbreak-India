@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,75280,25081,2449,47745,13/05/2020 19:33:24,TT,950,628,34,
+Total,75834,25121,2452,48256,13/05/2020 20:01:23,TT,1504,668,37,
 Maharashtra,24427,5125,921,18381,12/05/2020 22:13:24,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>"
 Gujarat,8904,3246,537,5121,12/05/2020 20:16:23,GJ,0,0,0,
-Tamil Nadu,8720,2134,61,6525,12/05/2020 22:48:24,TN,2,0,0,
+Tamil Nadu,9227,2134,64,7029,13/05/2020 20:01:24,TN,509,0,3,
 Delhi,7998,2858,106,5034,13/05/2020 11:13:23,DL,359,346,20,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
@@ -17,10 +17,10 @@ West Bengal,2173,612,198,1363,12/05/2020 19:53:24,WB,0,0,0,"- Cases updated as p
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2137,1142,47,948,13/05/2020 11:54:24,AP,48,86,1,
-Punjab,1914,171,32,1711,12/05/2020 19:23:24,PB,0,0,0,
+Punjab,1924,200,32,1692,13/05/2020 20:01:26,PB,10,29,0,
 Telangana,1326,822,32,472,12/05/2020 21:52:24,TG,0,0,0,
 Karnataka,959,451,33,474,13/05/2020 18:08:24,KA,34,18,2,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-Jammu and Kashmir,934,455,10,469,12/05/2020 19:23:25,JK,0,0,0,
+Jammu and Kashmir,971,466,10,495,13/05/2020 20:01:27,JK,37,11,0,
 Bihar,932,382,7,543,13/05/2020 19:13:24,BR,53,0,1,
 Haryana,780,342,11,427,12/05/2020 21:42:25,HR,0,0,0,
 Odisha,538,143,3,392,13/05/2020 17:22:24,OR,101,27,0,
