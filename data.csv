@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,77729,25977,2535,49212,13/05/2020 20:31:24,TT,3399,1524,120,
-Maharashtra,25922,5547,975,19400,13/05/2020 20:31:25,MH,1495,422,54,"[10-May]<br>
+Total,77729,25977,2535,49212,13/05/2020 20:33:32,TT,3399,1524,120,
+Maharashtra,25922,5547,975,19400,13/05/2020 20:33:33,MH,1495,422,54,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>"
-Gujarat,9268,3562,566,5140,13/05/2020 20:31:26,GJ,364,316,29,
-Tamil Nadu,9227,2176,64,6987,13/05/2020 20:31:28,TN,509,42,3,
+Gujarat,9268,3562,566,5140,13/05/2020 20:33:34,GJ,364,316,29,
+Tamil Nadu,9227,2176,64,6987,13/05/2020 20:33:35,TN,509,42,3,
 Delhi,7998,2858,106,5034,13/05/2020 11:13:23,DL,359,346,20,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
@@ -26,11 +26,11 @@ Haryana,793,418,11,364,13/05/2020 20:13:25,HR,13,76,0,
 Odisha,538,143,3,392,13/05/2020 17:22:24,OR,101,27,0,
 Kerala,535,490,4,41,13/05/2020 18:13:25,KL,10,1,0,Mahe native who expired in Kannur included in Kerala's tally
 Chandigarh,191,30,3,158,13/05/2020 20:13:26,CH,4,0,0,
-Jharkhand,177,79,3,95,13/05/2020 20:31:29,JH,5,0,0,
+Jharkhand,177,79,3,95,13/05/2020 20:33:36,JH,5,0,0,
 Tripura,154,2,0,152,12/05/2020 23:13:25,TR,0,0,0,
-Uttarakhand,72,46,1,25,13/05/2020 20:31:30,UT,3,0,0,
+Uttarakhand,72,46,1,25,13/05/2020 20:33:38,UT,3,0,0,
 Himachal Pradesh,66,35,3,25,12/05/2020 22:52:24,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Assam,80,40,2,37,13/05/2020 20:31:31,AS,15,0,0,"Includes one case from Nagaland <br>
+Assam,80,40,2,37,13/05/2020 20:33:39,AS,15,0,0,"Includes one case from Nagaland <br>
 One patient who migrated to Bihar has been reduced from Active count"
 Chhattisgarh,59,53,0,6,11/05/2020 12:33:25,CT,0,0,0,
 Ladakh,42,22,0,20,11/05/2020 22:14:25,LA,0,0,0,
