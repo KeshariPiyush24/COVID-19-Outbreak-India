@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,81641,27419,2639,51578,14/05/2020 20:31:23,TT,3584,1002,87,
+Total,81642,27586,2644,51407,14/05/2020 20:41:31,TT,3585,1169,92,
 Maharashtra,27524,6059,1019,20446,14/05/2020 20:26:00,MH,1602,512,44,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -11,9 +11,9 @@ Delhi,8470,3045,115,5310,14/05/2020 13:43:23,DL,472,187,9,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,4418,2580,122,1716,14/05/2020 15:23:24,RJ,90,7,1,
-Madhya Pradesh,4426,2004,232,2190,14/05/2020 20:31:30,MP,253,0,0,
+Madhya Pradesh,4426,2171,237,2018,14/05/2020 20:41:38,MP,253,167,5,
 Uttar Pradesh,3758,1965,86,1707,13/05/2020 22:53:24,UP,0,0,0,
-West Bengal,2377,768,215,1394,14/05/2020 20:31:48,WB,87,66,8,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
+West Bengal,2377,768,215,1394,14/05/2020 20:36:09,WB,87,66,8,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2205,1192,48,965,14/05/2020 12:33:24,AP,68,50,1,Total includes patients from other states.
@@ -38,7 +38,7 @@ Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,13,11,1,1,13/05/2020 11:13:25,ML,0,0,0,
 Puducherry,13,9,0,4,13/05/2020 21:23:25,PY,0,0,0,
 Goa,15,7,0,8,14/05/2020 19:43:28,GA,8,0,0,
-Manipur,2,2,0,0,20/04/2020 10:04:08,MN,0,0,0,
+Manipur,3,2,0,1,14/05/2020 20:41:41,MN,1,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,MZ,0,0,0,
 Arunachal Pradesh,1,1,0,0,16/04/2020 19:33:11,AR,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,1,1,0,0,12/05/2020 23:23:25,DN,0,0,0,
