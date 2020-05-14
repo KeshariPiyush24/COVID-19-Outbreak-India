@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,81299,27353,2631,51310,14/05/2020 20:20:32,TT,3242,936,79,
-Maharashtra,27524,6059,1019,20446,14/05/2020 20:20:38,MH,1602,512,44,"[10-May]<br>
+Total,81641,27419,2639,51578,14/05/2020 20:31:23,TT,3584,1002,87,
+Maharashtra,27524,6059,1019,20446,14/05/2020 20:26:00,MH,1602,512,44,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>
@@ -11,9 +11,9 @@ Delhi,8470,3045,115,5310,14/05/2020 13:43:23,DL,472,187,9,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,4418,2580,122,1716,14/05/2020 15:23:24,RJ,90,7,1,
-Madhya Pradesh,4173,2004,232,1937,13/05/2020 19:33:25,MP,0,0,0,
+Madhya Pradesh,4426,2004,232,2190,14/05/2020 20:31:30,MP,253,0,0,
 Uttar Pradesh,3758,1965,86,1707,13/05/2020 22:53:24,UP,0,0,0,
-West Bengal,2290,702,207,1381,13/05/2020 21:23:24,WB,0,0,0,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
+West Bengal,2377,768,215,1394,14/05/2020 20:31:48,WB,87,66,8,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2205,1192,48,965,14/05/2020 12:33:24,AP,68,50,1,Total includes patients from other states.
@@ -21,7 +21,7 @@ Punjab,1935,223,32,1680,14/05/2020 18:44:26,PB,11,23,0,
 Telangana,1367,939,34,394,13/05/2020 21:53:24,TG,0,0,0,
 Karnataka,987,460,35,491,14/05/2020 18:34:27,KA,28,9,2,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Jammu and Kashmir,983,485,11,487,14/05/2020 19:23:26,JK,12,19,0,
-Bihar,987,400,7,580,14/05/2020 20:21:09,BR,34,0,0,
+Bihar,989,400,7,582,14/05/2020 20:26:34,BR,36,0,0,
 Haryana,818,439,11,368,14/05/2020 19:35:48,HR,25,21,0,
 Odisha,611,158,3,450,14/05/2020 15:53:24,OR,73,15,0,
 Kerala,561,493,4,64,14/05/2020 17:44:28,KL,26,3,0,Mahe native who expired in Kannur included in Kerala's tally
