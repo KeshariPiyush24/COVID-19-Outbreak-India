@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,81645,27778,2644,51218,14/05/2020 21:03:22,TT,3588,1361,92,
+Total,81658,27778,2644,51231,14/05/2020 21:03:22,TT,3601,1361,92,
 Maharashtra,27524,6059,1019,20446,14/05/2020 20:26:00,MH,1602,512,44,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -23,7 +23,7 @@ Bihar,989,400,7,582,14/05/2020 20:26:34,BR,36,0,0,
 Karnataka,987,460,35,491,14/05/2020 18:34:27,KA,28,9,2,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Jammu and Kashmir,983,485,11,487,14/05/2020 19:23:26,JK,12,19,0,
 Haryana,818,439,11,368,14/05/2020 19:35:48,HR,25,21,0,
-Odisha,611,158,3,450,14/05/2020 15:53:24,OR,73,15,0,
+Odisha,624,158,3,463,14/05/2020 15:53:24,OR,86,15,0,
 Kerala,561,493,4,64,14/05/2020 17:44:28,KL,26,3,0,Mahe native who expired in Kannur included in Kerala's tally
 Chandigarh,191,37,3,151,14/05/2020 17:53:25,CH,0,7,0,
 Jharkhand,187,87,3,97,14/05/2020 16:03:24,JH,10,0,0,
