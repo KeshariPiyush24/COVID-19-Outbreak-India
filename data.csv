@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,79321,26737,2567,50012,14/05/2020 18:44:23,TT,1264,319,15,
+Total,79333,26801,2567,49960,14/05/2020 19:21:23,TT,1276,384,15,
 Maharashtra,25922,5547,975,19400,14/05/2020 01:13:24,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>"
 Gujarat,9268,3562,566,5140,13/05/2020 20:33:34,GJ,0,0,0,
-Tamil Nadu,9674,2176,66,7432,14/05/2020 18:44:24,TN,447,0,2,
+Tamil Nadu,9674,2240,66,7368,14/05/2020 19:21:25,TN,447,65,2,
 Delhi,8470,3045,115,5310,14/05/2020 13:43:23,DL,472,187,9,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
@@ -20,7 +20,7 @@ Andhra Pradesh,2205,1192,48,965,14/05/2020 12:33:24,AP,68,50,1,Total includes pa
 Punjab,1935,223,32,1680,14/05/2020 18:44:26,PB,11,23,0,
 Telangana,1367,939,34,394,13/05/2020 21:53:24,TG,0,0,0,
 Karnataka,987,460,35,491,14/05/2020 18:34:27,KA,28,9,2,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-Jammu and Kashmir,971,466,11,494,14/05/2020 16:13:24,JK,0,0,0,
+Jammu and Kashmir,983,466,11,506,14/05/2020 16:13:24,JK,12,0,0,
 Bihar,966,400,7,559,14/05/2020 15:13:24,BR,13,0,0,
 Haryana,807,418,11,378,14/05/2020 14:23:24,HR,14,0,0,
 Odisha,611,158,3,450,14/05/2020 15:53:24,OR,73,15,0,
