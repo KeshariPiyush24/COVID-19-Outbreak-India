@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,78783,26675,2564,49539,14/05/2020 14:23:22,TT,726,257,13,
+Total,78810,26675,2564,49566,14/05/2020 15:01:28,TT,753,257,13,
 Maharashtra,25922,5547,975,19400,14/05/2020 01:13:24,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -10,7 +10,7 @@ Tamil Nadu,9227,2176,64,6987,13/05/2020 20:33:35,TN,0,0,0,
 Delhi,8470,3045,115,5310,14/05/2020 13:43:23,DL,472,187,9,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,4394,2575,122,1697,14/05/2020 10:03:24,RJ,66,2,1,
+Rajasthan,4418,2575,122,1721,14/05/2020 15:01:30,RJ,90,2,1,
 Madhya Pradesh,4173,2004,232,1937,13/05/2020 19:33:25,MP,0,0,0,
 Uttar Pradesh,3758,1965,86,1707,13/05/2020 22:53:24,UP,0,0,0,
 West Bengal,2290,702,207,1381,13/05/2020 21:23:24,WB,0,0,0,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
@@ -28,7 +28,7 @@ Kerala,535,490,4,41,13/05/2020 18:13:25,KL,0,0,0,Mahe native who expired in Kann
 Chandigarh,191,30,3,158,13/05/2020 20:13:26,CH,0,0,0,
 Jharkhand,181,87,3,91,14/05/2020 09:22:24,JH,4,0,0,
 Tripura,155,16,0,139,14/05/2020 10:33:24,TR,0,14,0,
-Uttarakhand,72,46,1,25,13/05/2020 20:33:38,UT,0,0,0,
+Uttarakhand,75,46,1,28,14/05/2020 14:53:24,UT,3,0,0,
 Himachal Pradesh,68,35,3,27,14/05/2020 10:53:24,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Assam,87,40,2,44,14/05/2020 14:23:25,AS,7,0,0,"Includes one case from Nagaland <br>
 One patient who migrated to Bihar has been reduced from Active count"
