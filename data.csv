@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,78199,26416,2552,49226,14/05/2020 10:31:23,TT,143,16,1,
+Total,78199,26416,2552,49226,14/05/2020 10:33:22,TT,143,16,1,
 Maharashtra,25922,5547,975,19400,14/05/2020 01:13:24,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -27,7 +27,7 @@ Odisha,611,143,3,465,14/05/2020 10:14:24,OR,73,0,0,
 Kerala,535,490,4,41,13/05/2020 18:13:25,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Chandigarh,191,30,3,158,13/05/2020 20:13:26,CH,0,0,0,
 Jharkhand,181,87,3,91,14/05/2020 09:22:24,JH,4,0,0,
-Tripura,155,16,0,139,14/05/2020 10:31:24,TR,0,14,0,
+Tripura,155,16,0,139,14/05/2020 10:33:24,TR,0,14,0,
 Uttarakhand,72,46,1,25,13/05/2020 20:33:38,UT,0,0,0,
 Himachal Pradesh,67,35,3,26,13/05/2020 23:04:25,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Assam,80,40,2,37,13/05/2020 20:33:39,AS,0,0,0,"Includes one case from Nagaland <br>
