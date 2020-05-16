@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,86667,30786,2760,53116,16/05/2020 18:21:23,TT,811,541,7,
+Total,86667,31738,2760,52164,16/05/2020 18:31:23,TT,811,1493,7,
 Maharashtra,29100,6564,1068,21468,15/05/2020 20:43:24,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -17,9 +17,9 @@ West Bengal,2461,829,225,1407,15/05/2020 20:19:35,WB,0,0,0,"- Cases updated as p
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2355,1353,49,953,16/05/2020 12:13:24,AP,48,101,1,Total includes patients from other states.
-Punjab,1946,305,32,1609,16/05/2020 18:21:24,PB,14,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
+Punjab,1946,1257,32,657,16/05/2020 18:31:24,PB,14,952,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,1454,959,34,461,15/05/2020 21:03:24,TG,0,0,0,
-Bihar,1118,440,7,671,16/05/2020 18:21:25,BR,85,0,0,
+Bihar,1118,440,7,671,16/05/2020 18:23:26,BR,85,0,0,
 Karnataka,1092,494,36,561,16/05/2020 18:13:24,KA,36,14,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Jammu and Kashmir,1013,513,11,489,15/05/2020 18:53:24,JK,0,0,0,
 Haryana,854,464,13,377,15/05/2020 18:58:25,HR,0,0,0,
