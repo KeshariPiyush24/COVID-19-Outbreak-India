@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,86070,30365,2754,52946,16/05/2020 13:53:23,TT,214,120,1,
+Total,86508,30773,2760,52970,16/05/2020 14:11:22,TT,652,528,7,
 Maharashtra,29100,6564,1068,21468,15/05/2020 20:43:24,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -7,7 +7,7 @@ Maharashtra,29100,6564,1068,21468,15/05/2020 20:43:24,MH,0,0,0,"[10-May]<br>
 - 796 cases added by MH govt. on 4th May due to data cleaning <br>"
 Tamil Nadu,10108,2599,71,7438,15/05/2020 23:22:24,TN,0,0,0,
 Gujarat,9932,4035,606,5291,15/05/2020 20:53:24,GJ,0,0,0,
-Delhi,8895,3518,123,5254,15/05/2020 15:28:24,DL,0,0,0,"[10-May]<br>
+Delhi,9333,3926,129,5278,16/05/2020 14:11:23,DL,438,408,6,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Madhya Pradesh,4595,2283,239,2073,15/05/2020 19:23:24,MP,0,0,0,
