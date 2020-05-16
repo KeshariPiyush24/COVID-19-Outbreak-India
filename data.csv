@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,88506,33133,2790,52578,16/05/2020 21:44:23,TT,2650,2888,37,
-Maharashtra,29100,6564,1068,21468,15/05/2020 20:43:24,MH,0,0,0,"[10-May]<br>
+Total,90112,33657,2857,53593,16/05/2020 22:02:23,TT,4256,3412,104,
+Maharashtra,30706,7088,1135,22483,16/05/2020 22:02:24,MH,1606,524,67,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
 - 143 cases added by MH govt. on 5th May due to data cleaning <br>
