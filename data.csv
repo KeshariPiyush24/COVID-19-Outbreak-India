@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,85995,30364,2754,52872,16/05/2020 12:11:23,TT,139,106,1,
+Total,86001,30364,2754,52878,16/05/2020 12:21:23,TT,145,106,1,
 Maharashtra,29100,6564,1068,21468,15/05/2020 20:43:24,MH,0,0,0,"[10-May]<br>
 - Total numbers are updated to the final figure reported for 10th May. <br>
 - 665 cases added by MH govt. on 10th May due to data cleaning <br>
@@ -16,7 +16,7 @@ Uttar Pradesh,4057,2165,95,1797,15/05/2020 22:51:24,UP,0,0,0,
 West Bengal,2461,829,225,1407,15/05/2020 20:19:35,WB,0,0,0,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
-Andhra Pradesh,2355,1353,49,953,16/05/2020 12:11:24,AP,48,101,1,Total includes patients from other states.
+Andhra Pradesh,2355,1353,49,953,16/05/2020 12:13:24,AP,48,101,1,Total includes patients from other states.
 Punjab,1932,305,32,1595,15/05/2020 20:09:26,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,1454,959,34,461,15/05/2020 21:03:24,TG,0,0,0,
 Bihar,1033,453,7,573,15/05/2020 23:33:25,BR,0,0,0,
@@ -26,9 +26,9 @@ Haryana,854,464,13,377,15/05/2020 18:58:25,HR,0,0,0,
 Odisha,737,166,3,568,16/05/2020 11:23:24,OR,0,0,0,
 Kerala,577,493,4,80,15/05/2020 17:42:25,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Chandigarh,191,40,3,148,15/05/2020 18:39:25,CH,0,0,0,
-Jharkhand,211,97,3,111,15/05/2020 23:09:24,JH,0,0,0,
+Jharkhand,215,97,3,115,16/05/2020 12:21:25,JH,4,0,0,
 Tripura,156,42,0,114,16/05/2020 00:24:25,TR,0,0,0,
-Assam,90,41,2,46,15/05/2020 23:33:26,AS,0,0,0,"Includes one case from Nagaland <br>
+Assam,92,41,2,48,16/05/2020 12:21:26,AS,2,0,0,"Includes one case from Nagaland <br>
 One patient who migrated to Bihar has been reduced from Active count"
 Uttarakhand,82,51,1,30,15/05/2020 20:03:27,UT,0,0,0,
 Himachal Pradesh,76,35,3,35,16/05/2020 11:33:24,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
