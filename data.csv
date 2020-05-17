@@ -1,16 +1,15 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,92239,35603,2911,53719,17/05/2020 20:01:23,TT,1590,1332,38,
+Total,92239,35603,2911,53719,17/05/2020 20:10:23,TT,1590,1346,38,
 Maharashtra,30706,7088,1135,22483,16/05/2020 22:14:24,MH,0,0,0,
 Tamil Nadu,11224,4172,79,6973,17/05/2020 19:13:23,TN,639,634,4,
-Gujarat,10989,4308,625,6056,16/05/2020 20:44:24,GJ,0,0,0,"[16-May]<br>
-709 backdated cases added today as per the state bulletin"
+Gujarat,10989,4308,625,6056,16/05/2020 20:44:24,GJ,0,0,0,
 Delhi,9755,4202,148,5405,17/05/2020 13:13:24,DL,422,276,19,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Madhya Pradesh,4790,2315,243,2232,16/05/2020 22:24:24,MP,0,0,0,
 Rajasthan,5083,2992,128,1963,17/05/2020 15:23:24,RJ,123,48,2,
 Uttar Pradesh,4258,2441,104,1713,17/05/2020 03:24:25,UP,0,0,0,
-West Bengal,2677,959,238,1480,17/05/2020 19:13:24,WB,101,53,6,"- Cases updated as per WB bulletin as it now provides total number of cases.<br>
+West Bengal,2677,959,238,1480,17/05/2020 19:13:24,WB,101,67,6,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2380,1456,50,874,17/05/2020 19:07:25,AP,25,103,1,Total includes patients from other states.
@@ -24,7 +23,7 @@ Odisha,828,220,4,604,17/05/2020 16:33:24,OR,91,24,1,
 Kerala,602,497,4,101,17/05/2020 18:03:24,KL,14,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Chandigarh,191,51,3,137,16/05/2020 20:29:31,CH,0,0,0,
 Jharkhand,217,113,3,101,16/05/2020 23:34:24,JH,0,0,0,
-Tripura,167,85,0,82,17/05/2020 20:01:25,TR,0,21,0,
+Tripura,167,85,0,82,17/05/2020 20:10:24,TR,0,21,0,
 Assam,98,42,2,52,17/05/2020 19:13:26,AS,5,1,0,"Includes one case from Nagaland <br>
 Two* patients who migrated to Bihar has been reduced from Active count"
 Uttarakhand,92,52,1,39,17/05/2020 17:47:25,UT,1,1,0,
