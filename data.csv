@@ -1,7 +1,7 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,91463,34646,2896,53915,17/05/2020 18:07:23,TT,814,389,24,
+Total,92102,34646,2900,54550,17/05/2020 18:21:23,TT,1453,389,28,
 Maharashtra,30706,7088,1135,22483,16/05/2020 22:14:24,MH,0,0,0,
-Tamil Nadu,10585,3538,74,6973,16/05/2020 20:29:24,TN,0,0,0,
+Tamil Nadu,11224,3538,78,7608,17/05/2020 18:21:23,TN,639,0,4,
 Gujarat,10989,4308,625,6056,16/05/2020 20:44:24,GJ,0,0,0,"[16-May]<br>
 709 backdated cases added today as per the state bulletin"
 Delhi,9755,4202,148,5405,17/05/2020 13:13:24,DL,422,276,19,"[10-May]<br>
