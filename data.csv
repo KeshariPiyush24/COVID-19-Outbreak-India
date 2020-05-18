@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,100020,38156,3144,58714,18/05/2020 21:22:23,TT,4321,1361,119,
-Maharashtra,35086,7688,1249,26149,18/05/2020 21:22:23,MH,2033,0,51,
+Total,100161,38909,3144,58102,18/05/2020 21:32:23,TT,4462,2114,119,
+Maharashtra,35086,8437,1249,25400,18/05/2020 21:32:24,MH,2033,749,51,
 Tamil Nadu,11760,4406,82,7272,18/05/2020 19:44:25,TN,536,234,3,
 Gujarat,11746,4804,694,6248,18/05/2020 20:43:24,GJ,366,305,35,
 Delhi,10054,4485,160,5409,18/05/2020 10:03:23,DL,299,283,12,"[10-May]<br>
@@ -8,7 +8,7 @@ Delhi,10054,4485,160,5409,18/05/2020 10:03:23,DL,299,283,12,"[10-May]<br>
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,5375,3068,133,2174,18/05/2020 14:34:24,RJ,173,13,2,
 Madhya Pradesh,5236,2435,252,2549,18/05/2020 20:01:25,MP,259,32,4,
-Uttar Pradesh,4464,2636,112,1716,17/05/2020 22:03:24,UP,0,0,0,
+Uttar Pradesh,4605,2636,112,1857,18/05/2020 21:32:26,UP,141,0,0,
 West Bengal,2825,1006,244,1575,18/05/2020 19:44:28,WB,148,47,6,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
@@ -23,7 +23,7 @@ Odisha,876,277,4,595,18/05/2020 14:13:24,OR,48,57,0,
 Kerala,631,497,4,130,18/05/2020 17:42:25,KL,29,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Jharkhand,228,113,3,112,18/05/2020 20:29:45,JH,5,0,0,
 Chandigarh,196,54,3,139,18/05/2020 17:13:25,CH,5,3,0,
-Tripura,165,85,0,80,18/05/2020 01:33:25,TR,0,0,0,Two cases are migrated out of Tripura.
+Tripura,165,89,0,76,18/05/2020 21:32:28,TR,0,4,0,Two cases are migrated out of Tripura.
 Assam,107,42,3,60,18/05/2020 19:18:27,AS,6,0,1,"Includes one case from Nagaland <br>
 Two* patients who migrated to Bihar has been reduced from Active count"
 Uttarakhand,96,52,1,43,18/05/2020 19:44:30,UT,4,0,0,
