@@ -1,8 +1,8 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,97621,37851,3058,56706,18/05/2020 20:32:03,TT,1922,1056,33,
+Total,97987,38156,3093,56732,18/05/2020 20:41:58,TT,2288,1361,68,
 Maharashtra,33053,7688,1198,24167,17/05/2020 23:26:23,MH,0,0,0,
 Tamil Nadu,11760,4406,82,7272,18/05/2020 19:44:25,TN,536,234,3,
-Gujarat,11380,4499,659,6222,17/05/2020 21:47:24,GJ,0,0,0,
+Gujarat,11746,4804,694,6248,18/05/2020 20:41:59,GJ,366,305,35,
 Delhi,10054,4485,160,5409,18/05/2020 10:03:23,DL,299,283,12,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
@@ -29,7 +29,7 @@ Two* patients who migrated to Bihar has been reduced from Active count"
 Uttarakhand,96,52,1,43,18/05/2020 19:44:30,UT,4,0,0,
 Himachal Pradesh,86,41,3,39,18/05/2020 20:29:47,HP,6,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chhattisgarh,93,59,0,34,18/05/2020 20:29:48,CT,8,0,0,
-Ladakh,43,41,0,2,18/05/2020 20:32:05,LA,0,17,0,
+Ladakh,43,41,0,2,18/05/2020 20:33:48,LA,0,17,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Goa,31,7,0,24,18/05/2020 12:28:26,GA,2,0,0,
 Puducherry,17,9,0,8,18/05/2020 10:48:28,PY,0,0,0,
