@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,95997,37078,3037,55876,18/05/2020 10:02:22,TT,299,283,12,
+Total,96137,37091,3039,56001,18/05/2020 10:11:23,TT,439,296,14,
 Maharashtra,33053,7688,1198,24167,17/05/2020 23:26:23,MH,0,0,0,
 Gujarat,11380,4499,659,6222,17/05/2020 21:47:24,GJ,0,0,0,
 Tamil Nadu,11224,4172,79,6973,17/05/2020 19:13:23,TN,0,0,0,
-Delhi,10054,4485,160,5409,18/05/2020 10:02:23,DL,299,283,12,"[10-May]<br>
+Delhi,10054,4485,160,5409,18/05/2020 10:03:23,DL,299,283,12,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,5202,3055,131,2016,17/05/2020 22:25:24,RJ,0,0,0,
+Rajasthan,5342,3068,133,2141,18/05/2020 10:11:24,RJ,140,13,2,
 Madhya Pradesh,4977,2403,248,2326,17/05/2020 21:03:24,MP,0,0,0,
 Uttar Pradesh,4464,2636,112,1716,17/05/2020 22:03:24,UP,0,0,0,
 West Bengal,2677,959,238,1480,17/05/2020 19:13:24,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
