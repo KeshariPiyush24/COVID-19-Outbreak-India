@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,96470,37261,3041,56162,18/05/2020 17:31:23,TT,771,466,16,
+Total,96472,37261,3041,56164,18/05/2020 17:42:23,TT,773,466,16,
 Maharashtra,33053,7688,1198,24167,17/05/2020 23:26:23,MH,0,0,0,
 Gujarat,11380,4499,659,6222,17/05/2020 21:47:24,GJ,0,0,0,
 Tamil Nadu,11224,4172,79,6973,17/05/2020 19:13:23,TN,0,0,0,
@@ -20,8 +20,8 @@ Jammu and Kashmir,1183,575,13,595,17/05/2020 20:28:25,JK,0,0,0,
 Karnataka,1231,521,37,672,18/05/2020 13:39:24,KA,84,12,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Haryana,912,563,14,335,18/05/2020 13:53:25,HR,2,1,0,
 Odisha,876,277,4,595,18/05/2020 14:13:24,OR,48,57,0,
-Kerala,631,497,4,130,18/05/2020 17:31:24,KL,29,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Jharkhand,223,113,3,107,17/05/2020 22:22:26,JH,0,0,0,
+Kerala,631,497,4,130,18/05/2020 17:38:26,KL,29,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Jharkhand,225,113,3,109,18/05/2020 17:41:24,JH,2,0,0,
 Chandigarh,196,54,3,139,18/05/2020 17:13:25,CH,5,3,0,
 Tripura,165,85,0,80,18/05/2020 01:33:25,TR,0,0,0,Two cases are migrated out of Tripura.
 Assam,105,42,3,58,18/05/2020 16:02:25,AS,4,0,1,"Includes one case from Nagaland <br>
