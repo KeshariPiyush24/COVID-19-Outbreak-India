@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,101142,39233,3156,58747,19/05/2020 09:27:23,TT,814,0,0,
+Total,101142,39233,3156,58747,19/05/2020 09:28:23,TT,814,0,0,
 Maharashtra,35058,8437,1249,25372,18/05/2020 23:19:26,MH,0,0,0,
 Tamil Nadu,11760,4406,82,7272,18/05/2020 19:44:25,TN,0,0,0,
 Gujarat,11746,4804,694,6248,18/05/2020 20:43:24,GJ,0,0,0,
@@ -41,4 +41,4 @@ Dadra and Nagar Haveli and Daman and Diu,1,1,0,0,12/05/2020 23:23:25,DN,0,0,0,
 Nagaland,0,0,0,0,20/04/2020 08:45:07,NL,0,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,LD,0,0,0,
 Sikkim,0,0,0,0,26/03/2020 07:19:29,SK,0,0,0,
-State Unassigned,814,0,0,814,19/05/2020 09:27:30,UN,814,0,0,MoHFW reports that these cases are being reassigned to states
+State Unassigned,814,0,0,814,19/05/2020 09:28:27,UN,814,0,0,MoHFW reports that these cases are being reassigned to states
