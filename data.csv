@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,106453,42307,3301,60839,19/05/2020 23:22:23,TT,6126,3030,145,
+Total,106453,42307,3301,60839,19/05/2020 23:32:23,TT,6126,3030,145,
 Maharashtra,37136,9639,1325,26172,19/05/2020 23:12:24,MH,2078,1202,76,
 Tamil Nadu,12448,4895,85,7468,19/05/2020 20:11:24,TN,688,489,3,
 Gujarat,12141,5043,719,6379,19/05/2020 20:30:24,GJ,395,239,25,
@@ -23,8 +23,8 @@ Odisha,978,307,5,666,19/05/2020 13:49:24,OR,102,30,1,
 Kerala,643,497,4,142,19/05/2020 18:18:25,KL,12,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Jharkhand,233,127,3,103,19/05/2020 20:43:25,JH,5,0,0,
 Chandigarh,199,57,3,139,19/05/2020 17:53:24,CH,3,3,0,
-Tripura,169,116,0,53,19/05/2020 23:21:57,TR,4,27,0,Two cases are migrated out of Tripura.
-Assam,158,42,4,110,19/05/2020 23:21:57,AS,42,0,0,"Includes one case from Nagaland <br>
+Tripura,169,116,0,53,19/05/2020 23:32:25,TR,4,27,0,Two cases are migrated out of Tripura.
+Assam,158,42,4,110,19/05/2020 23:32:32,AS,42,0,0,"Includes one case from Nagaland <br>
 Two* patients who migrated to Bihar has been reduced from Active count"
 Uttarakhand,111,52,1,58,19/05/2020 21:49:26,UT,15,0,0,
 Himachal Pradesh,90,45,3,39,19/05/2020 19:59:27,HP,0,3,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
