@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,111999,45422,3434,63136,20/05/2020 23:11:22,TT,5518,3113,132,
+Total,112002,45422,3434,63139,20/05/2020 23:21:23,TT,5521,3113,132,
 Maharashtra,39297,10318,1390,27589,20/05/2020 21:20:23,MH,2161,679,65,
 Tamil Nadu,13191,5882,88,7221,20/05/2020 20:40:24,TN,743,987,3,
 Gujarat,12539,5219,749,6571,20/05/2020 20:40:25,GJ,398,176,30,
@@ -8,7 +8,7 @@ Delhi,11088,5192,176,5720,20/05/2020 14:35:24,DL,534,442,10,"[10-May]<br>
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,6015,3404,147,2464,20/05/2020 22:21:24,RJ,170,67,4,
 Madhya Pradesh,5735,2734,267,2734,20/05/2020 21:00:25,MP,270,103,9,
-Uttar Pradesh,5175,3066,127,1982,20/05/2020 23:11:23,UP,249,148,4,
+Uttar Pradesh,5175,3066,127,1982,20/05/2020 23:19:24,UP,249,148,4,
 West Bengal,3103,1136,253,1714,20/05/2020 20:40:27,WB,142,62,3,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
@@ -22,7 +22,7 @@ Odisha,1052,343,6,703,20/05/2020 15:13:29,OR,74,36,1,
 Haryana,993,648,14,331,20/05/2020 20:40:30,HR,29,21,0,
 State Unassigned,1096,0,0,1096,20/05/2020 09:20:24,UN,282,0,0,MoHFW reports that these cases are being reassigned to states
 Kerala,667,502,4,161,20/05/2020 17:14:09,KL,24,5,0,Mahe native who expired in Kannur included in Kerala's tally
-Jharkhand,278,129,3,146,20/05/2020 22:43:30,JH,30,2,0,
+Jharkhand,281,129,3,149,20/05/2020 23:21:24,JH,33,2,0,
 Chandigarh,202,136,3,63,20/05/2020 20:40:31,CH,3,79,0,
 Tripura,173,116,0,57,20/05/2020 10:02:25,TR,0,0,0,Two cases are migrated out of Tripura.
 Assam,186,49,4,130,20/05/2020 22:48:26,AS,28,7,0,"Includes one case from Nagaland <br>
