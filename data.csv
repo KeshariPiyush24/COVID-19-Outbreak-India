@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,107765,42909,3316,61534,20/05/2020 16:12:23,TT,1216,557,13,
+Total,107765,42909,3316,61534,20/05/2020 16:14:23,TT,1216,557,13,
 Maharashtra,37136,9639,1325,26172,19/05/2020 23:12:24,MH,0,0,0,
 Tamil Nadu,12448,4895,85,7468,19/05/2020 20:11:24,TN,0,0,0,
 Gujarat,12141,5043,719,6379,19/05/2020 20:30:24,GJ,0,0,0,
@@ -27,7 +27,7 @@ Chandigarh,199,57,3,139,19/05/2020 17:53:24,CH,0,0,0,
 Tripura,173,116,0,57,20/05/2020 10:02:25,TR,0,0,0,Two cases are migrated out of Tripura.
 Assam,158,42,4,110,19/05/2020 23:32:32,AS,0,0,0,"Includes one case from Nagaland <br>
 Two* patients who migrated to Bihar has been reduced from Active count"
-Uttarakhand,120,53,1,66,20/05/2020 16:12:25,UT,9,1,0,
+Uttarakhand,120,53,1,66,20/05/2020 16:14:25,UT,9,1,0,
 Chhattisgarh,100,59,0,41,20/05/2020 02:10:25,CT,0,0,0,
 Himachal Pradesh,92,47,4,38,20/05/2020 02:10:26,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,46,7,0,39,19/05/2020 20:43:26,GA,0,0,0,
