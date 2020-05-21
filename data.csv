@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,112469,45475,3438,63549,21/05/2020 11:51:22,TT,441,53,4,
+Total,112470,45475,3438,63550,21/05/2020 12:01:23,TT,442,53,4,
 Maharashtra,39297,10318,1390,27589,21/05/2020 08:05:53,MH,0,0,0,
 Tamil Nadu,13191,5882,88,7221,20/05/2020 20:40:24,TN,0,0,0,
 Gujarat,12539,5219,749,6571,20/05/2020 20:40:25,GJ,0,0,0,
 Delhi,11088,5192,176,5720,20/05/2020 14:35:24,DL,0,0,0,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,6098,3421,150,2527,21/05/2020 11:51:24,RJ,83,17,3,
+Rajasthan,6098,3421,150,2527,21/05/2020 11:53:24,RJ,83,17,3,
 Madhya Pradesh,5735,2734,267,2734,20/05/2020 21:00:25,MP,0,0,0,
 Uttar Pradesh,5175,3066,127,1982,20/05/2020 23:23:24,UP,0,0,0,
 West Bengal,3103,1136,253,1714,20/05/2020 20:40:27,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
@@ -25,7 +25,7 @@ Kerala,667,502,4,161,20/05/2020 17:14:09,KL,0,0,0,Mahe native who expired in Kan
 Jharkhand,290,129,3,158,21/05/2020 01:02:24,JH,0,0,0,
 Chandigarh,202,136,3,63,20/05/2020 20:40:31,CH,0,0,0,
 Tripura,173,116,0,57,20/05/2020 10:02:25,TR,0,0,0,Two cases are migrated out of Tripura.
-Assam,189,49,4,133,21/05/2020 00:26:25,AS,0,0,0,"Includes one case from Nagaland <br>
+Assam,190,49,4,134,21/05/2020 12:01:29,AS,1,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Uttarakhand,122,53,1,68,20/05/2020 20:40:33,UT,0,0,0,
 Chhattisgarh,114,59,0,55,21/05/2020 01:02:26,CT,0,0,0,
