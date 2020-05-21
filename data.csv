@@ -14,11 +14,11 @@ West Bengal,3103,1136,253,1714,20/05/2020 20:40:27,WB,0,0,0,"- Cases updated as 
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2605,1705,54,846,21/05/2020 18:21:24,AP,45,41,1,Total includes patients from other states.
 Punjab,2028,1819,39,170,21/05/2020 19:23:26,PB,23,25,1,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
-Telangana,1699,1036,45,618,21/05/2020 21:13:25,TG,38,23,5,
 Bihar,1900,571,9,1320,21/05/2020 20:31:12,BR,124,0,0,
+Telangana,1699,1036,45,618,21/05/2020 21:13:25,TG,38,23,5,
 Karnataka,1605,571,41,992,21/05/2020 18:21:26,KA,143,15,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-State Unassigned,1403,0,0,1403,21/05/2020 09:30:24,UN,307,0,0,MoHFW reports that these cases are being reassigned to states
 Jammu and Kashmir,1449,684,20,745,21/05/2020 21:03:27,JK,59,6,2,
+State Unassigned,1403,0,0,1403,21/05/2020 09:30:24,UN,307,0,0,MoHFW reports that these cases are being reassigned to states
 Odisha,1103,393,7,703,21/05/2020 16:42:25,OR,51,50,1,
 Haryana,1005,670,14,321,21/05/2020 15:37:26,HR,12,22,0,
 Kerala,691,510,4,177,21/05/2020 17:38:26,KL,24,8,0,Mahe native who expired in Kannur included in Kerala's tally
@@ -28,8 +28,8 @@ Assam,204,55,4,142,21/05/2020 20:52:28,AS,15,6,0,"Includes one case from Nagalan
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Tripura,173,133,0,40,21/05/2020 18:39:27,TR,0,17,0,Two cases are migrated out of Tripura.
 Uttarakhand,146,53,1,92,21/05/2020 21:21:25,UT,24,0,0,
-Chhattisgarh,114,59,0,55,21/05/2020 17:15:28,CT,0,0,0,
 Himachal Pradesh,137,51,4,79,21/05/2020 19:04:26,HP,27,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Chhattisgarh,114,59,0,55,21/05/2020 17:15:28,CT,0,0,0,
 Goa,52,7,0,45,21/05/2020 19:23:29,GA,2,0,0,
 Ladakh,44,43,0,1,20/05/2020 21:33:24,LA,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
