@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,115374,46869,3502,64996,21/05/2020 21:12:23,TT,3177,1447,68,
+Total,115398,46869,3502,65020,21/05/2020 21:21:23,TT,3201,1447,68,
 Maharashtra,39297,10318,1390,27589,21/05/2020 08:05:53,MH,0,0,0,
 Tamil Nadu,13967,6282,95,7590,21/05/2020 18:57:24,TN,776,400,7,
 Gujarat,12910,5488,773,6649,21/05/2020 20:33:26,GJ,371,269,24,
@@ -14,7 +14,7 @@ West Bengal,3103,1136,253,1714,20/05/2020 20:40:27,WB,0,0,0,"- Cases updated as 
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2605,1705,54,846,21/05/2020 18:21:24,AP,45,41,1,Total includes patients from other states.
 Punjab,2028,1819,39,170,21/05/2020 19:23:26,PB,23,25,1,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
-Telangana,1699,1036,45,618,21/05/2020 21:12:25,TG,38,23,7,
+Telangana,1699,1036,45,618,21/05/2020 21:13:25,TG,38,23,7,
 Bihar,1900,571,9,1320,21/05/2020 20:31:12,BR,124,0,0,
 Karnataka,1605,571,41,992,21/05/2020 18:21:26,KA,143,15,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 State Unassigned,1403,0,0,1403,21/05/2020 09:30:24,UN,307,0,0,MoHFW reports that these cases are being reassigned to states
@@ -27,7 +27,7 @@ Chandigarh,216,165,3,48,21/05/2020 18:03:30,CH,14,29,0,
 Assam,204,55,4,142,21/05/2020 20:52:28,AS,15,6,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Tripura,173,133,0,40,21/05/2020 18:39:27,TR,0,17,0,Two cases are migrated out of Tripura.
-Uttarakhand,122,53,1,68,20/05/2020 20:40:33,UT,0,0,0,
+Uttarakhand,146,53,1,92,21/05/2020 21:21:25,UT,24,0,0,
 Chhattisgarh,114,59,0,55,21/05/2020 17:15:28,CT,0,0,0,
 Himachal Pradesh,137,51,4,79,21/05/2020 19:04:26,HP,27,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,52,7,0,45,21/05/2020 19:23:29,GA,2,0,0,
