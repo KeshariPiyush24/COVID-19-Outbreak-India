@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,119574,49026,3600,66941,22/05/2020 17:32:23,TT,1348,473,16,
+Total,119574,49026,3600,66941,22/05/2020 17:39:23,TT,1348,473,16,
 Maharashtra,41642,11726,1454,28462,22/05/2020 13:53:25,MH,0,0,0,
 Tamil Nadu,13967,6282,95,7590,21/05/2020 18:57:24,TN,0,0,0,
 Gujarat,12910,5488,773,6649,21/05/2020 20:33:26,GJ,0,0,0,
@@ -21,7 +21,7 @@ Jammu and Kashmir,1449,684,20,745,21/05/2020 21:03:27,JK,0,0,0,
 State Unassigned,1620,0,0,1620,22/05/2020 09:23:24,UN,217,0,0,MoHFW reports that these cases are being reassigned to states
 Odisha,1189,436,7,746,22/05/2020 14:58:29,OR,86,43,0,
 Haryana,1031,681,14,336,21/05/2020 22:30:26,HR,0,0,0,
-Kerala,733,510,4,219,22/05/2020 17:32:25,KL,42,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Kerala,733,510,4,219,22/05/2020 17:39:25,KL,42,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Jharkhand,308,136,3,169,22/05/2020 08:19:27,JH,5,0,0,
 Chandigarh,218,178,3,37,22/05/2020 00:13:25,CH,0,0,0,
 Assam,223,55,4,161,22/05/2020 17:29:25,AS,12,0,0,"Includes one case from Nagaland <br>
