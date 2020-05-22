@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,123476,50768,3668,69033,22/05/2020 20:11:24,TT,5250,2215,84,
-Maharashtra,44582,12583,1517,30482,22/05/2020 20:11:26,MH,2940,857,63,
+Total,123711,50857,3676,69171,22/05/2020 20:21:23,TT,5486,2304,92,
+Maharashtra,44582,12583,1517,30482,22/05/2020 20:21:24,MH,2940,857,63,
 Tamil Nadu,14753,7128,99,7526,22/05/2020 18:41:24,TN,786,846,4,
 Gujarat,12910,5488,773,6649,21/05/2020 20:33:26,GJ,0,0,0,
 Delhi,12319,5897,208,6214,22/05/2020 13:21:26,DL,660,330,14,"[10-May]<br>
@@ -9,7 +9,7 @@ Delhi will be releasing bulletins in the morning, containing data of the previou
 Rajasthan,6377,3542,152,2683,22/05/2020 15:03:25,RJ,150,57,1,
 Madhya Pradesh,5981,2844,271,2866,21/05/2020 20:52:24,MP,0,0,0,
 Uttar Pradesh,5515,3204,138,2173,21/05/2020 22:13:24,UP,0,0,0,
-West Bengal,3197,1193,259,1745,21/05/2020 22:43:26,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
+West Bengal,3332,1221,265,1846,22/05/2020 20:21:26,WB,135,28,6,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2667,1731,55,881,22/05/2020 13:53:27,AP,62,26,1,Total includes patients from other states.
@@ -17,20 +17,20 @@ Punjab,2029,1847,39,143,22/05/2020 19:23:27,PB,1,28,0,Cases in Punjab were effec
 Bihar,2105,571,9,1525,22/05/2020 18:03:25,BR,118,0,0,
 Telangana,1699,1036,45,618,21/05/2020 21:13:25,TG,0,0,0,
 Karnataka,1743,597,41,1104,22/05/2020 18:47:26,KA,138,26,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-Jammu and Kashmir,1449,684,20,745,21/05/2020 21:03:27,JK,0,0,0,
+Jammu and Kashmir,1489,720,20,749,22/05/2020 20:21:27,JK,40,36,0,
 State Unassigned,1620,0,0,1620,22/05/2020 09:23:24,UN,217,0,0,MoHFW reports that these cases are being reassigned to states
 Odisha,1189,436,7,746,22/05/2020 14:58:29,OR,86,43,0,
-Haryana,1031,681,14,336,21/05/2020 22:30:26,HR,0,0,0,
+Haryana,1068,706,16,346,22/05/2020 20:21:29,HR,37,25,2,
 Kerala,734,512,5,217,22/05/2020 18:47:30,KL,43,2,1,Mahe native who expired in Kannur included in Kerala's tally
 Jharkhand,308,136,3,169,22/05/2020 08:19:27,JH,5,0,0,
-Chandigarh,219,178,3,38,22/05/2020 20:09:27,CH,1,0,0,
-Assam,231,55,4,169,22/05/2020 18:41:29,AS,20,0,0,"Includes one case from Nagaland <br>
+Chandigarh,219,178,3,38,22/05/2020 20:12:32,CH,1,0,0,
+Assam,255,55,4,193,22/05/2020 20:21:30,AS,44,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Tripura,175,148,0,27,22/05/2020 00:13:27,TR,0,0,0,Two cases are migrated out of Tripura.
-Uttarakhand,151,53,1,97,22/05/2020 20:09:28,UT,5,0,0,
+Uttarakhand,150,53,1,96,22/05/2020 20:21:31,UT,5,0,0,
 Himachal Pradesh,164,55,4,102,22/05/2020 18:03:26,HP,12,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chhattisgarh,132,59,0,73,22/05/2020 08:19:29,CT,4,0,0,
-Goa,54,7,0,47,22/05/2020 20:09:29,GA,2,0,0,
+Goa,54,7,0,47,22/05/2020 20:12:34,GA,2,0,0,
 Ladakh,44,43,0,1,20/05/2020 21:33:24,LA,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Manipur,25,2,0,23,20/05/2020 22:48:28,MN,0,0,0,
