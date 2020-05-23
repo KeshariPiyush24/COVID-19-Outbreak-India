@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,127358,52720,3759,70871,23/05/2020 18:42:23,TT,2564,887,33,
+Total,127296,52720,3759,70810,23/05/2020 18:32:23,TT,2502,887,33,
 Maharashtra,44582,12583,1517,30482,22/05/2020 21:40:28,MH,0,0,0,
 Tamil Nadu,15512,7491,104,7917,23/05/2020 18:32:24,TN,759,363,5,
 Gujarat,13273,5880,802,6591,22/05/2020 20:51:24,GJ,0,0,0,
@@ -16,12 +16,12 @@ Andhra Pradesh,2714,1779,56,879,23/05/2020 15:03:26,AP,47,48,1,Total includes pa
 Bihar,2345,629,11,1705,23/05/2020 18:10:26,BR,179,0,0,
 Punjab,2029,1847,39,143,22/05/2020 19:23:27,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,1761,1043,48,670,22/05/2020 23:08:26,TG,0,0,0,
-Karnataka,1959,608,42,1307,23/05/2020 18:42:25,KA,216,11,1,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
+Karnataka,1959,608,42,1308,23/05/2020 18:32:27,KA,216,11,1,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 State Unassigned,1899,0,0,1899,23/05/2020 09:32:24,UN,279,0,0,MoHFW reports that these cases are being reassigned to states
 Jammu and Kashmir,1489,720,20,749,22/05/2020 20:32:27,JK,0,0,0,
 Odisha,1269,497,7,765,23/05/2020 18:10:27,OR,80,61,0,
 Haryana,1076,718,16,342,23/05/2020 17:00:13,HR,9,12,0,
-Kerala,857,515,5,337,23/05/2020 18:42:27,KL,124,3,0,Mahe native who expired in Kannur included in Kerala's tally
+Kerala,795,515,5,275,23/05/2020 18:32:33,KL,62,3,0,Mahe native who expired in Kannur included in Kerala's tally
 Jharkhand,330,136,3,191,23/05/2020 17:41:26,JH,7,0,0,
 Assam,330,55,4,268,23/05/2020 17:57:26,AS,70,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
@@ -33,7 +33,7 @@ Uttarakhand,172,55,1,116,23/05/2020 17:33:29,UT,19,2,0,
 Goa,54,16,0,38,23/05/2020 18:20:28,GA,0,0,0,
 Ladakh,49,43,0,6,23/05/2020 18:10:36,LA,3,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
-Manipur,27,2,0,25,23/05/2020 18:42:29,MN,1,0,0,
+Manipur,27,2,0,25,23/05/2020 18:32:41,MN,1,0,0,
 Puducherry,26,10,0,16,23/05/2020 00:23:33,PY,0,0,0,
 Meghalaya,14,12,1,1,20/05/2020 22:48:27,ML,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,MZ,0,0,0,
