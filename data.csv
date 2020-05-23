@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,130658,54001,3851,72798,23/05/2020 20:43:23,TT,5864,2168,125,
-Maharashtra,47190,13404,1577,32209,23/05/2020 20:04:24,MH,2608,821,60,
+Total,128463,54001,3851,70603,23/05/2020 20:52:23,TT,3669,2168,125,
+Maharashtra,44995,13404,1577,30014,23/05/2020 20:04:24,MH,413,821,60,
 Tamil Nadu,15512,7491,104,7917,23/05/2020 18:32:24,TN,759,363,5,
 Gujarat,13669,6169,829,6671,23/05/2020 20:20:24,GJ,396,289,27,
 Delhi,12910,6267,231,6412,23/05/2020 14:56:24,DL,591,370,23,"[10-May]<br>
@@ -18,7 +18,7 @@ Punjab,2045,1870,39,136,23/05/2020 19:33:25,PB,16,23,0,Cases in Punjab were effe
 Telangana,1761,1043,48,670,22/05/2020 23:08:26,TG,0,0,0,
 Karnataka,1959,608,42,1307,23/05/2020 19:11:27,KA,216,11,1,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 State Unassigned,1899,0,0,1899,23/05/2020 09:32:24,UN,279,0,0,MoHFW reports that these cases are being reassigned to states
-Jammu and Kashmir,1569,774,21,774,23/05/2020 20:43:25,JK,80,54,1,
+Jammu and Kashmir,1569,774,21,774,23/05/2020 20:44:25,JK,80,54,1,
 Odisha,1269,497,7,765,23/05/2020 18:10:27,OR,80,61,0,
 Haryana,1131,750,16,365,23/05/2020 19:57:29,HR,64,44,0,
 Kerala,795,515,5,275,23/05/2020 19:01:36,KL,62,3,0,Mahe native who expired in Kannur included in Kerala's tally
@@ -29,7 +29,7 @@ Chandigarh,225,179,3,43,23/05/2020 19:11:29,CH,6,1,0,
 Tripura,175,152,0,23,23/05/2020 00:58:27,TR,0,0,0,Two cases are migrated out of Tripura.
 Chhattisgarh,172,62,0,110,23/05/2020 00:48:28,CT,0,0,0,
 Himachal Pradesh,185,57,4,121,23/05/2020 18:10:34,HP,17,2,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Uttarakhand,244,55,1,188,23/05/2020 20:43:26,UT,91,2,0,
+Uttarakhand,244,55,1,188,23/05/2020 20:52:25,UT,91,2,0,
 Goa,55,16,0,39,23/05/2020 19:57:31,GA,1,0,0,
 Ladakh,49,43,0,6,23/05/2020 18:10:36,LA,3,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
