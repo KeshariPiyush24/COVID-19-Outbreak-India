@@ -1,9 +1,9 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,125121,51836,3728,69550,23/05/2020 10:28:23,TT,327,12,2,
+Total,125759,52253,3752,69747,23/05/2020 14:51:23,TT,965,429,26,
 Maharashtra,44582,12583,1517,30482,22/05/2020 21:40:28,MH,0,0,0,
 Tamil Nadu,14753,7128,99,7526,22/05/2020 18:41:24,TN,0,0,0,
 Gujarat,13273,5880,802,6591,22/05/2020 20:51:24,GJ,0,0,0,
-Delhi,12319,5897,208,6214,22/05/2020 13:21:26,DL,0,0,0,"[10-May]<br>
+Delhi,12910,6267,231,6412,23/05/2020 14:51:24,DL,591,370,23,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,6542,3692,155,2695,23/05/2020 10:28:24,RJ,48,12,2,
@@ -12,7 +12,7 @@ Uttar Pradesh,5735,3324,152,2259,23/05/2020 00:23:25,UP,0,0,0,
 West Bengal,3332,1221,265,1846,22/05/2020 20:32:25,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
-Andhra Pradesh,2667,1731,55,881,22/05/2020 13:53:27,AP,0,0,0,Total includes patients from other states.
+Andhra Pradesh,2714,1778,56,880,23/05/2020 14:51:26,AP,47,47,1,Total includes patients from other states.
 Bihar,2166,629,11,1526,23/05/2020 00:23:27,BR,0,0,0,
 Punjab,2029,1847,39,143,22/05/2020 19:23:27,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,1761,1043,48,670,22/05/2020 23:08:26,TG,0,0,0,
