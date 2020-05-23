@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,126405,52272,3754,70372,23/05/2020 17:47:23,TT,1611,448,28,
+Total,126415,52272,3754,70382,23/05/2020 17:52:23,TT,1621,448,28,
 Maharashtra,44582,12583,1517,30482,22/05/2020 21:40:28,MH,0,0,0,
 Tamil Nadu,14753,7128,99,7526,22/05/2020 18:41:24,TN,0,0,0,
 Gujarat,13273,5880,802,6591,22/05/2020 20:51:24,GJ,0,0,0,
@@ -21,9 +21,9 @@ State Unassigned,1899,0,0,1899,23/05/2020 09:32:24,UN,279,0,0,MoHFW reports that
 Jammu and Kashmir,1489,720,20,749,22/05/2020 20:32:27,JK,0,0,0,
 Odisha,1269,436,7,826,23/05/2020 15:14:25,OR,80,0,0,
 Haryana,1076,718,16,342,23/05/2020 17:00:13,HR,9,12,0,
-Kerala,795,512,5,278,23/05/2020 17:46:25,KL,62,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Kerala,795,512,5,278,23/05/2020 17:51:26,KL,62,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Jharkhand,330,136,3,191,23/05/2020 17:41:26,JH,7,0,0,
-Assam,320,55,4,258,23/05/2020 15:23:25,AS,60,0,0,"Includes one case from Nagaland <br>
+Assam,330,55,4,268,23/05/2020 17:52:25,AS,70,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Chandigarh,219,178,3,38,22/05/2020 20:12:32,CH,0,0,0,
 Tripura,175,152,0,23,23/05/2020 00:58:27,TR,0,0,0,Two cases are migrated out of Tripura.
