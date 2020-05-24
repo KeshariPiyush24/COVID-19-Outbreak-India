@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,132092,54427,3869,73788,24/05/2020 12:44:03,TT,669,18,1,
+Total,132092,54427,3869,73788,24/05/2020 12:46:03,TT,669,18,1,
 Maharashtra,47190,13404,1577,32209,23/05/2020 20:53:24,MH,0,0,0,
 Tamil Nadu,15512,7491,104,7917,23/05/2020 18:32:24,TN,0,0,0,
 Gujarat,13669,6169,829,6671,23/05/2020 20:20:24,GJ,0,0,0,
@@ -13,7 +13,7 @@ West Bengal,3459,1281,269,1909,23/05/2020 19:53:27,WB,0,0,0,"- Cases updated as 
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2714,1779,56,879,23/05/2020 15:03:26,AP,0,0,0,Total includes patients from other states.
-Bihar,2477,653,11,1813,24/05/2020 12:44:05,BR,83,0,0,
+Bihar,2477,653,11,1813,24/05/2020 12:46:04,BR,83,0,0,
 Punjab,2045,1870,39,136,23/05/2020 19:33:25,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,1813,1068,49,696,23/05/2020 22:09:29,TG,0,0,0,
 Karnataka,1959,608,42,1307,23/05/2020 19:11:27,KA,0,0,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
