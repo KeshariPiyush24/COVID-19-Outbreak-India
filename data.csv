@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,131929,54409,3868,73644,23/05/2020 23:47:23,TT,439,0,0,
+Total,131980,54410,3872,73690,23/05/2020 23:47:23,TT,557,1,4,
 Maharashtra,47190,13404,1577,32209,23/05/2020 20:53:24,MH,0,0,0,
 Tamil Nadu,15512,7491,104,7917,23/05/2020 18:32:24,TN,0,0,0,
 Gujarat,13669,6169,829,6671,23/05/2020 20:20:24,GJ,0,0,0,
 Delhi,12910,6267,231,6412,23/05/2020 14:56:24,DL,0,0,0,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,6742,3786,160,2796,23/05/2020 22:09:24,RJ,0,0,0,
+Rajasthan,6789,3787,164,2838,23/05/2020 22:09:24,RJ,47,1,4,
 Madhya Pradesh,6371,3267,281,2823,23/05/2020 21:43:24,MP,0,0,0,
 Uttar Pradesh,6017,3406,155,2456,23/05/2020 23:10:25,UP,0,0,0,
 West Bengal,3459,1281,269,1909,23/05/2020 19:53:27,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
@@ -19,11 +19,11 @@ Telangana,1813,1068,49,696,23/05/2020 22:09:29,TG,0,0,0,
 Karnataka,1959,608,42,1307,23/05/2020 19:11:27,KA,0,0,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 State Unassigned,2338,0,0,2338,23/05/2020 09:32:24,UN,439,0,0,MoHFW reports that these cases are being reassigned to states
 Jammu and Kashmir,1569,774,21,774,23/05/2020 20:44:25,JK,0,0,0,
-Odisha,1336,497,7,832,23/05/2020 18:10:27,OR,0,0,0,
+Odisha,1336,497,7,832,23/05/2020 18:10:27,OR,67,0,0,
 Haryana,1131,750,16,365,23/05/2020 19:57:29,HR,0,0,0,
 Kerala,795,515,5,275,23/05/2020 19:01:36,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Jharkhand,350,141,3,206,23/05/2020 23:23:24,JH,0,0,0,
-Assam,347,57,4,283,23/05/2020 23:23:27,AS,0,0,0,"Includes one case from Nagaland <br>
+Assam,351,57,4,287,23/05/2020 23:23:27,AS,4,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Chandigarh,225,179,3,43,23/05/2020 19:11:29,CH,0,0,0,
 Tripura,191,152,0,39,23/05/2020 21:57:26,TR,0,0,0,Two cases are migrated out of Tripura.
