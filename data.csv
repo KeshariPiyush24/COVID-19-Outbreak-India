@@ -1,13 +1,13 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,137608,57273,4004,76322,24/05/2020 21:21:03,TT,6183,2864,136,
-Maharashtra,50231,14600,1635,33996,24/05/2020 21:21:03,MH,3041,1196,58,
+Total,137902,57414,4013,76466,24/05/2020 21:32:03,TT,6477,3005,145,
+Maharashtra,50231,14600,1635,33996,24/05/2020 21:22:04,MH,3041,1196,58,
 Tamil Nadu,16277,8324,112,7841,24/05/2020 19:21:03,TN,765,833,8,
 Gujarat,14063,6412,858,6793,24/05/2020 20:44:03,GJ,394,243,29,
 Delhi,13418,6540,261,6617,24/05/2020 14:29:04,DL,508,273,30,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,6894,3816,161,2917,24/05/2020 19:11:04,RJ,152,30,1,
-Madhya Pradesh,6371,3267,281,2823,23/05/2020 21:43:24,MP,0,0,0,
+Madhya Pradesh,6665,3408,290,2967,24/05/2020 21:32:04,MP,294,141,9,
 Uttar Pradesh,6017,3406,155,2456,23/05/2020 23:10:25,UP,0,0,0,
 West Bengal,3667,1339,272,2056,24/05/2020 20:47:03,WB,208,58,3,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
@@ -17,7 +17,7 @@ Bihar,2511,653,11,1847,24/05/2020 19:43:04,BR,117,0,0,
 State Unassigned,2338,0,0,2338,23/05/2020 09:32:24,UN,439,0,0,MoHFW reports that these cases are being reassigned to states
 Punjab,2045,1870,39,136,23/05/2020 19:33:25,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Karnataka,2089,654,42,1391,24/05/2020 18:23:05,KA,130,46,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-Telangana,1854,1092,53,709,24/05/2020 21:21:05,TG,41,24,4,
+Telangana,1854,1092,53,709,24/05/2020 21:22:05,TG,41,24,4,
 Jammu and Kashmir,1621,809,21,791,24/05/2020 21:11:30,JK,52,35,0,
 Odisha,1336,550,7,779,24/05/2020 15:32:04,OR,67,53,0,
 Haryana,1152,751,16,385,24/05/2020 15:39:04,HR,21,1,0,
