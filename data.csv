@@ -1,18 +1,18 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,139911,57976,4039,77887,25/05/2020 14:37:02,TT,1375,282,15,
+Total,139922,57976,4039,77898,25/05/2020 15:11:03,TT,1386,282,15,
 Maharashtra,50231,14600,1635,33996,24/05/2020 22:25:03,MH,0,0,0,
 Tamil Nadu,16277,8324,112,7841,24/05/2020 19:21:03,TN,0,0,0,
 Gujarat,14063,6412,858,6793,24/05/2020 20:44:03,GJ,0,0,0,
 Delhi,14053,6771,276,7006,25/05/2020 14:37:03,DL,635,231,15,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,7100,3856,163,3081,25/05/2020 10:07:04,RJ,72,8,0,
+Rajasthan,7173,3856,163,3154,25/05/2020 15:11:06,RJ,145,8,0,
 Madhya Pradesh,6665,3408,290,2967,24/05/2020 21:44:04,MP,0,0,0,
 Uttar Pradesh,6268,3538,161,2569,24/05/2020 23:33:04,UP,0,0,0,
 West Bengal,3667,1339,272,2056,24/05/2020 20:47:03,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
-Andhra Pradesh,2886,1884,56,946,25/05/2020 12:45:04,AP,106,43,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin"
+Andhra Pradesh,2824,1884,56,884,25/05/2020 15:11:08,AP,44,43,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin"
 State Unassigned,2642,0,0,2642,25/05/2020 09:33:04,UN,304,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 Bihar,2643,702,11,1930,25/05/2020 13:03:04,BR,69,0,0,
 Karnataka,2089,654,42,1391,24/05/2020 18:23:05,KA,0,0,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
