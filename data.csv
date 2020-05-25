@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,139928,57981,4039,77899,25/05/2020 15:27:02,TT,1392,287,15,
+Total,139928,57986,4039,77894,25/05/2020 16:52:03,TT,1392,292,15,
 Maharashtra,50231,14600,1635,33996,24/05/2020 22:25:03,MH,0,0,0,
 Tamil Nadu,16277,8324,112,7841,24/05/2020 19:21:03,TN,0,0,0,
 Gujarat,14063,6412,858,6793,24/05/2020 20:44:03,GJ,0,0,0,
@@ -22,7 +22,7 @@ Jammu and Kashmir,1621,809,21,791,24/05/2020 21:11:30,JK,0,0,0,
 Odisha,1438,550,7,881,25/05/2020 10:52:04,OR,102,0,0,
 Haryana,1184,765,16,403,24/05/2020 22:13:04,HR,0,0,0,
 Kerala,848,520,6,322,24/05/2020 20:01:04,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Assam,467,58,4,402,25/05/2020 14:37:04,AS,74,0,0,"Includes one case from Nagaland <br>
+Assam,467,63,4,397,25/05/2020 16:52:04,AS,74,5,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Jharkhand,370,148,4,218,24/05/2020 22:45:07,JH,0,0,0,
 Uttarakhand,317,58,3,255,24/05/2020 20:44:06,UT,0,0,0,One migrated case reduced from Active count
