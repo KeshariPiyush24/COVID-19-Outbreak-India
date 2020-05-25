@@ -1,7 +1,7 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,140215,58216,4041,77949,25/05/2020 18:51:03,TT,1679,522,17,
+Total,141041,58231,4043,78758,25/05/2020 19:02:03,TT,2505,537,19,
 Maharashtra,50231,14600,1635,33996,24/05/2020 22:25:03,MH,0,0,0,
-Tamil Nadu,16277,8324,112,7841,24/05/2020 19:21:03,TN,0,0,0,
+Tamil Nadu,17082,8324,112,8646,25/05/2020 19:02:04,TN,805,0,0,
 Gujarat,14063,6412,858,6793,24/05/2020 20:44:03,GJ,0,0,0,
 Delhi,14053,6771,276,7006,25/05/2020 14:37:03,DL,635,231,15,"[10-May]<br>
 
@@ -14,9 +14,9 @@ West Bengal,3667,1339,272,2056,24/05/2020 20:47:03,WB,0,0,0,"- Cases updated as 
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2824,1884,56,884,25/05/2020 15:23:04,AP,44,43,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin"
 State Unassigned,2642,0,0,2642,25/05/2020 09:33:04,UN,304,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
-Bihar,2686,733,11,1942,25/05/2020 18:51:04,BR,112,31,0,
+Bihar,2686,733,13,1940,25/05/2020 19:02:05,BR,112,31,2,
 Karnataka,2182,705,44,1431,25/05/2020 18:03:05,KA,93,51,2,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
-Punjab,2060,1898,40,122,24/05/2020 22:45:06,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
+Punjab,2081,1913,40,128,25/05/2020 19:01:05,PB,21,15,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,1854,1092,53,709,24/05/2020 21:22:05,TG,0,0,0,
 Jammu and Kashmir,1621,809,21,791,24/05/2020 21:11:30,JK,0,0,0,
 Odisha,1438,649,7,782,25/05/2020 17:04:04,OR,102,99,0,
