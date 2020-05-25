@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,140173,58185,4041,77938,25/05/2020 18:33:03,TT,1637,491,17,
+Total,140215,58185,4041,77980,25/05/2020 18:43:03,TT,1679,491,17,
 Maharashtra,50231,14600,1635,33996,24/05/2020 22:25:03,MH,0,0,0,
 Tamil Nadu,16277,8324,112,7841,24/05/2020 19:21:03,TN,0,0,0,
 Gujarat,14063,6412,858,6793,24/05/2020 20:44:03,GJ,0,0,0,
@@ -14,13 +14,13 @@ West Bengal,3667,1339,272,2056,24/05/2020 20:47:03,WB,0,0,0,"- Cases updated as 
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2824,1884,56,884,25/05/2020 15:23:04,AP,44,43,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin"
 State Unassigned,2642,0,0,2642,25/05/2020 09:33:04,UN,304,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
-Bihar,2644,702,11,1931,25/05/2020 13:03:04,BR,70,0,0,
+Bihar,2686,702,11,1973,25/05/2020 18:43:04,BR,112,0,0,
 Karnataka,2182,705,44,1431,25/05/2020 18:03:05,KA,93,51,2,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Punjab,2060,1898,40,122,24/05/2020 22:45:06,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,1854,1092,53,709,24/05/2020 21:22:05,TG,0,0,0,
 Jammu and Kashmir,1621,809,21,791,24/05/2020 21:11:30,JK,0,0,0,
 Odisha,1438,649,7,782,25/05/2020 17:04:04,OR,102,99,0,
-Haryana,1213,802,16,395,25/05/2020 18:33:04,HR,29,37,0,
+Haryana,1213,802,16,395,25/05/2020 18:43:05,HR,29,37,0,
 Kerala,897,532,6,359,25/05/2020 17:20:04,KL,49,12,0,Mahe native who expired in Kannur included in Kerala's tally
 Assam,515,63,4,445,25/05/2020 18:03:06,AS,122,5,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
