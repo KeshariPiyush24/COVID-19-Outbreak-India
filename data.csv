@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,141193,58716,4056,78412,25/05/2020 19:22:03,TT,2657,1022,32,
+Total,141228,58724,4057,78436,25/05/2020 19:33:03,TT,2692,1030,33,
 Maharashtra,50231,14600,1635,33996,24/05/2020 22:25:03,MH,0,0,0,
 Tamil Nadu,17082,8731,119,8232,25/05/2020 19:22:04,TN,805,407,7,
 Gujarat,14063,6412,858,6793,24/05/2020 20:44:03,GJ,0,0,0,
@@ -9,7 +9,7 @@ Delhi will be releasing bulletins in the morning, containing data of the previou
 Rajasthan,7173,3856,163,3154,25/05/2020 15:23:03,RJ,145,8,0,
 Madhya Pradesh,6665,3408,290,2967,24/05/2020 21:44:04,MP,0,0,0,
 Uttar Pradesh,6268,3538,161,2569,24/05/2020 23:33:04,UP,0,0,0,
-West Bengal,3816,1414,278,2124,25/05/2020 19:22:05,WB,149,75,6,"- Cases updated as per WB bulletin.<br>
+West Bengal,3816,1414,278,2124,25/05/2020 19:31:04,WB,149,75,6,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 Andhra Pradesh,2824,1884,56,884,25/05/2020 15:23:04,AP,44,43,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin"
@@ -25,16 +25,16 @@ Kerala,897,532,6,359,25/05/2020 17:20:04,KL,49,12,0,Mahe native who expired in K
 Assam,515,63,4,445,25/05/2020 18:03:06,AS,122,5,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Jharkhand,370,148,4,218,24/05/2020 22:45:07,JH,0,0,0,
-Uttarakhand,332,58,3,270,25/05/2020 17:20:05,UT,15,0,0,One migrated case reduced from Active count
-Chandigarh,262,179,4,79,25/05/2020 10:27:04,CH,0,0,0,
-Chhattisgarh,252,64,0,188,24/05/2020 23:33:07,CT,0,0,0,
+Uttarakhand,332,58,4,267,25/05/2020 19:33:04,UT,15,0,1,Three migrated cases reduced from Active count
+Chandigarh,266,187,4,75,25/05/2020 19:33:05,CH,4,8,0,
+Chhattisgarh,283,64,0,219,25/05/2020 19:33:05,CT,31,0,0,
 Himachal Pradesh,217,59,4,151,25/05/2020 18:23:04,HP,14,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,194,165,0,29,24/05/2020 23:43:05,TR,0,0,0,Two cases are migrated out of Tripura.
 Goa,67,19,0,48,25/05/2020 19:22:08,GA,1,3,0,
 Ladakh,53,43,0,10,25/05/2020 17:51:08,LA,1,0,0,
 Puducherry,49,17,0,32,25/05/2020 15:27:04,PY,8,5,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
-Manipur,36,4,0,32,25/05/2020 19:21:05,MN,4,0,0,
+Manipur,36,4,0,32,25/05/2020 19:31:07,MN,4,0,0,
 Meghalaya,15,12,1,2,25/05/2020 17:04:06,ML,1,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2,1,0,1,23/05/2020 23:47:25,DN,0,0,0,
 Arunachal Pradesh,2,1,0,1,24/05/2020 23:43:06,AR,0,0,0,
