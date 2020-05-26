@@ -1,14 +1,14 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,150373,63647,4336,82379,26/05/2020 21:33:03,TT,5423,2941,162,
-Maharashtra,54758,16954,1792,36012,26/05/2020 20:45:05,MH,2091,1168,97,
+Total,150600,63811,4349,82429,26/05/2020 21:45:04,TT,5650,3105,175,
+Maharashtra,54758,16954,1797,36007,26/05/2020 21:45:07,MH,2091,1168,102,
 Tamil Nadu,17728,9342,128,8258,26/05/2020 19:13:04,TN,646,611,9,
 Gujarat,14829,6678,915,7236,26/05/2020 21:13:05,GJ,361,42,27,
 Delhi,14465,6954,288,7223,26/05/2020 14:42:04,DL,412,183,12,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,7536,4276,170,3090,26/05/2020 21:33:05,RJ,236,220,3,
+Rajasthan,7536,4276,170,3090,26/05/2020 21:45:09,RJ,236,220,3,
 Madhya Pradesh,7024,3689,305,3030,26/05/2020 20:34:11,MP,165,118,5,
-Uttar Pradesh,6497,3660,169,2668,25/05/2020 23:01:05,UP,0,0,0,
+Uttar Pradesh,6724,3824,177,2723,26/05/2020 21:45:12,UP,227,164,8,
 West Bengal,4009,1486,283,2240,26/05/2020 19:34:05,WB,193,72,5,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
