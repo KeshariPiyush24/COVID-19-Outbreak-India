@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,145451,60777,4175,80488,26/05/2020 13:01:03,TT,501,71,1,
+Total,145454,60847,4175,80421,26/05/2020 13:12:03,TT,504,141,1,
 Maharashtra,52667,15786,1695,35186,26/05/2020 09:24:03,MH,0,0,0,
 Tamil Nadu,17082,8731,119,8232,25/05/2020 19:22:04,TN,0,0,0,
 Gujarat,14468,6636,888,6944,25/05/2020 21:33:04,GJ,0,0,0,
@@ -12,7 +12,7 @@ Uttar Pradesh,6497,3660,169,2668,25/05/2020 23:01:05,UP,0,0,0,
 West Bengal,3816,1414,278,2124,25/05/2020 19:31:04,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
-Andhra Pradesh,2983,1947,57,979,26/05/2020 13:01:04,AP,97,55,1,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin"
+Andhra Pradesh,2983,2017,57,909,26/05/2020 13:11:04,AP,97,125,1,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin"
 Bihar,2737,733,13,1991,25/05/2020 22:34:04,BR,0,0,0,
 State Unassigned,2970,0,0,2970,26/05/2020 09:19:03,UN,328,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 Karnataka,2182,705,44,1431,25/05/2020 18:03:05,KA,0,0,0,One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons
@@ -33,7 +33,7 @@ Tripura,198,165,0,33,25/05/2020 22:43:10,TR,0,0,0,Two cases are migrated out of 
 Goa,67,19,0,48,25/05/2020 19:22:08,GA,0,0,0,
 Ladakh,53,43,0,10,25/05/2020 17:51:08,LA,0,0,0,
 Puducherry,49,17,0,32,25/05/2020 15:27:04,PY,0,0,0,
-Manipur,36,4,0,32,25/05/2020 19:31:07,MN,0,0,0,
+Manipur,39,4,0,35,26/05/2020 13:11:05,MN,3,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,15,12,1,2,25/05/2020 17:04:06,ML,0,0,0,
 Nagaland,3,0,0,3,25/05/2020 13:03:07,NL,0,0,0,
