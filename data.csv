@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,150313,63536,4334,82432,26/05/2020 21:22:03,TT,5363,2830,160,
+Total,150373,63647,4336,82379,26/05/2020 21:33:03,TT,5423,2941,162,
 Maharashtra,54758,16954,1792,36012,26/05/2020 20:45:05,MH,2091,1168,97,
 Tamil Nadu,17728,9342,128,8258,26/05/2020 19:13:04,TN,646,611,9,
 Gujarat,14829,6678,915,7236,26/05/2020 21:13:05,GJ,361,42,27,
 Delhi,14465,6954,288,7223,26/05/2020 14:42:04,DL,412,183,12,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,7476,4165,168,3143,26/05/2020 20:13:05,RJ,176,109,1,
+Rajasthan,7536,4276,170,3090,26/05/2020 21:33:05,RJ,236,220,3,
 Madhya Pradesh,7024,3689,305,3030,26/05/2020 20:34:11,MP,165,118,5,
 Uttar Pradesh,6497,3660,169,2668,25/05/2020 23:01:05,UP,0,0,0,
 West Bengal,4009,1486,283,2240,26/05/2020 19:34:05,WB,193,72,5,"- Cases updated as per WB bulletin.<br>
@@ -26,7 +26,7 @@ Assam,617,63,4,547,26/05/2020 20:22:11,AS,68,0,0,"Includes one case from Nagalan
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Jharkhand,416,148,4,264,26/05/2020 20:22:12,JH,11,0,0,
 Uttarakhand,400,64,4,329,26/05/2020 18:18:05,UT,51,6,0,Three migrated cases reduced from Active count
-Chhattisgarh,360,79,0,281,26/05/2020 21:22:05,CT,68,12,0,
+Chhattisgarh,360,79,0,281,26/05/2020 21:23:05,CT,68,12,0,
 Chandigarh,278,187,4,87,26/05/2020 15:33:10,CH,12,0,0,
 Himachal Pradesh,233,63,4,163,26/05/2020 18:15:05,HP,10,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,209,165,0,44,26/05/2020 19:34:07,TR,11,0,0,Two cases are migrated out of Tripura.
