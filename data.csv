@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,150788,64277,4344,82156,27/05/2020 00:52:03,TT,5838,3571,170,
+Total,150793,64277,4344,82161,27/05/2020 01:02:03,TT,5843,3571,170,
 Maharashtra,54758,16954,1792,36012,26/05/2020 23:14:04,MH,2091,1168,97,
 Tamil Nadu,17728,9342,128,8258,26/05/2020 19:13:04,TN,646,611,9,
 Gujarat,14829,7139,915,6775,26/05/2020 22:14:04,GJ,361,503,27,
@@ -22,7 +22,7 @@ Jammu and Kashmir,1759,833,24,902,26/05/2020 20:34:17,JK,91,24,1,
 Odisha,1517,733,7,777,26/05/2020 18:53:05,OR,79,84,0,
 Haryana,1305,824,16,465,26/05/2020 21:04:07,HR,92,22,0,
 Kerala,964,542,6,416,26/05/2020 18:13:07,KL,67,10,0,Mahe native who expired in Kannur included in Kerala's tally
-Assam,683,63,4,613,27/05/2020 00:52:05,AS,134,0,0,"Includes one case from Nagaland <br>
+Assam,683,63,4,613,27/05/2020 01:02:05,AS,134,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Jharkhand,426,153,4,269,27/05/2020 00:21:05,JH,21,5,0,
 Uttarakhand,400,64,4,329,26/05/2020 18:18:05,UT,51,6,0,Three migrated cases reduced from Active count
@@ -35,7 +35,7 @@ Ladakh,53,43,0,10,25/05/2020 17:51:08,LA,0,0,0,
 Puducherry,49,17,0,32,25/05/2020 15:27:04,PY,0,0,0,
 Manipur,39,4,0,35,26/05/2020 13:23:05,MN,3,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
-Meghalaya,15,12,1,2,25/05/2020 17:04:06,ML,0,0,0,
+Meghalaya,20,12,1,7,27/05/2020 01:02:07,ML,5,0,0,
 Nagaland,4,0,0,4,26/05/2020 16:23:06,NL,1,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2,1,0,1,23/05/2020 23:47:25,DN,0,0,0,
 Arunachal Pradesh,2,1,0,1,24/05/2020 23:43:06,AR,0,0,0,
