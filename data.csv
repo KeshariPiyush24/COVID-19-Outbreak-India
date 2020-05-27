@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,151841,64277,4344,83209,27/05/2020 09:33:03,TT,1048,0,0,
+Total,151864,64277,4344,83232,27/05/2020 09:52:03,TT,1048,0,0,
 Maharashtra,54758,16954,1792,36012,26/05/2020 23:14:04,MH,0,0,0,
 Tamil Nadu,17728,9342,128,8258,26/05/2020 19:13:04,TN,0,0,0,
 Gujarat,14829,7139,915,6775,26/05/2020 22:14:04,GJ,0,0,0,
 Delhi,14465,6954,288,7223,26/05/2020 14:42:04,DL,0,0,0,"[10-May]<br>
 
 Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Rajasthan,7536,4276,170,3090,26/05/2020 21:45:09,RJ,0,0,0,
+Rajasthan,7536,4276,170,3090,27/05/2020 09:49:03,RJ,0,0,0,
 Madhya Pradesh,7024,3689,305,3030,26/05/2020 20:34:11,MP,0,0,0,
 Uttar Pradesh,6724,3824,177,2723,26/05/2020 21:51:05,UP,0,0,0,
 West Bengal,4009,1486,283,2240,26/05/2020 19:34:05,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
@@ -29,14 +29,14 @@ Uttarakhand,400,64,4,329,26/05/2020 18:18:05,UT,0,0,0,Three migrated cases reduc
 Chhattisgarh,360,79,0,281,26/05/2020 21:23:05,CT,0,0,0,
 Chandigarh,278,187,4,87,26/05/2020 15:33:10,CH,0,0,0,
 Himachal Pradesh,247,63,4,177,26/05/2020 22:03:10,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Tripura,209,165,0,44,26/05/2020 23:33:09,TR,0,0,0,Two cases are migrated out of Tripura.
+Tripura,232,165,0,67,27/05/2020 09:52:04,TR,0,0,0,Two cases are migrated out of Tripura.
 Goa,67,28,0,39,26/05/2020 20:34:19,GA,0,0,0,
 Ladakh,53,43,0,10,25/05/2020 17:51:08,LA,0,0,0,
 Puducherry,49,17,0,32,25/05/2020 15:27:04,PY,0,0,0,
 Manipur,39,4,0,35,26/05/2020 13:23:05,MN,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,20,12,1,7,27/05/2020 01:12:06,ML,0,0,0,
-Nagaland,9,0,0,9,27/05/2020 09:32:05,NL,5,0,0,
+Nagaland,9,0,0,9,27/05/2020 09:43:07,NL,5,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2,1,0,1,23/05/2020 23:47:25,DN,0,0,0,
 Arunachal Pradesh,2,1,0,1,24/05/2020 23:43:06,AR,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,MZ,0,0,0,
