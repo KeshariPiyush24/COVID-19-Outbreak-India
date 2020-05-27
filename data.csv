@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,158086,67749,4534,85792,27/05/2020 23:52:05,TT,7270,3472,187,
+Total,158086,67749,4534,85792,27/05/2020 23:54:03,TT,7270,3472,187,
 Maharashtra,56948,17918,1897,37133,27/05/2020 21:52:10,MH,2190,964,105,
 Tamil Nadu,18545,9909,136,8500,27/05/2020 19:23:04,TN,817,567,6,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,15257,7264,303,7690,27/05/2020 14:33:04,DL,792,310,15,"[10-May]<br>
@@ -23,7 +23,7 @@ Jammu and Kashmir,1921,854,26,1041,27/05/2020 21:03:08,JK,162,21,2,
 Odisha,1593,812,7,774,27/05/2020 17:45:04,OR,76,79,0,
 Haryana,1381,838,18,525,27/05/2020 20:19:06,HR,76,14,2,
 Kerala,1004,552,7,445,27/05/2020 20:56:10,KL,40,10,0,Mahe native who expired in Kannur included in Kerala's tally
-Assam,784,88,4,689,27/05/2020 23:52:09,AS,101,25,0,"Includes one case from Nagaland <br>
+Assam,784,88,4,689,27/05/2020 23:54:05,AS,101,25,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Uttarakhand,469,79,4,383,27/05/2020 21:33:09,UT,69,15,0,Three migrated cases reduced from Active count
 Jharkhand,458,191,4,263,27/05/2020 23:45:05,JH,32,38,0,
