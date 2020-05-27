@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,157935,67674,4528,85722,27/05/2020 22:52:03,TT,7119,3396,181,
+Total,158042,67711,4534,85786,27/05/2020 23:02:03,TT,7226,3434,187,
 Maharashtra,56948,17918,1897,37133,27/05/2020 21:52:10,MH,2190,964,105,
 Tamil Nadu,18545,9909,136,8500,27/05/2020 19:23:04,TN,817,567,6,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Gujarat,15205,7549,938,6718,27/05/2020 20:44:04,GJ,376,410,23,
@@ -18,7 +18,7 @@ State Unassigned,4013,0,0,4013,27/05/2020 09:19:04,UN,1043,0,0,"MoHFW website re
 Bihar,3036,918,15,2103,27/05/2020 21:54:05,BR,68,118,1,
 Karnataka,2418,765,47,1604,27/05/2020 18:12:05,KA,135,17,3,Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Punjab,2139,1918,40,181,27/05/2020 21:03:07,PB,33,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
-Telangana,1991,1284,57,650,26/05/2020 20:34:16,TG,0,0,0,
+Telangana,2098,1321,63,714,27/05/2020 23:02:05,TG,107,37,6,
 Jammu and Kashmir,1921,854,26,1041,27/05/2020 21:03:08,JK,162,21,2,
 Odisha,1593,812,7,774,27/05/2020 17:45:04,OR,76,79,0,
 Haryana,1381,838,18,525,27/05/2020 20:19:06,HR,76,14,2,
@@ -29,7 +29,7 @@ Jharkhand,433,153,4,276,27/05/2020 20:56:11,JH,7,0,0,
 Uttarakhand,469,79,4,383,27/05/2020 21:33:09,UT,69,15,0,Three migrated cases reduced from Active count
 Chhattisgarh,364,83,0,281,27/05/2020 20:17:07,CT,4,4,0,
 Chandigarh,278,187,4,87,26/05/2020 15:33:10,CH,0,0,0,
-Himachal Pradesh,273,66,6,198,27/05/2020 22:52:07,HP,26,2,2,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,273,66,6,198,27/05/2020 22:52:07,HP,26,3,2,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,232,165,0,67,27/05/2020 09:53:04,TR,0,0,0,Two cases are migrated out of Tripura.
 Goa,68,37,0,31,27/05/2020 20:34:08,GA,1,9,0,
 Ladakh,54,43,0,11,27/05/2020 16:22:06,LA,1,0,0,
