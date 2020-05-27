@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,152981,64618,4362,83990,27/05/2020 14:22:02,TT,2165,341,18,
+Total,152981,64618,4362,83990,27/05/2020 14:33:03,TT,2165,341,18,
 Maharashtra,54758,16954,1792,36012,26/05/2020 23:14:04,MH,0,0,0,
 Tamil Nadu,17728,9342,128,8258,26/05/2020 19:13:04,TN,0,0,0,
 Gujarat,14829,7139,915,6775,26/05/2020 22:14:04,GJ,0,0,0,
-Delhi,15257,7264,303,7690,27/05/2020 14:22:04,DL,792,310,15,"[10-May]<br>
+Delhi,15257,7264,303,7690,27/05/2020 14:33:04,DL,792,310,15,"[10-May]<br>
 
-Delhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
+Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Rajasthan,7645,4293,172,3180,27/05/2020 10:12:04,RJ,109,17,2,
 Madhya Pradesh,7024,3689,305,3030,26/05/2020 20:34:11,MP,0,0,0,
 Uttar Pradesh,6724,3824,177,2723,26/05/2020 21:51:05,UP,0,0,0,
@@ -22,7 +22,7 @@ Jammu and Kashmir,1759,833,24,902,26/05/2020 20:34:17,JK,0,0,0,
 Odisha,1593,733,7,853,27/05/2020 13:53:04,OR,76,0,0,
 Haryana,1305,824,16,465,26/05/2020 21:04:07,HR,0,0,0,
 Kerala,964,542,6,416,26/05/2020 18:13:07,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Assam,701,63,4,631,27/05/2020 14:22:05,AS,18,0,0,"Includes one case from Nagaland <br>
+Assam,701,63,4,631,27/05/2020 14:33:06,AS,18,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Jharkhand,426,153,4,269,27/05/2020 00:21:05,JH,0,0,0,
 Uttarakhand,400,64,4,329,26/05/2020 18:18:05,UT,0,0,0,Three migrated cases reduced from Active count
