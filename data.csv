@@ -1,7 +1,7 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,159965,68622,4554,86778,28/05/2020 19:12:03,TT,1878,873,20,
+Total,160310,68713,4560,87026,28/05/2020 19:22:03,TT,2223,964,26,
 Maharashtra,56948,17918,1897,37133,27/05/2020 21:52:10,MH,0,0,0,
-Tamil Nadu,19372,10548,148,8676,28/05/2020 19:12:04,TN,827,639,12,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
+Tamil Nadu,19372,10548,148,8676,28/05/2020 19:14:04,TN,827,639,12,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,15257,7264,303,7690,27/05/2020 14:33:04,DL,0,0,0,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
@@ -9,7 +9,7 @@ Gujarat,15205,7549,938,6718,27/05/2020 20:44:04,GJ,0,0,0,
 Rajasthan,7947,4566,178,3203,28/05/2020 12:02:05,RJ,131,4,6,
 Madhya Pradesh,7261,3927,313,3021,27/05/2020 21:03:06,MP,0,0,0,
 Uttar Pradesh,6991,3991,182,2818,27/05/2020 22:21:04,UP,0,0,0,
-West Bengal,4192,1578,289,2325,27/05/2020 19:43:06,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
+West Bengal,4536,1668,295,2573,28/05/2020 19:22:05,WB,344,90,6,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 State Unassigned,4332,0,0,4332,28/05/2020 09:18:05,UN,319,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
@@ -31,7 +31,7 @@ Chhattisgarh,364,83,0,281,27/05/2020 20:17:07,CT,0,0,0,
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,10,2,0,
 Himachal Pradesh,276,67,6,200,28/05/2020 17:53:05,HP,3,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,242,165,0,77,27/05/2020 23:22:06,TR,0,0,0,Two cases are migrated out of Tripura.
-Goa,68,37,0,31,27/05/2020 20:34:08,GA,0,0,0,
+Goa,69,38,0,31,27/05/2020 20:34:08,GA,1,1,0,
 Ladakh,54,43,0,11,27/05/2020 16:22:06,LA,0,0,0,
 Puducherry,49,17,0,32,25/05/2020 15:27:04,PY,0,0,0,
 Manipur,55,4,0,51,28/05/2020 17:03:05,MN,11,0,0,
