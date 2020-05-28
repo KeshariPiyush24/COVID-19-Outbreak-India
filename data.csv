@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,158415,67749,4534,86121,28/05/2020 11:14:06,TT,328,0,0,
+Total,158613,67753,4540,86309,28/05/2020 11:53:03,TT,526,4,6,
 Maharashtra,56948,17918,1897,37133,27/05/2020 21:52:10,MH,0,0,0,
 Tamil Nadu,18545,9909,136,8500,27/05/2020 19:23:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,15257,7264,303,7690,27/05/2020 14:33:04,DL,0,0,0,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,15205,7549,938,6718,27/05/2020 20:44:04,GJ,0,0,0,
-Rajasthan,7816,4562,172,3082,27/05/2020 22:52:05,RJ,0,0,0,
+Rajasthan,7947,4566,178,3203,28/05/2020 11:53:05,RJ,131,4,6,
 Madhya Pradesh,7261,3927,313,3021,27/05/2020 21:03:06,MP,0,0,0,
 Uttar Pradesh,6991,3991,182,2818,27/05/2020 22:21:04,UP,0,0,0,
 West Bengal,4192,1578,289,2325,27/05/2020 19:43:06,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
@@ -20,7 +20,7 @@ Karnataka,2418,765,47,1604,27/05/2020 18:12:05,KA,0,0,0,Two active cases in KA r
 Punjab,2139,1918,40,181,27/05/2020 21:03:07,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,2098,1321,63,714,27/05/2020 23:13:05,TG,0,0,0,
 Jammu and Kashmir,1921,854,26,1041,27/05/2020 21:03:08,JK,0,0,0,
-Odisha,1593,812,7,774,27/05/2020 17:45:04,OR,0,0,0,
+Odisha,1660,812,7,841,28/05/2020 11:53:11,OR,67,0,0,
 Haryana,1381,838,18,525,27/05/2020 20:19:06,HR,0,0,0,
 Kerala,1004,552,7,445,27/05/2020 20:56:10,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Assam,784,88,4,689,27/05/2020 23:54:05,AS,0,0,0,"Includes one case from Nagaland <br>
