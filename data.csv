@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,164873,69853,4673,90336,28/05/2020 21:02:03,TT,6786,2104,139,
+Total,164936,70102,4673,90150,28/05/2020 21:12:05,TT,6849,2353,139,
 Maharashtra,59546,18616,1982,38948,28/05/2020 20:24:07,MH,2598,698,85,
 Tamil Nadu,19372,10548,148,8676,28/05/2020 19:24:13,TN,827,639,12,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
-Delhi,16281,7495,316,8470,28/05/2020 21:02:04,DL,1024,231,13,"[10-May]<br>
+Delhi,16281,7495,316,8470,28/05/2020 21:12:06,DL,1024,231,13,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,15572,7549,938,7085,28/05/2020 20:53:04,GJ,367,0,0,
-Rajasthan,7947,4566,179,3202,28/05/2020 21:02:05,RJ,131,4,7,
+Rajasthan,7976,4815,179,2982,28/05/2020 21:12:08,RJ,160,253,7,
 Madhya Pradesh,7453,4050,321,3082,28/05/2020 19:53:05,MP,192,123,8,
 Uttar Pradesh,6991,3991,182,2818,27/05/2020 22:21:04,UP,0,0,0,
 West Bengal,4536,1668,295,2573,28/05/2020 19:35:04,WB,344,90,6,"- Cases updated as per WB bulletin.<br>
@@ -27,7 +27,7 @@ Assam,857,104,4,746,28/05/2020 20:45:09,AS,73,16,0,"Includes one case from Nagal
 Total of Three* patients who migrated to other states has been reduced from Active count"
 Uttarakhand,500,79,4,414,28/05/2020 20:34:07,UT,31,0,0,Three migrated cases reduced from Active count
 Jharkhand,462,191,4,267,28/05/2020 16:11:05,JH,4,0,0,
-Chhattisgarh,364,83,0,281,27/05/2020 20:17:07,CT,0,0,0,
+Chhattisgarh,398,83,0,315,28/05/2020 21:12:10,CT,34,0,0,
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,10,2,0,
 Himachal Pradesh,276,67,6,200,28/05/2020 17:53:05,HP,3,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,242,165,0,77,27/05/2020 23:22:06,TR,0,0,0,Two cases are migrated out of Tripura.
