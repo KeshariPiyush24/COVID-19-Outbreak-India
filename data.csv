@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,165074,70562,4695,89806,28/05/2020 22:02:03,TT,6946,2813,161,
+Total,165253,70786,4710,89746,28/05/2020 22:21:03,TT,7125,3037,176,
 Maharashtra,59546,18616,1982,38948,28/05/2020 20:24:07,MH,2598,698,85,
 Tamil Nadu,19372,10548,148,8676,28/05/2020 19:24:13,TN,827,639,12,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,16281,7495,316,8470,28/05/2020 21:12:06,DL,1024,231,13,"[10-May]<br>
@@ -8,7 +8,7 @@ Delhi bulletins in the morning, containing data of the previous day. We will add
 Gujarat,15572,8003,960,6609,28/05/2020 21:46:05,GJ,367,454,22,
 Rajasthan,8067,4815,179,3073,28/05/2020 21:34:05,RJ,251,253,7,
 Madhya Pradesh,7453,4050,321,3082,28/05/2020 19:53:05,MP,192,123,8,
-Uttar Pradesh,6991,3991,182,2818,27/05/2020 22:21:04,UP,0,0,0,
+Uttar Pradesh,7170,4215,197,2758,28/05/2020 22:21:04,UP,179,224,15,
 West Bengal,4536,1668,295,2573,28/05/2020 19:35:04,WB,344,90,6,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
@@ -29,7 +29,7 @@ Uttarakhand,500,79,4,414,28/05/2020 20:34:07,UT,31,0,0,Three migrated cases redu
 Jharkhand,462,191,4,267,28/05/2020 16:11:05,JH,4,0,0,
 Chhattisgarh,398,83,0,315,28/05/2020 21:24:08,CT,34,0,0,
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,10,2,0,
-Himachal Pradesh,281,73,6,199,28/05/2020 22:02:04,HP,8,7,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,281,73,6,199,28/05/2020 22:14:07,HP,8,7,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,242,165,0,77,27/05/2020 23:22:06,TR,0,0,0,Two cases are migrated out of Tripura.
 Goa,69,38,0,31,27/05/2020 20:34:08,GA,1,1,0,
 Ladakh,74,43,0,31,28/05/2020 20:12:06,LA,20,0,0,
