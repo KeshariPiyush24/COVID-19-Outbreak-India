@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,160522,68836,4568,87107,28/05/2020 20:02:03,TT,2435,1087,34,
-Maharashtra,56948,17918,1897,37133,27/05/2020 21:52:10,MH,0,0,0,
+Total,163120,69534,4653,88922,28/05/2020 20:12:03,TT,5033,1785,119,
+Maharashtra,59546,18616,1982,38948,28/05/2020 20:12:04,MH,2598,698,85,
 Tamil Nadu,19372,10548,148,8676,28/05/2020 19:24:13,TN,827,639,12,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,15257,7264,303,7690,27/05/2020 14:33:04,DL,0,0,0,"[10-May]<br>
 
@@ -32,7 +32,7 @@ Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,10,2,0,
 Himachal Pradesh,276,67,6,200,28/05/2020 17:53:05,HP,3,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,242,165,0,77,27/05/2020 23:22:06,TR,0,0,0,Two cases are migrated out of Tripura.
 Goa,69,38,0,31,27/05/2020 20:34:08,GA,1,1,0,
-Ladakh,74,43,0,31,28/05/2020 20:02:08,LA,20,0,0,
+Ladakh,74,43,0,31,28/05/2020 20:12:06,LA,20,0,0,
 Puducherry,49,17,0,32,25/05/2020 15:27:04,PY,0,0,0,
 Manipur,55,4,0,51,28/05/2020 17:03:05,MN,11,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
