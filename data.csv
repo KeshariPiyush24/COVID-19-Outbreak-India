@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,163120,69534,4653,88922,28/05/2020 20:12:03,TT,5033,1785,119,
-Maharashtra,59546,18616,1982,38948,28/05/2020 20:12:04,MH,2598,698,85,
+Total,163242,69534,4653,89044,28/05/2020 20:23:03,TT,5155,1785,119,
+Maharashtra,59546,18616,1982,38948,28/05/2020 20:22:44,MH,2598,698,85,
 Tamil Nadu,19372,10548,148,8676,28/05/2020 19:24:13,TN,827,639,12,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,15257,7264,303,7690,27/05/2020 14:33:04,DL,0,0,0,"[10-May]<br>
 
@@ -19,13 +19,13 @@ Bihar,3090,918,15,2157,28/05/2020 13:43:05,BR,54,0,0,
 Karnataka,2533,818,47,1666,28/05/2020 18:44:09,KA,115,53,0,Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Punjab,2158,1946,40,172,28/05/2020 18:33:05,PB,19,28,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,2098,1321,63,714,27/05/2020 23:13:05,TG,0,0,0,
-Jammu and Kashmir,1921,854,26,1041,27/05/2020 21:03:08,JK,0,0,0,
+Jammu and Kashmir,2036,854,26,1156,28/05/2020 20:22:47,JK,115,0,0,
 Odisha,1660,887,7,766,28/05/2020 15:25:04,OR,67,75,0,
 Haryana,1381,838,18,525,27/05/2020 20:19:06,HR,0,0,0,
 Kerala,1088,555,8,525,28/05/2020 17:45:05,KL,84,3,1,Mahe native who expired in Kannur included in Kerala's tally
 Assam,857,88,4,762,28/05/2020 18:44:11,AS,73,0,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
-Uttarakhand,493,79,4,407,28/05/2020 16:11:05,UT,24,0,0,Three migrated cases reduced from Active count
+Uttarakhand,500,79,4,414,28/05/2020 20:22:50,UT,31,0,0,Three migrated cases reduced from Active count
 Jharkhand,462,191,4,267,28/05/2020 16:11:05,JH,4,0,0,
 Chhattisgarh,364,83,0,281,27/05/2020 20:17:07,CT,0,0,0,
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,10,2,0,
