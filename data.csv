@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,158959,67926,4541,86481,28/05/2020 16:42:03,TT,872,177,7,
+Total,158970,67926,4541,86492,28/05/2020 16:51:03,TT,883,177,7,
 Maharashtra,56948,17918,1897,37133,27/05/2020 21:52:10,MH,0,0,0,
 Tamil Nadu,18545,9909,136,8500,27/05/2020 19:23:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,15257,7264,303,7690,27/05/2020 14:33:04,DL,0,0,0,"[10-May]<br>
@@ -13,7 +13,7 @@ West Bengal,4192,1578,289,2325,27/05/2020 19:43:06,WB,0,0,0,"- Cases updated as 
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
 State Unassigned,4332,0,0,4332,28/05/2020 09:18:05,UN,319,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
-Andhra Pradesh,3245,2133,59,1053,28/05/2020 16:42:04,AP,128,68,1,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
+Andhra Pradesh,3245,2133,59,1053,28/05/2020 16:44:04,AP,128,68,1,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
 Bihar,3090,918,15,2157,28/05/2020 13:43:05,BR,54,0,0,
 Karnataka,2493,793,47,1651,28/05/2020 14:04:06,KA,75,28,0,Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons
@@ -34,7 +34,7 @@ Tripura,242,165,0,77,27/05/2020 23:22:06,TR,0,0,0,Two cases are migrated out of 
 Goa,68,37,0,31,27/05/2020 20:34:08,GA,0,0,0,
 Ladakh,54,43,0,11,27/05/2020 16:22:06,LA,0,0,0,
 Puducherry,49,17,0,32,25/05/2020 15:27:04,PY,0,0,0,
-Manipur,44,4,0,40,27/05/2020 19:33:08,MN,0,0,0,
+Manipur,55,4,0,51,28/05/2020 16:51:05,MN,11,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,20,12,1,7,27/05/2020 01:12:06,ML,0,0,0,
 Nagaland,18,0,0,18,28/05/2020 16:38:08,NL,9,0,0,
