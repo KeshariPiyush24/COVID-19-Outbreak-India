@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,166113,71015,4715,90372,29/05/2020 14:32:03,TT,725,79,4,
+Total,166113,71015,4715,90372,29/05/2020 14:36:04,TT,725,79,4,
 Maharashtra,59546,18616,1982,38948,28/05/2020 20:24:07,MH,0,0,0,
 Tamil Nadu,19372,10548,148,8676,28/05/2020 19:24:13,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,16281,7495,316,8470,28/05/2020 21:12:06,DL,0,0,0,"[10-May]<br>
@@ -20,7 +20,7 @@ Karnataka,2711,869,47,1793,29/05/2020 14:24:05,KA,178,35,0,Two active cases in K
 Punjab,2158,1946,40,172,28/05/2020 18:33:05,PB,0,0,0,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,2256,1345,67,844,28/05/2020 21:53:05,TG,0,0,0,
 Jammu and Kashmir,2036,859,27,1150,28/05/2020 20:45:07,JK,0,0,0,
-Odisha,1723,887,9,827,29/05/2020 14:32:04,OR,63,0,2,
+Odisha,1723,887,9,827,29/05/2020 14:36:07,OR,63,0,2,
 Haryana,1504,881,19,604,28/05/2020 20:53:09,HR,0,0,0,
 Kerala,1089,555,8,526,29/05/2020 06:13:05,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Assam,911,104,4,800,29/05/2020 14:24:07,AS,30,0,0,"Includes one case from Nagaland <br>
