@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,173458,82627,4980,85840,30/05/2020 00:12:03,TT,8101,11729,269,
-Maharashtra,62228,26997,2098,33133,29/05/2020 20:24:05,MH,2682,8381,116,
+Total,173458,82627,4980,85840,30/05/2020 00:21:03,TT,8101,11729,269,
+Maharashtra,62228,26997,2098,33133,30/05/2020 00:21:05,MH,2682,8381,116,
 Tamil Nadu,20246,11313,157,8776,29/05/2020 18:42:04,TN,874,765,9,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,17386,7846,398,9142,29/05/2020 23:15:05,DL,1105,351,82,"[10-May]<br>
 
@@ -15,7 +15,7 @@ West Bengal,4813,1775,302,2736,29/05/2020 19:33:09,WB,277,107,7,"- Cases updated
 State Unassigned,4673,0,0,4673,29/05/2020 10:13:05,UN,341,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 Andhra Pradesh,3330,2234,60,1036,29/05/2020 19:33:13,AP,85,101,1,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
-Bihar,3359,1209,15,2135,30/05/2020 00:12:05,BR,174,159,0,
+Bihar,3359,1209,15,2135,30/05/2020 00:15:06,BR,174,159,0,
 Karnataka,2781,894,48,1837,29/05/2020 18:53:05,KA,248,60,1,Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons
 Punjab,2197,1949,42,206,29/05/2020 19:33:23,PB,39,3,2,Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin
 Telangana,2425,1381,71,973,29/05/2020 23:15:08,TG,169,36,4,
