@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,165729,70920,4711,90087,29/05/2020 10:19:03,TT,0,0,0,
+Total,165729,70920,4711,90087,29/05/2020 10:19:03,TT,341,0,0,
 Maharashtra,59546,18616,1982,38948,28/05/2020 20:24:07,MH,0,0,0,
 Tamil Nadu,19372,10548,148,8676,28/05/2020 19:24:13,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,16281,7495,316,8470,28/05/2020 21:12:06,DL,0,0,0,"[10-May]<br>
@@ -12,7 +12,7 @@ Uttar Pradesh,7170,4215,197,2758,28/05/2020 22:21:04,UP,0,0,0,
 West Bengal,4536,1668,295,2573,28/05/2020 19:35:04,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>
 - Zones updated as per WB bulletin<br>"
-State Unassigned,4673,0,0,4673,29/05/2020 10:13:05,UN,0,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
+State Unassigned,4673,0,0,4673,29/05/2020 10:13:05,UN,341,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 Andhra Pradesh,3245,2133,59,1053,28/05/2020 16:44:04,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
 Bihar,3185,1050,15,2120,29/05/2020 00:20:04,BR,0,0,0,
