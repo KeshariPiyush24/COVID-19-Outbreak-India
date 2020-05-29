@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,172359,81606,4956,85786,29/05/2020 20:59:57,TT,7002,10708,245,
+Total,172366,81606,4956,85793,29/05/2020 21:22:03,TT,7009,10708,245,
 Maharashtra,62228,26997,2098,33133,29/05/2020 20:24:05,MH,2682,8381,116,
 Tamil Nadu,20246,11313,157,8776,29/05/2020 18:42:04,TN,874,765,9,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,17387,7846,398,9143,29/05/2020 15:04:07,DL,1106,351,82,"[10-May]<br>
@@ -21,7 +21,7 @@ Punjab,2197,1949,42,206,29/05/2020 19:33:23,PB,39,3,2,Cases in Punjab were effec
 Telangana,2256,1345,67,844,28/05/2020 21:53:05,TG,0,0,0,
 Jammu and Kashmir,2164,875,28,1261,29/05/2020 19:12:05,JK,128,16,1,
 Odisha,1723,977,9,737,29/05/2020 18:42:14,OR,63,90,2,
-Haryana,1715,940,19,756,29/05/2020 20:59:57,HR,211,59,0,
+Haryana,1721,940,19,762,29/05/2020 21:22:06,HR,217,59,0,
 Kerala,1151,565,9,577,29/05/2020 19:03:07,KL,62,10,1,Mahe native who expired in Kannur included in Kerala's tally
 Assam,936,126,4,803,29/05/2020 19:36:05,AS,55,22,0,"Includes one case from Nagaland <br>
 Total of Three* patients who migrated to other states has been reduced from Active count"
@@ -34,7 +34,7 @@ Tripura,244,167,0,77,28/05/2020 23:02:04,TR,0,0,0,Two cases are migrated out of 
 Goa,69,41,0,28,29/05/2020 20:24:09,GA,0,3,0,
 Ladakh,74,43,0,31,28/05/2020 20:12:06,LA,0,0,0,
 Puducherry,53,17,0,36,28/05/2020 23:20:05,PY,0,0,0,
-Manipur,58,6,0,52,29/05/2020 20:38:13,MN,3,2,0,
+Manipur,59,6,0,53,29/05/2020 21:22:18,MN,4,2,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,27,12,1,14,29/05/2020 18:03:08,ML,6,0,0,
 Nagaland,25,0,0,25,29/05/2020 13:24:06,NL,7,0,0,
