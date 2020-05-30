@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,180621,84759,5144,90707,30/05/2020 20:43:03,TT,7130,2132,164,
-Maharashtra,65168,26997,2197,35974,30/05/2020 20:41:04,MH,2940,0,99,
+Total,180798,84792,5144,90851,30/05/2020 20:53:03,TT,7307,2165,164,
+Maharashtra,65168,26997,2197,35974,30/05/2020 20:44:04,MH,2940,0,99,
 Tamil Nadu,21184,12000,163,9021,30/05/2020 19:13:04,TN,938,687,6,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,18549,8075,416,10058,30/05/2020 20:35:04,DL,1163,229,18,"[10-May]<br>
 
@@ -17,16 +17,16 @@ Andhra Pradesh,3461,2289,60,1112,30/05/2020 15:13:04,AP,131,55,0,"Total includes
 AP district data updated to match state dashboard as of 27th May. "
 Karnataka,2922,997,49,1874,30/05/2020 18:35:04,KA,141,103,1,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Telangana,2425,1381,71,973,29/05/2020 23:15:08,TG,0,0,0,
-Punjab,2233,1967,44,222,30/05/2020 20:41:06,PB,36,18,2,
-Jammu and Kashmir,2164,875,28,1261,29/05/2020 19:12:05,JK,0,0,0,
+Punjab,2233,1967,44,222,30/05/2020 20:44:06,PB,36,18,2,
+Jammu and Kashmir,2341,908,28,1405,30/05/2020 20:53:04,JK,177,33,0,
 Odisha,1819,1050,9,760,30/05/2020 16:24:07,OR,96,73,0,
 Haryana,1923,971,20,932,30/05/2020 19:53:06,HR,202,31,1,
 Kerala,1209,575,10,624,30/05/2020 20:35:08,KL,58,10,1,Mahe native who expired in Kannur included in Kerala's tally
 Assam,1101,164,4,930,30/05/2020 18:04:06,AS,43,38,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
-Uttarakhand,749,102,5,639,30/05/2020 20:43:05,UT,33,0,1,Three migrated cases reduced from Active count
+Uttarakhand,749,102,5,639,30/05/2020 20:52:07,UT,33,0,1,Three migrated cases reduced from Active count
 Jharkhand,521,216,5,300,29/05/2020 23:54:05,JH,0,0,0,
-Chhattisgarh,447,102,1,344,30/05/2020 20:43:07,CT,32,2,0,
+Chhattisgarh,447,102,1,344,30/05/2020 20:52:08,CT,32,2,0,
 Himachal Pradesh,301,106,6,186,30/05/2020 19:44:07,HP,6,23,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,0,0,0,
 Tripura,254,167,0,87,29/05/2020 23:15:11,TR,0,0,0,Two cases have migrated out of Tripura.
