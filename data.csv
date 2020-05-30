@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,175957,83878,4996,87072,30/05/2020 19:34:03,TT,2466,1251,16,
+Total,175958,83879,4997,87071,30/05/2020 19:43:03,TT,2467,1252,17,
 Maharashtra,62228,26997,2098,33133,30/05/2020 00:21:05,MH,0,0,0,
 Tamil Nadu,21184,12000,163,9021,30/05/2020 19:13:04,TN,938,687,6,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,17386,7846,398,9142,29/05/2020 23:15:05,DL,0,0,0,"[10-May]<br>
@@ -20,18 +20,18 @@ Telangana,2425,1381,71,973,29/05/2020 23:15:08,TG,0,0,0,
 Punjab,2197,1949,42,206,29/05/2020 19:33:23,PB,0,0,0,
 Jammu and Kashmir,2164,875,28,1261,29/05/2020 19:12:05,JK,0,0,0,
 Odisha,1819,1050,9,760,30/05/2020 16:24:07,OR,96,73,0,
-Haryana,1923,971,19,933,30/05/2020 19:34:06,HR,202,31,0,
+Haryana,1923,971,20,932,30/05/2020 19:43:05,HR,202,31,1,
 Kerala,1151,565,9,577,29/05/2020 19:03:07,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Assam,1101,164,4,930,30/05/2020 18:04:06,AS,43,38,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
 Uttarakhand,727,102,5,617,30/05/2020 16:24:12,UT,11,0,1,Three migrated cases reduced from Active count
 Jharkhand,521,216,5,300,29/05/2020 23:54:05,JH,0,0,0,
 Chhattisgarh,415,100,1,314,29/05/2020 21:42:08,CT,0,0,0,
-Himachal Pradesh,301,106,6,186,30/05/2020 19:34:07,HP,6,23,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,301,106,6,186,30/05/2020 19:43:06,HP,6,23,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,0,0,0,
 Tripura,254,167,0,87,29/05/2020 23:15:11,TR,0,0,0,Two cases have migrated out of Tripura.
 Ladakh,74,43,0,31,28/05/2020 20:12:06,LA,0,0,0,
-Goa,69,41,0,28,29/05/2020 20:24:09,GA,0,0,0,
+Goa,70,42,0,28,29/05/2020 20:24:09,GA,1,1,0,
 Manipur,60,6,0,54,30/05/2020 13:04:08,MN,1,0,0,
 Puducherry,53,17,0,36,28/05/2020 23:20:05,PY,0,0,0,
 Nagaland,36,0,0,36,30/05/2020 11:21:05,NL,11,0,0,
