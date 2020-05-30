@@ -1,7 +1,7 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,174496,82945,4983,86557,30/05/2020 18:35:03,TT,1005,318,3,
+Total,175434,82945,4983,87495,30/05/2020 18:53:03,TT,1943,318,3,
 Maharashtra,62228,26997,2098,33133,30/05/2020 00:21:05,MH,0,0,0,
-Tamil Nadu,20246,11313,157,8776,29/05/2020 18:42:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
+Tamil Nadu,21184,11313,157,9714,30/05/2020 18:53:05,TN,938,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,17386,7846,398,9142,29/05/2020 23:15:05,DL,0,0,0,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
