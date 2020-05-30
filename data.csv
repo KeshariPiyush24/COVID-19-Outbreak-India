@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,173921,82673,4981,86256,30/05/2020 11:46:03,TT,430,46,1,
+Total,173923,82674,4981,86257,30/05/2020 12:43:06,TT,432,47,1,
 Maharashtra,62228,26997,2098,33133,30/05/2020 00:21:05,MH,0,0,0,
 Tamil Nadu,20246,11313,157,8776,29/05/2020 18:42:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu
 Delhi,17386,7846,398,9142,29/05/2020 23:15:05,DL,0,0,0,"[10-May]<br>
@@ -29,7 +29,7 @@ Uttarakhand,716,102,4,607,29/05/2020 20:38:11,UT,0,0,0,Three migrated cases redu
 Jharkhand,521,216,5,300,29/05/2020 23:54:05,JH,0,0,0,
 Chhattisgarh,415,100,1,314,29/05/2020 21:42:08,CT,0,0,0,
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,0,0,0,
-Himachal Pradesh,295,83,6,203,29/05/2020 23:15:10,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,297,84,6,204,30/05/2020 12:43:10,HP,2,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,254,167,0,87,29/05/2020 23:15:11,TR,0,0,0,Two cases are migrated out of Tripura.
 Goa,69,41,0,28,29/05/2020 20:24:09,GA,0,0,0,
 Ladakh,74,43,0,31,28/05/2020 20:12:06,LA,0,0,0,
