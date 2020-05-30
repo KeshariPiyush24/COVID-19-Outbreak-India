@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,174355,82804,4982,86558,30/05/2020 16:13:15,TT,864,177,2,
+Total,174355,82804,4982,86558,30/05/2020 16:22:03,TT,864,177,2,
 Maharashtra,62228,26997,2098,33133,30/05/2020 00:21:05,MH,0,0,0,
 Tamil Nadu,20246,11313,157,8776,29/05/2020 18:42:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,17386,7846,398,9142,29/05/2020 23:15:05,DL,0,0,0,"[10-May]<br>
@@ -19,12 +19,12 @@ Karnataka,2781,894,48,1837,29/05/2020 18:53:05,KA,0,0,0,Two active cases in KA r
 Punjab,2197,1949,42,206,29/05/2020 19:33:23,PB,0,0,0,
 Telangana,2425,1381,71,973,29/05/2020 23:15:08,TG,0,0,0,
 Jammu and Kashmir,2164,875,28,1261,29/05/2020 19:12:05,JK,0,0,0,
-Odisha,1819,1050,9,760,30/05/2020 16:13:18,OR,96,73,0,
+Odisha,1819,1050,9,760,30/05/2020 16:22:04,OR,96,73,0,
 Haryana,1721,940,19,762,29/05/2020 21:34:09,HR,0,0,0,
 Kerala,1151,565,9,577,29/05/2020 19:03:07,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Assam,1101,126,4,968,30/05/2020 16:13:19,AS,43,0,0,"Includes one case from Nagaland <br>
+Assam,1101,126,4,968,30/05/2020 16:22:06,AS,43,0,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
-Uttarakhand,727,102,5,617,30/05/2020 16:13:21,UT,11,0,1,Three migrated cases reduced from Active count
+Uttarakhand,727,102,5,617,30/05/2020 16:22:08,UT,11,0,1,Three migrated cases reduced from Active count
 Jharkhand,521,216,5,300,29/05/2020 23:54:05,JH,0,0,0,
 Chhattisgarh,415,100,1,314,29/05/2020 21:42:08,CT,0,0,0,
 Chandigarh,289,189,4,96,28/05/2020 16:11:07,CH,0,0,0,
