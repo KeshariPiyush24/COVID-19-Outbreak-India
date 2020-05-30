@@ -1,8 +1,8 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,177591,84739,5043,87798,30/05/2020 20:23:03,TT,4100,2112,63,
-Maharashtra,62228,26997,2098,33133,30/05/2020 00:21:05,MH,0,0,0,
+Total,180567,84757,5144,90655,30/05/2020 20:34:05,TT,7076,2130,164,
+Maharashtra,65168,26997,2197,35974,30/05/2020 20:34:08,MH,2940,0,99,
 Tamil Nadu,21184,12000,163,9021,30/05/2020 19:13:04,TN,938,687,6,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
-Delhi,18549,8075,416,10058,30/05/2020 20:23:04,DL,1163,229,18,"[10-May]<br>
+Delhi,18549,8075,416,10058,30/05/2020 20:30:05,DL,1163,229,18,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,16356,9232,1007,6117,30/05/2020 20:14:04,GJ,412,621,27,
@@ -17,11 +17,11 @@ Andhra Pradesh,3461,2289,60,1112,30/05/2020 15:13:04,AP,131,55,0,"Total includes
 AP district data updated to match state dashboard as of 27th May. "
 Karnataka,2922,997,49,1874,30/05/2020 18:35:04,KA,141,103,1,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Telangana,2425,1381,71,973,29/05/2020 23:15:08,TG,0,0,0,
-Punjab,2197,1949,42,206,29/05/2020 19:33:23,PB,0,0,0,
+Punjab,2233,1967,44,222,30/05/2020 20:34:25,PB,36,18,2,
 Jammu and Kashmir,2164,875,28,1261,29/05/2020 19:12:05,JK,0,0,0,
 Odisha,1819,1050,9,760,30/05/2020 16:24:07,OR,96,73,0,
 Haryana,1923,971,20,932,30/05/2020 19:53:06,HR,202,31,1,
-Kerala,1209,575,10,624,30/05/2020 20:23:08,KL,58,10,1,Mahe native who expired in Kannur included in Kerala's tally
+Kerala,1209,575,10,624,30/05/2020 20:30:08,KL,58,10,1,Mahe native who expired in Kannur included in Kerala's tally
 Assam,1101,164,4,930,30/05/2020 18:04:06,AS,43,38,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
 Uttarakhand,727,102,5,617,30/05/2020 16:24:12,UT,11,0,1,Three migrated cases reduced from Active count
