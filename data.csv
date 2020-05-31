@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,182414,86936,5185,90282,31/05/2020 10:35:03,TT,584,0,0,
+Total,182414,86936,5185,90282,31/05/2020 10:43:03,TT,584,0,0,
 Maharashtra,65168,28081,2197,34890,30/05/2020 21:54:04,MH,0,0,0,
 Tamil Nadu,21184,12000,163,9021,30/05/2020 19:13:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,18549,8075,416,10058,30/05/2020 20:35:04,DL,0,0,0,"[10-May]<br>
@@ -32,9 +32,9 @@ Chandigarh,289,199,4,86,30/05/2020 23:04:06,CH,0,0,0,
 Tripura,271,172,0,99,30/05/2020 22:43:05,TR,0,0,0,Two cases have migrated out of Tripura.
 Ladakh,77,43,0,34,30/05/2020 21:34:08,LA,0,0,0,
 Goa,70,42,0,28,29/05/2020 20:24:09,GA,0,0,0,
-Manipur,62,6,0,56,31/05/2020 10:35:06,MN,0,0,0,
+Manipur,62,6,0,56,31/05/2020 10:43:05,MN,0,0,0,
 Puducherry,57,23,0,34,30/05/2020 23:04:08,PY,0,0,0,
-Nagaland,43,0,0,43,31/05/2020 10:35:07,NL,7,0,0,
+Nagaland,43,0,0,43,31/05/2020 10:43:06,NL,7,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,27,12,1,14,30/05/2020 11:12:07,ML,0,0,0,
 Arunachal Pradesh,4,1,0,3,31/05/2020 10:35:08,AR,0,0,0,
