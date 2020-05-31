@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,190162,91429,5402,93320,31/05/2020 22:03:03,,TT,8303,4495,217,
+Total,190536,91621,5406,93498,31/05/2020 22:12:03,,TT,8677,4687,221,
 Maharashtra,67655,29329,2286,36040,31/05/2020 20:53:04,,MH,2487,1248,89,
 Tamil Nadu,22333,12757,176,9400,31/05/2020 19:03:06,,TN,1149,757,13,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,19844,8478,473,10893,31/05/2020 18:35:04,,DL,1295,403,57,"[10-May]<br>
@@ -8,7 +8,7 @@ Delhi bulletins in the morning, containing data of the previous day. We will add
 Gujarat,16794,9919,1038,5837,31/05/2020 21:29:04,,GJ,438,689,31,
 Rajasthan,8831,6032,195,2604,31/05/2020 21:23:06,,RJ,214,293,2,
 Madhya Pradesh,8089,4842,350,2897,31/05/2020 22:03:05,,MP,198,398,7,
-Uttar Pradesh,7701,4651,213,2837,30/05/2020 22:05:06,,UP,0,0,0,
+Uttar Pradesh,8075,4843,217,3015,31/05/2020 22:12:04,,UP,374,192,4,
 West Bengal,5501,2157,317,3027,31/05/2020 18:54:06,,WB,371,187,8,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>"
 State Unassigned,5491,0,0,5491,31/05/2020 09:54:04,,UN,448,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
@@ -16,7 +16,7 @@ Bihar,3807,1311,21,2475,31/05/2020 20:53:06,,BR,242,0,0,
 Andhra Pradesh,3571,2340,62,1169,31/05/2020 17:47:05,,AP,110,51,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
 Karnataka,3221,1218,51,1950,31/05/2020 19:35:04,2,KA,299,221,2,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
-Telangana,2698,1428,82,1188,31/05/2020 22:03:07,,TG,199,16,5,
+Telangana,2698,1428,82,1188,31/05/2020 22:10:06,,TG,199,16,5,
 Punjab,2263,1987,45,231,31/05/2020 19:54:04,,PB,30,20,1,
 Jammu and Kashmir,2446,927,28,1491,31/05/2020 20:04:04,,JK,105,19,0,
 Odisha,1948,1126,9,813,31/05/2020 18:05:05,,OR,129,76,0,
