@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,182275,86936,5185,90143,31/05/2020 09:54:03,TT,448,0,0,
+Total,182405,86936,5185,90273,31/05/2020 10:23:03,TT,577,0,0,
 Maharashtra,65168,28081,2197,34890,30/05/2020 21:54:04,MH,0,0,0,
 Tamil Nadu,21184,12000,163,9021,30/05/2020 19:13:04,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,18549,8075,416,10058,30/05/2020 20:35:04,DL,0,0,0,"[10-May]<br>
@@ -19,7 +19,7 @@ Karnataka,2922,997,49,1874,30/05/2020 18:35:04,KA,0,0,0,Two active cases in KA r
 Telangana,2499,1412,77,1010,30/05/2020 22:36:06,TG,0,0,0,
 Punjab,2233,1967,44,222,30/05/2020 20:44:06,PB,0,0,0,
 Jammu and Kashmir,2341,908,28,1405,30/05/2020 21:02:06,JK,0,0,0,
-Odisha,1819,1050,9,760,30/05/2020 16:24:07,OR,0,0,0,
+Odisha,1948,1050,9,889,31/05/2020 10:23:05,OR,129,0,0,
 Haryana,1923,971,20,932,30/05/2020 19:53:06,HR,0,0,0,
 Kerala,1209,575,10,624,30/05/2020 20:35:08,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Assam,1217,164,4,1046,31/05/2020 00:22:05,AS,0,0,0,"Includes one case from Nagaland <br>
@@ -37,7 +37,7 @@ Puducherry,57,23,0,34,30/05/2020 23:04:08,PY,0,0,0,
 Nagaland,36,0,0,36,30/05/2020 11:21:05,NL,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,AN,0,0,0,
 Meghalaya,27,12,1,14,30/05/2020 11:12:07,ML,0,0,0,
-Arunachal Pradesh,3,1,0,2,29/05/2020 00:33:07,AR,0,0,0,
+Arunachal Pradesh,4,1,0,3,31/05/2020 10:23:07,AR,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2,1,0,1,23/05/2020 23:47:25,DN,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,MZ,0,0,0,
 Sikkim,1,0,0,1,23/05/2020 19:42:35,SK,0,0,0,
