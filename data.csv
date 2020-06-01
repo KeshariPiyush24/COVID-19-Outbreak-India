@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,194700,94283,5571,94835,01/06/2020 21:01:03,,TT,4052,2421,164,
-Maharashtra,67655,30108,2362,35185,01/06/2020 21:01:05,,MH,0,779,76,
+Total,194837,94346,5577,94903,01/06/2020 21:13:05,,TT,4189,2484,170,
+Maharashtra,67655,30108,2362,35185,01/06/2020 21:04:05,,MH,0,779,76,
 Tamil Nadu,23495,13170,187,10138,01/06/2020 19:46:07,,TN,1162,413,11,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,20834,8746,523,11565,01/06/2020 20:45:06,,DL,990,268,50,"[10-May]<br>
 
@@ -16,12 +16,12 @@ Bihar,3872,1741,23,2108,01/06/2020 19:05:06,,BR,65,221,0,
 Andhra Pradesh,3676,2374,64,1238,01/06/2020 14:35:06,,AP,105,34,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
 Karnataka,3408,1328,52,2026,01/06/2020 18:50:07,2,KA,187,110,1,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
-Telangana,2698,1428,82,1188,31/05/2020 22:14:06,,TG,0,0,0,
+Telangana,2792,1491,88,1213,01/06/2020 21:13:14,,TG,94,63,6,
 Jammu and Kashmir,2601,946,31,1624,01/06/2020 19:55:07,,JK,155,19,3,
 Haryana,2356,1055,21,1280,01/06/2020 20:35:08,,HR,265,7,1,
 Punjab,2301,2000,44,257,01/06/2020 20:14:10,,PB,38,13,-1,
 Odisha,2104,1245,9,850,01/06/2020 15:56:05,,OR,156,119,0,
-Assam,1391,186,4,1198,01/06/2020 17:15:09,3,AS,51,0,0,"Includes one case from Nagaland <br>
+Assam,1434,186,4,1241,01/06/2020 17:15:09,3,AS,94,0,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1327,608,11,708,01/06/2020 18:25:49,,KL,57,18,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,930,200,5,722,01/06/2020 19:05:08,3,UT,23,98,0,Three migrated cases reduced from Active count
