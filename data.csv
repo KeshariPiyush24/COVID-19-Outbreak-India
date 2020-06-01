@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,191105,91907,5413,93774,01/06/2020 14:35:03,,TT,457,45,6,
+Total,191171,91908,5413,93839,01/06/2020 15:13:03,,TT,523,46,6,
 Maharashtra,67655,29329,2286,36040,31/05/2020 20:53:04,,MH,0,0,0,
 Tamil Nadu,22333,12757,176,9400,31/05/2020 19:03:06,,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,19844,8478,473,10893,31/05/2020 18:35:04,,DL,0,0,0,"[10-May]<br>
@@ -12,7 +12,7 @@ Uttar Pradesh,8075,4843,217,3015,31/05/2020 22:25:04,,UP,0,0,0,
 West Bengal,5501,2157,317,3027,31/05/2020 18:54:06,,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>"
 State Unassigned,5630,0,0,5630,01/06/2020 09:35:06,,UN,139,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
-Bihar,3807,1520,23,2264,01/06/2020 00:42:06,,BR,0,0,0,
+Bihar,3872,1520,23,2329,01/06/2020 15:13:05,,BR,65,0,0,
 Andhra Pradesh,3676,2374,64,1238,01/06/2020 14:35:06,,AP,105,34,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
 Karnataka,3221,1218,51,1950,31/05/2020 19:35:04,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
@@ -28,7 +28,7 @@ Uttarakhand,907,102,5,797,31/05/2020 21:14:38,3,UT,0,0,0,Three migrated cases re
 Jharkhand,635,256,5,374,01/06/2020 09:55:07,,JH,0,0,0,
 Chhattisgarh,503,114,1,388,01/06/2020 09:45:06,,CT,5,0,0,
 Himachal Pradesh,333,116,6,208,01/06/2020 13:06:08,3,HP,2,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Chandigarh,293,199,4,90,31/05/2020 19:44:12,,CH,0,0,0,
+Chandigarh,294,200,4,90,01/06/2020 15:08:05,,CH,1,1,0,
 Tripura,321,173,0,148,01/06/2020 14:35:11,,TR,5,0,0,Two cases have migrated out of Tripura.
 Ladakh,77,47,0,30,31/05/2020 18:43:08,,LA,0,0,0,
 Goa,71,44,0,27,31/05/2020 19:44:14,,GA,0,0,0,
