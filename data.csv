@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,197808,95415,5603,96779,01/06/2020 22:14:03,,TT,7160,3553,196,
+Total,197854,95422,5603,96818,01/06/2020 22:43:03,,TT,7206,3560,196,
 Maharashtra,70013,30108,2362,37543,01/06/2020 21:47:24,,MH,2358,779,76,
 Tamil Nadu,23495,13170,187,10138,01/06/2020 19:46:07,,TN,1162,413,11,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,20834,8746,523,11565,01/06/2020 20:45:06,,DL,990,268,50,"[10-May]<br>
@@ -26,7 +26,7 @@ Total of three* patients who migrated to other states has been reduced from Acti
 Kerala,1327,608,11,708,01/06/2020 18:25:49,,KL,57,18,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,959,222,5,729,01/06/2020 21:34:11,3,UT,52,120,0,Three migrated cases reduced from Active count
 Jharkhand,635,256,5,374,01/06/2020 09:55:07,,JH,0,0,0,
-Chhattisgarh,503,114,1,388,01/06/2020 09:45:06,,CT,5,0,0,
+Chhattisgarh,548,121,1,426,01/06/2020 22:43:06,,CT,50,7,0,
 Himachal Pradesh,340,118,6,213,01/06/2020 21:30:08,3,HP,9,2,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,321,173,0,148,01/06/2020 14:35:11,,TR,5,0,0,Two cases have migrated out of Tripura.
 Chandigarh,297,214,4,79,01/06/2020 21:47:27,,CH,4,15,0,
@@ -38,7 +38,7 @@ Nagaland,43,0,0,43,31/05/2020 10:44:06,,NL,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,27,12,1,14,30/05/2020 11:12:07,,ML,0,0,0,
 Arunachal Pradesh,20,1,0,19,01/06/2020 22:14:10,,AR,16,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2,1,0,1,23/05/2020 23:47:25,,DN,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,3,1,0,2,01/06/2020 22:43:09,,DN,1,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,,MZ,0,0,0,
 Sikkim,1,0,0,1,23/05/2020 19:42:35,,SK,0,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,,LD,0,0,0,
