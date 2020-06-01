@@ -1,13 +1,13 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,194698,93504,5456,95727,01/06/2020 20:13:03,,TT,4050,1642,49,
+Total,194700,93504,5457,95728,01/06/2020 20:23:05,,TT,4052,1642,50,
 Maharashtra,67655,29329,2286,36040,31/05/2020 20:53:04,,MH,0,0,0,
 Tamil Nadu,23495,13170,187,10138,01/06/2020 19:46:07,,TN,1162,413,11,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
-Delhi,20834,8746,485,11603,01/06/2020 20:13:06,,DL,990,268,12,"[10-May]<br>
+Delhi,20834,8746,485,11603,01/06/2020 20:14:05,,DL,990,268,12,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,16794,9919,1038,5837,31/05/2020 21:29:04,,GJ,0,0,0,
 Rajasthan,8980,6043,198,2739,01/06/2020 12:52:20,,RJ,149,11,4,
-Madhya Pradesh,8283,5003,358,2922,01/06/2020 20:13:08,,MP,194,161,8,
+Madhya Pradesh,8283,5003,358,2922,01/06/2020 20:23:21,,MP,194,161,8,
 Uttar Pradesh,8075,4843,217,3015,31/05/2020 22:25:04,,UP,0,0,0,
 West Bengal,5772,2306,325,3141,01/06/2020 19:46:09,,WB,271,149,8,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>"
@@ -18,8 +18,8 @@ AP district data updated to match state dashboard as of 27th May. "
 Karnataka,3408,1328,52,2026,01/06/2020 18:50:07,2,KA,187,110,1,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Telangana,2698,1428,82,1188,31/05/2020 22:14:06,,TG,0,0,0,
 Jammu and Kashmir,2601,946,31,1624,01/06/2020 19:55:07,,JK,155,19,3,
-Haryana,2356,1055,20,1281,01/06/2020 19:47:07,,HR,265,7,0,
-Punjab,2301,2000,44,257,01/06/2020 20:13:10,,PB,38,13,-1,
+Haryana,2356,1055,21,1280,01/06/2020 20:23:24,,HR,265,7,1,
+Punjab,2301,2000,44,257,01/06/2020 20:14:10,,PB,38,13,-1,
 Odisha,2104,1245,9,850,01/06/2020 15:56:05,,OR,156,119,0,
 Assam,1391,186,4,1198,01/06/2020 17:15:09,3,AS,51,0,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
@@ -32,8 +32,8 @@ Tripura,321,173,0,148,01/06/2020 14:35:11,,TR,5,0,0,Two cases have migrated out 
 Chandigarh,294,200,4,90,01/06/2020 15:08:05,,CH,1,1,0,
 Manipur,78,11,0,67,01/06/2020 14:35:13,,MN,7,0,0,
 Ladakh,77,47,0,30,31/05/2020 18:43:08,,LA,0,0,0,
-Goa,71,44,0,27,31/05/2020 19:44:14,,GA,0,0,0,
-Puducherry,73,25,0,48,01/06/2020 20:13:13,,PY,3,0,0,
+Goa,73,44,0,29,01/06/2020 20:23:26,,GA,2,0,0,
+Puducherry,73,25,0,48,01/06/2020 20:14:13,,PY,3,0,0,
 Nagaland,43,0,0,43,31/05/2020 10:44:06,,NL,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,27,12,1,14,30/05/2020 11:12:07,,ML,0,0,0,
