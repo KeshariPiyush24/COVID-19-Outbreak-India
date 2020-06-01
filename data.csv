@@ -1,7 +1,7 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,192782,92474,5415,94882,01/06/2020 19:23:04,,TT,2134,612,8,
+Total,193208,93055,5437,94705,01/06/2020 19:35:03,,TT,2560,1193,30,
 Maharashtra,67655,29329,2286,36040,31/05/2020 20:53:04,,MH,0,0,0,
-Tamil Nadu,23495,12757,176,10562,01/06/2020 19:23:06,,TN,1162,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
+Tamil Nadu,23495,13170,187,10138,01/06/2020 19:35:06,,TN,1162,413,11,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,19844,8478,473,10893,31/05/2020 18:35:04,,DL,0,0,0,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
@@ -9,7 +9,7 @@ Gujarat,16794,9919,1038,5837,31/05/2020 21:29:04,,GJ,0,0,0,
 Rajasthan,8980,6043,198,2739,01/06/2020 12:52:20,,RJ,149,11,4,
 Madhya Pradesh,8089,4842,350,2897,31/05/2020 22:03:05,,MP,0,0,0,
 Uttar Pradesh,8075,4843,217,3015,31/05/2020 22:25:04,,UP,0,0,0,
-West Bengal,5501,2157,317,3027,31/05/2020 18:54:06,,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
+West Bengal,5772,2306,325,3141,01/06/2020 19:35:14,,WB,271,149,8,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>"
 State Unassigned,5630,0,0,5630,01/06/2020 09:35:06,,UN,139,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 Bihar,3872,1741,23,2108,01/06/2020 19:05:06,,BR,65,221,0,
@@ -18,7 +18,7 @@ AP district data updated to match state dashboard as of 27th May. "
 Karnataka,3408,1328,52,2026,01/06/2020 18:50:07,2,KA,187,110,1,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Telangana,2698,1428,82,1188,31/05/2020 22:14:06,,TG,0,0,0,
 Punjab,2263,1987,45,231,31/05/2020 19:54:04,,PB,0,0,0,
-Jammu and Kashmir,2446,927,28,1491,31/05/2020 20:04:04,,JK,0,0,0,
+Jammu and Kashmir,2601,946,31,1624,01/06/2020 19:35:36,,JK,155,19,3,
 Odisha,2104,1245,9,850,01/06/2020 15:56:05,,OR,156,119,0,
 Haryana,2091,1048,20,1023,31/05/2020 20:15:05,,HR,0,0,0,
 Kerala,1327,608,11,708,01/06/2020 18:25:49,,KL,57,18,1,Mahe native who expired in Kannur included in Kerala's tally
@@ -37,7 +37,7 @@ Puducherry,70,25,0,45,01/06/2020 06:16:26,,PY,0,0,0,
 Nagaland,43,0,0,43,31/05/2020 10:44:06,,NL,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,27,12,1,14,30/05/2020 11:12:07,,ML,0,0,0,
-Arunachal Pradesh,19,1,0,18,01/06/2020 19:23:10,,AR,15,0,0,
+Arunachal Pradesh,19,1,0,18,01/06/2020 19:24:09,,AR,15,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2,1,0,1,23/05/2020 23:47:25,,DN,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,,MZ,0,0,0,
 Sikkim,1,0,0,1,23/05/2020 19:42:35,,SK,0,0,0,
