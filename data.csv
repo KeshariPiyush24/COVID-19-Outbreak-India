@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,198343,95754,5608,96970,02/06/2020 00:35:03,,TT,7695,3892,201,
+Total,198370,95754,5608,96997,02/06/2020 01:03:03,,TT,7722,3892,201,
 Maharashtra,70013,30108,2362,37543,01/06/2020 21:47:24,,MH,2358,779,76,
 Tamil Nadu,23495,13170,187,10138,01/06/2020 19:46:07,,TN,1162,413,11,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,20834,8746,523,11565,01/06/2020 20:45:06,,DL,990,268,50,"[10-May]<br>
@@ -21,14 +21,14 @@ Jammu and Kashmir,2601,946,31,1624,01/06/2020 19:55:07,,JK,155,19,3,
 Haryana,2356,1055,21,1280,01/06/2020 20:35:08,,HR,265,7,1,
 Punjab,2301,2000,44,257,01/06/2020 20:14:10,,PB,38,13,-1,
 Odisha,2104,1245,9,850,01/06/2020 15:56:05,,OR,156,119,0,
-Assam,1464,285,4,1172,01/06/2020 23:43:06,3,AS,124,99,0,"Includes one case from Nagaland <br>
+Assam,1486,285,4,1194,02/06/2020 01:03:06,3,AS,146,99,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1327,608,11,708,01/06/2020 18:25:49,,KL,57,18,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,959,222,5,729,01/06/2020 21:34:11,3,UT,52,120,0,Three migrated cases reduced from Active count
 Jharkhand,661,296,5,360,02/06/2020 00:35:08,,JH,26,40,0,
 Chhattisgarh,548,121,1,426,01/06/2020 22:43:06,,CT,50,7,0,
 Himachal Pradesh,340,118,6,213,01/06/2020 21:30:08,3,HP,9,2,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Tripura,418,173,0,245,01/06/2020 23:43:08,,TR,102,0,0,Two cases have migrated out of Tripura.
+Tripura,423,173,0,250,02/06/2020 01:03:09,,TR,107,0,0,Two cases have migrated out of Tripura.
 Chandigarh,297,214,4,79,01/06/2020 21:47:27,,CH,4,15,0,
 Manipur,83,11,0,72,01/06/2020 21:34:15,,MN,12,0,0,
 Ladakh,77,47,0,30,31/05/2020 18:43:08,,LA,0,0,0,
