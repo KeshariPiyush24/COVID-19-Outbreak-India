@@ -1,7 +1,7 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,191620,92474,5415,93720,01/06/2020 19:12:04,,TT,972,612,8,
+Total,192782,92474,5415,94882,01/06/2020 19:23:04,,TT,2134,612,8,
 Maharashtra,67655,29329,2286,36040,31/05/2020 20:53:04,,MH,0,0,0,
-Tamil Nadu,22333,12757,176,9400,31/05/2020 19:03:06,,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
+Tamil Nadu,23495,12757,176,10562,01/06/2020 19:23:06,,TN,1162,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,19844,8478,473,10893,31/05/2020 18:35:04,,DL,0,0,0,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
@@ -37,7 +37,7 @@ Puducherry,70,25,0,45,01/06/2020 06:16:26,,PY,0,0,0,
 Nagaland,43,0,0,43,31/05/2020 10:44:06,,NL,0,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,27,12,1,14,30/05/2020 11:12:07,,ML,0,0,0,
-Arunachal Pradesh,19,1,0,18,01/06/2020 19:12:08,,AR,15,0,0,
+Arunachal Pradesh,19,1,0,18,01/06/2020 19:23:10,,AR,15,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2,1,0,1,23/05/2020 23:47:25,,DN,0,0,0,
 Mizoram,1,1,0,0,05/05/2020 22:32:47,,MZ,0,0,0,
 Sikkim,1,0,0,1,23/05/2020 19:42:35,,SK,0,0,0,
