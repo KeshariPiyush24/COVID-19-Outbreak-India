@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,199757,95854,5610,98282,02/06/2020 15:03:03,,TT,1387,100,2,
+Total,199757,95875,5612,98259,02/06/2020 15:15:03,,TT,1387,121,4,
 Maharashtra,70013,30108,2362,37543,01/06/2020 21:47:24,,MH,0,0,0,
 Tamil Nadu,23495,13170,187,10138,01/06/2020 19:46:07,,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,20834,8746,523,11565,01/06/2020 20:45:06,,DL,0,0,0,"[10-May]<br>
@@ -12,7 +12,7 @@ Uttar Pradesh,8361,5030,222,3109,01/06/2020 23:04:07,,UP,0,0,0,
 West Bengal,5772,2306,325,3141,01/06/2020 19:46:09,,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>"
 State Unassigned,6414,0,0,6414,02/06/2020 09:26:05,,UN,784,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
-Bihar,4049,1741,23,2285,02/06/2020 15:03:05,,BR,104,0,0,
+Bihar,4049,1741,23,2285,02/06/2020 15:04:05,,BR,104,0,0,
 Andhra Pradesh,3791,2414,64,1313,02/06/2020 12:39:05,,AP,115,40,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
 Karnataka,3408,1328,52,2026,01/06/2020 18:50:07,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
@@ -24,7 +24,7 @@ Odisha,2245,1245,9,991,02/06/2020 13:15:06,,OR,141,0,0,
 Assam,1486,285,4,1194,02/06/2020 01:14:06,3,AS,0,0,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1327,608,11,708,01/06/2020 18:25:49,,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,999,222,5,769,02/06/2020 15:03:12,3,UT,40,0,0,Three migrated cases reduced from Active count
+Uttarakhand,999,243,7,746,02/06/2020 15:15:07,3,UT,40,21,2,Three migrated cases reduced from Active count
 Jharkhand,675,296,5,374,02/06/2020 13:21:06,,JH,14,0,0,
 Chhattisgarh,548,121,1,426,01/06/2020 22:43:06,,CT,0,0,0,
 Himachal Pradesh,340,122,6,209,02/06/2020 13:21:07,3,HP,0,4,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
