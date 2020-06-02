@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,198370,95754,5608,96997,02/06/2020 01:14:03,,TT,0,0,0,
+Total,198382,95754,5608,97009,02/06/2020 09:03:03,,TT,12,0,0,
 Maharashtra,70013,30108,2362,37543,01/06/2020 21:47:24,,MH,0,0,0,
 Tamil Nadu,23495,13170,187,10138,01/06/2020 19:46:07,,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,20834,8746,523,11565,01/06/2020 20:45:06,,DL,0,0,0,"[10-May]<br>
@@ -39,6 +39,6 @@ Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,28,12,1,15,01/06/2020 23:26:18,,ML,0,0,0,
 Arunachal Pradesh,20,1,0,19,01/06/2020 22:14:10,,AR,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,3,1,0,2,01/06/2020 22:43:09,,DN,0,0,0,
-Mizoram,1,1,0,0,05/05/2020 22:32:47,,MZ,0,0,0,
+Mizoram,13,1,0,12,02/06/2020 09:03:06,,MZ,12,0,0,
 Sikkim,1,0,0,1,23/05/2020 19:42:35,,SK,0,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,,LD,0,0,0,
