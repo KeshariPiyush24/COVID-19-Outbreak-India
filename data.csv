@@ -1,14 +1,14 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,207085,100059,5822,101193,02/06/2020 22:35:03,,TT,8712,4305,214,
+Total,207085,100205,5829,101040,02/06/2020 22:43:03,,TT,8712,4451,221,
 Maharashtra,72300,31333,2465,38502,02/06/2020 21:44:06,,MH,2287,1225,103,
 Tamil Nadu,24586,13706,200,10680,02/06/2020 18:36:17,,TN,1091,536,13,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,22132,9243,556,12333,02/06/2020 22:24:06,,DL,1298,497,33,"[10-May]<br>
 
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,17632,11894,1092,4646,02/06/2020 21:07:06,,GJ,415,1114,29,
-Rajasthan,9373,6435,203,2735,02/06/2020 22:35:06,,RJ,273,222,4,
+Rajasthan,9373,6435,203,2735,02/06/2020 22:43:07,,RJ,273,222,4,
 Madhya Pradesh,8420,5221,364,2835,02/06/2020 20:23:07,,MP,137,218,6,
-Uttar Pradesh,8729,5030,222,3477,02/06/2020 22:35:08,,UP,368,0,0,
+Uttar Pradesh,8729,5176,229,3324,02/06/2020 22:43:10,,UP,368,146,7,
 West Bengal,6168,2410,335,3423,02/06/2020 20:35:05,,WB,396,104,10,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>"
 State Unassigned,6414,0,0,6414,02/06/2020 09:26:05,,UN,784,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
@@ -28,7 +28,7 @@ Uttarakhand,1043,252,7,781,02/06/2020 22:12:24,3,UT,84,30,2,Three migrated cases
 Jharkhand,675,296,5,374,02/06/2020 13:21:06,,JH,14,0,0,
 Chhattisgarh,556,130,1,425,02/06/2020 20:46:38,,CT,9,9,0,
 Himachal Pradesh,345,136,6,200,02/06/2020 21:52:06,3,HP,5,18,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Tripura,471,173,0,298,02/06/2020 22:35:12,,TR,48,0,0,Two cases have migrated out of Tripura.
+Tripura,471,173,0,298,02/06/2020 22:43:15,,TR,48,0,0,Two cases have migrated out of Tripura.
 Chandigarh,301,214,5,82,02/06/2020 17:55:14,,CH,4,0,1,
 Manipur,89,14,0,75,02/06/2020 21:15:38,,MN,6,3,0,
 Ladakh,81,47,1,33,02/06/2020 22:24:12,,LA,4,0,1,
