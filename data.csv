@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,201341,96563,5632,99135,02/06/2020 19:44:03,,TT,2969,809,24,
+Total,201341,96563,5632,99135,02/06/2020 19:53:04,,TT,2969,809,24,
 Maharashtra,70013,30108,2362,37543,01/06/2020 21:47:24,,MH,0,0,0,
 Tamil Nadu,24586,13706,200,10680,02/06/2020 18:36:17,,TN,1091,536,13,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,20834,8746,523,11565,01/06/2020 20:45:06,,DL,0,0,0,"[10-May]<br>
@@ -18,8 +18,8 @@ AP district data updated to match state dashboard as of 27th May. "
 Karnataka,3408,1328,52,2026,01/06/2020 18:50:07,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Telangana,2792,1491,88,1213,01/06/2020 21:24:05,,TG,0,0,0,
 Jammu and Kashmir,2601,946,31,1624,01/06/2020 19:55:07,,JK,0,0,0,
-Haryana,2652,1069,23,1560,02/06/2020 19:44:06,,HR,296,14,2,
-Punjab,2342,2017,46,279,02/06/2020 19:44:08,,PB,41,17,2,
+Haryana,2652,1069,23,1560,02/06/2020 19:53:06,,HR,296,14,2,
+Punjab,2342,2017,46,279,02/06/2020 19:53:09,,PB,41,17,2,
 Odisha,2245,1245,9,991,02/06/2020 13:15:06,,OR,141,0,0,
 Assam,1514,325,4,1182,02/06/2020 17:55:08,3,AS,28,40,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
@@ -37,7 +37,7 @@ Puducherry,79,25,0,54,01/06/2020 23:36:11,,PY,0,0,0,
 Nagaland,49,0,0,49,02/06/2020 10:24:05,,NL,6,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,30,12,1,17,02/06/2020 19:32:19,,ML,2,0,0,
-Arunachal Pradesh,22,1,0,21,02/06/2020 19:44:11,,AR,0,0,0,
+Arunachal Pradesh,22,1,0,21,02/06/2020 19:53:11,,AR,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,3,1,0,2,01/06/2020 22:43:09,,DN,0,0,0,
 Mizoram,13,1,0,12,02/06/2020 09:07:06,,MZ,12,0,0,
 Sikkim,1,0,0,1,23/05/2020 19:42:35,,SK,0,0,0,
