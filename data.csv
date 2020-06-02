@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,202860,98113,5679,99057,02/06/2020 21:13:03,,TT,4489,2359,71,
+Total,202860,98113,5679,99057,02/06/2020 21:15:32,,TT,4489,2359,71,
 Maharashtra,70013,30108,2362,37543,01/06/2020 21:47:24,,MH,0,0,0,
 Tamil Nadu,24586,13706,200,10680,02/06/2020 18:36:17,,TN,1091,536,13,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,20834,8746,523,11565,01/06/2020 20:45:06,,DL,0,0,0,"[10-May]<br>
@@ -21,7 +21,7 @@ Jammu and Kashmir,2718,953,33,1732,02/06/2020 20:35:07,,JK,117,7,2,
 Haryana,2652,1069,23,1560,02/06/2020 19:55:05,,HR,296,14,2,
 Punjab,2342,2017,46,279,02/06/2020 19:55:07,,PB,41,17,2,
 Odisha,2245,1245,9,991,02/06/2020 13:15:06,,OR,141,0,0,
-Assam,1514,338,4,1169,02/06/2020 21:13:06,3,AS,28,53,0,"Includes one case from Nagaland <br>
+Assam,1514,338,4,1169,02/06/2020 21:15:35,3,AS,28,53,0,"Includes one case from Nagaland <br>
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1413,627,12,774,02/06/2020 18:13:05,,KL,86,19,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,999,243,7,746,02/06/2020 15:24:06,3,UT,40,21,2,Three migrated cases reduced from Active count
@@ -30,7 +30,7 @@ Chhattisgarh,556,130,1,425,02/06/2020 20:46:38,,CT,9,9,0,
 Himachal Pradesh,345,124,6,212,02/06/2020 18:04:10,3,HP,5,6,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Tripura,446,173,0,273,02/06/2020 18:04:11,,TR,23,0,0,Two cases have migrated out of Tripura.
 Chandigarh,301,214,5,82,02/06/2020 17:55:14,,CH,4,0,1,
-Manipur,89,14,0,75,02/06/2020 21:13:08,,MN,6,3,0,
+Manipur,89,14,0,75,02/06/2020 21:15:38,,MN,6,3,0,
 Ladakh,81,47,0,34,02/06/2020 18:04:15,,LA,4,0,0,
 Goa,79,57,0,22,02/06/2020 20:16:17,,GA,6,7,0,
 Puducherry,79,25,0,54,01/06/2020 23:36:11,,PY,0,0,0,
