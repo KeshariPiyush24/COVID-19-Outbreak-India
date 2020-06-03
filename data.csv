@@ -1,9 +1,9 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,216426,103940,6087,106387,03/06/2020 21:43:03,,TT,9235,3655,258,
+Total,216427,103947,6087,106381,03/06/2020 21:53:03,,TT,9236,3662,258,
 Maharashtra,74860,32329,2587,39944,03/06/2020 20:46:04,,MH,2560,996,122,
 Tamil Nadu,25872,14316,208,11348,03/06/2020 20:36:05,,TN,1286,610,8,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,23645,9542,615,13488,03/06/2020 21:41:09,,DL,1513,299,59,"[10-May]
+Delhi,23645,9542,615,13488,03/06/2020 21:45:04,,DL,1513,299,59,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,18117,12212,1122,4783,03/06/2020 20:14:34,,GJ,485,318,30,
@@ -12,15 +12,15 @@ Uttar Pradesh,8729,5176,229,3324,02/06/2020 22:51:05,,UP,0,0,0,
 Madhya Pradesh,8588,5445,371,2772,03/06/2020 19:26:05,,MP,168,224,7,
 State Unassigned,7123,0,0,7123,03/06/2020 09:58:07,,UN,709,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 West Bengal,6508,2580,345,3583,03/06/2020 20:46:06,,WB,340,170,10,Deaths due to comorbidities added to total deceased
-Bihar,4326,2025,25,2276,03/06/2020 21:41:11,,BR,230,222,1,
+Bihar,4326,2025,25,2276,03/06/2020 21:45:06,,BR,230,222,1,
 Karnataka,4063,1514,53,2494,03/06/2020 19:45:05,2,KA,267,111,1,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Andhra Pradesh,3971,2464,68,1439,03/06/2020 13:53:05,,AP,180,50,4,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Telangana,3020,1556,99,1365,03/06/2020 20:57:14,,TG,129,30,7,
 Jammu and Kashmir,2857,1007,34,1816,03/06/2020 19:54:05,,JK,139,54,1,
-Haryana,2953,1082,23,1848,03/06/2020 21:43:06,,HR,301,13,0,
+Haryana,2954,1089,23,1842,03/06/2020 21:53:05,,HR,302,20,0,
 Odisha,2388,1416,9,963,03/06/2020 17:32:05,,OR,143,91,0,
 Punjab,2376,2029,47,300,03/06/2020 19:35:23,,PB,34,12,1,
-Assam,1757,414,4,1336,03/06/2020 21:41:13,3,AS,195,76,0,"Includes one case from Nagaland
+Assam,1757,414,4,1336,03/06/2020 21:45:10,3,AS,195,76,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1495,651,12,832,03/06/2020 18:36:23,,KL,82,24,0,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1066,259,8,795,03/06/2020 18:36:25,4,UT,23,7,1,Four migrated cases reduced from Active count
