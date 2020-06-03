@@ -1,16 +1,16 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,210097,101573,5875,102637,03/06/2020 20:12:03,,TT,2906,1288,46,
+Total,211770,102353,5892,103513,03/06/2020 20:23:03,,TT,4579,2068,63,
 Maharashtra,72300,31333,2465,38502,02/06/2020 21:44:06,,MH,0,0,0,
-Tamil Nadu,24586,13706,200,10680,02/06/2020 18:36:17,,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,25872,14316,208,11348,03/06/2020 20:23:04,,TN,1286,610,8,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,22132,9243,556,12333,02/06/2020 22:24:06,,DL,0,0,0,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Gujarat,18117,12212,1122,4783,03/06/2020 20:12:04,,GJ,485,318,30,
+Gujarat,18117,12212,1122,4783,03/06/2020 20:14:34,,GJ,485,318,30,
 Rajasthan,9475,6506,203,2766,03/06/2020 12:26:05,,RJ,102,71,0,
 Uttar Pradesh,8729,5176,229,3324,02/06/2020 22:51:05,,UP,0,0,0,
 Madhya Pradesh,8588,5445,371,2772,03/06/2020 19:26:05,,MP,168,224,7,
 State Unassigned,7123,0,0,7123,03/06/2020 09:58:07,,UN,709,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
-West Bengal,6168,2410,335,3423,02/06/2020 20:35:05,,WB,0,0,0,Deaths due to comorbidities added to total deceased
+West Bengal,6508,2580,344,3584,03/06/2020 20:23:06,,WB,340,170,9,Deaths due to comorbidities added to total deceased
 Bihar,4273,2025,25,2223,03/06/2020 19:05:11,,BR,177,222,1,
 Karnataka,4063,1514,53,2494,03/06/2020 19:45:05,2,KA,267,111,1,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Andhra Pradesh,3971,2464,68,1439,03/06/2020 13:53:05,,AP,180,50,4,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -31,11 +31,11 @@ Chandigarh,301,214,5,82,02/06/2020 17:55:14,,CH,0,0,0,
 Ladakh,90,48,1,41,03/06/2020 18:25:13,,LA,9,1,0,
 Manipur,89,14,0,75,02/06/2020 21:15:38,,MN,0,0,0,
 Puducherry,88,30,0,58,03/06/2020 14:45:08,,PY,9,5,0,
-Goa,79,57,0,22,02/06/2020 20:16:17,,GA,0,0,0,
+Goa,126,57,0,69,03/06/2020 20:23:09,,GA,47,0,0,
 Nagaland,58,0,0,58,03/06/2020 09:46:06,,NL,9,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,31,13,1,17,02/06/2020 19:32:19,,ML,1,1,0,
-Arunachal Pradesh,29,1,0,28,03/06/2020 20:12:07,,AR,1,0,0,
+Arunachal Pradesh,29,1,0,28,03/06/2020 20:14:37,,AR,1,0,0,
 Mizoram,14,1,0,13,03/06/2020 19:26:12,,MZ,1,0,0,
 Dadra and Nagar Haveli and Daman and Diu,4,1,0,3,03/06/2020 09:58:10,,DN,1,0,0,
 Sikkim,2,0,0,2,03/06/2020 19:08:18,,SK,1,0,0,
