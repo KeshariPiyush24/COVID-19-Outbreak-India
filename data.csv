@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,207910,100285,5829,101785,03/06/2020 09:53:03,,TT,719,0,0,
+Total,207910,100285,5829,101785,03/06/2020 09:58:03,,TT,719,0,0,
 Maharashtra,72300,31333,2465,38502,02/06/2020 21:44:06,,MH,0,0,0,
 Tamil Nadu,24586,13706,200,10680,02/06/2020 18:36:17,,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
 Delhi,22132,9243,556,12333,02/06/2020 22:24:06,,DL,0,0,0,"[10-May]<br>
@@ -11,7 +11,7 @@ Madhya Pradesh,8420,5221,364,2835,02/06/2020 20:23:07,,MP,0,0,0,
 Uttar Pradesh,8729,5176,229,3324,02/06/2020 22:51:05,,UP,0,0,0,
 West Bengal,6168,2410,335,3423,02/06/2020 20:35:05,,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
 - Deaths due to comorbidities added to total deceased<br>"
-State Unassigned,7123,0,0,7123,03/06/2020 09:53:05,,UN,709,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
+State Unassigned,7123,0,0,7123,03/06/2020 09:58:07,,UN,709,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 Bihar,4096,1803,24,2269,02/06/2020 21:07:08,,BR,0,0,0,
 Andhra Pradesh,3791,2414,64,1313,02/06/2020 12:39:05,,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
 AP district data updated to match state dashboard as of 27th May. "
@@ -38,7 +38,7 @@ Nagaland,58,0,0,58,03/06/2020 09:46:06,,NL,9,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,30,12,1,17,02/06/2020 19:32:19,,ML,0,0,0,
 Arunachal Pradesh,28,1,0,27,02/06/2020 23:45:17,,AR,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,4,1,0,3,03/06/2020 09:53:08,,DN,1,0,0,
+Dadra and Nagar Haveli and Daman and Diu,4,1,0,3,03/06/2020 09:58:10,,DN,1,0,0,
 Mizoram,13,1,0,12,02/06/2020 09:07:06,,MZ,0,0,0,
 Sikkim,1,0,0,1,23/05/2020 19:42:35,,SK,0,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,,LD,0,0,0,
