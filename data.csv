@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,214664,103641,6028,104983,03/06/2020 21:16:03,,TT,7473,3356,199,
+Total,214664,103641,6028,104983,03/06/2020 21:23:03,,TT,7473,3356,199,
 Maharashtra,74860,32329,2587,39944,03/06/2020 20:46:04,,MH,2560,996,122,
 Tamil Nadu,25872,14316,208,11348,03/06/2020 20:36:05,,TN,1286,610,8,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,22132,9243,556,12333,02/06/2020 22:24:06,,DL,0,0,0,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,18117,12212,1122,4783,03/06/2020 20:14:34,,GJ,485,318,30,
-Rajasthan,9652,6744,209,2699,03/06/2020 21:16:04,,RJ,279,309,6,
+Rajasthan,9652,6744,209,2699,03/06/2020 21:23:04,,RJ,279,309,6,
 Uttar Pradesh,8729,5176,229,3324,02/06/2020 22:51:05,,UP,0,0,0,
 Madhya Pradesh,8588,5445,371,2772,03/06/2020 19:26:05,,MP,168,224,7,
 State Unassigned,7123,0,0,7123,03/06/2020 09:58:07,,UN,709,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
@@ -29,14 +29,14 @@ Tripura,520,173,0,347,03/06/2020 16:04:06,,TR,49,0,0,
 Himachal Pradesh,357,144,6,204,03/06/2020 19:05:17,3,HP,12,8,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,301,214,5,82,02/06/2020 17:55:14,,CH,0,0,0,
 Ladakh,90,48,1,41,03/06/2020 18:25:13,,LA,9,1,0,
-Manipur,108,38,0,70,03/06/2020 21:16:07,,MN,19,24,0,
+Manipur,108,38,0,70,03/06/2020 21:17:07,,MN,19,24,0,
 Puducherry,88,30,0,58,03/06/2020 14:45:08,,PY,9,5,0,
 Goa,126,57,0,69,03/06/2020 20:36:10,,GA,47,0,0,
 Nagaland,58,0,0,58,03/06/2020 09:46:06,,NL,9,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
-Meghalaya,33,13,1,19,03/06/2020 21:16:09,,ML,3,1,0,
+Meghalaya,33,13,1,19,03/06/2020 21:17:10,,ML,3,1,0,
 Arunachal Pradesh,29,1,0,28,03/06/2020 20:14:37,,AR,1,0,0,
 Mizoram,14,1,0,13,03/06/2020 19:26:12,,MZ,1,0,0,
-Dadra and Nagar Haveli and Daman and Diu,11,1,0,10,03/06/2020 21:16:11,,DN,8,0,0,
+Dadra and Nagar Haveli and Daman and Diu,11,1,0,10,03/06/2020 21:23:10,,DN,8,0,0,
 Sikkim,2,0,0,2,03/06/2020 19:08:18,,SK,1,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,,LD,0,0,0,
