@@ -1,37 +1,35 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,208718,100578,5834,102295,03/06/2020 18:13:03,,TT,1527,293,5,
+Total,208800,100602,5834,102352,03/06/2020 18:23:03,,TT,1609,317,5,
 Maharashtra,72300,31333,2465,38502,02/06/2020 21:44:06,,MH,0,0,0,
-Tamil Nadu,24586,13706,200,10680,02/06/2020 18:36:17,,TN,0,0,0,2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu
-Delhi,22132,9243,556,12333,02/06/2020 22:24:06,,DL,0,0,0,"[10-May]<br>
-
+Tamil Nadu,24586,13706,200,10680,02/06/2020 18:36:17,,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
+1 patient died after turning negative for infection in Chengalpattu"
+Delhi,22132,9243,556,12333,02/06/2020 22:24:06,,DL,0,0,0,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,17632,11894,1092,4646,02/06/2020 21:07:06,,GJ,0,0,0,
 Rajasthan,9475,6506,203,2766,03/06/2020 12:26:05,,RJ,102,71,0,
 Madhya Pradesh,8420,5221,364,2835,02/06/2020 20:23:07,,MP,0,0,0,
 Uttar Pradesh,8729,5176,229,3324,02/06/2020 22:51:05,,UP,0,0,0,
-West Bengal,6168,2410,335,3423,02/06/2020 20:35:05,,WB,0,0,0,"- Cases updated as per WB bulletin.<br>
-- Deaths due to comorbidities added to total deceased<br>"
+West Bengal,6168,2410,335,3423,02/06/2020 20:35:05,,WB,0,0,0,Deaths due to comorbidities added to total deceased
 State Unassigned,7123,0,0,7123,03/06/2020 09:58:07,,UN,709,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 Bihar,4273,1803,24,2446,03/06/2020 17:03:06,,BR,177,0,0,
-Andhra Pradesh,3971,2464,68,1439,03/06/2020 13:53:05,,AP,180,50,4,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin. <br>
-AP district data updated to match state dashboard as of 27th May. "
+Andhra Pradesh,3971,2464,68,1439,03/06/2020 13:53:05,,AP,180,50,4,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,3796,1403,52,2339,02/06/2020 20:56:06,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Telangana,2891,1526,92,1273,02/06/2020 22:24:09,,TG,0,0,0,
 Jammu and Kashmir,2718,953,33,1732,02/06/2020 20:35:07,,JK,0,0,0,
 Haryana,2652,1069,23,1560,02/06/2020 19:55:05,,HR,0,0,0,
 Punjab,2342,2017,46,279,02/06/2020 19:55:07,,PB,0,0,0,
 Odisha,2388,1416,9,963,03/06/2020 17:32:05,,OR,143,91,0,
-Assam,1673,405,4,1261,03/06/2020 18:00:06,3,AS,111,67,0,"Includes one case from Nagaland <br>
+Assam,1673,405,4,1261,03/06/2020 18:00:06,3,AS,111,67,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
-Kerala,1413,627,12,774,02/06/2020 18:13:05,,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,1066,259,8,796,03/06/2020 15:32:06,3,UT,23,7,1,Three migrated cases reduced from Active count
+Kerala,1495,651,12,832,03/06/2020 18:23:05,,KL,82,24,0,Mahe native who expired in Kannur included in Kerala's tally
+Uttarakhand,1066,259,8,795,03/06/2020 18:23:07,4,UT,23,7,1,Four migrated cases reduced from Active count
 Jharkhand,726,296,5,425,03/06/2020 16:25:05,,JH,4,0,0,
 Chhattisgarh,564,130,1,433,03/06/2020 05:35:06,,CT,0,0,0,
 Himachal Pradesh,345,136,6,200,02/06/2020 21:52:06,3,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Tripura,520,173,0,347,03/06/2020 16:04:06,,TR,49,0,0,Two cases have migrated out of Tripura.
+Tripura,520,173,0,347,03/06/2020 16:04:06,,TR,49,0,0,
 Chandigarh,301,214,5,82,02/06/2020 17:55:14,,CH,0,0,0,
 Manipur,89,14,0,75,02/06/2020 21:15:38,,MN,0,0,0,
-Ladakh,90,48,1,41,03/06/2020 18:13:05,,LA,9,1,0,
+Ladakh,90,48,1,41,03/06/2020 18:16:07,,LA,9,1,0,
 Goa,79,57,0,22,02/06/2020 20:16:17,,GA,0,0,0,
 Puducherry,88,30,0,58,03/06/2020 14:45:08,,PY,9,5,0,
 Nagaland,58,0,0,58,03/06/2020 09:46:06,,NL,9,0,0,
