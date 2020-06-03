@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,216714,104070,6088,106544,03/06/2020 23:35:03,,TT,9526,3785,259,
+Total,216752,104071,6088,106581,03/06/2020 23:43:03,,TT,9564,3786,259,
 Maharashtra,74860,32329,2587,39944,03/06/2020 20:46:04,,MH,2560,996,122,
 Tamil Nadu,25872,14316,208,11348,03/06/2020 20:36:05,,TN,1286,610,8,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -24,8 +24,8 @@ Assam,1831,414,4,1410,03/06/2020 23:23:07,3,AS,269,76,0,"Includes one case from 
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1495,651,12,832,03/06/2020 18:36:23,,KL,82,24,0,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1066,259,8,795,03/06/2020 18:36:25,4,UT,23,7,1,Four migrated cases reduced from Active count
-Jharkhand,726,296,5,425,03/06/2020 16:25:05,,JH,4,0,0,
-Chhattisgarh,626,170,1,455,03/06/2020 23:35:07,,CT,64,40,0,
+Jharkhand,764,297,5,462,03/06/2020 23:43:06,,JH,42,1,0,
+Chhattisgarh,626,170,1,455,03/06/2020 23:38:22,,CT,64,40,0,
 Tripura,520,173,0,347,03/06/2020 16:04:06,,TR,49,0,0,
 Himachal Pradesh,359,146,6,204,03/06/2020 22:01:05,3,HP,14,10,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,301,214,5,82,02/06/2020 17:55:14,,CH,0,0,0,
@@ -36,7 +36,7 @@ Goa,126,57,0,69,03/06/2020 20:36:10,,GA,47,0,0,
 Nagaland,58,0,0,58,03/06/2020 09:46:06,,NL,9,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,33,13,1,19,03/06/2020 21:17:10,,ML,3,1,0,
-Arunachal Pradesh,37,1,0,36,03/06/2020 23:35:13,,AR,10,0,0,
+Arunachal Pradesh,37,1,0,36,03/06/2020 23:38:26,,AR,10,0,0,
 Mizoram,14,1,0,13,03/06/2020 19:26:12,,MZ,1,0,0,
 Dadra and Nagar Haveli and Daman and Diu,11,1,0,10,03/06/2020 21:23:10,,DN,8,0,0,
 Sikkim,2,0,0,2,03/06/2020 19:08:18,,SK,1,0,0,
