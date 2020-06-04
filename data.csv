@@ -1,7 +1,7 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,220733,105609,6153,108959,04/06/2020 20:03:03,,TT,3907,1545,64,
+Total,220733,105609,6145,108967,04/06/2020 20:15:20,,TT,3907,1545,56,
 Maharashtra,74860,32329,2587,39944,03/06/2020 20:46:04,,MH,0,0,0,
-Tamil Nadu,27259,14894,231,12134,04/06/2020 20:03:05,,TN,1387,578,23,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,27256,14894,223,12139,04/06/2020 20:14:10,,TN,1384,578,15,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,23645,9542,615,13488,03/06/2020 21:45:04,,DL,0,0,0,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
@@ -19,7 +19,7 @@ Telangana,3020,1556,99,1365,03/06/2020 20:57:14,,TG,0,0,0,
 Jammu and Kashmir,2857,1007,34,1816,03/06/2020 19:54:05,,JK,0,0,0,
 Haryana,3281,1123,24,2134,04/06/2020 19:57:11,,HR,327,34,1,
 Odisha,2478,1481,9,988,04/06/2020 16:46:05,,OR,90,65,0,
-Punjab,2411,2047,47,317,04/06/2020 20:03:08,,PB,35,18,0,
+Punjab,2411,2047,47,317,04/06/2020 20:14:04,,PB,35,18,0,
 Assam,1989,443,4,1539,04/06/2020 18:58:30,3,AS,158,29,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1589,690,15,884,04/06/2020 18:58:33,,KL,94,39,3,Mahe native who expired in Kannur included in Kerala's tally
@@ -30,7 +30,7 @@ Tripura,573,173,0,400,04/06/2020 01:28:07,,TR,0,0,0,
 Himachal Pradesh,369,163,6,197,04/06/2020 19:06:22,3,HP,10,17,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,302,222,5,75,04/06/2020 16:48:08,,CH,1,8,0,
 Ladakh,90,48,1,41,03/06/2020 18:25:13,,LA,0,0,0,
-Manipur,121,38,0,83,04/06/2020 13:44:10,,MN,13,0,0,
+Manipur,124,38,0,86,04/06/2020 20:14:35,,MN,16,0,0,
 Puducherry,90,33,0,57,04/06/2020 15:04:16,,PY,0,0,0,
 Goa,126,57,0,69,03/06/2020 20:36:10,,GA,0,0,0,
 Nagaland,80,0,0,80,04/06/2020 11:40:22,,NL,22,0,0,
