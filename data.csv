@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,217648,104155,6091,107390,04/06/2020 14:31:07,,TT,824,84,3,
+Total,217709,104158,6091,107448,04/06/2020 14:53:03,,TT,883,84,3,
 Maharashtra,74860,32329,2587,39944,03/06/2020 20:46:04,,MH,0,0,0,
 Tamil Nadu,25872,14316,208,11348,03/06/2020 20:36:05,,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -23,7 +23,7 @@ Punjab,2376,2029,47,300,03/06/2020 19:35:23,,PB,0,0,0,
 Assam,1878,414,4,1457,04/06/2020 12:55:08,3,AS,47,0,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1495,651,12,832,03/06/2020 18:36:23,,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,1085,259,8,814,04/06/2020 02:13:05,4,UT,0,0,0,Four migrated cases reduced from Active count
+Uttarakhand,1144,259,8,873,04/06/2020 14:53:06,4,UT,59,0,0,Four migrated cases reduced from Active count
 Jharkhand,764,297,5,462,03/06/2020 23:55:06,,JH,0,0,0,
 Chhattisgarh,678,189,1,488,04/06/2020 12:42:31,,CT,52,19,0,
 Tripura,573,173,0,400,04/06/2020 01:28:07,,TR,0,0,0,
@@ -31,7 +31,7 @@ Himachal Pradesh,361,146,6,206,04/06/2020 12:42:33,3,HP,2,0,0,"HP has 4 Migrated
 Chandigarh,301,214,5,82,02/06/2020 17:55:14,,CH,0,0,0,
 Ladakh,90,48,1,41,03/06/2020 18:25:13,,LA,0,0,0,
 Manipur,121,38,0,83,04/06/2020 13:44:10,,MN,13,0,0,
-Puducherry,88,30,0,58,03/06/2020 14:45:08,,PY,0,0,0,
+Puducherry,90,33,0,57,04/06/2020 14:53:08,,PY,0,0,0,
 Goa,126,57,0,69,03/06/2020 20:36:10,,GA,0,0,0,
 Nagaland,80,0,0,80,04/06/2020 11:40:22,,NL,22,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
