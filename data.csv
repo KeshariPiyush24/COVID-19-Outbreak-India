@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,234018,112332,6588,115086,05/06/2020 20:52:46,,TT,7296,3878,225,
+Total,234163,112340,6588,115223,05/06/2020 21:02:46,,TT,7441,3886,225,
 Maharashtra,80229,35156,2849,42224,05/06/2020 20:46:47,,MH,2436,1475,139,
 Tamil Nadu,28694,15762,235,12697,05/06/2020 18:40:47,,TN,1438,861,12,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -15,8 +15,8 @@ West Bengal,7303,2912,366,4025,05/06/2020 19:42:47,,WB,427,144,11,Deaths due to 
 Bihar,4551,2233,29,2289,05/06/2020 17:54:47,,BR,99,113,1,
 Karnataka,4835,1693,57,3083,05/06/2020 18:40:49,2,KA,515,83,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Andhra Pradesh,4250,2565,73,1612,05/06/2020 13:25:05,,AP,138,36,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Telangana,3290,1627,113,1550,04/06/2020 21:55:10,,TG,143,40,8,
-Jammu and Kashmir,3209,1086,36,2087,05/06/2020 20:52:47,,JK,67,38,1,
+Telangana,3290,1627,113,1550,05/06/2020 21:02:47,,TG,143,40,8,
+Jammu and Kashmir,3324,1086,36,2202,05/06/2020 21:02:49,,JK,182,38,1,
 Haryana,3597,1209,24,2364,05/06/2020 20:46:50,,HR,316,86,0,
 Odisha,2608,1604,10,994,05/06/2020 17:54:48,,OR,130,123,1,
 Punjab,2461,2069,48,344,05/06/2020 19:11:48,,PB,46,26,1,
@@ -25,18 +25,18 @@ Total of three* patients who migrated to other states has been reduced from Acti
 Kerala,1700,712,15,973,05/06/2020 18:24:47,,KL,111,22,0,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1215,344,11,856,05/06/2020 20:32:55,4,UT,62,47,1,Four migrated cases reduced from Active count
 Jharkhand,889,435,7,447,05/06/2020 10:55:06,,JH,62,69,1,
-Chhattisgarh,790,206,2,582,05/06/2020 20:52:49,,CT,17,0,0,
+Chhattisgarh,790,206,2,582,05/06/2020 20:54:49,,CT,17,0,0,
 Tripura,646,173,0,473,04/06/2020 23:03:09,,TR,0,0,0,
 Himachal Pradesh,389,183,6,197,05/06/2020 18:14:53,3,HP,6,8,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,309,273,5,31,05/06/2020 20:32:57,,CH,7,51,0,
 Ladakh,97,48,1,48,05/06/2020 18:02:49,,LA,3,0,0,
 Manipur,132,38,0,94,05/06/2020 19:42:50,,MN,8,0,0,
 Puducherry,104,43,0,61,05/06/2020 13:44:37,,PY,5,6,0,
-Goa,166,57,0,109,04/06/2020 22:06:20,,GA,0,0,0,
+Goa,196,65,0,131,05/06/2020 21:02:50,,GA,30,8,0,
 Nagaland,94,0,0,94,05/06/2020 09:36:08,,NL,14,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,33,13,1,19,03/06/2020 21:17:10,,ML,0,0,0,
-Arunachal Pradesh,44,1,0,43,05/06/2020 20:52:50,,AR,2,0,0,
+Arunachal Pradesh,44,1,0,43,05/06/2020 21:02:52,,AR,2,0,0,
 Mizoram,22,1,0,21,05/06/2020 09:36:11,,MZ,5,0,0,
 Dadra and Nagar Haveli and Daman and Diu,14,1,0,13,05/06/2020 01:29:05,,DN,0,0,0,
 Sikkim,2,0,0,2,03/06/2020 19:08:18,,SK,0,0,0,
