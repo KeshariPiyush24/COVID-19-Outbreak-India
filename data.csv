@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,226713,108450,6363,111888,05/06/2020 01:29:03,,TT,0,0,0,
+Total,226859,108450,6363,112034,05/06/2020 09:23:03,,TT,146,0,0,
 Maharashtra,77793,33681,2710,41402,04/06/2020 20:56:07,,MH,0,0,0,
 Tamil Nadu,27256,14901,223,12132,04/06/2020 20:48:16,,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -10,7 +10,7 @@ Gujarat,18609,12667,1155,4787,04/06/2020 20:26:08,,GJ,0,0,0,
 Rajasthan,9862,7104,213,2545,04/06/2020 23:03:04,,RJ,0,0,0,
 Uttar Pradesh,9237,5439,245,3553,04/06/2020 19:36:17,,UP,0,0,0,
 Madhya Pradesh,8762,5637,377,2748,04/06/2020 22:06:06,,MP,0,0,0,
-State Unassigned,7483,0,0,7483,04/06/2020 09:32:07,,UN,0,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
+State Unassigned,7610,0,0,7610,05/06/2020 09:23:06,,UN,127,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 West Bengal,6876,2768,355,3753,04/06/2020 19:55:08,,WB,0,0,0,Deaths due to comorbidities added to total deceased
 Bihar,4452,2120,28,2304,04/06/2020 22:16:06,,BR,0,0,0,
 Karnataka,4320,1610,57,2651,04/06/2020 19:36:21,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
@@ -33,11 +33,11 @@ Ladakh,94,48,1,45,04/06/2020 21:07:06,,LA,0,0,0,
 Manipur,124,38,0,86,04/06/2020 20:48:21,,MN,0,0,0,
 Puducherry,90,33,0,57,04/06/2020 15:04:16,,PY,0,0,0,
 Goa,166,57,0,109,04/06/2020 22:06:20,,GA,0,0,0,
-Nagaland,80,0,0,80,04/06/2020 11:40:22,,NL,0,0,0,
+Nagaland,94,0,0,94,05/06/2020 09:23:10,,NL,14,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,33,13,1,19,03/06/2020 21:17:10,,ML,0,0,0,
 Arunachal Pradesh,42,1,0,41,04/06/2020 23:03:11,,AR,0,0,0,
-Mizoram,17,1,0,16,04/06/2020 08:12:36,,MZ,0,0,0,
+Mizoram,22,1,0,21,05/06/2020 09:23:12,,MZ,5,0,0,
 Dadra and Nagar Haveli and Daman and Diu,14,1,0,13,05/06/2020 01:29:05,,DN,0,0,0,
 Sikkim,2,0,0,2,03/06/2020 19:08:18,,SK,0,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,,LD,0,0,0,
