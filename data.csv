@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,235544,112757,6637,116138,05/06/2020 21:35:46,,TT,8822,4303,274,
+Total,235544,112757,6637,116138,05/06/2020 21:40:46,,TT,8822,4303,274,
 Maharashtra,80229,35156,2849,42224,05/06/2020 20:46:47,,MH,2436,1475,139,
 Tamil Nadu,28694,15762,235,12697,05/06/2020 18:40:47,,TN,1438,861,12,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -7,7 +7,7 @@ Delhi,26334,10315,708,15311,05/06/2020 21:19:47,,DL,1330,417,49,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,19119,13011,1190,4918,05/06/2020 20:23:48,,GJ,510,344,35,
-Rajasthan,9934,7162,213,2559,05/06/2020 21:34:47,,RJ,72,58,0,
+Rajasthan,9934,7162,213,2559,05/06/2020 21:40:47,,RJ,72,58,0,
 Uttar Pradesh,9733,5648,257,3828,05/06/2020 20:12:49,,UP,496,209,12,
 Madhya Pradesh,8762,5637,377,2748,04/06/2020 22:06:06,,MP,0,0,0,
 State Unassigned,7610,0,0,7610,05/06/2020 09:36:05,,UN,127,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
@@ -18,7 +18,7 @@ Andhra Pradesh,4250,2565,73,1612,05/06/2020 13:25:05,,AP,138,36,2,"Total include
 Telangana,3290,1627,113,1550,05/06/2020 21:02:47,,TG,143,40,8,
 Jammu and Kashmir,3324,1086,36,2202,05/06/2020 21:14:51,,JK,182,38,1,
 Haryana,3597,1209,24,2364,05/06/2020 20:46:50,,HR,316,86,0,
-Odisha,2608,1604,10,994,05/06/2020 17:54:48,,OR,130,123,1,
+Odisha,2608,1604,10,994,05/06/2020 17:54:48,,OR,130,123,1,Two non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,2461,2069,48,344,05/06/2020 19:11:48,,PB,46,26,1,
 Assam,2154,499,4,1648,05/06/2020 19:42:49,3,AS,38,39,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
