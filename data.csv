@@ -1,9 +1,9 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,234163,112340,6588,115223,05/06/2020 21:02:46,,TT,7441,3886,225,
+Total,235540,112757,6637,116134,05/06/2020 21:19:46,,TT,8818,4303,274,
 Maharashtra,80229,35156,2849,42224,05/06/2020 20:46:47,,MH,2436,1475,139,
 Tamil Nadu,28694,15762,235,12697,05/06/2020 18:40:47,,TN,1438,861,12,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,25004,9898,659,14447,04/06/2020 22:49:13,,DL,0,0,0,"[10-May]
+Delhi,26334,10315,708,15311,05/06/2020 21:19:47,,DL,1330,417,49,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,19119,13011,1190,4918,05/06/2020 20:23:48,,GJ,510,344,35,
@@ -12,11 +12,11 @@ Uttar Pradesh,9733,5648,257,3828,05/06/2020 20:12:49,,UP,496,209,12,
 Madhya Pradesh,8762,5637,377,2748,04/06/2020 22:06:06,,MP,0,0,0,
 State Unassigned,7610,0,0,7610,05/06/2020 09:36:05,,UN,127,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 West Bengal,7303,2912,366,4025,05/06/2020 19:42:47,,WB,427,144,11,Deaths due to comorbidities added to total deceased
-Bihar,4551,2233,29,2289,05/06/2020 17:54:47,,BR,99,113,1,
+Bihar,4598,2233,29,2336,05/06/2020 21:19:48,,BR,146,113,1,
 Karnataka,4835,1693,57,3083,05/06/2020 18:40:49,2,KA,515,83,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Andhra Pradesh,4250,2565,73,1612,05/06/2020 13:25:05,,AP,138,36,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Telangana,3290,1627,113,1550,05/06/2020 21:02:47,,TG,143,40,8,
-Jammu and Kashmir,3324,1086,36,2202,05/06/2020 21:02:49,,JK,182,38,1,
+Jammu and Kashmir,3324,1086,36,2202,05/06/2020 21:14:51,,JK,182,38,1,
 Haryana,3597,1209,24,2364,05/06/2020 20:46:50,,HR,316,86,0,
 Odisha,2608,1604,10,994,05/06/2020 17:54:48,,OR,130,123,1,
 Punjab,2461,2069,48,344,05/06/2020 19:11:48,,PB,46,26,1,
@@ -32,7 +32,7 @@ Chandigarh,309,273,5,31,05/06/2020 20:32:57,,CH,7,51,0,
 Ladakh,97,48,1,48,05/06/2020 18:02:49,,LA,3,0,0,
 Manipur,132,38,0,94,05/06/2020 19:42:50,,MN,8,0,0,
 Puducherry,104,43,0,61,05/06/2020 13:44:37,,PY,5,6,0,
-Goa,196,65,0,131,05/06/2020 21:02:50,,GA,30,8,0,
+Goa,196,65,0,131,05/06/2020 21:14:53,,GA,30,8,0,
 Nagaland,94,0,0,94,05/06/2020 09:36:08,,NL,14,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,,AN,0,0,0,
 Meghalaya,33,13,1,19,03/06/2020 21:17:10,,ML,0,0,0,
