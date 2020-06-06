@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,239644,114508,6672,118451,06/06/2020 18:42:46,13,TT,3543,1300,23,
-Maharashtra,80229,35156,2849,42224,06/06/2020 16:06:47,0,MH,0,0,0,
+Total,239717,114507,6672,118525,06/06/2020 19:23:46,13,TT,3616,1308,23,
+Maharashtra,80229,35147,2849,42233,06/06/2020 19:22:51,0,MH,0,0,0,
 Tamil Nadu,30172,16395,254,13523,06/06/2020 18:42:47,0,TN,1478,633,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,26334,10315,708,15311,05/06/2020 21:19:47,0,DL,0,0,0,"[10-May]
@@ -20,7 +20,7 @@ Jammu and Kashmir,3324,1086,36,2202,05/06/2020 21:14:51,0,JK,0,0,0,
 Haryana,3781,1215,24,2542,06/06/2020 16:05:48,0,HR,184,6,0,
 Odisha,2781,1716,10,1055,06/06/2020 15:44:47,0,OR,173,112,0,Two non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,2461,2069,48,344,05/06/2020 19:11:48,0,PB,0,0,0,
-Assam,2325,548,4,1770,06/06/2020 16:05:50,3,AS,81,38,0,"Includes one case from Nagaland
+Assam,2398,548,4,1843,06/06/2020 16:05:50,3,AS,154,38,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1808,762,16,1030,06/06/2020 18:13:49,0,KL,108,50,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1245,422,11,807,06/06/2020 16:54:47,5,UT,30,78,0,Four migrated cases reduced from Active count
@@ -33,7 +33,7 @@ Ladakh,97,48,1,48,05/06/2020 18:02:49,0,LA,0,0,0,
 Manipur,143,52,0,91,06/06/2020 16:59:49,0,MN,11,14,0,
 Puducherry,107,48,0,59,06/06/2020 16:59:50,0,PY,3,5,0,
 Goa,196,65,0,131,05/06/2020 21:14:53,0,GA,0,0,0,
-Nagaland,107,0,0,107,06/06/2020 09:21:49,0,NL,13,0,0,
+Nagaland,107,8,0,99,06/06/2020 19:20:54,0,NL,13,8,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,0,AN,0,0,0,
 Meghalaya,33,13,1,19,03/06/2020 21:17:10,0,ML,0,0,0,
 Arunachal Pradesh,46,1,0,45,06/06/2020 01:20:51,0,AR,0,0,0,
