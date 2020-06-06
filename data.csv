@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,246530,118592,6946,120979,07/06/2020 00:04:46,13,TT,10429,5387,297,
+Total,246532,118594,6946,120979,07/06/2020 01:02:47,13,TT,10431,5389,297,
 Maharashtra,82968,37390,2969,42609,06/06/2020 20:53:47,0,MH,2739,2243,120,
 Tamil Nadu,30172,16395,254,13523,06/06/2020 18:42:47,0,TN,1478,633,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -27,7 +27,7 @@ Uttarakhand,1303,422,11,865,06/06/2020 23:13:49,5,UT,88,78,0,Four migrated cases
 Jharkhand,938,410,7,521,06/06/2020 17:53:51,0,JH,95,0,0,
 Chhattisgarh,923,259,4,660,06/06/2020 20:53:49,0,CT,60,22,2,
 Tripura,749,173,0,576,06/06/2020 23:03:52,0,TR,55,0,0,
-Himachal Pradesh,398,188,6,201,06/06/2020 17:53:52,3,HP,4,3,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,400,190,6,201,07/06/2020 01:02:49,3,HP,6,5,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,312,273,5,34,06/06/2020 23:03:53,0,CH,3,0,0,
 Goa,267,65,0,202,06/06/2020 20:04:50,0,GA,71,0,0,
 Manipur,157,52,0,105,06/06/2020 19:42:50,0,MN,25,14,0,
