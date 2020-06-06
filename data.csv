@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,237680,113545,6650,117472,06/06/2020 17:51:47,13,TT,1578,337,1,
+Total,237788,113595,6651,117529,06/06/2020 18:02:46,13,TT,1686,387,2,
 Maharashtra,80229,35156,2849,42224,06/06/2020 16:06:47,0,MH,0,0,0,
 Tamil Nadu,28694,15762,235,12697,05/06/2020 18:40:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -22,12 +22,12 @@ Odisha,2781,1716,10,1055,06/06/2020 15:44:47,0,OR,173,112,0,Two non-covid deaths
 Punjab,2461,2069,48,344,05/06/2020 19:11:48,0,PB,0,0,0,
 Assam,2325,548,4,1770,06/06/2020 16:05:50,3,AS,81,38,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
-Kerala,1700,712,15,973,05/06/2020 18:24:47,0,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Kerala,1808,762,16,1030,06/06/2020 18:02:48,0,KL,108,50,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1245,422,11,807,06/06/2020 16:54:47,5,UT,30,78,0,Four migrated cases reduced from Active count
-Jharkhand,938,410,7,521,06/06/2020 17:51:49,0,JH,94,0,0,
+Jharkhand,938,410,7,521,06/06/2020 17:53:51,0,JH,94,0,0,
 Chhattisgarh,863,231,2,630,05/06/2020 22:44:50,0,CT,0,0,0,
 Tripura,694,173,0,521,06/06/2020 01:04:50,0,TR,0,0,0,
-Himachal Pradesh,398,188,6,201,06/06/2020 17:51:50,3,HP,4,3,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,398,188,6,201,06/06/2020 17:53:52,3,HP,4,3,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Chandigarh,309,273,5,31,05/06/2020 20:32:57,0,CH,0,0,0,
 Ladakh,97,48,1,48,05/06/2020 18:02:49,0,LA,0,0,0,
 Manipur,143,52,0,91,06/06/2020 16:59:49,0,MN,11,14,0,
