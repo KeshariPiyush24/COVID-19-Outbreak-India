@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,246394,118573,6946,120862,06/06/2020 22:51:46,13,TT,10293,5368,297,
+Total,246454,118592,6946,120903,06/06/2020 23:02:46,13,TT,10353,5387,297,
 Maharashtra,82968,37390,2969,42609,06/06/2020 20:53:47,0,MH,2739,2243,120,
 Tamil Nadu,30172,16395,254,13523,06/06/2020 18:42:47,0,TN,1478,633,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -8,13 +8,13 @@ Delhi bulletins in the morning, containing data of the previous day. We will add
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,19617,13324,1219,5074,06/06/2020 19:48:47,0,GJ,498,313,29,
 Rajasthan,10337,7501,231,2605,06/06/2020 22:30:47,0,RJ,253,142,13,
-Uttar Pradesh,10103,5908,268,3927,06/06/2020 22:51:47,0,UP,370,260,11,
+Uttar Pradesh,10103,5908,268,3927,06/06/2020 23:02:47,0,UP,370,260,11,
 Madhya Pradesh,9228,6108,399,2721,06/06/2020 21:42:51,0,MP,232,230,15,
 State Unassigned,8192,0,0,8192,06/06/2020 09:32:47,0,UN,582,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 West Bengal,7738,3119,383,4236,06/06/2020 20:04:48,0,WB,435,207,17,Deaths due to comorbidities added to total deceased
 Karnataka,5213,1973,59,3179,06/06/2020 18:33:50,2,KA,378,280,2,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Bihar,4831,2298,29,2504,06/06/2020 22:18:48,0,BR,233,65,0,
-Andhra Pradesh,4460,2621,73,1766,06/06/2020 13:54:47,0,AP,210,56,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,4460,2640,73,1747,06/06/2020 23:02:49,0,AP,210,75,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Haryana,3952,1280,24,2648,06/06/2020 21:50:48,0,HR,355,71,0,
 Telangana,3496,1710,123,1663,06/06/2020 22:00:50,0,TG,206,83,10,
 Jammu and Kashmir,3467,1126,39,2302,06/06/2020 20:37:49,0,JK,143,40,3,
@@ -23,21 +23,21 @@ Punjab,2515,2092,50,373,06/06/2020 19:48:49,0,PB,54,23,2,
 Assam,2398,589,4,1802,06/06/2020 20:21:49,3,AS,154,79,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1808,762,16,1030,06/06/2020 18:13:49,0,KL,108,50,1,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,1245,422,11,807,06/06/2020 16:54:47,5,UT,30,78,0,Four migrated cases reduced from Active count
+Uttarakhand,1303,422,11,865,06/06/2020 23:02:51,5,UT,88,78,0,Four migrated cases reduced from Active count
 Jharkhand,938,410,7,521,06/06/2020 17:53:51,0,JH,95,0,0,
 Chhattisgarh,923,259,4,660,06/06/2020 20:53:49,0,CT,60,22,2,
-Tripura,749,173,0,576,06/06/2020 22:51:49,0,TR,55,0,0,
+Tripura,749,173,0,576,06/06/2020 23:02:52,0,TR,55,0,0,
 Himachal Pradesh,398,188,6,201,06/06/2020 17:53:52,3,HP,4,3,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Chandigarh,312,273,5,34,06/06/2020 22:51:50,0,CH,3,0,0,
+Chandigarh,312,273,5,34,06/06/2020 23:02:54,0,CH,3,0,0,
 Goa,267,65,0,202,06/06/2020 20:04:50,0,GA,71,0,0,
 Manipur,157,52,0,105,06/06/2020 19:42:50,0,MN,25,14,0,
 Puducherry,107,48,0,59,06/06/2020 16:59:50,0,PY,3,5,0,
 Nagaland,107,8,0,99,06/06/2020 19:42:51,0,NL,13,8,0,
 Ladakh,99,50,1,48,06/06/2020 20:33:51,0,LA,2,2,0,
-Arunachal Pradesh,46,1,0,45,06/06/2020 01:20:51,0,AR,0,0,0,
+Arunachal Pradesh,48,1,0,47,06/06/2020 23:02:55,0,AR,2,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,0,AN,0,0,0,
 Meghalaya,33,13,1,19,03/06/2020 21:17:10,0,ML,0,0,0,
 Mizoram,24,1,0,23,06/06/2020 09:32:50,0,MZ,2,0,0,
 Dadra and Nagar Haveli and Daman and Diu,19,1,0,18,06/06/2020 21:42:54,0,DN,5,0,0,
-Sikkim,7,0,0,7,06/06/2020 22:51:52,0,SK,4,0,0,
+Sikkim,7,0,0,7,06/06/2020 23:02:57,0,SK,4,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
