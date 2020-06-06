@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,240789,115050,6720,119006,06/06/2020 19:52:46,13,TT,4688,1851,71,
-Maharashtra,80229,35147,2849,42233,06/06/2020 19:29:48,0,MH,0,0,0,
+Total,240789,115050,6720,119006,06/06/2020 20:04:46,13,TT,4688,1851,71,
+Maharashtra,80229,35147,2849,42233,06/06/2020 20:04:47,0,MH,0,0,0,
 Tamil Nadu,30172,16395,254,13523,06/06/2020 18:42:47,0,TN,1478,633,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,26334,10315,708,15311,05/06/2020 21:19:47,0,DL,0,0,0,"[10-May]
@@ -11,7 +11,7 @@ Rajasthan,10128,7384,219,2525,06/06/2020 13:23:47,0,RJ,44,25,1,
 Uttar Pradesh,9733,5648,257,3828,06/06/2020 18:33:49,0,UP,0,0,0,
 Madhya Pradesh,8996,5878,384,2734,05/06/2020 22:44:47,0,MP,0,0,0,
 State Unassigned,8192,0,0,8192,06/06/2020 09:32:47,0,UN,582,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
-West Bengal,7738,3119,383,4236,06/06/2020 19:52:47,0,WB,435,207,17,Deaths due to comorbidities added to total deceased
+West Bengal,7738,3119,383,4236,06/06/2020 20:04:48,0,WB,435,207,17,Deaths due to comorbidities added to total deceased
 Bihar,4745,2233,29,2483,06/06/2020 15:28:48,0,BR,147,0,0,
 Karnataka,5213,1973,59,3179,06/06/2020 18:33:50,2,KA,378,280,2,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Andhra Pradesh,4460,2621,73,1766,06/06/2020 13:54:47,0,AP,210,56,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -32,7 +32,7 @@ Chandigarh,309,273,5,31,05/06/2020 20:32:57,0,CH,0,0,0,
 Ladakh,97,48,1,48,05/06/2020 18:02:49,0,LA,0,0,0,
 Manipur,157,52,0,105,06/06/2020 19:42:50,0,MN,25,14,0,
 Puducherry,107,48,0,59,06/06/2020 16:59:50,0,PY,3,5,0,
-Goa,267,65,0,202,06/06/2020 19:52:49,0,GA,71,0,0,
+Goa,267,65,0,202,06/06/2020 20:04:50,0,GA,71,0,0,
 Nagaland,107,8,0,99,06/06/2020 19:42:51,0,NL,13,8,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,0,AN,0,0,0,
 Meghalaya,33,13,1,19,03/06/2020 21:17:10,0,ML,0,0,0,
