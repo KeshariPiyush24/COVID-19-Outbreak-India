@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,245962,118248,6933,120768,06/06/2020 22:02:46,13,TT,9861,5043,284,
+Total,245962,118313,6933,120703,06/06/2020 22:12:46,13,TT,9861,5108,284,
 Maharashtra,82968,37390,2969,42609,06/06/2020 20:53:47,0,MH,2739,2243,120,
 Tamil Nadu,30172,16395,254,13523,06/06/2020 18:42:47,0,TN,1478,633,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -7,13 +7,13 @@ Delhi,27654,10664,761,16229,06/06/2020 21:42:47,0,DL,1320,349,53,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,19617,13324,1219,5074,06/06/2020 19:48:47,0,GJ,498,313,29,
-Rajasthan,10337,7501,229,2607,06/06/2020 22:02:47,0,RJ,253,142,11,
+Rajasthan,10337,7501,229,2607,06/06/2020 22:06:47,0,RJ,253,142,11,
 Uttar Pradesh,9733,5648,257,3828,06/06/2020 18:33:49,0,UP,0,0,0,
 Madhya Pradesh,9228,6108,399,2721,06/06/2020 21:42:51,0,MP,232,230,15,
 State Unassigned,8192,0,0,8192,06/06/2020 09:32:47,0,UN,582,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 West Bengal,7738,3119,383,4236,06/06/2020 20:04:48,0,WB,435,207,17,Deaths due to comorbidities added to total deceased
 Karnataka,5213,1973,59,3179,06/06/2020 18:33:50,2,KA,378,280,2,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
-Bihar,4831,2233,29,2569,06/06/2020 22:02:50,0,BR,233,0,0,
+Bihar,4831,2298,29,2504,06/06/2020 22:12:47,0,BR,233,65,0,
 Andhra Pradesh,4460,2621,73,1766,06/06/2020 13:54:47,0,AP,210,56,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Haryana,3952,1280,24,2648,06/06/2020 21:50:48,0,HR,355,71,0,
 Telangana,3496,1710,123,1663,06/06/2020 22:00:50,0,TG,206,83,10,
