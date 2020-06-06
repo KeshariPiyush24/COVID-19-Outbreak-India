@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,237572,113437,6650,117473,06/06/2020 15:45:46,,TT,1388,204,1,
+Total,237756,113481,6650,117613,06/06/2020 16:02:46,,TT,1572,248,1,
 Maharashtra,80229,35156,2849,42224,05/06/2020 20:46:47,,MH,0,0,0,
 Tamil Nadu,28694,15762,235,12697,05/06/2020 18:40:47,,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -17,13 +17,13 @@ Karnataka,4835,1693,57,3083,05/06/2020 18:40:49,2,KA,0,0,0,Two active cases in K
 Andhra Pradesh,4460,2621,73,1766,06/06/2020 13:54:47,,AP,210,56,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Telangana,3290,1627,113,1550,05/06/2020 21:02:47,,TG,0,0,0,
 Jammu and Kashmir,3324,1086,36,2202,05/06/2020 21:14:51,,JK,0,0,0,
-Haryana,3597,1209,24,2364,05/06/2020 20:46:50,,HR,0,0,0,
+Haryana,3781,1215,24,2542,06/06/2020 16:02:47,,HR,184,6,0,
 Odisha,2781,1716,10,1055,06/06/2020 15:44:47,,OR,173,112,0,Two non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,2461,2069,48,344,05/06/2020 19:11:48,,PB,0,0,0,
-Assam,2325,510,4,1808,06/06/2020 14:03:48,3,AS,81,0,0,"Includes one case from Nagaland
+Assam,2325,548,4,1770,06/06/2020 16:02:49,3,AS,81,38,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Kerala,1700,712,15,973,05/06/2020 18:24:47,,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,1245,344,11,886,06/06/2020 15:45:47,4,UT,30,0,0,Four migrated cases reduced from Active count
+Uttarakhand,1245,344,11,886,06/06/2020 15:54:04,4,UT,30,0,0,Four migrated cases reduced from Active count
 Jharkhand,1017,435,7,575,06/06/2020 12:19:48,,JH,95,0,0,
 Chhattisgarh,863,231,2,630,05/06/2020 22:44:50,,CT,0,0,0,
 Tripura,694,173,0,521,06/06/2020 01:04:50,,TR,0,0,0,
