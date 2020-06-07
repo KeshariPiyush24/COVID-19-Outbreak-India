@@ -1,15 +1,15 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,256563,123342,7174,126034,07/06/2020 22:02:46,13,TT,9941,4685,228,
+Total,256736,123565,7187,125971,07/06/2020 22:12:45,13,TT,10114,4908,241,
 Maharashtra,85975,39314,3060,43601,07/06/2020 19:53:47,0,MH,3007,1924,91,
 Tamil Nadu,31687,16999,272,14416,07/06/2020 18:46:47,0,TN,1515,604,18,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,28936,10999,812,17125,07/06/2020 22:02:47,0,DL,1282,335,51,"[10-May]
+Delhi,28936,10999,812,17125,07/06/2020 22:12:47,0,DL,1282,335,51,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,20097,13643,1249,5205,07/06/2020 20:01:48,0,GJ,480,319,30,
 Rajasthan,10385,7606,234,2545,07/06/2020 11:24:47,0,RJ,48,105,3,
 Uttar Pradesh,10536,6185,275,4076,07/06/2020 20:01:50,0,UP,433,277,7,
-Madhya Pradesh,9228,6108,399,2721,06/06/2020 21:42:51,0,MP,0,0,0,
+Madhya Pradesh,9401,6331,412,2658,07/06/2020 22:12:49,0,MP,173,223,13,
 State Unassigned,8610,0,0,8610,07/06/2020 09:44:48,0,UN,418,0,0,"MoHFW website reports that these are the ""cases that are being reassigned to states"""
 West Bengal,8187,3303,396,4488,07/06/2020 19:11:47,0,WB,449,184,13,Deaths due to comorbidities added to total deceased
 Karnataka,5452,2132,61,3257,07/06/2020 18:00:48,2,KA,239,159,2,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
