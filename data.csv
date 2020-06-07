@@ -1,9 +1,9 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,255281,123007,7123,125138,07/06/2020 21:52:46,13,TT,8659,4350,177,
+Total,256563,123342,7174,126034,07/06/2020 22:02:46,13,TT,9941,4685,228,
 Maharashtra,85975,39314,3060,43601,07/06/2020 19:53:47,0,MH,3007,1924,91,
 Tamil Nadu,31687,16999,272,14416,07/06/2020 18:46:47,0,TN,1515,604,18,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,27654,10664,761,16229,06/06/2020 21:42:47,0,DL,0,0,0,"[10-May]
+Delhi,28936,10999,812,17125,07/06/2020 22:02:47,0,DL,1282,335,51,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,20097,13643,1249,5205,07/06/2020 20:01:48,0,GJ,480,319,30,
@@ -15,7 +15,7 @@ West Bengal,8187,3303,396,4488,07/06/2020 19:11:47,0,WB,449,184,13,Deaths due to
 Karnataka,5452,2132,61,3257,07/06/2020 18:00:48,2,KA,239,159,2,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Bihar,5070,2405,30,2635,07/06/2020 20:55:48,0,BR,239,107,1,
 Andhra Pradesh,4659,2669,75,1915,07/06/2020 15:00:48,0,AP,199,29,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Haryana,4448,1474,28,2946,07/06/2020 21:52:48,0,HR,496,194,4,
+Haryana,4448,1474,28,2946,07/06/2020 22:01:49,0,HR,496,194,4,
 Telangana,3496,1710,123,1663,06/06/2020 22:00:50,0,TG,0,0,0,
 Jammu and Kashmir,4087,1216,41,2830,07/06/2020 21:34:47,0,JK,620,90,2,
 Odisha,2856,1894,11,951,07/06/2020 15:38:49,0,OR,75,178,1,Two non-covid deaths reported in state dashboard are included in the deceased count
