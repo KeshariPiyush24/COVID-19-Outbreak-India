@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,265827,129055,7473,129284,08/06/2020 22:52:46,15,TT,8343,5207,266,
+Total,265827,129055,7473,129284,08/06/2020 23:02:46,15,TT,8343,5207,266,
 Maharashtra,88528,40975,3169,44384,08/06/2020 20:37:48,0,MH,2553,1661,109,
 Tamil Nadu,33229,17527,289,15413,08/06/2020 19:20:48,0,TN,1562,528,17,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -21,13 +21,13 @@ Andhra Pradesh,4813,2720,75,2018,08/06/2020 20:18:48,0,AP,154,51,0,"Total includ
 Jammu and Kashmir,4285,1324,45,2916,08/06/2020 21:00:55,0,JK,198,108,4,
 Telangana,3650,1742,137,1771,07/06/2020 22:54:47,0,TG,0,0,0,
 Odisha,2994,1993,11,990,08/06/2020 16:10:48,0,OR,138,99,0,Two non-covid deaths reported in state dashboard are included in the deceased count
-Assam,2777,785,4,1985,08/06/2020 22:52:48,3,AS,95,148,0,"Includes one case from Nagaland
+Assam,2777,785,4,1985,08/06/2020 23:02:50,3,AS,95,148,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Punjab,2663,2128,53,482,08/06/2020 19:36:50,0,PB,55,22,2,
 Kerala,2006,814,17,1175,08/06/2020 18:24:53,0,KL,91,11,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1411,714,13,677,08/06/2020 21:40:54,7,UT,56,186,0,Four migrated cases reduced from Active count
 Jharkhand,1290,519,7,764,08/06/2020 22:29:06,0,JH,187,29,0,
-Chhattisgarh,1158,308,4,846,08/06/2020 22:52:49,0,CT,85,42,0,
+Chhattisgarh,1158,308,4,846,08/06/2020 23:02:52,0,CT,85,42,0,
 Tripura,840,192,0,648,08/06/2020 22:19:51,0,TR,38,0,0,
 Himachal Pradesh,421,223,6,189,08/06/2020 22:19:53,3,HP,10,5,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,330,67,0,263,08/06/2020 21:00:59,0,GA,30,2,0,
@@ -38,7 +38,7 @@ Nagaland,122,8,0,114,08/06/2020 21:01:01,0,NL,6,0,0,
 Ladakh,103,50,1,52,07/06/2020 23:44:51,0,LA,0,0,0,
 Arunachal Pradesh,57,1,0,56,08/06/2020 22:19:55,0,AR,6,0,0,
 Mizoram,42,1,0,41,08/06/2020 09:54:54,0,MZ,8,0,0,
-Meghalaya,39,13,1,25,08/06/2020 22:52:52,0,ML,3,0,0,
+Meghalaya,39,13,1,25,08/06/2020 23:02:55,0,ML,3,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,0,AN,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,20,2,0,18,06/06/2020 21:42:54,0,DN,0,0,0,
 Sikkim,7,0,0,7,06/06/2020 23:03:57,0,SK,0,0,0,
