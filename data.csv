@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,257092,123912,7208,125959,08/06/2020 13:52:46,13,TT,-393,64,1,
+Total,257092,123912,7208,125959,08/06/2020 14:01:46,13,TT,-393,64,1,
 Maharashtra,85975,39314,3060,43601,07/06/2020 19:53:47,0,MH,0,0,0,
 Tamil Nadu,31667,16999,272,14396,08/06/2020 01:37:48,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -14,7 +14,7 @@ State Unassigned,7837,0,0,7837,08/06/2020 13:05:48,0,UN,-773,0,0,"MoHFW website 
 [Jun 8] : 1352 cases reduced from total by MoHFW after their morning update"
 West Bengal,8187,3303,396,4488,07/06/2020 19:11:47,0,WB,0,0,0,Deaths due to comorbidities added to total deceased
 Karnataka,5452,2132,61,3257,07/06/2020 18:00:48,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
-Bihar,5175,2405,30,2740,08/06/2020 13:52:49,0,BR,105,0,0,
+Bihar,5175,2405,30,2740,08/06/2020 14:01:48,0,BR,105,0,0,
 Andhra Pradesh,4659,2669,75,1915,07/06/2020 15:00:48,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Haryana,4448,1474,28,2946,07/06/2020 22:01:49,0,HR,0,0,0,
 Telangana,3650,1742,137,1771,07/06/2020 22:54:47,0,TG,0,0,0,
