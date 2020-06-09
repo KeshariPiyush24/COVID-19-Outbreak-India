@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,273860,133764,7696,132385,09/06/2020 22:02:46,15,TT,7932,4745,223,
+Total,274085,133764,7696,132610,09/06/2020 22:03:46,15,TT,8157,4745,223,
 Maharashtra,90787,42639,3289,44859,09/06/2020 21:54:47,0,MH,2258,1664,120,
 Tamil Nadu,34914,18325,307,16282,09/06/2020 19:13:50,0,TN,1685,798,18,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -7,8 +7,8 @@ Delhi,29943,11357,874,17712,08/06/2020 21:00:48,0,DL,0,0,0,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,21044,14373,1313,5358,09/06/2020 20:15:48,0,GJ,470,409,33,
-Rajasthan,11020,8182,251,2587,09/06/2020 11:24:48,0,RJ,144,65,5,
-Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:02:48,0,UP,388,325,18,
+Rajasthan,11245,8182,251,2812,09/06/2020 11:24:48,0,RJ,369,65,5,
+Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:03:47,0,UP,388,325,18,
 Madhya Pradesh,9638,6536,414,2688,08/06/2020 22:02:50,0,MP,0,0,0,
 West Bengal,8985,3620,415,4950,09/06/2020 20:03:51,0,WB,372,155,10,
 State Unassigned,8803,0,0,8803,09/06/2020 10:04:47,0,UN,966,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
@@ -28,7 +28,7 @@ Kerala,2097,848,17,1232,09/06/2020 18:05:48,0,KL,91,34,0,Mahe native who expired
 Uttarakhand,1488,749,13,719,09/06/2020 15:54:49,7,UT,77,35,0,Four migrated cases reduced from Active count
 Jharkhand,1330,519,7,804,09/06/2020 11:49:48,0,JH,40,0,0,
 Chhattisgarh,1211,347,5,859,09/06/2020 19:38:51,0,CT,14,12,1,
-Tripura,866,192,0,674,09/06/2020 22:02:51,0,TR,26,0,0,
+Tripura,866,192,0,674,09/06/2020 22:03:50,0,TR,26,0,0,
 Himachal Pradesh,437,237,6,191,09/06/2020 17:55:49,3,HP,16,14,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,330,67,0,263,08/06/2020 21:00:59,0,GA,0,0,0,
 Chandigarh,326,285,5,36,09/06/2020 19:38:53,0,CH,6,0,0,
