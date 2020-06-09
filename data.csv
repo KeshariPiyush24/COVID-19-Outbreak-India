@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,274690,134161,7718,132796,09/06/2020 23:23:46,15,TT,8670,5142,240,
+Total,274733,134161,7718,132839,09/06/2020 23:35:46,15,TT,8713,5142,240,
 Maharashtra,90787,42639,3289,44859,09/06/2020 21:54:47,0,MH,2258,1664,120,
 Tamil Nadu,34914,18325,307,16282,09/06/2020 19:13:50,0,TN,1685,798,18,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -9,7 +9,7 @@ Also, backdated deaths reported are added to the day in which they are announced
 Gujarat,21044,14373,1313,5358,09/06/2020 20:15:48,0,GJ,470,409,33,
 Rajasthan,11245,8328,255,2662,09/06/2020 22:41:47,0,RJ,369,211,9,
 Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:03:47,0,UP,388,325,18,
-Madhya Pradesh,9849,6729,420,2700,09/06/2020 23:23:48,0,MP,211,193,6,
+Madhya Pradesh,9849,6729,420,2700,09/06/2020 23:34:47,0,MP,211,193,6,
 West Bengal,8985,3620,415,4950,09/06/2020 20:03:51,0,WB,372,155,10,
 State Unassigned,8803,0,0,8803,09/06/2020 10:04:47,0,UN,966,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
 
@@ -26,7 +26,7 @@ Total of three* patients who migrated to other states has been reduced from Acti
 Punjab,2719,2167,55,497,09/06/2020 19:22:53,0,PB,56,39,2,
 Kerala,2097,848,17,1232,09/06/2020 18:05:48,0,KL,91,34,0,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1537,755,13,762,09/06/2020 23:04:50,7,UT,126,41,0,Four migrated cases reduced from Active count
-Jharkhand,1376,559,8,809,09/06/2020 23:04:51,0,JH,86,40,1,
+Jharkhand,1416,559,8,849,09/06/2020 23:35:47,0,JH,126,40,1,
 Chhattisgarh,1211,347,5,859,09/06/2020 19:38:51,0,CT,14,12,1,
 Tripura,866,192,0,674,09/06/2020 22:03:50,0,TR,26,0,0,
 Himachal Pradesh,437,237,6,191,09/06/2020 17:55:49,3,HP,16,14,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
@@ -41,5 +41,5 @@ Arunachal Pradesh,57,2,0,55,09/06/2020 07:37:48,0,AR,0,1,0,
 Meghalaya,40,13,1,26,09/06/2020 17:54:53,0,ML,1,0,0,
 Andaman and Nicobar Islands,33,33,0,0,07/05/2020 22:24:57,0,AN,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,22,2,0,20,08/06/2020 23:54:49,0,DN,0,0,0,
-Sikkim,10,0,0,10,09/06/2020 21:54:54,0,SK,3,0,0,
+Sikkim,13,0,0,13,09/06/2020 23:35:49,0,SK,6,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
