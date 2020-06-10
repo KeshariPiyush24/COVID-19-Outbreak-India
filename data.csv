@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,279724,136863,7780,135066,10/06/2020 19:42:46,15,TT,3725,2210,30,
+Total,280067,137022,7797,135233,10/06/2020 19:53:46,15,TT,4068,2369,47,
 Maharashtra,90787,42639,3289,44859,09/06/2020 21:54:47,0,MH,0,0,0,
 Tamil Nadu,36841,19333,326,17182,10/06/2020 19:04:49,0,TN,1927,1008,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -10,7 +10,7 @@ Gujarat,21044,14373,1313,5358,09/06/2020 20:15:48,0,GJ,0,0,0,
 Rajasthan,11368,8502,256,2610,10/06/2020 11:44:47,0,RJ,123,174,1,
 Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:03:47,0,UP,0,0,0,
 Madhya Pradesh,9849,6729,420,2700,09/06/2020 23:34:47,0,MP,0,0,0,
-West Bengal,8985,3620,415,4950,09/06/2020 20:03:51,0,WB,0,0,0,
+West Bengal,9328,3779,432,5117,10/06/2020 19:53:48,0,WB,343,159,17,
 State Unassigned,9227,0,0,9227,10/06/2020 10:04:48,0,UN,516,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
 
 [Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category."""
@@ -32,7 +32,7 @@ Tripura,866,238,1,627,10/06/2020 16:45:49,0,TR,0,46,0,
 Himachal Pradesh,442,247,7,185,10/06/2020 18:37:54,3,HP,5,10,1,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,359,67,0,292,09/06/2020 23:15:52,0,GA,0,0,0,
 Chandigarh,328,289,5,34,10/06/2020 16:34:51,0,CH,2,4,0,
-Manipur,311,64,0,247,10/06/2020 19:42:50,0,MN,7,0,0,
+Manipur,311,64,0,247,10/06/2020 19:46:13,0,MN,7,0,0,
 Puducherry,132,55,0,77,09/06/2020 19:38:55,0,PY,0,0,0,
 Nagaland,128,22,0,106,10/06/2020 15:21:53,0,NL,1,12,0,
 Ladakh,115,50,1,64,10/06/2020 17:50:49,0,LA,7,0,0,
