@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,274780,134166,7719,132880,10/06/2020 06:36:46,15,TT,0,0,0,
+Total,275301,134166,7719,133401,10/06/2020 09:53:46,15,TT,521,0,0,
 Maharashtra,90787,42639,3289,44859,09/06/2020 21:54:47,0,MH,0,0,0,
 Tamil Nadu,34914,18325,307,16282,09/06/2020 19:13:50,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -11,7 +11,7 @@ Rajasthan,11245,8328,255,2662,09/06/2020 22:41:47,0,RJ,0,0,0,
 Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:03:47,0,UP,0,0,0,
 Madhya Pradesh,9849,6729,420,2700,09/06/2020 23:34:47,0,MP,0,0,0,
 West Bengal,8985,3620,415,4950,09/06/2020 20:03:51,0,WB,0,0,0,
-State Unassigned,8711,0,0,8711,10/06/2020 00:05:48,0,UN,0,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
+State Unassigned,9227,0,0,9227,10/06/2020 09:53:48,0,UN,516,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
 
 [Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category."""
 Karnataka,5921,2605,66,3248,09/06/2020 19:22:48,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
@@ -36,7 +36,7 @@ Manipur,304,64,0,240,09/06/2020 23:52:50,0,MN,0,0,0,
 Puducherry,132,55,0,77,09/06/2020 19:38:55,0,PY,0,0,0,
 Nagaland,127,10,0,117,10/06/2020 00:27:51,0,NL,0,0,0,
 Ladakh,108,50,1,57,09/06/2020 18:05:51,0,LA,0,0,0,
-Mizoram,88,1,0,87,09/06/2020 19:13:59,0,MZ,0,0,0,
+Mizoram,93,1,0,92,10/06/2020 09:53:50,0,MZ,5,0,0,
 Arunachal Pradesh,57,2,0,55,09/06/2020 07:37:48,0,AR,0,0,0,
 Meghalaya,43,13,1,29,09/06/2020 23:52:52,0,ML,0,0,0,
 Andaman and Nicobar Islands,34,33,0,1,10/06/2020 00:05:51,0,AN,0,0,0,
