@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,280067,137022,7797,135233,10/06/2020 19:53:46,15,TT,4068,2369,47,
+Total,280067,137022,7797,135233,10/06/2020 20:00:46,15,TT,4068,2369,47,
 Maharashtra,90787,42639,3289,44859,09/06/2020 21:54:47,0,MH,0,0,0,
 Tamil Nadu,36841,19333,326,17182,10/06/2020 19:04:49,0,TN,1927,1008,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -10,13 +10,13 @@ Gujarat,21044,14373,1313,5358,09/06/2020 20:15:48,0,GJ,0,0,0,
 Rajasthan,11368,8502,256,2610,10/06/2020 11:44:47,0,RJ,123,174,1,
 Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:03:47,0,UP,0,0,0,
 Madhya Pradesh,9849,6729,420,2700,09/06/2020 23:34:47,0,MP,0,0,0,
-West Bengal,9328,3779,432,5117,10/06/2020 19:53:48,0,WB,343,159,17,
+West Bengal,9328,3779,432,5117,10/06/2020 19:59:49,0,WB,343,159,17,
 State Unassigned,9227,0,0,9227,10/06/2020 10:04:48,0,UN,516,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
 
 [Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category."""
 Karnataka,6041,2862,69,3108,10/06/2020 18:37:49,2,KA,120,257,3,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Bihar,5583,2934,34,2615,10/06/2020 17:24:48,0,BR,128,164,1,
-Haryana,5364,1904,46,3414,10/06/2020 15:21:49,0,HR,155,97,1,
+Haryana,5364,1904,46,3414,10/06/2020 20:00:49,0,HR,155,97,1,
 Andhra Pradesh,5247,2869,78,2300,10/06/2020 13:36:49,0,AP,365,110,1,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Jammu and Kashmir,4346,1506,48,2792,09/06/2020 20:03:56,0,JK,0,0,0,
 Telangana,3920,1742,148,2030,09/06/2020 23:04:47,0,TG,0,0,0,
