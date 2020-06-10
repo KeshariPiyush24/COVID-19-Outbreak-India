@@ -1,13 +1,13 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,276146,134670,7750,133711,10/06/2020 00:43:46,15,TT,10126,5651,272,
+Total,274780,134166,7719,132880,10/06/2020 06:33:46,15,TT,8852,5129,241,
 Maharashtra,90787,42639,3289,44859,09/06/2020 21:54:47,0,MH,2258,1664,120,
 Tamil Nadu,34914,18325,307,16282,09/06/2020 19:13:50,0,TN,1685,798,18,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,31309,11861,905,18543,10/06/2020 00:05:47,0,DL,1366,504,31,"[10-May]
+Delhi,29943,11357,874,17712,10/06/2020 06:33:48,0,DL,0,0,0,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,21044,14373,1313,5358,09/06/2020 20:15:48,0,GJ,470,409,33,
-Rajasthan,11245,8328,255,2662,09/06/2020 22:41:47,0,RJ,369,211,9,
+Rajasthan,11245,8328,255,2662,09/06/2020 22:41:47,0,RJ,369,193,9,
 Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:03:47,0,UP,388,325,18,
 Madhya Pradesh,9849,6729,420,2700,09/06/2020 23:34:47,0,MP,211,193,6,
 West Bengal,8985,3620,415,4950,09/06/2020 20:03:51,0,WB,372,155,10,
@@ -19,7 +19,7 @@ Bihar,5455,2770,33,2652,09/06/2020 20:45:49,0,BR,208,228,2,
 Haryana,5209,1807,45,3357,09/06/2020 20:45:51,0,HR,355,107,6,
 Andhra Pradesh,5029,2775,77,2177,09/06/2020 18:34:48,0,AP,216,64,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Jammu and Kashmir,4346,1506,48,2792,09/06/2020 20:03:56,0,JK,61,182,3,
-Telangana,3920,1742,148,2030,09/06/2020 23:04:47,0,TG,178,0,6,
+Telangana,3920,1742,148,2030,09/06/2020 23:04:47,0,TG,270,0,6,
 Odisha,3140,2133,11,996,09/06/2020 16:52:49,0,OR,146,140,0,Two non-covid deaths reported in state dashboard are included in the deceased count
 Assam,3051,1098,5,1945,10/06/2020 00:27:48,3,AS,215,313,1,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
