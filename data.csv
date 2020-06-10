@@ -1,13 +1,13 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,284754,140100,7999,136640,10/06/2020 21:23:46,15,TT,8755,5447,249,
+Total,286257,140503,8078,137661,10/06/2020 21:35:46,15,TT,10258,5850,328,
 Maharashtra,94041,44516,3438,46087,10/06/2020 20:43:48,0,MH,3254,1877,149,
 Tamil Nadu,36841,19333,326,17182,10/06/2020 19:04:49,0,TN,1927,1008,19,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,31309,11861,905,18543,10/06/2020 11:15:48,0,DL,0,0,0,"[10-May]
+Delhi,32810,12245,984,19581,10/06/2020 21:35:48,0,DL,1501,384,79,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
 Gujarat,21554,14743,1347,5464,10/06/2020 20:20:49,0,GJ,510,370,34,
-Rajasthan,11600,8569,259,2772,10/06/2020 21:23:48,0,RJ,355,241,4,
+Rajasthan,11600,8569,259,2772,10/06/2020 21:35:51,0,RJ,355,241,4,
 Uttar Pradesh,11335,6669,301,4365,09/06/2020 22:03:47,0,UP,0,0,0,
 Madhya Pradesh,10049,6892,427,2730,10/06/2020 21:18:51,0,MP,200,163,7,
 West Bengal,9328,3779,432,5117,10/06/2020 19:59:49,0,WB,343,159,17,
@@ -25,7 +25,7 @@ Assam,3093,1249,5,1836,10/06/2020 20:53:54,3,AS,42,152,0,"Includes one case from
 Total of three* patients who migrated to other states has been reduced from Active count"
 Punjab,2805,2232,55,518,10/06/2020 18:38:49,0,PB,86,65,0,
 Kerala,2162,905,18,1239,10/06/2020 19:11:50,0,KL,65,57,1,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,1560,808,15,730,10/06/2020 15:35:49,7,UT,23,53,2,Four migrated cases reduced from Active count
+Uttarakhand,1562,827,15,713,10/06/2020 21:35:57,7,UT,25,72,2,Four migrated cases reduced from Active count
 Jharkhand,1423,559,8,856,10/06/2020 13:56:49,0,JH,7,0,0,
 Chhattisgarh,1240,351,5,884,10/06/2020 13:25:51,0,CT,29,4,0,
 Tripura,866,238,1,627,10/06/2020 16:45:49,0,TR,0,46,0,
