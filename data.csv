@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,287754,141360,8116,138263,11/06/2020 17:36:46,15,TT,599,381,8,
+Total,287774,141364,8116,138279,11/06/2020 17:45:46,15,TT,619,385,8,
 Maharashtra,94041,44516,3438,46087,10/06/2020 20:43:48,0,MH,0,0,0,
 Tamil Nadu,36841,19333,326,17182,10/06/2020 19:04:49,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -15,7 +15,7 @@ State Unassigned,8931,0,0,8931,11/06/2020 10:13:48,0,UN,-296,0,0,"""MoHFW websit
 
 [Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category."""
 Karnataka,6041,2862,69,3108,10/06/2020 18:37:49,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
-Bihar,5807,3086,34,2687,11/06/2020 17:36:48,0,BR,109,152,0,
+Bihar,5807,3086,34,2687,11/06/2020 17:45:48,0,BR,109,152,0,
 Haryana,5737,2193,52,3492,11/06/2020 13:44:50,0,HR,158,5,0,
 Andhra Pradesh,5429,2968,80,2381,11/06/2020 13:11:48,0,AP,182,99,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Jammu and Kashmir,4507,1671,51,2785,10/06/2020 20:53:52,0,JK,0,0,0,
@@ -34,8 +34,8 @@ Goa,387,67,0,320,10/06/2020 22:05:54,0,GA,0,0,0,
 Chandigarh,332,293,5,34,11/06/2020 15:41:50,0,CH,4,4,0,
 Manipur,342,64,0,278,11/06/2020 13:24:49,0,MN,31,0,0,
 Puducherry,144,60,0,84,10/06/2020 22:33:52,0,PY,0,0,0,
-Nagaland,130,29,0,101,11/06/2020 17:36:51,0,NL,2,7,0,
-Ladakh,115,50,1,64,10/06/2020 17:50:49,0,LA,0,0,0,
+Nagaland,130,29,0,101,11/06/2020 17:45:51,0,NL,2,7,0,
+Ladakh,135,54,1,80,10/06/2020 17:50:49,0,LA,20,4,0,
 Mizoram,102,1,0,101,11/06/2020 09:42:50,0,MZ,9,0,0,
 Arunachal Pradesh,61,4,0,57,10/06/2020 22:33:54,0,AR,0,0,0,
 Meghalaya,44,13,1,30,10/06/2020 14:35:49,0,ML,0,0,0,
