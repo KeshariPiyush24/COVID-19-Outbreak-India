@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,297001,146074,8473,142439,11/06/2020 21:04:46,15,TT,9846,5095,365,
+Total,297193,146224,8477,142477,11/06/2020 21:04:46,15,TT,10038,5181,365,
 Maharashtra,97648,46078,3590,47980,11/06/2020 21:04:48,0,MH,3607,1562,152,
 Tamil Nadu,38716,20705,349,17662,11/06/2020 18:59:47,0,TN,1875,1372,23,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -7,7 +7,7 @@ Delhi,34687,12731,1085,20871,11/06/2020 20:36:50,0,DL,1877,486,101,"Delhi bullet
 Gujarat,22067,15109,1385,5573,11/06/2020 20:05:47,0,GJ,513,366,38,
 Uttar Pradesh,12088,7292,345,4451,11/06/2020 19:40:48,0,UP,478,321,24,
 Rajasthan,11651,8596,264,2791,11/06/2020 11:13:49,0,RJ,51,27,5,
-Madhya Pradesh,10049,6892,427,2730,10/06/2020 21:18:51,0,MP,0,0,0,
+Madhya Pradesh,10241,7042,431,2768,10/06/2020 21:18:51,0,MP,192,86,0,
 West Bengal,9768,3988,442,5338,11/06/2020 20:23:51,0,WB,440,209,10,
 State Unassigned,8931,0,0,8931,11/06/2020 10:13:48,0,UN,-296,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states"""""
 Karnataka,6245,2976,72,3195,11/06/2020 18:38:49,2,KA,204,114,3,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
