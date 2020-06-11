@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,287157,141006,8113,138023,11/06/2020 12:35:46,15,TT,2,27,6,
+Total,287199,141015,8113,138056,11/06/2020 12:43:46,15,TT,25,36,6,
 Maharashtra,94041,44516,3438,46087,10/06/2020 20:43:48,0,MH,0,0,0,
 Tamil Nadu,36841,19333,326,17182,10/06/2020 19:04:49,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -21,15 +21,15 @@ Andhra Pradesh,5247,2869,78,2300,10/06/2020 13:36:49,0,AP,0,0,0,"Total includes 
 Jammu and Kashmir,4507,1671,51,2785,10/06/2020 20:53:52,0,JK,0,0,0,
 Telangana,4111,1817,156,2138,10/06/2020 22:05:48,0,TG,0,0,0,
 Odisha,3386,2282,12,1092,11/06/2020 11:25:48,0,OR,136,0,1,Two non-covid deaths reported in state dashboard are included in the deceased count
-Assam,3286,1249,5,2029,11/06/2020 00:45:49,3,AS,0,0,0,"Includes one case from Nagaland
+Assam,3320,1249,5,2063,11/06/2020 12:43:48,3,AS,15,0,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
 Punjab,2805,2232,55,518,10/06/2020 18:38:49,0,PB,0,0,0,
 Kerala,2162,905,18,1239,10/06/2020 19:11:50,0,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1562,831,15,709,10/06/2020 21:55:53,7,UT,0,0,0,Four migrated cases reduced from Active count
 Jharkhand,1551,592,8,951,10/06/2020 23:14:50,0,JH,0,0,0,
-Chhattisgarh,1358,402,6,950,11/06/2020 12:35:50,0,CT,96,0,0,
+Chhattisgarh,1359,402,6,951,11/06/2020 12:43:50,0,CT,97,0,0,
 Tripura,897,239,1,657,11/06/2020 00:55:51,0,TR,0,0,0,
-Himachal Pradesh,451,250,7,191,11/06/2020 00:45:55,3,HP,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,458,259,7,189,11/06/2020 12:43:52,3,HP,7,9,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,387,67,0,320,10/06/2020 22:05:54,0,GA,0,0,0,
 Chandigarh,332,289,5,38,11/06/2020 10:55:54,0,CH,4,0,0,
 Manipur,311,64,0,247,10/06/2020 19:46:13,0,MN,0,0,0,
