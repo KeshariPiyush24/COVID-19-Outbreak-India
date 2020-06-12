@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,300830,149499,8531,142785,12/06/2020 18:53:46,15,TT,2536,2527,29,
+Total,300830,149499,8538,142778,12/06/2020 19:03:46,15,TT,2536,2527,36,
 Maharashtra,97648,46078,3590,47980,11/06/2020 21:04:48,0,MH,0,0,0,
 Tamil Nadu,40698,22047,367,18284,12/06/2020 18:45:47,0,TN,1982,1342,18,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -10,7 +10,7 @@ Rajasthan,11930,8843,269,2818,12/06/2020 11:15:47,0,RJ,92,68,4,
 Madhya Pradesh,10241,7042,431,2768,11/06/2020 22:04:48,0,MP,0,0,0,
 West Bengal,9768,3988,442,5338,11/06/2020 20:23:51,0,WB,0,0,0,
 State Unassigned,8315,0,0,8315,12/06/2020 09:50:47,0,UN,-616,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 616 cases were decreased from this category today by MoHFW. We are reflecting the same change.
-Karnataka,6516,3440,72,3002,12/06/2020 18:53:49,2,KA,271,464,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
+Karnataka,6516,3440,79,2995,12/06/2020 19:03:49,2,KA,271,464,7,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Haryana,6149,2272,64,3813,12/06/2020 14:23:48,0,HR,181,11,0,
 Bihar,6043,3316,35,2692,12/06/2020 17:04:50,0,BR,95,230,1,
 Andhra Pradesh,5636,3091,80,2465,12/06/2020 14:04:55,0,AP,207,123,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -31,7 +31,7 @@ Manipur,385,73,0,312,12/06/2020 14:33:49,0,MN,19,0,0,
 Chandigarh,334,295,5,34,11/06/2020 15:41:50,0,CH,2,2,0,
 Puducherry,163,76,3,84,12/06/2020 12:14:47,0,PY,6,9,1,
 Ladakh,135,54,1,80,11/06/2020 18:01:52,0,LA,0,0,0,
-Nagaland,165,30,0,135,12/06/2020 18:51:51,0,NL,26,1,0,
+Nagaland,165,30,0,135,12/06/2020 18:55:59,0,NL,26,1,0,
 Mizoram,104,1,0,103,12/06/2020 08:44:49,0,MZ,2,0,0,
 Arunachal Pradesh,67,4,0,63,11/06/2020 23:38:12,0,AR,0,0,0,
 Meghalaya,44,19,1,24,12/06/2020 16:03:50,0,ML,0,1,0,
