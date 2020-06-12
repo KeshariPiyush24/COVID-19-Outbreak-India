@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,301625,149769,8553,143288,12/06/2020 19:53:46,15,TT,3340,2797,51,
-Maharashtra,97648,46078,3590,47980,11/06/2020 21:04:48,0,MH,0,0,0,
+Total,305613,150161,8711,146726,12/06/2020 20:03:46,15,TT,7328,3189,209,
+Maharashtra,101141,46078,3717,51346,12/06/2020 20:03:47,0,MH,3493,0,127,
 Tamil Nadu,40698,22047,367,18284,12/06/2020 18:45:47,0,TN,1982,1342,18,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,34687,12731,1085,20871,11/06/2020 20:36:50,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-Gujarat,22067,15109,1385,5573,11/06/2020 20:05:47,0,GJ,0,0,0,
+Gujarat,22562,15501,1416,5645,12/06/2020 20:03:50,0,GJ,495,392,31,
 Uttar Pradesh,12088,7292,345,4451,11/06/2020 19:40:48,0,UP,0,0,0,
 Rajasthan,11930,8843,269,2818,12/06/2020 11:15:47,0,RJ,92,68,4,
 Madhya Pradesh,10241,7042,431,2768,11/06/2020 22:04:48,0,MP,0,0,0,
@@ -26,7 +26,7 @@ Jharkhand,1607,630,8,969,12/06/2020 13:38:48,0,JH,8,0,0,
 Chhattisgarh,1398,421,6,971,11/06/2020 23:45:53,0,CT,0,0,0,
 Tripura,924,278,1,645,12/06/2020 14:33:48,0,TR,9,0,0,
 Himachal Pradesh,481,286,7,185,12/06/2020 18:15:57,3,HP,11,10,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Goa,463,69,0,394,12/06/2020 19:53:51,0,GA,46,2,0,
+Goa,463,69,0,394,12/06/2020 20:01:52,0,GA,46,2,0,
 Manipur,385,73,0,312,12/06/2020 14:33:49,0,MN,19,0,0,
 Chandigarh,345,295,5,45,12/06/2020 19:26:52,0,CH,13,2,0,
 Puducherry,163,76,3,84,12/06/2020 12:14:47,0,PY,6,9,1,
