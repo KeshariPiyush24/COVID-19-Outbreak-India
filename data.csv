@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,310096,154500,8895,146679,13/06/2020 15:23:46,22,TT,501,261,5,
+Total,310131,154500,8895,146714,13/06/2020 15:35:46,22,TT,536,261,5,
 Maharashtra,101141,47796,3717,49628,12/06/2020 20:44:48,0,MH,0,0,0,
 Tamil Nadu,40698,22047,367,18284,12/06/2020 18:45:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -11,7 +11,7 @@ Madhya Pradesh,10443,7201,440,2802,12/06/2020 22:04:50,0,MP,0,0,0,
 West Bengal,10244,4206,451,5587,12/06/2020 19:33:50,0,WB,0,0,0,
 State Unassigned,7984,0,0,7984,13/06/2020 10:39:47,0,UN,-331,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 331 cases were decreased from this category today by MoHFW. We are reflecting the same change.
 Karnataka,6516,3440,79,2995,12/06/2020 19:14:49,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
-Haryana,6463,2475,70,3918,13/06/2020 15:23:48,0,HR,129,0,0,
+Haryana,6463,2475,70,3918,13/06/2020 15:34:47,0,HR,129,0,0,
 Bihar,6183,3316,35,2832,13/06/2020 12:42:48,0,BR,87,0,0,
 Andhra Pradesh,5858,3185,82,2591,13/06/2020 15:03:48,0,AP,222,94,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Jammu and Kashmir,4730,2086,53,2591,12/06/2020 20:54:48,0,JK,0,0,0,
@@ -21,7 +21,7 @@ Assam,3694,1585,8,2098,13/06/2020 00:44:57,3,AS,0,0,0,"Includes one case from Na
 Total of three* patients who migrated to other states has been reduced from Active count"
 Punjab,2986,2282,63,641,12/06/2020 21:25:52,0,PB,0,0,0,
 Kerala,2323,999,20,1304,12/06/2020 18:25:49,0,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,1724,947,21,749,12/06/2020 21:53:52,7,UT,0,0,0,7 Migrated cases reduced from Active count
+Uttarakhand,1759,947,21,784,13/06/2020 15:35:48,7,UT,35,0,0,7 Migrated cases reduced from Active count
 Jharkhand,1656,685,8,963,12/06/2020 22:24:53,0,JH,0,0,0,
 Chhattisgarh,1445,544,6,895,12/06/2020 23:02:48,0,CT,0,0,0,
 Tripura,1000,278,1,721,13/06/2020 14:20:48,0,TR,37,0,0,
