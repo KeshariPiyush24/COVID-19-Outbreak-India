@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,309894,154448,8895,146529,13/06/2020 14:02:46,22,TT,299,209,5,
+Total,309931,154448,8895,146566,13/06/2020 14:13:46,22,TT,336,209,5,
 Maharashtra,101141,47796,3717,49628,12/06/2020 20:44:48,0,MH,0,0,0,
 Tamil Nadu,40698,22047,367,18284,12/06/2020 18:45:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -24,7 +24,7 @@ Kerala,2323,999,20,1304,12/06/2020 18:25:49,0,KL,0,0,0,Mahe native who expired i
 Uttarakhand,1724,947,21,749,12/06/2020 21:53:52,7,UT,0,0,0,7 Migrated cases reduced from Active count
 Jharkhand,1656,685,8,963,12/06/2020 22:24:53,0,JH,0,0,0,
 Chhattisgarh,1445,544,6,895,12/06/2020 23:02:48,0,CT,0,0,0,
-Tripura,963,278,1,684,12/06/2020 22:04:52,0,TR,0,0,0,
+Tripura,1000,278,1,721,13/06/2020 14:13:48,0,TR,37,0,0,
 Himachal Pradesh,486,294,7,175,13/06/2020 13:29:48,10,HP,0,1,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,463,69,0,394,12/06/2020 20:05:54,0,GA,0,0,0,
 Manipur,385,73,0,312,12/06/2020 14:33:49,0,MN,0,0,0,
@@ -37,5 +37,5 @@ Arunachal Pradesh,87,4,0,83,13/06/2020 11:38:51,0,AR,4,0,0,
 Meghalaya,44,22,1,21,12/06/2020 21:00:49,0,ML,0,0,0,
 Andaman and Nicobar Islands,38,33,0,5,11/06/2020 23:59:57,0,AN,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,30,2,0,28,12/06/2020 23:44:49,0,DN,0,0,0,
-Sikkim,63,5,0,58,13/06/2020 14:02:50,0,SK,0,2,0,
+Sikkim,63,5,0,58,13/06/2020 14:10:49,0,SK,0,2,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
