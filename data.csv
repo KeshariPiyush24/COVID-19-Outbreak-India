@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,310367,155300,8895,146149,13/06/2020 17:53:46,23,TT,772,1065,5,
+Total,310367,155305,8895,146144,13/06/2020 18:03:47,23,TT,772,1070,5,
 Maharashtra,101141,47796,3717,49628,12/06/2020 20:44:48,0,MH,0,0,0,
 Tamil Nadu,40698,22047,367,18284,12/06/2020 18:45:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -29,8 +29,8 @@ Himachal Pradesh,486,294,7,175,13/06/2020 13:29:48,10,HP,0,1,0,"HP has 11 Migrat
 Goa,463,69,0,394,12/06/2020 20:05:54,0,GA,0,0,0,
 Manipur,385,73,0,312,12/06/2020 14:33:49,0,MN,0,0,0,
 Chandigarh,345,295,5,45,13/06/2020 17:14:48,0,CH,0,0,0,
-Puducherry,176,76,3,97,13/06/2020 17:53:48,0,PY,13,0,0,
-Ladakh,437,68,1,368,13/06/2020 17:53:49,0,LA,198,10,0,
+Puducherry,176,81,3,92,13/06/2020 18:02:49,0,PY,13,5,0,
+Ladakh,437,68,1,368,13/06/2020 18:02:51,0,LA,198,10,0,
 Nagaland,163,84,0,79,13/06/2020 17:22:49,0,NL,7,27,0,
 Mizoram,107,1,0,106,13/06/2020 07:31:49,0,MZ,3,0,0,
 Arunachal Pradesh,87,4,0,83,13/06/2020 11:38:51,0,AR,4,0,0,
