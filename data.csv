@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,332462,169080,9502,153841,14/06/2020 22:03:46,39,TT,10832,6753,303,
+Total,332575,169080,9502,153954,14/06/2020 22:13:46,39,TT,10945,6753,303,
 Maharashtra,107958,50978,3950,53017,14/06/2020 21:54:47,13,MH,3390,1632,120,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,44661,24547,435,19679,14/06/2020 19:35:48,0,TN,1974,1138,38,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,41182,15823,1327,24032,14/06/2020 21:34:47,0,DL,2224,878,56,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,23590,16333,1478,5779,14/06/2020 20:43:48,0,GJ,511,442,29,
-Uttar Pradesh,13615,8268,399,4948,14/06/2020 22:03:48,0,UP,497,393,14,
+Uttar Pradesh,13615,8268,399,4948,14/06/2020 22:08:48,0,UP,497,393,14,
 Rajasthan,12532,9431,286,2815,14/06/2020 10:57:47,0,RJ,131,94,4,
 Madhya Pradesh,10641,7377,447,2817,13/06/2020 21:46:47,0,MP,0,0,0,
 West Bengal,11087,5060,475,5552,14/06/2020 21:34:48,0,WB,389,518,12,
@@ -23,7 +23,7 @@ Punjab,3140,2356,67,717,14/06/2020 20:04:49,0,PB,77,29,2,
 Kerala,2462,1101,20,1340,14/06/2020 18:33:48,1,KL,54,56,0,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1819,1111,24,675,14/06/2020 21:54:52,9,UT,34,34,1,9 Migrated cases reduced from Active count
 Jharkhand,1711,816,8,887,13/06/2020 22:23:49,0,JH,0,0,0,
-Chhattisgarh,1550,631,6,913,14/06/2020 13:52:49,0,CT,0,0,0,
+Chhattisgarh,1663,631,6,1026,14/06/2020 22:13:49,0,CT,113,0,0,
 Tripura,1079,433,1,645,14/06/2020 21:45:55,0,TR,33,118,0,
 Himachal Pradesh,518,326,7,174,14/06/2020 22:03:51,11,HP,16,17,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,564,74,0,490,14/06/2020 19:23:52,0,GA,41,4,0,
