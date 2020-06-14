@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,322837,163076,9209,150514,14/06/2020 18:34:46,38,TT,1207,749,10,
+Total,322465,163076,9209,150142,14/06/2020 18:53:46,38,TT,835,749,10,
 Maharashtra,104568,49346,3830,51379,13/06/2020 22:43:48,13,MH,0,0,0,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,42687,23409,397,18881,13/06/2020 19:24:48,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -9,8 +9,8 @@ Uttar Pradesh,13118,7875,385,4858,13/06/2020 22:14:21,0,UP,0,0,0,
 Rajasthan,12532,9431,286,2815,14/06/2020 10:57:47,0,RJ,131,94,4,
 Madhya Pradesh,10641,7377,447,2817,13/06/2020 21:46:47,0,MP,0,0,0,
 West Bengal,10698,4542,463,5693,13/06/2020 20:14:53,0,WB,0,0,0,
-State Unassigned,7984,0,0,7984,13/06/2020 10:39:47,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
-Karnataka,6824,3648,82,3092,13/06/2020 19:31:49,2,KA,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
+State Unassigned,7436,0,0,7436,14/06/2020 18:53:48,0,UN,-548,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 548 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day.
+Karnataka,7000,3648,82,3268,14/06/2020 18:52:52,2,KA,176,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
 Haryana,6969,2815,78,4076,14/06/2020 14:05:49,0,HR,220,12,0,
 Bihar,6355,3975,36,2344,14/06/2020 17:14:48,0,BR,66,289,1,
 Andhra Pradesh,6152,3316,84,2752,14/06/2020 18:24:48,0,AP,294,131,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
