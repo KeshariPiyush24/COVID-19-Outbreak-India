@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,322643,162709,9204,150693,14/06/2020 15:53:46,37,TT,1013,383,5,
+Total,322643,162709,9205,150692,14/06/2020 16:03:45,37,TT,1013,383,6,
 Maharashtra,104568,49346,3830,51379,13/06/2020 22:43:48,13,MH,0,0,0,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,42687,23409,397,18881,13/06/2020 19:24:48,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -21,7 +21,7 @@ Assam,3944,1806,8,2127,14/06/2020 12:54:48,3,AS,43,0,0,"Includes one case from N
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Punjab,3063,2327,65,671,13/06/2020 20:04:59,0,PB,0,0,0,
 Kerala,2408,1045,20,1342,13/06/2020 18:21:49,1,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,1816,1078,23,707,14/06/2020 15:53:47,8,UT,31,1,0,8 Migrated cases reduced from Active count
+Uttarakhand,1816,1078,24,706,14/06/2020 16:03:48,8,UT,31,1,1,8 Migrated cases reduced from Active count
 Jharkhand,1711,816,8,887,13/06/2020 22:23:49,0,JH,0,0,0,
 Chhattisgarh,1550,631,6,913,14/06/2020 13:52:49,0,CT,0,0,0,
 Tripura,1061,315,1,745,14/06/2020 14:39:49,0,TR,15,0,0,
