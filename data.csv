@@ -1,9 +1,9 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,338046,173182,9670,155154,15/06/2020 21:23:48,40,TT,5034,3499,150,
+Total,338119,173314,9670,155095,15/06/2020 21:35:46,40,TT,5107,3631,150,
 Maharashtra,107958,50978,3950,53017,14/06/2020 21:54:47,13,MH,0,0,0,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,46504,25344,479,20681,15/06/2020 20:04:47,0,TN,1843,797,44,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,42829,16427,1400,25002,15/06/2020 21:23:50,0,DL,1647,604,73,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
+Delhi,42829,16427,1400,25002,15/06/2020 21:24:48,0,DL,1647,604,73,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,23590,16333,1478,5779,14/06/2020 20:43:48,0,GJ,0,0,0,
 Uttar Pradesh,13615,8268,399,4948,14/06/2020 22:08:48,0,UP,0,0,0,
 Rajasthan,12772,9631,294,2847,15/06/2020 10:59:48,0,RJ,78,65,2,
@@ -23,9 +23,9 @@ Punjab,3267,2443,71,753,15/06/2020 20:16:48,0,PB,127,87,4,
 Kerala,2544,1174,21,1348,15/06/2020 18:51:56,1,KL,82,73,1,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1836,1135,24,668,15/06/2020 15:42:50,9,UT,17,24,0,9 Migrated cases reduced from Active count
 Jharkhand,1748,905,8,835,15/06/2020 00:56:48,0,JH,0,0,0,
-Chhattisgarh,1662,717,6,939,15/06/2020 06:43:48,0,CT,0,0,0,
+Chhattisgarh,1706,833,6,867,15/06/2020 21:35:49,0,CT,44,116,0,
 Tripura,1079,433,1,645,14/06/2020 21:45:55,0,TR,0,0,0,
-Himachal Pradesh,527,326,7,183,15/06/2020 13:34:48,11,HP,9,0,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,556,342,7,196,15/06/2020 21:35:51,11,HP,38,16,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,592,85,0,507,15/06/2020 19:43:51,0,GA,28,11,0,
 Manipur,490,151,0,339,15/06/2020 20:33:51,0,MN,32,60,0,
 Chandigarh,357,301,6,50,15/06/2020 17:26:49,0,CH,5,6,1,
