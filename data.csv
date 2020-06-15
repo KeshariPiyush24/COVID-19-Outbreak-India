@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,342845,180225,9915,152662,15/06/2020 23:22:46,43,TT,9833,10542,395,
+Total,342845,180225,9915,152662,15/06/2020 23:24:46,43,TT,9833,10542,395,
 Maharashtra,110744,56049,4128,50554,15/06/2020 22:19:48,13,MH,2786,5071,178,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,46504,25344,479,20681,15/06/2020 20:04:47,0,TN,1843,797,44,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -33,7 +33,7 @@ Puducherry,202,95,4,103,15/06/2020 18:15:48,0,PY,8,4,0,
 Ladakh,555,82,1,472,15/06/2020 17:52:50,0,LA,6,2,0,
 Nagaland,177,88,0,89,15/06/2020 20:20:58,0,NL,4,0,0,
 Mizoram,117,1,0,116,15/06/2020 07:24:49,0,MZ,5,0,0,
-Arunachal Pradesh,95,7,0,88,15/06/2020 23:22:49,0,AR,4,0,0,
+Arunachal Pradesh,95,7,0,88,15/06/2020 23:24:49,0,AR,4,0,0,
 Meghalaya,44,26,1,17,14/06/2020 09:41:50,0,ML,0,0,0,
 Andaman and Nicobar Islands,41,33,0,8,15/06/2020 09:38:49,0,AN,1,0,0,
 Dadra and Nagar Haveli and Daman and Diu,36,2,0,34,15/06/2020 01:23:48,0,DN,0,0,0,
