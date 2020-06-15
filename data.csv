@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,342845,180225,9915,152662,15/06/2020 23:13:47,43,TT,9833,10542,395,
+Total,342845,180225,9915,152662,15/06/2020 23:22:46,43,TT,9833,10542,395,
 Maharashtra,110744,56049,4128,50554,15/06/2020 22:19:48,13,MH,2786,5071,178,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,46504,25344,479,20681,15/06/2020 20:04:47,0,TN,1843,797,44,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,42829,16427,1400,25002,15/06/2020 21:24:48,0,DL,1647,604,73,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,24104,16672,1506,5926,15/06/2020 21:56:50,0,GJ,514,339,28,
-Uttar Pradesh,14091,8610,417,5064,15/06/2020 23:13:51,0,UP,476,342,18,
+Uttar Pradesh,14091,8610,417,5064,15/06/2020 23:15:55,0,UP,476,342,18,
 Rajasthan,12981,9785,301,2895,15/06/2020 22:12:52,0,RJ,287,219,9,
 Madhya Pradesh,10935,7903,465,2567,15/06/2020 20:38:47,0,MP,133,226,6,
 West Bengal,11494,5494,485,5515,15/06/2020 20:33:49,0,WB,407,434,10,
@@ -33,7 +33,7 @@ Puducherry,202,95,4,103,15/06/2020 18:15:48,0,PY,8,4,0,
 Ladakh,555,82,1,472,15/06/2020 17:52:50,0,LA,6,2,0,
 Nagaland,177,88,0,89,15/06/2020 20:20:58,0,NL,4,0,0,
 Mizoram,117,1,0,116,15/06/2020 07:24:49,0,MZ,5,0,0,
-Arunachal Pradesh,95,7,0,88,15/06/2020 23:13:59,0,AR,4,0,0,
+Arunachal Pradesh,95,7,0,88,15/06/2020 23:22:49,0,AR,4,0,0,
 Meghalaya,44,26,1,17,14/06/2020 09:41:50,0,ML,0,0,0,
 Andaman and Nicobar Islands,41,33,0,8,15/06/2020 09:38:49,0,AN,1,0,0,
 Dadra and Nagar Haveli and Daman and Diu,36,2,0,34,15/06/2020 01:23:48,0,DN,0,0,0,
