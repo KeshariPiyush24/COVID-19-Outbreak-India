@@ -1,12 +1,12 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,343900,180326,9919,153612,16/06/2020 10:44:46,43,TT,829,4,0,
+Total,344015,180335,9920,153717,16/06/2020 11:23:47,43,TT,944,13,1,
 Maharashtra,110744,56049,4128,50554,15/06/2020 22:19:48,13,MH,0,0,0,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,46504,25344,479,20681,15/06/2020 20:04:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
 Delhi,42829,16427,1400,25002,15/06/2020 21:24:48,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 Gujarat,24104,16672,1506,5926,15/06/2020 21:56:50,0,GJ,0,0,0,
 Uttar Pradesh,14091,8610,417,5064,15/06/2020 23:15:55,0,UP,0,0,0,
-Rajasthan,12981,9785,301,2895,15/06/2020 22:12:52,0,RJ,0,0,0,
+Rajasthan,13096,9794,302,3000,16/06/2020 11:23:50,0,RJ,115,9,1,
 Madhya Pradesh,10935,7903,465,2567,15/06/2020 20:38:47,0,MP,0,0,0,
 West Bengal,11494,5494,485,5515,15/06/2020 20:33:49,0,WB,0,0,0,
 State Unassigned,7684,0,0,7684,16/06/2020 10:34:52,0,UN,712,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 712 cases were increased from this category today by MoHFW. We have reduced this cases from total for the day.
