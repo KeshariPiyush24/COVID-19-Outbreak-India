@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,343900,180326,9919,153612,16/06/2020 10:34:50,43,TT,829,4,0,
+Total,343900,180326,9919,153612,16/06/2020 10:43:46,43,TT,829,4,0,
 Maharashtra,110744,56049,4128,50554,15/06/2020 22:19:48,13,MH,0,0,0,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,46504,25344,479,20681,15/06/2020 20:04:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -16,7 +16,7 @@ Bihar,6662,4226,38,2398,15/06/2020 21:05:48,0,BR,0,0,0,
 Andhra Pradesh,6456,3385,86,2985,15/06/2020 13:53:50,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Jammu and Kashmir,5220,2604,62,2554,16/06/2020 09:02:49,0,JK,0,0,0,
 Telangana,5193,2766,187,2240,15/06/2020 22:27:00,0,TG,0,0,0,
-Odisha,4163,2854,14,1295,16/06/2020 10:34:54,0,OR,108,0,0,Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,4163,2854,14,1295,16/06/2020 10:43:49,0,OR,108,0,0,Three non-covid deaths reported in state dashboard are included in the deceased count
 Assam,4310,2206,8,2093,16/06/2020 00:39:48,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Punjab,3267,2443,71,753,15/06/2020 20:16:48,0,PB,0,0,0,
