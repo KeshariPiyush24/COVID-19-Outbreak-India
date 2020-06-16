@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,354148,187552,11922,154629,17/06/2020 01:04:46,45,TT,11077,7228,2004,
+Total,354148,187552,11922,154629,17/06/2020 01:12:46,45,TT,11077,7228,2004,
 Maharashtra,113445,57851,5537,50044,16/06/2020 22:15:48,13,MH,2701,1802,1409,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,48019,26782,528,20709,16/06/2020 19:53:48,0,TN,1515,1438,49,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -8,7 +8,7 @@ These cases have been added to TN deceased tally"
 Delhi,44688,16500,1837,26351,16/06/2020 23:45:48,0,DL,1859,73,437,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,24628,17090,1534,6004,16/06/2020 20:24:47,0,GJ,524,418,28,
-Uttar Pradesh,14598,8904,435,5259,17/06/2020 01:04:48,0,UP,507,294,18,
+Uttar Pradesh,14598,8904,435,5259,17/06/2020 01:12:48,0,UP,507,294,18,
 Rajasthan,13216,9962,308,2946,16/06/2020 23:45:49,0,RJ,235,177,7,
 Madhya Pradesh,11070,8152,476,2442,16/06/2020 22:05:50,0,MP,135,249,11,
 West Bengal,11909,6028,495,5386,16/06/2020 19:44:51,0,WB,415,534,10,
