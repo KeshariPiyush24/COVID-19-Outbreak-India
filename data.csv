@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,343048,180320,9916,152768,16/06/2020 07:23:46,44,TT,0,0,0,
+Total,343051,180320,9916,152771,16/06/2020 07:35:46,44,TT,7,0,0,
 Maharashtra,110744,56049,4128,50554,15/06/2020 22:19:48,13,MH,0,0,0,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,46504,25344,479,20681,15/06/2020 20:04:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -22,7 +22,7 @@ Total of 3 patients who migrated to other states has been reduced from Active co
 Punjab,3267,2443,71,753,15/06/2020 20:16:48,0,PB,0,0,0,
 Kerala,2544,1174,21,1348,15/06/2020 18:51:56,1,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Uttarakhand,1845,1189,24,619,16/06/2020 00:39:50,13,UT,0,0,0,13 Migrated cases reduced from Active count
-Jharkhand,1793,1000,9,784,16/06/2020 07:23:49,0,JH,0,0,0,
+Jharkhand,1793,1000,9,784,16/06/2020 07:28:47,0,JH,0,0,0,
 Chhattisgarh,1706,833,6,867,15/06/2020 21:40:37,0,CT,0,0,0,
 Tripura,1089,433,1,655,15/06/2020 22:12:57,0,TR,0,0,0,
 Himachal Pradesh,556,342,7,196,15/06/2020 21:40:48,11,HP,0,0,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
@@ -32,10 +32,10 @@ Chandigarh,357,301,6,50,15/06/2020 17:26:49,0,CH,0,0,0,
 Puducherry,202,95,4,103,15/06/2020 18:15:48,0,PY,0,0,0,
 Ladakh,555,82,1,472,15/06/2020 17:52:50,0,LA,0,0,0,
 Nagaland,177,88,0,89,15/06/2020 20:20:58,0,NL,0,0,0,
-Mizoram,121,1,0,120,16/06/2020 07:23:51,0,MZ,0,0,0,
+Mizoram,121,1,0,120,16/06/2020 07:28:49,0,MZ,4,0,0,
 Arunachal Pradesh,95,7,0,88,15/06/2020 23:24:49,0,AR,0,0,0,
 Meghalaya,44,26,1,17,14/06/2020 09:41:50,0,ML,0,0,0,
-Andaman and Nicobar Islands,41,33,0,8,15/06/2020 09:38:49,0,AN,0,0,0,
+Andaman and Nicobar Islands,44,33,0,11,16/06/2020 07:35:49,0,AN,3,0,0,
 Dadra and Nagar Haveli and Daman and Diu,39,2,0,37,16/06/2020 06:15:48,0,DN,0,0,0,
 Sikkim,68,5,0,63,14/06/2020 14:39:51,0,SK,0,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
