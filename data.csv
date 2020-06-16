@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,344872,181390,9928,153511,16/06/2020 19:11:46,43,TT,1801,1072,9,
+Total,345324,181924,9938,153419,16/06/2020 19:35:46,43,TT,2253,1606,19,
 Maharashtra,110744,56049,4128,50554,15/06/2020 22:19:48,13,MH,0,0,0,13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 Tamil Nadu,46504,25344,479,20681,15/06/2020 20:04:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
@@ -8,7 +8,7 @@ Gujarat,24104,16672,1506,5926,15/06/2020 21:56:50,0,GJ,0,0,0,
 Uttar Pradesh,14091,8610,417,5064,15/06/2020 23:15:55,0,UP,0,0,0,
 Rajasthan,13096,9794,302,3000,16/06/2020 11:35:52,0,RJ,115,9,1,
 Madhya Pradesh,10935,7903,465,2567,15/06/2020 20:38:47,0,MP,0,0,0,
-West Bengal,11494,5494,485,5515,15/06/2020 20:33:49,0,WB,0,0,0,
+West Bengal,11909,6028,495,5386,16/06/2020 19:35:48,0,WB,415,534,10,
 State Unassigned,7684,0,0,7684,16/06/2020 10:34:52,0,UN,712,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 712 cases were increased from this category today by MoHFW. We have reduced this cases from total for the day.
 Karnataka,7213,4140,89,2981,15/06/2020 19:25:59,3,KA,0,0,0,3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Haryana,7832,3567,103,4162,16/06/2020 15:31:47,0,HR,110,2,3,
@@ -26,7 +26,7 @@ Jharkhand,1793,1000,9,784,16/06/2020 07:28:47,0,JH,0,0,0,
 Chhattisgarh,1768,831,9,928,16/06/2020 12:40:49,0,CT,53,0,0,
 Tripura,1089,433,1,655,15/06/2020 22:12:57,0,TR,0,0,0,
 Himachal Pradesh,559,356,7,185,16/06/2020 18:21:50,11,HP,3,14,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Goa,592,85,0,507,15/06/2020 19:43:51,0,GA,0,0,0,
+Goa,629,85,0,544,16/06/2020 19:35:50,0,GA,37,0,0,
 Manipur,490,151,0,339,15/06/2020 20:33:51,0,MN,0,0,0,
 Chandigarh,364,301,6,57,16/06/2020 19:11:51,0,CH,7,0,0,
 Puducherry,216,99,4,113,16/06/2020 18:44:48,0,PY,14,4,0,
