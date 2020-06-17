@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,360031,191106,12057,156823,17/06/2020 20:52:46,45,TT,5874,3553,135,
+Total,360030,191105,12057,156823,17/06/2020 21:03:47,45,TT,5873,3553,135,
 Maharashtra,113445,57851,5537,50044,16/06/2020 22:15:48,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,50193,27624,576,21993,17/06/2020 18:45:48,0,TN,2174,842,48,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -7,7 +7,7 @@ Tamil Nadu,50193,27624,576,21993,17/06/2020 18:45:48,0,TN,2174,842,48,"2 deaths 
 These cases have been added to TN deceased tally"
 Delhi,44688,16500,1837,26351,16/06/2020 23:45:48,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Gujarat,25148,17438,1561,6149,17/06/2020 20:52:48,0,GJ,520,348,27,
+Gujarat,25148,17438,1561,6149,17/06/2020 21:02:48,0,GJ,520,348,27,
 Uttar Pradesh,15181,9239,465,5477,17/06/2020 18:33:50,0,UP,583,335,30,
 Rajasthan,13338,10125,309,2904,17/06/2020 12:14:51,0,RJ,122,163,1,
 Madhya Pradesh,11083,8152,476,2455,17/06/2020 01:46:48,0,MP,0,0,0,
@@ -37,8 +37,8 @@ Ladakh,687,92,1,594,17/06/2020 18:33:54,0,LA,38,7,0,
 Nagaland,193,103,0,90,17/06/2020 16:38:49,0,NL,14,0,0,
 Mizoram,121,1,0,120,16/06/2020 07:28:49,0,MZ,0,0,0,
 Arunachal Pradesh,99,7,0,92,16/06/2020 22:15:59,0,AR,0,0,0,
-Meghalaya,44,29,1,14,17/06/2020 20:42:58,0,ML,0,1,0,
+Meghalaya,43,29,1,13,17/06/2020 21:03:50,0,ML,-1,1,0,
 Andaman and Nicobar Islands,44,33,0,11,16/06/2020 07:40:48,0,AN,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,59,12,0,47,17/06/2020 20:52:51,0,DN,5,3,0,
-Sikkim,70,8,0,62,17/06/2020 20:43:04,0,SK,2,0,0,
+Dadra and Nagar Haveli and Daman and Diu,59,12,0,47,17/06/2020 21:02:54,0,DN,5,3,0,
+Sikkim,70,7,0,63,17/06/2020 20:43:04,0,SK,2,0,0,
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
