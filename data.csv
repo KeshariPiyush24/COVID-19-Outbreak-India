@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,366609,193914,12247,160403,18/06/2020 00:02:46,45,TT,12452,6365,325,
+Total,366813,194256,12251,160261,18/06/2020 00:12:46,45,TT,12547,6365,325,
 Maharashtra,116752,59166,5651,51922,17/06/2020 23:34:48,13,MH,3307,1315,114,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,50193,27624,576,21993,17/06/2020 18:45:48,0,TN,2174,842,48,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -9,7 +9,7 @@ Delhi,47102,17457,1904,27741,17/06/2020 23:26:52,0,DL,2414,957,67,"Delhi bulleti
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,25148,17438,1561,6149,17/06/2020 21:05:49,0,GJ,520,348,27,
 Uttar Pradesh,15181,9239,465,5477,17/06/2020 18:33:50,0,UP,583,335,30,
-Rajasthan,13338,10125,309,2904,17/06/2020 12:14:51,0,RJ,122,163,1,
+Rajasthan,13542,10467,313,2762,18/06/2020 00:12:48,0,RJ,217,163,1,
 West Bengal,12300,6532,506,5262,17/06/2020 19:45:50,0,WB,391,504,11,
 Madhya Pradesh,11244,8388,482,2374,17/06/2020 22:25:48,0,MP,161,236,6,
 Haryana,8381,3770,118,4493,17/06/2020 15:05:48,0,HR,109,22,0,
@@ -19,7 +19,7 @@ Andhra Pradesh,7071,3641,90,3340,17/06/2020 15:36:50,0,AP,351,128,2,"Total inclu
 Bihar,6940,4776,39,2125,17/06/2020 21:49:24,0,BR,130,205,0,
 Telangana,5675,3071,192,2412,17/06/2020 22:35:48,0,TG,269,44,1,
 Jammu and Kashmir,5406,2914,64,2428,17/06/2020 20:42:52,0,JK,108,133,1,
-Assam,4695,2643,8,2041,18/06/2020 00:02:49,3,AS,184,231,0,"Includes one case from Nagaland.
+Assam,4695,2643,8,2041,18/06/2020 00:04:49,3,AS,184,231,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,4338,3047,14,1277,17/06/2020 16:54:48,0,OR,175,73,0,Three non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,3497,2538,78,881,17/06/2020 19:35:50,0,PB,126,77,6,
