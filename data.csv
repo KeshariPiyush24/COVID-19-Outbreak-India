@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,355654,187955,11925,155729,17/06/2020 16:43:46,45,TT,1493,403,3,
+Total,355654,187959,11925,155725,17/06/2020 16:53:46,45,TT,1493,407,3,
 Maharashtra,113445,57851,5537,50044,16/06/2020 22:15:48,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,48019,26782,528,20709,16/06/2020 19:53:48,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -19,7 +19,7 @@ Bihar,6889,4571,39,2279,17/06/2020 15:22:48,0,BR,79,0,0,
 Andhra Pradesh,7071,3641,90,3340,17/06/2020 15:36:50,0,AP,351,128,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Jammu and Kashmir,5298,2781,63,2454,16/06/2020 19:11:49,0,JK,0,0,0,
 Telangana,5406,3027,191,2188,16/06/2020 23:03:50,0,TG,0,0,0,
-Odisha,4338,3047,14,1277,17/06/2020 16:43:48,0,OR,175,73,0,Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,4338,3047,14,1277,17/06/2020 16:51:48,0,OR,175,73,0,Three non-covid deaths reported in state dashboard are included in the deceased count
 Assam,4511,2412,8,2088,17/06/2020 00:05:49,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Punjab,3371,2461,72,838,16/06/2020 20:24:50,0,PB,0,0,0,
@@ -31,7 +31,7 @@ Tripura,1090,556,1,533,17/06/2020 00:32:50,0,TR,0,0,0,
 Himachal Pradesh,568,364,7,186,17/06/2020 13:14:52,11,HP,8,3,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Goa,629,85,0,544,16/06/2020 19:44:59,0,GA,0,0,0,
 Manipur,500,159,0,341,16/06/2020 21:37:55,0,MN,0,0,0,
-Chandigarh,368,301,6,61,17/06/2020 09:26:48,0,CH,3,0,0,
+Chandigarh,368,305,6,57,17/06/2020 16:53:48,0,CH,3,4,0,
 Puducherry,216,99,4,113,16/06/2020 18:44:48,0,PY,0,0,0,
 Ladakh,649,85,1,563,16/06/2020 18:21:51,0,LA,0,0,0,
 Nagaland,193,103,0,90,17/06/2020 16:38:49,0,NL,14,0,0,
