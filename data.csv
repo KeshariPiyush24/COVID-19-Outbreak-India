@@ -1,18 +1,18 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,377632,200747,12533,164306,18/06/2020 21:54:46,46,TT,10367,6206,218,
-Maharashtra,120504,60838,5751,53902,18/06/2020 21:54:49,13,MH,3752,1672,100,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
+Total,377643,200747,12533,164317,18/06/2020 22:03:47,46,TT,10378,6206,218,
+Maharashtra,120504,60838,5751,53902,18/06/2020 21:56:54,13,MH,3752,1672,100,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,52334,28641,628,23065,18/06/2020 20:14:48,0,TN,2141,915,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,47102,17457,1904,27741,17/06/2020 23:26:52,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Gujarat,25658,17827,1592,6239,18/06/2020 21:54:51,0,GJ,510,389,31,
+Gujarat,25658,17827,1592,6239,18/06/2020 22:03:50,0,GJ,510,389,31,
 Uttar Pradesh,15785,9638,488,5659,18/06/2020 18:45:48,0,UP,604,399,23,
 Rajasthan,13857,10742,330,2785,18/06/2020 21:43:07,0,RJ,315,275,17,
 West Bengal,12735,7001,518,5216,18/06/2020 20:47:49,0,WB,435,468,12,
 Madhya Pradesh,11426,8632,486,2308,18/06/2020 19:25:49,0,MP,182,244,4,
-Haryana,9218,4556,134,4528,18/06/2020 21:54:55,0,HR,386,604,4,
+Haryana,9218,4556,134,4528,18/06/2020 21:57:28,0,HR,386,604,4,
 State Unassigned,8703,0,0,8703,18/06/2020 09:45:47,0,UN,430,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 430 cases were increased in this category today by MoHFW. We have included these cases to this category
 Karnataka,7944,4983,115,2842,18/06/2020 20:55:58,4,KA,210,179,12,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,7496,3772,92,3632,18/06/2020 13:38:49,0,AP,425,131,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -23,15 +23,15 @@ Assam,4861,2849,9,2000,18/06/2020 21:40:35,3,AS,166,206,1,"Includes one case fro
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,4512,3144,14,1354,18/06/2020 16:53:51,0,OR,174,97,0,Three non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,3615,2570,83,962,18/06/2020 20:36:00,0,PB,118,32,5,
-Kerala,2795,1413,22,1358,18/06/2020 21:54:59,2,KL,97,89,1,"Mahe native who expired in Kannur included in Kerala's tally.
+Kerala,2795,1413,22,1358,18/06/2020 21:57:35,2,KL,97,89,1,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2103,1386,26,678,18/06/2020 21:43:33,13,UT,80,132,0,13 Migrated cases reduced from Active count
 Chhattisgarh,1946,1202,9,735,18/06/2020 21:41:39,0,CT,82,103,0,
 Jharkhand,1919,1198,11,710,18/06/2020 21:43:53,0,JH,23,47,1,
-Tripura,1142,556,1,585,18/06/2020 15:14:55,0,TR,9,0,0,
+Tripura,1153,556,1,596,18/06/2020 22:03:59,0,TR,20,0,0,
 Ladakh,687,95,1,591,18/06/2020 17:35:51,0,LA,0,3,0,
 Goa,705,109,0,596,18/06/2020 21:15:53,0,GA,49,13,0,
-Himachal Pradesh,595,373,7,204,18/06/2020 21:55:04,11,HP,10,5,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,595,373,7,204,18/06/2020 21:57:37,11,HP,10,5,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,606,199,0,407,18/06/2020 20:21:55,0,MN,54,7,0,
 Chandigarh,374,306,6,62,18/06/2020 20:56:06,0,CH,4,0,0,
 Puducherry,245,109,5,131,17/06/2020 19:26:10,0,PY,0,0,0,
