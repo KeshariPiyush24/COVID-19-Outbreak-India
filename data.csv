@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,369314,195542,12304,161423,18/06/2020 18:53:46,45,TT,2050,1104,41,
+Total,369314,195542,12304,161423,18/06/2020 19:01:47,45,TT,2050,1104,41,
 Maharashtra,116752,59166,5651,51922,17/06/2020 23:34:48,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,50193,27624,576,21993,17/06/2020 18:45:48,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -30,7 +30,7 @@ Jharkhand,1895,1151,10,734,17/06/2020 22:55:49,0,JH,0,0,0,
 Tripura,1142,556,1,585,18/06/2020 15:14:55,0,TR,9,0,0,
 Ladakh,687,95,1,591,18/06/2020 17:35:51,0,LA,0,3,0,
 Goa,656,96,0,560,17/06/2020 19:35:54,0,GA,0,0,0,
-Himachal Pradesh,589,369,7,202,18/06/2020 18:53:50,11,HP,4,1,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,589,369,7,202,18/06/2020 19:01:53,11,HP,4,1,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,552,192,0,360,17/06/2020 22:42:51,0,MN,0,0,0,
 Chandigarh,373,306,6,61,18/06/2020 18:45:53,0,CH,3,0,0,
 Puducherry,245,109,5,131,17/06/2020 19:26:10,0,PY,0,0,0,
