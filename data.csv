@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,368443,194697,12275,161426,18/06/2020 14:13:46,45,TT,1179,259,12,
+Total,368557,194843,12275,161394,18/06/2020 14:23:46,45,TT,1293,405,12,
 Maharashtra,116752,59166,5651,51922,17/06/2020 23:34:48,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,50193,27624,576,21993,17/06/2020 18:45:48,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -12,7 +12,7 @@ Uttar Pradesh,15181,9239,465,5477,17/06/2020 18:33:50,0,UP,0,0,0,
 Rajasthan,13626,10582,323,2721,18/06/2020 11:11:47,0,RJ,84,115,10,
 West Bengal,12300,6532,506,5262,17/06/2020 19:45:50,0,WB,0,0,0,
 Madhya Pradesh,11244,8388,482,2374,17/06/2020 22:25:48,0,MP,0,0,0,
-Haryana,8832,3952,130,4750,18/06/2020 00:45:48,0,HR,0,0,0,
+Haryana,8946,4098,130,4718,18/06/2020 14:23:48,0,HR,114,146,0,
 State Unassigned,8703,0,0,8703,18/06/2020 09:45:47,0,UN,430,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 430 cases were increased from this category today by MoHFW. We have reduced this cases from total for the day.
 Karnataka,7734,4804,103,2823,17/06/2020 19:02:48,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,7496,3772,92,3632,18/06/2020 13:38:49,0,AP,425,131,2,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -30,7 +30,7 @@ Jharkhand,1895,1151,10,734,17/06/2020 22:55:49,0,JH,0,0,0,
 Tripura,1133,556,1,576,18/06/2020 12:21:48,0,TR,0,0,0,
 Ladakh,687,92,1,594,17/06/2020 18:33:54,0,LA,0,0,0,
 Goa,656,96,0,560,17/06/2020 19:35:54,0,GA,0,0,0,
-Himachal Pradesh,586,368,7,200,18/06/2020 14:13:52,11,HP,1,0,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,586,368,7,200,18/06/2020 14:21:50,11,HP,1,0,0,"HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,552,192,0,360,17/06/2020 22:42:51,0,MN,0,0,0,
 Chandigarh,371,306,6,59,18/06/2020 09:14:48,0,CH,1,0,0,
 Puducherry,245,109,5,131,17/06/2020 19:26:10,0,PY,0,0,0,
