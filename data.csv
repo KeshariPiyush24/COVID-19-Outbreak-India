@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,395697,214266,12971,168410,19/06/2020 23:44:46,50,TT,11469,6798,299,
+Total,395697,214206,12971,168470,19/06/2020 23:50:46,50,TT,14606,9026,365,
 Maharashtra,124331,62773,5893,55652,19/06/2020 22:56:49,13,MH,3827,1935,142,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,54449,30271,666,23512,19/06/2020 19:43:47,0,TN,2115,1630,41,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,53116,23629,2035,27452,19/06/2020 23:44:48,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+Delhi,53116,23569,2035,27512,19/06/2020 23:50:50,0,DL,3137,2228,66,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,26198,18167,1619,6412,19/06/2020 21:36:50,0,GJ,540,340,27,
 Uttar Pradesh,16594,9995,507,6092,19/06/2020 21:45:50,0,UP,809,357,19,
@@ -33,7 +33,7 @@ Ladakh,744,95,1,648,19/06/2020 19:01:47,0,LA,57,0,0,
 Goa,725,118,0,607,19/06/2020 20:05:49,0,GA,20,9,0,
 Himachal Pradesh,627,385,7,222,19/06/2020 23:18:07,13,HP,32,12,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,681,218,0,463,19/06/2020 20:35:50,0,MN,75,19,0,
-Chandigarh,381,315,6,60,19/06/2020 23:44:51,0,CH,7,9,0,
+Chandigarh,381,315,6,60,19/06/2020 23:50:53,0,CH,7,9,0,
 Puducherry,287,118,7,162,19/06/2020 18:54:51,0,PY,16,2,1,
 Nagaland,198,125,0,73,19/06/2020 16:05:51,0,NL,5,16,0,
 Mizoram,130,9,0,121,19/06/2020 15:24:51,0,MZ,0,8,0,
