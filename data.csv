@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,382143,205438,12611,164046,19/06/2020 15:40:46,48,TT,1052,255,5,
+Total,382143,205454,12611,164030,19/06/2020 15:53:46,48,TT,1052,271,5,
 Maharashtra,120504,60838,5751,53902,18/06/2020 21:56:54,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,52334,28641,625,23068,18/06/2020 22:26:51,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -35,7 +35,7 @@ Himachal Pradesh,595,376,7,201,19/06/2020 13:46:49,11,HP,0,3,0,"HP has 12 Migrat
 Manipur,606,199,0,407,18/06/2020 20:21:55,0,MN,0,0,0,
 Chandigarh,374,306,6,62,18/06/2020 20:56:06,0,CH,0,0,0,
 Puducherry,271,116,6,149,19/06/2020 08:43:49,0,PY,0,0,0,
-Nagaland,198,109,0,89,19/06/2020 09:53:50,0,NL,5,0,0,
+Nagaland,198,125,0,73,19/06/2020 15:53:50,0,NL,5,16,0,
 Mizoram,130,9,0,121,19/06/2020 15:24:51,0,MZ,0,8,0,
 Arunachal Pradesh,103,11,0,92,19/06/2020 00:00:53,0,AR,0,0,0,
 Sikkim,70,5,0,65,19/06/2020 10:03:50,0,SK,0,0,0,
