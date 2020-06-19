@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,392536,211944,12905,167637,19/06/2020 22:52:46,50,TT,11445,6764,299,
-Maharashtra,124331,62773,5893,55652,19/06/2020 22:52:48,13,MH,3827,1935,142,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
+Total,392536,211944,12905,167637,19/06/2020 22:56:46,50,TT,11445,6764,299,
+Maharashtra,124331,62773,5893,55652,19/06/2020 22:56:49,13,MH,3827,1935,142,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,54449,30271,666,23512,19/06/2020 19:43:47,0,TN,2115,1630,41,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
@@ -27,7 +27,7 @@ Kerala,2913,1509,22,1380,19/06/2020 18:35:48,2,KL,118,96,0,"Mahe native who expi
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2177,1433,26,703,19/06/2020 22:24:55,15,UT,74,47,0,15 Migrated cases reduced from Active count
 Chhattisgarh,2018,1305,10,703,19/06/2020 20:38:48,0,CT,72,103,1,
-Jharkhand,1961,1335,11,615,19/06/2020 22:52:51,0,JH,42,137,0,
+Jharkhand,1961,1335,11,615,19/06/2020 22:56:52,0,JH,42,137,0,
 Tripura,1181,639,1,541,19/06/2020 21:37:00,0,TR,27,0,0,
 Ladakh,744,95,1,648,19/06/2020 19:01:47,0,LA,57,0,0,
 Goa,725,118,0,607,19/06/2020 20:05:49,0,GA,20,9,0,
