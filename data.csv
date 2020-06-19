@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,381320,205182,12606,163486,19/06/2020 09:41:46,46,TT,229,0,0,
+Total,381320,205183,12606,163485,19/06/2020 09:53:46,46,TT,229,0,0,
 Maharashtra,120504,60838,5751,53902,18/06/2020 21:56:54,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,52334,28641,625,23068,18/06/2020 22:26:51,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -13,7 +13,7 @@ Rajasthan,13857,10742,330,2785,18/06/2020 21:43:07,0,RJ,0,0,0,
 West Bengal,12735,7001,518,5216,18/06/2020 20:47:49,0,WB,0,0,0,
 Madhya Pradesh,11426,8632,486,2308,18/06/2020 19:25:49,0,MP,0,0,0,
 Haryana,9218,4556,134,4528,18/06/2020 21:57:28,0,HR,0,0,0,
-State Unassigned,8927,0,0,8927,19/06/2020 09:40:48,0,UN,224,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 224 cases were increased in this category today by MoHFW. We have included these cases to this category
+State Unassigned,8927,0,0,8927,19/06/2020 09:43:49,0,UN,224,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 224 cases were increased in this category today by MoHFW. We have included these cases to this category
 Karnataka,7944,4983,115,2842,18/06/2020 20:55:58,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,7496,3772,92,3632,18/06/2020 13:38:49,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,7040,4961,44,2035,18/06/2020 21:43:23,0,BR,0,0,0,
@@ -35,10 +35,10 @@ Himachal Pradesh,595,373,7,204,18/06/2020 21:57:37,11,HP,0,0,0,"HP has 12 Migrat
 Manipur,606,199,0,407,18/06/2020 20:21:55,0,MN,0,0,0,
 Chandigarh,374,306,6,62,18/06/2020 20:56:06,0,CH,0,0,0,
 Puducherry,271,116,6,149,19/06/2020 08:43:49,0,PY,0,0,0,
-Nagaland,198,109,0,89,19/06/2020 09:41:51,0,NL,5,0,0,
+Nagaland,198,109,0,89,19/06/2020 09:53:50,0,NL,5,0,0,
 Mizoram,130,1,0,129,18/06/2020 09:05:49,0,MZ,0,0,0,
 Arunachal Pradesh,103,11,0,92,19/06/2020 00:00:53,0,AR,0,0,0,
-Sikkim,70,4,0,66,17/06/2020 22:25:57,0,SK,0,0,0,
+Sikkim,70,5,0,65,19/06/2020 09:53:54,0,SK,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,60,14,0,46,18/06/2020 20:36:06,0,DN,0,0,0,
 Andaman and Nicobar Islands,45,35,0,10,18/06/2020 20:14:55,0,AN,0,0,0,
 Meghalaya,43,32,1,10,18/06/2020 14:12:54,0,ML,0,0,0,"[June 17]:
