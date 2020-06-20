@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,396361,214209,12971,169131,20/06/2020 11:05:46,50,TT,530,0,0,
+Total,396361,214209,12972,169130,20/06/2020 11:43:46,50,TT,530,0,1,
 Maharashtra,124331,62773,5893,55652,19/06/2020 22:56:49,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin."
 Tamil Nadu,54449,30271,666,23512,19/06/2020 19:43:47,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
@@ -21,7 +21,7 @@ Telangana,6526,3352,198,2976,19/06/2020 21:36:57,0,TG,0,0,0,
 Jammu and Kashmir,5680,3194,75,2411,19/06/2020 22:08:01,0,JK,0,0,0,
 Assam,5006,3067,9,1927,20/06/2020 00:12:49,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
-Odisha,4856,3297,14,1545,20/06/2020 11:05:48,0,OR,179,0,0,Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,4856,3297,15,1544,20/06/2020 11:43:48,0,OR,179,0,1,Three non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,3832,2636,92,1104,19/06/2020 21:46:51,0,PB,0,0,0,
 Kerala,2913,1509,22,1380,19/06/2020 18:35:48,2,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
