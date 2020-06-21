@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,421765,235078,13503,173134,21/06/2020 21:13:13,50,TT,10013,6895,225,
+Total,421765,235078,13503,173134,21/06/2020 21:17:13,50,TT,10013,6895,225,
 Maharashtra,128205,64153,5984,58055,21/06/2020 00:35:48,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -18,10 +18,10 @@ Haryana,10635,5557,160,4918,21/06/2020 20:15:19,0,HR,412,429,11,
 State Unassigned,9127,0,0,9127,21/06/2020 10:07:15,0,UN,-138,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 138 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category
 Karnataka,9150,5618,138,3390,21/06/2020 20:33:15,4,KA,453,225,5,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,8929,4307,106,4516,21/06/2020 13:36:15,0,AP,477,196,5,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Bihar,7665,5631,51,1983,21/06/2020 21:13:16,0,BR,162,264,2,
+Bihar,7665,5631,51,1983,21/06/2020 21:17:15,0,BR,162,264,2,
 Telangana,7072,3506,203,3363,20/06/2020 22:02:50,0,TG,0,0,0,
 Jammu and Kashmir,5956,3382,82,2492,21/06/2020 20:06:18,0,JK,122,46,1,
-Assam,5388,3361,9,2015,21/06/2020 21:13:17,3,AS,133,158,0,"Includes one case from Nagaland.
+Assam,5388,3361,9,2015,21/06/2020 21:17:17,3,AS,133,158,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,5160,3720,19,1421,21/06/2020 17:26:15,0,OR,304,186,4,Three non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,4074,2700,99,1275,21/06/2020 19:45:18,0,PB,122,22,1,
