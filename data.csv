@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,415624,230586,13348,171640,21/06/2020 18:36:13,50,TT,3878,2405,70,
+Total,415624,230586,13348,171640,21/06/2020 18:40:13,50,TT,3878,2405,70,
 Maharashtra,128205,64153,5984,58055,21/06/2020 00:35:48,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,59377,32754,757,25866,21/06/2020 18:36:14,0,TN,2532,1438,53,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,59377,32754,757,25866,21/06/2020 18:40:14,0,TN,2532,1438,53,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,56746,31294,2112,23340,20/06/2020 23:41:47,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
