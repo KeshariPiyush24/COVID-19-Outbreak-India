@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,422603,235336,13510,173706,21/06/2020 22:36:12,51,TT,10851,7153,232,
-Maharashtra,128205,64153,5984,58054,21/06/2020 22:36:14,14,MH,0,0,0,"14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
+Total,422603,235336,13510,173706,21/06/2020 22:42:13,51,TT,10851,7153,232,
+Maharashtra,128205,64153,5984,58054,21/06/2020 22:42:14,14,MH,0,0,0,"14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
