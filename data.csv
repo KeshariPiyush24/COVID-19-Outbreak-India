@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,412788,228504,13291,170943,21/06/2020 13:44:13,50,TT,1042,323,13,
+Total,412931,228549,13293,171039,21/06/2020 14:36:13,50,TT,1185,368,15,
 Maharashtra,128205,64153,5984,58055,21/06/2020 00:35:48,13,MH,0,0,0,"13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -14,7 +14,7 @@ Uttar Pradesh,17135,10369,529,6237,20/06/2020 22:02:47,0,UP,0,0,0,
 Rajasthan,14691,11395,341,2955,21/06/2020 11:04:14,0,RJ,154,121,4,
 West Bengal,13531,7865,540,5126,20/06/2020 21:15:47,0,WB,0,0,0,
 Madhya Pradesh,11724,8880,501,2343,20/06/2020 18:50:07,0,MP,0,0,0,
-Haryana,10223,5128,149,4946,20/06/2020 21:23:47,0,HR,0,0,0,
+Haryana,10338,5164,150,5024,21/06/2020 14:36:15,0,HR,115,36,1,
 State Unassigned,9127,0,0,9127,21/06/2020 10:07:15,0,UN,-138,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 138 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category
 Karnataka,8697,5391,133,3169,20/06/2020 20:22:48,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,8929,4307,106,4516,21/06/2020 13:36:15,0,AP,477,196,5,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -36,7 +36,7 @@ Goa,754,129,0,625,20/06/2020 20:06:49,0,GA,0,0,0,
 Himachal Pradesh,658,406,7,232,21/06/2020 13:44:15,13,HP,2,1,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,777,232,0,545,21/06/2020 00:04:48,0,MN,0,0,0,
 Chandigarh,404,316,6,82,21/06/2020 10:06:17,0,CH,0,0,0,
-Puducherry,338,131,7,200,20/06/2020 14:03:48,0,PY,0,0,0,
+Puducherry,366,140,8,218,21/06/2020 14:35:17,0,PY,28,9,1,
 Nagaland,211,138,0,73,21/06/2020 10:06:19,0,NL,10,0,0,
 Mizoram,141,9,0,132,21/06/2020 07:55:15,0,MZ,1,0,0,
 Arunachal Pradesh,135,15,0,120,20/06/2020 23:41:49,0,AR,0,0,0,
