@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,426980,237252,13705,175972,22/06/2020 09:24:13,51,TT,70,0,1,
+Total,426979,237252,13705,175971,22/06/2020 09:36:13,51,TT,69,0,1,
 Maharashtra,132075,65744,6170,60147,21/06/2020 23:04:14,14,MH,0,0,0,"14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,7 +15,7 @@ Rajasthan,14930,11597,349,2984,22/06/2020 00:45:14,0,RJ,0,0,0,
 West Bengal,13945,8297,555,5093,21/06/2020 20:15:18,0,WB,0,0,0,
 Madhya Pradesh,11903,9015,515,2373,21/06/2020 21:13:14,0,MP,0,0,0,
 Haryana,10635,5557,160,4918,21/06/2020 20:15:19,0,HR,0,0,0,
-State Unassigned,9127,0,0,9127,21/06/2020 10:07:15,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
+State Unassigned,9127,0,0,9127,22/06/2020 09:33:15,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Karnataka,9150,5618,138,3390,21/06/2020 20:33:15,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,8929,4307,106,4516,21/06/2020 13:36:15,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,7665,5631,51,1983,21/06/2020 21:17:15,0,BR,0,0,0,
@@ -32,12 +32,12 @@ Chhattisgarh,2273,1421,11,841,21/06/2020 21:05:18,0,CT,0,0,0,
 Jharkhand,2089,1406,11,672,21/06/2020 22:23:15,0,JH,0,0,0,
 Tripura,1224,759,1,464,21/06/2020 23:26:15,0,TR,0,0,0,
 Ladakh,837,134,1,702,21/06/2020 16:37:16,0,LA,0,0,0,
-Goa,818,135,1,682,22/06/2020 09:24:15,0,GA,0,0,1,
+Goa,818,135,1,682,22/06/2020 09:34:16,0,GA,0,0,1,
 Himachal Pradesh,673,417,7,236,21/06/2020 18:36:17,13,HP,0,0,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,841,250,0,591,21/06/2020 21:13:20,0,MN,0,0,0,
 Chandigarh,406,316,6,84,21/06/2020 19:55:19,0,CH,0,0,0,
 Puducherry,366,140,8,218,21/06/2020 14:47:16,0,PY,0,0,0,
-Nagaland,280,141,0,139,22/06/2020 09:24:17,0,NL,69,0,0,
+Nagaland,279,141,0,138,22/06/2020 09:36:15,0,NL,68,0,0,
 Mizoram,142,9,0,133,22/06/2020 09:13:16,0,MZ,1,0,0,
 Arunachal Pradesh,139,21,0,118,21/06/2020 22:35:21,0,AR,0,0,0,
 Sikkim,78,21,0,57,21/06/2020 22:35:22,0,SK,0,0,0,
