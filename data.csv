@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,435110,244791,13867,176401,22/06/2020 22:05:13,51,TT,8217,7537,164,
+Total,435426,245150,13875,176350,22/06/2020 22:13:13,51,TT,8533,7896,172,
 Maharashtra,132075,65744,6170,60147,21/06/2020 23:04:14,14,MH,0,0,0,"14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -14,14 +14,14 @@ Uttar Pradesh,17731,10995,550,6186,21/06/2020 20:25:17,0,UP,0,0,0,
 Rajasthan,14997,11652,349,2996,22/06/2020 12:37:15,0,RJ,67,55,0,
 West Bengal,14358,8687,569,5102,22/06/2020 20:15:15,0,WB,413,390,14,
 Madhya Pradesh,12078,9215,521,2342,22/06/2020 20:15:17,0,MP,175,200,6,
-Haryana,10709,5557,161,4991,22/06/2020 14:35:14,0,HR,74,0,1,
+Haryana,11025,5916,169,4940,22/06/2020 22:13:15,0,HR,390,359,9,
 State Unassigned,7832,0,0,7832,22/06/2020 09:56:15,0,UN,-1295,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 1295 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category
 Karnataka,9399,5730,142,3523,22/06/2020 22:05:15,4,KA,249,111,5,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,9372,4435,111,4826,22/06/2020 17:23:17,0,AP,443,128,5,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,7808,5767,52,1989,22/06/2020 19:15:15,0,BR,143,136,1,
 Telangana,8674,4005,217,4452,22/06/2020 21:26:15,0,TG,872,274,7,
 Jammu and Kashmir,6088,3531,85,2472,22/06/2020 20:15:20,0,JK,132,149,3,
-Assam,5586,3566,9,2008,22/06/2020 22:05:17,3,AS,0,161,0,"Includes one case from Nagaland.
+Assam,5586,3566,9,2008,22/06/2020 22:12:18,3,AS,0,161,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,5303,3863,21,1419,22/06/2020 16:44:14,0,OR,143,143,2,Three non-covid deaths reported in state dashboard are included in the deceased count
 Punjab,4235,2825,101,1309,22/06/2020 19:54:21,0,PB,161,125,2,
