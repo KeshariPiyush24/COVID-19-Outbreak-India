@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,445589,251445,14094,179998,23/06/2020 19:43:13,52,TT,5127,3308,79,
+Total,449613,254204,14162,181195,23/06/2020 19:53:13,52,TT,9151,6067,147,
 Maharashtra,135796,67706,6283,61793,22/06/2020 23:26:52,14,MH,0,0,0,"14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -7,12 +7,12 @@ Maharashtra,135796,67706,6283,61793,22/06/2020 23:26:52,14,MH,0,0,0,"14 cases we
 Tamil Nadu,64603,35339,833,28431,23/06/2020 18:49:14,0,TN,2516,1227,39,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,62655,36602,2233,23820,22/06/2020 21:59:15,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+Delhi,66602,39313,2301,24988,23/06/2020 19:53:15,0,DL,3947,2711,68,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,27880,19917,1685,6278,22/06/2020 20:37:16,0,GJ,0,0,0,
 Uttar Pradesh,18322,11601,569,6152,22/06/2020 23:26:54,0,UP,0,0,0,
 Rajasthan,15431,12040,356,3035,23/06/2020 12:06:14,0,RJ,199,130,0,
-West Bengal,14728,9218,580,4930,23/06/2020 19:43:15,0,WB,370,531,11,
+West Bengal,14728,9218,580,4930,23/06/2020 19:46:14,0,WB,370,531,11,
 Madhya Pradesh,12078,9215,521,2342,22/06/2020 20:15:17,0,MP,0,0,0,
 Haryana,11199,5950,169,5080,23/06/2020 15:36:14,0,HR,174,34,0,
 State Unassigned,8015,0,0,8015,23/06/2020 09:56:15,0,UN,183,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 183 cases were increased in this category today by MoHFW. We have included these cases to this category
@@ -25,17 +25,17 @@ Assam,5853,3763,9,2078,23/06/2020 19:27:15,3,AS,0,197,0,"Includes one case from 
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,5470,3988,24,1458,23/06/2020 17:36:16,0,OR,167,125,3,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
-Punjab,4397,3047,105,1245,23/06/2020 19:43:16,0,PB,162,222,4,
+Punjab,4397,3047,105,1245,23/06/2020 19:46:17,0,PB,162,222,4,
 Kerala,3452,1807,23,1620,23/06/2020 19:27:19,2,KL,141,60,1,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2505,1541,29,920,23/06/2020 15:26:30,15,UT,103,20,1,15 Migrated cases reduced from Active count
-Chhattisgarh,2302,1487,12,803,22/06/2020 22:37:17,0,CT,0,0,0,
+Chhattisgarh,2356,1527,12,817,23/06/2020 19:53:19,0,CT,54,40,0,
 Jharkhand,2140,1469,11,660,22/06/2020 23:26:58,0,JH,0,0,0,
 Tripura,1240,782,1,457,22/06/2020 23:35:16,0,TR,0,0,0,
 Ladakh,932,148,1,783,23/06/2020 18:49:18,0,LA,85,12,0,
-Goa,909,185,2,722,23/06/2020 19:43:18,0,GA,45,33,1,
+Goa,909,185,2,722,23/06/2020 19:46:23,0,GA,45,33,1,
 Himachal Pradesh,762,429,7,313,23/06/2020 18:26:15,13,HP,35,0,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Manipur,898,250,0,648,22/06/2020 19:54:24,0,MN,0,0,0,
+Manipur,921,258,0,663,23/06/2020 19:53:21,0,MN,23,8,0,
 Chandigarh,415,322,6,87,23/06/2020 16:33:19,0,CH,4,0,0,
 Puducherry,402,165,9,228,23/06/2020 12:13:16,0,PY,19,16,1,
 Nagaland,330,141,0,189,23/06/2020 09:02:16,0,NL,50,0,0,
