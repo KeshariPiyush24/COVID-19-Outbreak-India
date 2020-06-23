@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,441920,248504,14028,179337,23/06/2020 15:24:13,51,TT,1470,367,13,
+Total,441920,248504,14028,179337,23/06/2020 15:36:12,51,TT,1470,367,13,
 Maharashtra,135796,67706,6283,61793,22/06/2020 23:26:52,14,MH,0,0,0,"14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -14,7 +14,7 @@ Uttar Pradesh,18322,11601,569,6152,22/06/2020 23:26:54,0,UP,0,0,0,
 Rajasthan,15431,12040,356,3035,23/06/2020 12:06:14,0,RJ,199,130,0,
 West Bengal,14358,8687,569,5102,22/06/2020 20:15:15,0,WB,0,0,0,
 Madhya Pradesh,12078,9215,521,2342,22/06/2020 20:15:17,0,MP,0,0,0,
-Haryana,11199,5950,169,5080,23/06/2020 15:24:15,0,HR,174,34,0,
+Haryana,11199,5950,169,5080,23/06/2020 15:36:14,0,HR,174,34,0,
 State Unassigned,8015,0,0,8015,23/06/2020 09:56:15,0,UN,183,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 183 cases were increased in this category today by MoHFW. We have included these cases to this category
 Karnataka,9399,5730,142,3523,22/06/2020 22:05:15,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,9834,4592,119,5123,23/06/2020 13:55:15,0,AP,462,157,8,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -27,7 +27,7 @@ Odisha,5470,3863,24,1583,23/06/2020 12:25:15,0,OR,167,0,3,Three non-covid deaths
 Punjab,4235,2825,101,1309,22/06/2020 19:54:21,0,PB,0,0,0,
 Kerala,3311,1747,22,1540,22/06/2020 18:22:17,2,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
-Uttarakhand,2505,1541,29,920,23/06/2020 15:24:17,15,UT,103,20,1,15 Migrated cases reduced from Active count
+Uttarakhand,2505,1541,29,920,23/06/2020 15:26:30,15,UT,103,20,1,15 Migrated cases reduced from Active count
 Chhattisgarh,2302,1487,12,803,22/06/2020 22:37:17,0,CT,0,0,0,
 Jharkhand,2140,1469,11,660,22/06/2020 23:26:58,0,JH,0,0,0,
 Tripura,1240,782,1,457,22/06/2020 23:35:16,0,TR,0,0,0,
