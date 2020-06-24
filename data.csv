@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,456796,258827,14490,183424,24/06/2020 12:42:13,55,TT,680,228,7,
+Total,456796,258827,14490,183424,24/06/2020 12:46:13,55,TT,680,228,7,
 Maharashtra,139010,69631,6531,62833,23/06/2020 21:54:14,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -34,7 +34,7 @@ Jharkhand,2193,1520,11,662,24/06/2020 05:55:15,0,JH,0,0,0,
 Tripura,1263,807,1,455,24/06/2020 07:34:18,0,TR,0,0,0,
 Ladakh,932,148,1,783,23/06/2020 18:49:18,0,LA,0,0,0,
 Goa,909,205,2,702,23/06/2020 20:55:17,0,GA,0,0,0,
-Himachal Pradesh,778,437,7,321,24/06/2020 12:42:17,13,HP,3,5,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,778,437,7,321,24/06/2020 12:46:16,13,HP,3,5,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,921,258,0,663,23/06/2020 20:04:17,0,MN,0,0,0,
 Chandigarh,418,322,6,90,23/06/2020 21:28:15,0,CH,0,0,0,
 Puducherry,461,176,9,276,24/06/2020 12:26:23,0,PY,59,11,0,
