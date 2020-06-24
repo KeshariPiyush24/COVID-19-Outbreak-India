@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,465553,264542,14634,186322,24/06/2020 19:55:13,55,TT,9436,5943,151,
+Total,465565,264616,14634,186260,24/06/2020 20:03:13,55,TT,9448,6017,151,
 Maharashtra,139010,69631,6531,62833,23/06/2020 21:54:14,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -13,7 +13,7 @@ Gujarat,28429,20521,1711,6197,23/06/2020 20:33:14,0,GJ,0,0,0,
 Uttar Pradesh,18893,12116,588,6189,23/06/2020 22:15:14,0,UP,0,0,0,
 Rajasthan,15809,12424,372,3013,24/06/2020 12:26:16,0,RJ,182,211,7,
 West Bengal,14728,9218,580,4930,23/06/2020 19:46:14,0,WB,0,0,0,
-Madhya Pradesh,12448,9473,534,2441,24/06/2020 19:55:14,0,MP,187,138,9,
+Madhya Pradesh,12448,9473,534,2441,24/06/2020 20:00:14,0,MP,187,138,9,
 Haryana,11718,6576,178,4964,24/06/2020 14:56:15,0,HR,198,78,0,
 State Unassigned,8141,0,0,8141,24/06/2020 09:45:15,0,UN,126,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 126 cases were increased in this category today by MoHFW. We have included these cases to this category
 Karnataka,10118,6153,164,3797,24/06/2020 19:38:15,4,KA,397,149,14,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
@@ -29,13 +29,13 @@ Punjab,4627,3099,113,1415,24/06/2020 19:04:15,0,PB,230,52,8,
 Kerala,3604,1888,23,1691,24/06/2020 19:38:20,2,KL,152,81,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2568,1653,35,863,24/06/2020 16:01:15,17,UT,33,51,5,17 Migrated cases reduced from Active count
-Chhattisgarh,2385,1527,12,846,23/06/2020 23:23:18,0,CT,0,0,0,
+Chhattisgarh,2397,1601,12,784,24/06/2020 20:03:15,0,CT,12,74,0,
 Jharkhand,2193,1520,11,662,24/06/2020 05:55:15,0,JH,0,0,0,
 Tripura,1263,807,1,455,24/06/2020 07:34:18,0,TR,0,0,0,
 Ladakh,932,274,1,657,24/06/2020 17:56:17,0,LA,0,126,0,
 Goa,909,205,2,702,23/06/2020 20:55:17,0,GA,0,0,0,
 Himachal Pradesh,778,441,7,317,24/06/2020 18:55:21,13,HP,3,9,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Manipur,970,328,0,642,24/06/2020 19:55:17,0,MN,49,70,0,
+Manipur,970,328,0,642,24/06/2020 19:58:19,0,MN,49,70,0,
 Chandigarh,420,322,6,92,24/06/2020 18:55:24,0,CH,2,0,0,
 Puducherry,461,176,9,276,24/06/2020 12:26:23,0,PY,59,11,0,
 Nagaland,347,148,0,199,24/06/2020 16:47:17,0,NL,17,7,0,
