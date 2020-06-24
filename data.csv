@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,456552,258600,14483,183414,24/06/2020 11:23:15,55,TT,436,1,0,
+Total,456552,258600,14483,183414,24/06/2020 11:27:13,55,TT,436,1,0,
 Maharashtra,139010,69631,6531,62833,23/06/2020 21:54:14,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -38,11 +38,11 @@ Himachal Pradesh,775,432,7,323,23/06/2020 22:07:21,13,HP,0,0,0,"HP has 14 Migrat
 Manipur,921,258,0,663,23/06/2020 20:04:17,0,MN,0,0,0,
 Chandigarh,418,322,6,90,23/06/2020 21:28:15,0,CH,0,0,0,
 Puducherry,402,165,9,228,23/06/2020 12:13:16,0,PY,0,0,0,
-Nagaland,347,141,0,206,24/06/2020 10:46:17,0,NL,17,0,0,
+Nagaland,347,141,0,206,24/06/2020 11:27:15,0,NL,17,0,0,
 Mizoram,145,19,0,126,24/06/2020 07:57:18,0,MZ,3,0,0,
 Arunachal Pradesh,158,38,0,120,23/06/2020 22:07:22,0,AR,0,0,0,
-Sikkim,83,29,0,54,24/06/2020 11:23:19,0,SK,4,0,0,
-Dadra and Nagar Haveli and Daman and Diu,121,27,0,93,24/06/2020 11:23:22,1,DN,0,0,0,
+Sikkim,83,29,0,54,24/06/2020 11:26:15,0,SK,4,0,0,
+Dadra and Nagar Haveli and Daman and Diu,121,27,0,93,24/06/2020 11:26:16,1,DN,0,0,0,
 Andaman and Nicobar Islands,54,41,0,13,24/06/2020 10:46:21,0,AN,4,1,0,
 Meghalaya,46,41,1,4,23/06/2020 22:20:18,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
