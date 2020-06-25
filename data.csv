@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,474585,272008,14914,187608,25/06/2020 17:03:14,55,TT,1600,320,7,
+Total,474585,272382,14915,187233,25/06/2020 17:13:13,55,TT,1600,694,8,
 Maharashtra,142899,73792,6739,62353,24/06/2020 23:16:15,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -18,7 +18,7 @@ Haryana,12185,6957,188,5040,25/06/2020 16:46:14,0,HR,175,32,0,
 State Unassigned,8493,0,0,8493,25/06/2020 09:43:14,0,UN,352,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 352 cases were increased in this category today by MoHFW. We have included these cases to this category
 Karnataka,10118,6153,164,3797,24/06/2020 19:38:15,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,10884,4988,136,5760,25/06/2020 13:06:16,0,AP,553,209,7,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Bihar,8381,6106,55,2220,25/06/2020 14:37:14,0,BR,108,0,0,
+Bihar,8381,6480,56,1845,25/06/2020 17:13:16,0,BR,108,374,1,
 Telangana,10444,4361,225,5858,24/06/2020 20:46:20,0,TG,0,0,0,
 Jammu and Kashmir,6422,3818,88,2516,24/06/2020 20:36:23,0,JK,0,0,0,
 Assam,6371,3959,9,2400,25/06/2020 10:25:16,3,AS,88,0,0,"Includes one case from Nagaland.
@@ -38,7 +38,7 @@ Himachal Pradesh,806,468,7,318,25/06/2020 12:34:15,13,HP,0,2,0,"HP has 14 Migrat
 Manipur,970,328,0,642,24/06/2020 19:58:19,0,MN,0,0,0,
 Chandigarh,420,322,6,92,24/06/2020 18:55:24,0,CH,0,0,0,
 Puducherry,461,176,9,276,24/06/2020 12:26:23,0,PY,0,0,0,
-Nagaland,355,160,0,195,25/06/2020 17:03:20,0,NL,8,12,0,
+Nagaland,355,160,0,195,25/06/2020 17:07:16,0,NL,8,12,0,
 Mizoram,145,30,0,115,25/06/2020 16:54:19,0,MZ,0,6,0,
 Arunachal Pradesh,160,38,1,121,24/06/2020 21:38:34,0,AR,0,0,0,
 Sikkim,83,39,0,44,24/06/2020 17:56:20,0,SK,0,0,0,
