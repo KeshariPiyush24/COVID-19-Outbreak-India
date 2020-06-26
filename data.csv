@@ -15,7 +15,7 @@ Rajasthan,16296,12840,379,3077,25/06/2020 21:34:17,0,RJ,0,0,0,
 West Bengal,15648,10190,606,4852,25/06/2020 19:47:19,0,WB,0,0,0,
 Madhya Pradesh,12595,9619,542,2434,25/06/2020 20:17:18,0,MP,0,0,0,
 Haryana,12463,7380,198,4885,25/06/2020 20:44:14,0,HR,0,0,0,
-State Unassigned,8123,0,0,8123,26/06/2020 09:42:16,0,UN,-370,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 370 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category
+State Unassigned,8123,0,0,8123,26/06/2020 09:44:16,0,UN,-370,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 370 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category
 Karnataka,10560,6672,170,3714,25/06/2020 19:54:18,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,10884,4988,136,5760,25/06/2020 13:06:16,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,8488,6480,56,1952,25/06/2020 21:34:20,0,BR,0,0,0,
