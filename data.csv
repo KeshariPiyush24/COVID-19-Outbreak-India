@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,491741,285983,15319,190384,26/06/2020 14:01:13,55,TT,562,312,11,
+Total,491861,286016,15319,190471,26/06/2020 14:13:16,55,TT,682,345,11,
 Maharashtra,147741,77453,6931,63342,25/06/2020 21:56:14,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -14,10 +14,10 @@ Uttar Pradesh,20193,13119,611,6463,25/06/2020 20:26:14,0,UP,0,0,0,
 Rajasthan,16387,12935,380,3072,26/06/2020 11:41:15,0,RJ,91,95,1,
 West Bengal,15648,10190,606,4852,25/06/2020 19:47:19,0,WB,0,0,0,
 Madhya Pradesh,12595,9619,542,2434,25/06/2020 20:17:18,0,MP,0,0,0,
-Haryana,12463,7380,198,4885,25/06/2020 20:44:14,0,HR,0,0,0,
+Haryana,12583,7413,198,4972,26/06/2020 14:13:17,0,HR,120,33,0,
 State Unassigned,8123,0,0,8123,26/06/2020 09:44:16,0,UN,-370,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 370 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category
 Karnataka,10560,6672,170,3714,25/06/2020 19:54:18,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
-Andhra Pradesh,11489,5196,146,6147,26/06/2020 14:01:15,0,AP,605,208,10,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,11489,5196,146,6147,26/06/2020 14:06:16,0,AP,605,208,10,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,8488,6480,56,1952,25/06/2020 21:34:20,0,BR,0,0,0,
 Telangana,11364,4688,230,6446,25/06/2020 22:55:15,0,TG,0,0,0,
 Jammu and Kashmir,6549,3967,90,2492,25/06/2020 20:37:21,0,JK,0,0,0,
