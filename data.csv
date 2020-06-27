@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,527895,309140,16090,202607,27/06/2020 21:24:13,58,TT,18449,13223,401,
+Total,527994,309259,16096,202581,27/06/2020 21:36:14,58,TT,18548,13342,407,
 Maharashtra,159133,84245,7273,67600,27/06/2020 20:36:15,15,MH,6368,4430,167,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -11,7 +11,7 @@ Delhi,80188,49301,2558,28329,27/06/2020 19:25:15,0,DL,2948,2210,66,"Delhi bullet
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,30771,22417,1790,6564,27/06/2020 21:06:16,0,GJ,613,379,18,
 Uttar Pradesh,21549,14215,649,6685,27/06/2020 16:28:15,0,UP,606,632,19,
-Rajasthan,16944,13367,391,3186,27/06/2020 21:24:15,0,RJ,284,305,11,
+Rajasthan,16944,13367,391,3186,27/06/2020 21:35:18,0,RJ,284,305,11,
 West Bengal,16711,10789,629,5293,27/06/2020 18:37:16,0,WB,521,254,13,
 Madhya Pradesh,12965,9971,550,2444,27/06/2020 20:25:16,0,MP,167,167,4,
 Haryana,13427,8472,218,4737,27/06/2020 20:15:20,0,HR,543,456,7,
@@ -25,7 +25,7 @@ Assam,6920,4248,9,2660,27/06/2020 00:02:15,3,AS,0,0,0,"Includes one case from Na
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,6350,4606,25,1719,27/06/2020 17:45:18,0,OR,170,184,1,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
-Punjab,4957,3201,122,1634,26/06/2020 19:06:18,0,PB,0,0,0,
+Punjab,5056,3320,128,1608,27/06/2020 21:36:16,0,PB,99,119,6,
 Kerala,4072,2108,23,1939,27/06/2020 18:46:20,2,KL,195,102,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2791,1909,37,827,27/06/2020 19:34:16,18,UT,66,87,0,18 Migrated cases reduced from Active count
@@ -39,8 +39,8 @@ Manipur,1092,432,0,660,27/06/2020 19:52:26,0,MN,17,39,0,
 Chandigarh,427,335,6,86,27/06/2020 10:08:15,0,CH,2,0,0,
 Puducherry,621,221,10,388,27/06/2020 11:45:19,2,PY,87,18,1,
 Nagaland,387,164,0,223,27/06/2020 17:57:15,0,NL,16,2,0,
-Mizoram,150,55,0,95,27/06/2020 21:24:19,0,MZ,3,8,0,
-Arunachal Pradesh,177,54,1,122,27/06/2020 21:24:21,0,AR,3,5,0,
+Mizoram,150,55,0,95,27/06/2020 21:26:17,0,MZ,3,8,0,
+Arunachal Pradesh,177,54,1,122,27/06/2020 21:26:19,0,AR,3,5,0,
 Sikkim,87,39,0,48,27/06/2020 00:02:17,0,SK,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,184,56,0,127,27/06/2020 15:26:17,1,DN,15,6,0,
 Andaman and Nicobar Islands,72,43,0,29,26/06/2020 19:15:20,0,AN,0,0,0,
