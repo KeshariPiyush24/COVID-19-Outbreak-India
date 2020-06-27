@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,518936,302945,15880,200053,27/06/2020 19:23:13,58,TT,9490,7028,191,
+Total,518936,302945,15880,200053,27/06/2020 19:34:13,58,TT,9490,7028,191,
 Maharashtra,152765,79815,7106,65829,26/06/2020 21:26:15,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -7,7 +7,7 @@ Maharashtra,152765,79815,7106,65829,26/06/2020 21:26:15,15,MH,0,0,0,"15 cases we
 Tamil Nadu,78335,44094,1025,33216,27/06/2020 18:46:18,0,TN,3713,2737,68,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,80188,49301,2558,28329,27/06/2020 19:21:15,0,DL,2948,2210,66,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+Delhi,80188,49301,2558,28329,27/06/2020 19:25:15,0,DL,2948,2210,66,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,30158,22038,1772,6348,26/06/2020 20:37:15,0,GJ,0,0,0,
 Uttar Pradesh,21549,14215,649,6685,27/06/2020 16:28:15,0,UP,606,632,19,
@@ -28,7 +28,7 @@ Odisha,6350,4606,25,1719,27/06/2020 17:45:18,0,OR,170,184,1,"Three non-covid dea
 Punjab,4957,3201,122,1634,26/06/2020 19:06:18,0,PB,0,0,0,
 Kerala,4072,2108,23,1939,27/06/2020 18:46:20,2,KL,195,102,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
-Uttarakhand,2791,1909,37,827,27/06/2020 19:23:16,18,UT,66,87,0,18 Migrated cases reduced from Active count
+Uttarakhand,2791,1909,37,827,27/06/2020 19:34:16,18,UT,66,87,0,18 Migrated cases reduced from Active count
 Chhattisgarh,2545,1885,13,647,26/06/2020 21:36:20,0,CT,0,0,0,
 Jharkhand,2294,1647,12,635,26/06/2020 22:02:16,0,JH,0,0,0,
 Tripura,1331,1062,1,268,26/06/2020 21:56:17,0,TR,0,0,0,
