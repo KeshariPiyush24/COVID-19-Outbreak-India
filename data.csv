@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,529274,310068,16102,203048,27/06/2020 22:46:13,56,TT,19829,14151,413,
+Total,529331,310120,16102,203053,27/06/2020 23:03:13,56,TT,19886,14203,413,
 Maharashtra,159133,84245,7273,67600,27/06/2020 20:36:15,15,MH,6368,4430,167,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -29,7 +29,7 @@ Punjab,5056,3320,128,1608,27/06/2020 21:45:17,0,PB,99,119,6,
 Kerala,4072,2108,23,1939,27/06/2020 18:46:20,2,KL,195,102,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2791,1909,37,827,27/06/2020 19:34:16,18,UT,66,87,0,18 Migrated cases reduced from Active count
-Chhattisgarh,2545,1885,13,647,26/06/2020 21:36:20,0,CT,0,0,0,
+Chhattisgarh,2602,1937,13,652,27/06/2020 23:03:16,0,CT,57,52,0,
 Jharkhand,2339,1724,12,603,27/06/2020 22:15:15,0,JH,45,77,0,
 Tripura,1339,1062,1,276,27/06/2020 22:15:17,0,TR,9,0,0,
 Ladakh,960,554,1,405,27/06/2020 18:27:16,0,LA,14,87,0,
