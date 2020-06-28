@@ -1,13 +1,13 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,535066,312901,16182,205924,28/06/2020 18:24:13,59,TT,5479,2755,79,
+Total,537957,316208,16247,205446,28/06/2020 18:38:13,56,TT,8370,6062,144,
 Maharashtra,159133,84245,7273,67600,27/06/2020 20:36:15,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,82275,45537,1079,35656,28/06/2020 18:24:16,3,TN,3940,1443,54,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,82275,45537,1079,35659,28/06/2020 18:38:16,0,TN,3940,1443,54,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
-These cases have been reduced from active and deceased counts for Chennai"
-Delhi,80188,49301,2558,28329,27/06/2020 19:25:15,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+These cases have been added to TN deceased tally"
+Delhi,83077,52607,2623,27847,28/06/2020 18:38:19,0,DL,2889,3306,65,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,30773,22417,1790,6566,28/06/2020 08:53:15,0,GJ,0,0,0,
 Uttar Pradesh,21549,14215,649,6685,27/06/2020 16:28:15,0,UP,0,0,0,
@@ -26,7 +26,7 @@ Total of 3 patients who migrated to other states has been reduced from Active co
 Odisha,6614,4743,28,1843,28/06/2020 17:31:19,0,OR,264,137,3,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Punjab,5056,3320,128,1608,27/06/2020 21:45:17,0,PB,0,0,0,
-Kerala,4190,2150,23,2015,28/06/2020 18:23:20,2,KL,118,42,0,"Mahe native who expired in Kannur included in Kerala's tally.
+Kerala,4190,2150,23,2015,28/06/2020 18:36:23,2,KL,118,42,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2791,1909,37,827,27/06/2020 19:34:16,18,UT,0,0,0,18 Migrated cases reduced from Active count
 Chhattisgarh,2654,1937,13,704,28/06/2020 15:02:17,0,CT,44,0,0,
@@ -42,8 +42,8 @@ Nagaland,415,164,0,251,28/06/2020 17:31:22,0,NL,28,0,0,
 Mizoram,151,55,0,96,28/06/2020 09:53:17,0,MZ,1,0,0,
 Arunachal Pradesh,177,54,1,122,27/06/2020 21:26:19,0,AR,0,0,0,
 Sikkim,87,49,0,38,27/06/2020 23:32:18,0,SK,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,187,64,0,122,28/06/2020 18:16:24,1,DN,3,8,0,
-Andaman and Nicobar Islands,75,43,0,32,28/06/2020 15:54:16,0,AN,3,0,0,
+Dadra and Nagar Haveli and Daman and Diu,188,64,0,123,28/06/2020 18:38:23,1,DN,4,8,0,
+Andaman and Nicobar Islands,76,44,0,32,28/06/2020 15:54:16,0,AN,4,1,0,
 Meghalaya,50,42,1,7,28/06/2020 17:13:16,0,ML,2,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
