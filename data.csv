@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,531007,311415,16128,203408,28/06/2020 18:04:13,56,TT,1420,1269,25,
+Total,531008,311416,16128,203408,28/06/2020 18:14:13,56,TT,1421,1270,25,
 Maharashtra,159133,84245,7273,67600,27/06/2020 20:36:15,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -32,17 +32,17 @@ Uttarakhand,2791,1909,37,827,27/06/2020 19:34:16,18,UT,0,0,0,18 Migrated cases r
 Chhattisgarh,2654,1937,13,704,28/06/2020 15:02:17,0,CT,44,0,0,
 Jharkhand,2339,1724,12,603,27/06/2020 22:15:15,0,JH,0,0,0,
 Tripura,1339,1078,1,260,28/06/2020 00:10:19,0,TR,0,0,0,
-Ladakh,963,586,1,376,28/06/2020 18:04:16,0,LA,3,32,0,
+Ladakh,963,586,1,376,28/06/2020 18:14:17,0,LA,3,32,0,
 Goa,1128,420,2,706,27/06/2020 20:55:14,0,GA,0,0,0,
-Himachal Pradesh,902,515,8,366,28/06/2020 18:03:24,13,HP,8,14,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,902,515,8,366,28/06/2020 18:14:21,13,HP,8,14,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1092,432,0,660,27/06/2020 19:52:26,0,MN,0,0,0,
-Chandigarh,428,335,6,87,27/06/2020 22:04:25,0,CH,0,0,0,
+Chandigarh,429,336,6,87,27/06/2020 22:04:25,0,CH,1,1,0,
 Puducherry,648,252,11,385,28/06/2020 12:35:17,0,PY,29,31,1,
 Nagaland,415,164,0,251,28/06/2020 17:31:22,0,NL,28,0,0,
 Mizoram,151,55,0,96,28/06/2020 09:53:17,0,MZ,1,0,0,
 Arunachal Pradesh,177,54,1,122,27/06/2020 21:26:19,0,AR,0,0,0,
 Sikkim,87,49,0,38,27/06/2020 23:32:18,0,SK,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,187,64,0,122,28/06/2020 18:03:32,1,DN,3,8,0,
+Dadra and Nagar Haveli and Daman and Diu,187,64,0,122,28/06/2020 18:14:26,1,DN,3,8,0,
 Andaman and Nicobar Islands,75,43,0,32,28/06/2020 15:54:16,0,AN,3,0,0,
 Meghalaya,50,42,1,7,28/06/2020 17:13:16,0,ML,2,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
