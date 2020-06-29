@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,549986,322161,16504,211265,29/06/2020 14:24:13,56,TT,789,387,17,
+Total,549991,322161,16504,211270,29/06/2020 16:36:13,56,TT,794,387,17,
 Maharashtra,164626,86575,7429,70607,28/06/2020 20:38:15,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -14,7 +14,7 @@ Uttar Pradesh,22147,14808,660,6679,28/06/2020 20:25:14,0,UP,0,0,0,
 Rajasthan,17392,13618,402,3372,29/06/2020 12:03:14,0,RJ,121,7,3,
 West Bengal,17283,11193,639,5451,28/06/2020 19:13:16,0,WB,0,0,0,
 Madhya Pradesh,13186,10084,557,2545,28/06/2020 20:25:16,0,MP,0,0,0,
-Haryana,13952,8947,223,4782,29/06/2020 14:24:15,0,HR,123,30,0,
+Haryana,13952,8947,223,4782,29/06/2020 14:38:15,0,HR,123,30,0,
 State Unassigned,7285,0,0,7285,29/06/2020 10:25:15,0,UN,-554,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 554 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,13190,7509,207,5470,28/06/2020 20:25:17,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,13891,6232,180,7479,29/06/2020 14:15:15,0,AP,793,324,11,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -38,11 +38,11 @@ Himachal Pradesh,919,534,8,364,29/06/2020 13:46:15,13,HP,3,16,0,"HP has 14 Migra
 Manipur,1185,455,0,730,28/06/2020 19:55:17,0,MN,0,0,0,
 Chandigarh,431,336,6,89,28/06/2020 20:53:19,0,CH,0,0,0,
 Puducherry,648,252,11,385,28/06/2020 12:35:17,0,PY,0,0,0,
-Nagaland,434,168,0,266,29/06/2020 14:24:18,0,NL,19,4,0,
+Nagaland,434,168,0,266,29/06/2020 14:27:17,0,NL,19,4,0,
 Mizoram,151,55,0,96,28/06/2020 09:53:17,0,MZ,0,0,0,
 Arunachal Pradesh,182,60,1,121,28/06/2020 21:07:18,0,AR,0,0,0,
 Sikkim,88,49,0,39,29/06/2020 00:44:17,0,SK,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,198,75,0,122,29/06/2020 14:24:19,1,DN,10,6,0,
+Dadra and Nagar Haveli and Daman and Diu,203,75,0,127,29/06/2020 16:36:16,1,DN,15,6,0,
 Andaman and Nicobar Islands,90,45,0,45,29/06/2020 10:25:27,0,AN,7,0,0,
 Meghalaya,50,42,1,7,28/06/2020 17:13:16,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
