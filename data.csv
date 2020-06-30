@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,572592,338273,16979,217280,30/06/2020 18:36:13,60,TT,5056,3002,75,
+Total,572592,338443,16979,217110,30/06/2020 18:44:13,60,TT,5056,3172,75,
 Maharashtra,169883,88960,7610,73298,29/06/2020 19:54:14,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,90167,50074,1201,38892,30/06/2020 18:36:15,0,TN,3943,2325,60,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,90167,50074,1201,38892,30/06/2020 18:42:15,0,TN,3943,2325,60,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,85161,56235,2680,26246,29/06/2020 21:46:14,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
@@ -18,7 +18,7 @@ Haryana,14317,9524,232,4561,30/06/2020 18:26:17,0,HR,107,22,0,
 State Unassigned,7004,0,0,7004,30/06/2020 09:56:15,0,UN,-281,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 281 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,14295,7685,226,6380,29/06/2020 21:38:16,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,14595,6511,187,7897,30/06/2020 12:56:16,0,AP,704,279,7,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Bihar,9745,7374,63,2308,30/06/2020 15:43:17,0,BR,127,0,0,
+Bihar,9745,7544,63,2138,30/06/2020 18:44:16,0,BR,127,170,0,
 Telangana,15394,5582,253,9559,29/06/2020 20:56:15,0,TG,0,0,0,
 Jammu and Kashmir,7237,4585,95,2557,29/06/2020 21:15:10,0,JK,0,0,0,
 Assam,7836,5334,12,2487,30/06/2020 14:03:16,3,AS,41,0,1,"Includes one case from Nagaland.
