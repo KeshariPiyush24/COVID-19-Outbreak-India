@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,585197,347802,17410,219919,30/06/2020 22:43:13,66,TT,17661,12531,506,
+Total,585210,347836,17410,219898,30/06/2020 22:54:13,66,TT,17674,12565,506,
 Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,4878,1951,245,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -30,9 +30,9 @@ Kerala,4443,2304,25,2112,30/06/2020 19:13:18,2,KL,131,75,1,"Mahe native who expi
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2881,2228,41,585,30/06/2020 21:03:21,27,UT,50,120,2,27 Migrated cases reduced from Active count
 Chhattisgarh,2858,2250,13,595,30/06/2020 21:25:18,0,CT,63,100,0,
-Jharkhand,2490,1884,15,591,30/06/2020 22:43:18,0,JH,64,35,0,
+Jharkhand,2490,1884,15,591,30/06/2020 22:52:17,0,JH,64,35,0,
 Tripura,1393,1092,1,300,30/06/2020 22:43:20,0,TR,8,0,0,
-Ladakh,964,616,1,347,30/06/2020 20:57:54,0,LA,0,0,0,
+Ladakh,973,648,1,324,30/06/2020 22:54:15,0,LA,9,32,0,
 Goa,1315,596,3,716,30/06/2020 21:15:22,0,GA,64,72,0,
 Himachal Pradesh,953,575,9,356,30/06/2020 22:43:22,13,HP,11,19,1,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1234,553,0,681,30/06/2020 21:03:24,0,MN,7,59,0,
@@ -40,8 +40,8 @@ Chandigarh,440,364,6,70,30/06/2020 17:16:19,0,CH,6,15,0,
 Puducherry,714,272,12,430,30/06/2020 14:37:18,0,PY,24,10,1,
 Nagaland,459,168,0,291,30/06/2020 18:22:19,0,NL,8,0,0,
 Mizoram,151,122,0,29,30/06/2020 14:03:21,0,MZ,0,61,0,
-Arunachal Pradesh,187,61,1,125,29/06/2020 22:46:18,0,AR,0,0,0,
-Sikkim,88,49,0,39,29/06/2020 00:44:17,0,SK,0,0,0,
+Arunachal Pradesh,191,62,1,128,30/06/2020 22:54:18,0,AR,4,1,0,
+Sikkim,88,50,0,38,30/06/2020 22:54:20,0,SK,0,1,0,
 Dadra and Nagar Haveli and Daman and Diu,213,82,0,130,30/06/2020 17:16:21,1,DN,10,7,0,
 Andaman and Nicobar Islands,97,45,0,52,30/06/2020 10:26:22,0,AN,7,0,0,
 Meghalaya,52,42,1,9,30/06/2020 14:27:19,0,ML,1,0,0,"[June 17]:
