@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,582921,345648,17347,219860,30/06/2020 22:20:13,66,TT,15385,10377,443,
+Total,585133,347767,17410,219890,30/06/2020 22:36:13,66,TT,17597,12496,506,
 Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,4878,1951,245,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -7,10 +7,10 @@ Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,4878,1951,245,"16 
 Tamil Nadu,90167,50074,1201,38892,30/06/2020 18:46:15,0,TN,3943,2325,60,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,85161,56235,2680,26246,29/06/2020 21:46:14,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+Delhi,87360,58348,2742,26270,30/06/2020 22:36:15,0,DL,2199,2113,62,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,32643,23670,1848,7125,30/06/2020 21:03:14,0,GJ,620,422,20,
-Uttar Pradesh,23492,16084,697,6711,30/06/2020 22:20:15,0,UP,664,578,25,
+Uttar Pradesh,23492,16084,697,6711,30/06/2020 22:25:15,0,UP,664,578,25,
 Rajasthan,18008,14220,413,3375,30/06/2020 21:25:16,0,RJ,348,299,8,
 West Bengal,18559,12130,668,5761,30/06/2020 19:49:17,0,WB,652,411,15,
 Madhya Pradesh,13593,10395,572,2626,30/06/2020 19:13:15,0,MP,223,196,8,
@@ -31,10 +31,10 @@ One patient who absconded from Palakkad to TN and one patient who returned back 
 Uttarakhand,2881,2228,41,585,30/06/2020 21:03:21,27,UT,50,120,2,27 Migrated cases reduced from Active count
 Chhattisgarh,2858,2250,13,595,30/06/2020 21:25:18,0,CT,63,100,0,
 Jharkhand,2426,1849,15,562,29/06/2020 23:25:16,0,JH,0,0,0,
-Tripura,1385,1092,1,292,29/06/2020 23:25:18,0,TR,0,0,0,
+Tripura,1393,1092,1,300,30/06/2020 22:36:20,0,TR,8,0,0,
 Ladakh,964,616,1,347,30/06/2020 20:57:54,0,LA,0,0,0,
 Goa,1315,596,3,716,30/06/2020 21:15:22,0,GA,64,72,0,
-Himachal Pradesh,948,569,8,358,30/06/2020 18:34:18,13,HP,6,13,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,953,575,9,356,30/06/2020 22:36:22,13,HP,11,19,1,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1234,553,0,681,30/06/2020 21:03:24,0,MN,7,59,0,
 Chandigarh,440,364,6,70,30/06/2020 17:16:19,0,CH,6,15,0,
 Puducherry,714,272,12,430,30/06/2020 14:37:18,0,PY,24,10,1,
