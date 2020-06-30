@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,582014,345070,17322,219556,30/06/2020 21:24:19,66,TT,14478,9799,418,
-Maharashtra,174761,90911,7855,75979,30/06/2020 21:24:21,16,MH,4878,1951,245,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
+Total,582014,345070,17322,219556,30/06/2020 21:25:13,66,TT,14478,9799,418,
+Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,4878,1951,245,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
@@ -11,7 +11,7 @@ Delhi,85161,56235,2680,26246,29/06/2020 21:46:14,0,DL,0,0,0,"Delhi bulletins in 
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,32643,23670,1848,7125,30/06/2020 21:03:14,0,GJ,620,422,20,
 Uttar Pradesh,22828,15506,672,6650,30/06/2020 21:23:44,0,UP,0,0,0,
-Rajasthan,18008,14220,413,3375,30/06/2020 21:24:22,0,RJ,348,299,8,
+Rajasthan,18008,14220,413,3375,30/06/2020 21:25:16,0,RJ,348,299,8,
 West Bengal,18559,12130,668,5761,30/06/2020 19:49:17,0,WB,652,411,15,
 Madhya Pradesh,13593,10395,572,2626,30/06/2020 19:13:15,0,MP,223,196,8,
 Haryana,14548,9972,236,4340,30/06/2020 20:07:16,0,HR,338,470,4,
@@ -29,7 +29,7 @@ Punjab,5568,3867,144,1557,30/06/2020 20:06:22,0,PB,150,103,6,
 Kerala,4443,2304,25,2112,30/06/2020 19:13:18,2,KL,131,75,1,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2881,2228,41,585,30/06/2020 21:03:21,27,UT,50,120,2,27 Migrated cases reduced from Active count
-Chhattisgarh,2858,2250,13,595,30/06/2020 21:24:24,0,CT,63,100,0,
+Chhattisgarh,2858,2250,13,595,30/06/2020 21:25:18,0,CT,63,100,0,
 Jharkhand,2426,1849,15,562,29/06/2020 23:25:16,0,JH,0,0,0,
 Tripura,1385,1092,1,292,29/06/2020 23:25:18,0,TR,0,0,0,
 Ladakh,964,616,1,347,30/06/2020 20:57:54,0,LA,0,0,0,
