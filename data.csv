@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,572946,338714,16993,217179,30/06/2020 19:13:13,60,TT,5410,3443,89,
+Total,573598,339125,17008,217405,30/06/2020 19:36:13,60,TT,6062,3854,104,
 Maharashtra,169883,88960,7610,73298,29/06/2020 19:54:14,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -12,7 +12,7 @@ Delhi,85161,56235,2680,26246,29/06/2020 21:46:14,0,DL,0,0,0,"Delhi bulletins in 
 Gujarat,32023,23248,1828,6947,29/06/2020 20:26:16,0,GJ,0,0,0,
 Uttar Pradesh,22828,15506,672,6650,29/06/2020 21:55:14,0,UP,0,0,0,
 Rajasthan,17754,13948,409,3397,30/06/2020 11:47:15,0,RJ,94,27,4,
-West Bengal,17907,11719,653,5535,29/06/2020 20:16:16,0,WB,0,0,0,
+West Bengal,18559,12130,668,5761,30/06/2020 19:36:14,0,WB,652,411,15,
 Madhya Pradesh,13593,10395,572,2626,30/06/2020 19:13:15,0,MP,223,196,8,
 Haryana,14317,9524,232,4561,30/06/2020 18:26:17,0,HR,107,22,0,
 State Unassigned,7004,0,0,7004,30/06/2020 09:56:15,0,UN,-281,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 281 cases were decreased in this category today by MoHFW. We have removed these cases from this category
