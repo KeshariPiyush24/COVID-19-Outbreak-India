@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,591152,351911,17486,221689,01/07/2020 19:04:25,66,TT,5360,4072,76,
+Total,591420,352171,17495,221688,01/07/2020 19:13:25,66,TT,5628,4332,85,
 Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -13,7 +13,7 @@ Gujarat,32643,23670,1848,7125,30/06/2020 21:03:14,0,GJ,0,0,0,
 Uttar Pradesh,23492,16084,697,6711,30/06/2020 22:25:15,0,UP,0,0,0,
 Rajasthan,18086,14232,413,3441,01/07/2020 11:33:18,0,RJ,78,12,0,
 West Bengal,18559,12130,668,5761,30/06/2020 19:49:17,0,WB,0,0,0,
-Madhya Pradesh,13593,10395,572,2626,30/06/2020 19:13:15,0,MP,0,0,0,
+Madhya Pradesh,13861,10655,581,2625,01/07/2020 19:13:27,0,MP,268,260,9,
 Haryana,14654,10060,236,4358,01/07/2020 15:25:26,0,HR,106,88,0,
 State Unassigned,6915,0,0,6915,01/07/2020 09:56:16,0,UN,-89,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 89 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,15242,7920,246,7072,30/06/2020 20:07:21,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
@@ -26,7 +26,7 @@ Total of 3 patients who migrated to other states has been reduced from Active co
 Odisha,7316,5353,33,1930,01/07/2020 16:36:27,0,OR,251,164,1,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Punjab,5568,3867,144,1557,30/06/2020 20:06:22,0,PB,0,0,0,
-Kerala,4594,2436,26,2130,01/07/2020 19:04:27,2,KL,151,132,1,"Mahe native who expired in Kannur included in Kerala's tally.
+Kerala,4594,2436,26,2130,01/07/2020 19:06:27,2,KL,151,132,1,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2881,2231,41,582,01/07/2020 00:56:17,27,UT,0,0,0,27 Migrated cases reduced from Active count
 Chhattisgarh,2858,2250,13,595,30/06/2020 21:25:18,0,CT,0,0,0,
