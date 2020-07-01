@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,591001,351899,17486,221550,01/07/2020 18:45:25,66,TT,5209,4060,76,
+Total,591152,351911,17486,221689,01/07/2020 18:54:25,66,TT,5360,4072,76,
 Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,94049,52926,1264,39859,01/07/2020 18:45:27,0,TN,3882,2852,63,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,94049,52926,1264,39859,01/07/2020 18:54:26,0,TN,3882,2852,63,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,87360,58348,2742,26270,30/06/2020 22:43:15,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
@@ -26,7 +26,7 @@ Total of 3 patients who migrated to other states has been reduced from Active co
 Odisha,7316,5353,33,1930,01/07/2020 16:36:27,0,OR,251,164,1,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Punjab,5568,3867,144,1557,30/06/2020 20:06:22,0,PB,0,0,0,
-Kerala,4443,2424,26,1991,01/07/2020 18:45:30,2,KL,0,120,1,"Mahe native who expired in Kannur included in Kerala's tally.
+Kerala,4594,2436,26,2130,01/07/2020 18:54:28,2,KL,151,132,1,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,2881,2231,41,582,01/07/2020 00:56:17,27,UT,0,0,0,27 Migrated cases reduced from Active count
 Chhattisgarh,2858,2250,13,595,30/06/2020 21:25:18,0,CT,0,0,0,
