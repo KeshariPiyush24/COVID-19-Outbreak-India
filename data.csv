@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,591420,352171,17495,221688,01/07/2020 19:13:25,66,TT,5628,4332,85,
+Total,591420,352171,17495,221688,01/07/2020 19:23:25,66,TT,5628,4332,85,
 Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -13,7 +13,7 @@ Gujarat,32643,23670,1848,7125,30/06/2020 21:03:14,0,GJ,0,0,0,
 Uttar Pradesh,23492,16084,697,6711,30/06/2020 22:25:15,0,UP,0,0,0,
 Rajasthan,18086,14232,413,3441,01/07/2020 11:33:18,0,RJ,78,12,0,
 West Bengal,18559,12130,668,5761,30/06/2020 19:49:17,0,WB,0,0,0,
-Madhya Pradesh,13861,10655,581,2625,01/07/2020 19:13:27,0,MP,268,260,9,
+Madhya Pradesh,13861,10655,581,2625,01/07/2020 19:23:27,0,MP,268,260,9,
 Haryana,14654,10060,236,4358,01/07/2020 15:25:26,0,HR,106,88,0,
 State Unassigned,6915,0,0,6915,01/07/2020 09:56:16,0,UN,-89,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 89 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,15242,7920,246,7072,30/06/2020 20:07:21,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
@@ -40,7 +40,7 @@ Chandigarh,446,367,6,73,01/07/2020 15:48:27,0,CH,6,3,0,
 Puducherry,739,301,12,426,01/07/2020 16:26:28,0,PY,25,29,0,
 Nagaland,501,182,0,319,01/07/2020 15:48:29,0,NL,42,14,0,
 Mizoram,160,123,0,37,01/07/2020 17:52:29,0,MZ,0,1,0,
-Arunachal Pradesh,191,62,1,128,30/06/2020 23:06:20,0,AR,0,0,0,
+Arunachal Pradesh,191,62,1,128,01/07/2020 19:18:29,0,AR,0,0,0,
 Sikkim,88,50,0,38,30/06/2020 23:06:21,0,SK,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,229,109,0,119,01/07/2020 17:03:28,1,DN,16,27,0,
 Andaman and Nicobar Islands,100,45,0,55,01/07/2020 11:26:26,0,AN,3,0,0,
