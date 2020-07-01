@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,593093,352849,17506,222672,01/07/2020 19:54:25,66,TT,7301,5010,96,
+Total,593704,353333,17521,222784,01/07/2020 20:04:25,66,TT,7912,5494,111,
 Maharashtra,174761,90911,7855,75979,30/06/2020 21:25:14,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -12,11 +12,11 @@ Delhi,87360,58348,2742,26270,30/06/2020 22:43:15,0,DL,0,0,0,"Delhi bulletins in 
 Gujarat,32643,23670,1848,7125,30/06/2020 21:03:14,0,GJ,0,0,0,
 Uttar Pradesh,23492,16084,697,6711,30/06/2020 22:25:15,0,UP,0,0,0,
 Rajasthan,18086,14232,413,3441,01/07/2020 11:33:18,0,RJ,78,12,0,
-West Bengal,18559,12130,668,5761,30/06/2020 19:49:17,0,WB,0,0,0,
+West Bengal,19170,12528,683,5959,01/07/2020 20:04:27,0,WB,611,398,15,
 Madhya Pradesh,13861,10655,581,2625,01/07/2020 19:23:27,0,MP,268,260,9,
-Haryana,14941,10499,240,4202,01/07/2020 19:54:26,0,HR,393,527,4,
+Haryana,14941,10499,240,4202,01/07/2020 19:57:32,0,HR,393,527,4,
 State Unassigned,6915,0,0,6915,01/07/2020 09:56:16,0,UN,-89,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 89 cases were decreased in this category today by MoHFW. We have removed these cases from this category
-Karnataka,16514,8065,253,8192,01/07/2020 19:53:30,4,KA,1272,145,7,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,16514,8065,253,8192,01/07/2020 19:57:33,4,KA,1272,145,7,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,15252,6988,193,8071,01/07/2020 13:46:27,0,AP,657,477,6,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,10075,7811,73,2191,01/07/2020 17:59:26,0,BR,87,267,5,
 Telangana,16339,7294,260,8785,30/06/2020 21:15:19,0,TG,0,0,0,
@@ -28,7 +28,7 @@ Odisha,7316,5353,33,1930,01/07/2020 16:36:27,0,OR,251,164,1,"Three non-covid dea
 Punjab,5568,3867,144,1557,30/06/2020 20:06:22,0,PB,0,0,0,
 Kerala,4594,2436,26,2130,01/07/2020 19:06:27,2,KL,151,132,1,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
-Uttarakhand,2948,2231,41,649,01/07/2020 19:53:32,27,UT,67,0,0,27 Migrated cases reduced from Active count
+Uttarakhand,2948,2317,41,563,01/07/2020 20:03:29,27,UT,67,86,0,27 Migrated cases reduced from Active count
 Chhattisgarh,2858,2250,13,595,30/06/2020 21:25:18,0,CT,0,0,0,
 Jharkhand,2490,1884,15,591,30/06/2020 22:55:20,0,JH,0,0,0,
 Tripura,1393,1092,1,300,30/06/2020 22:43:20,0,TR,0,0,0,
