@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,628205,380374,18241,229524,03/07/2020 13:23:25,66,TT,1037,472,16,
+Total,628205,380374,18241,229524,03/07/2020 13:37:25,66,TT,1037,472,16,
 Maharashtra,186626,101172,8178,77260,02/07/2020 22:21:26,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,7 +17,7 @@ Madhya Pradesh,14106,10815,589,2702,02/07/2020 19:06:27,0,MP,0,0,0,
 Haryana,15509,11019,251,4239,02/07/2020 19:47:30,0,HR,0,0,0,
 State Unassigned,6031,0,0,6031,03/07/2020 09:43:26,0,UN,-801,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 801 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,18016,8336,272,9404,02/07/2020 20:16:35,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
-Andhra Pradesh,16934,7632,206,9096,03/07/2020 13:23:27,0,AP,837,319,8,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,16934,7632,206,9096,03/07/2020 13:37:27,0,AP,837,319,8,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,10914,7994,78,2842,03/07/2020 13:16:29,0,BR,232,0,0,
 Telangana,18570,9069,275,9226,02/07/2020 22:21:31,0,TG,0,0,0,
 Jammu and Kashmir,7849,4974,115,2760,02/07/2020 20:16:39,0,JK,0,0,0,
@@ -37,7 +37,7 @@ Goa,1482,734,4,744,02/07/2020 20:47:29,0,GA,0,0,0,
 Himachal Pradesh,1016,637,9,357,03/07/2020 13:16:32,13,HP,2,5,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1279,616,0,663,02/07/2020 20:47:31,0,MN,0,0,0,
 Chandigarh,450,389,6,55,02/07/2020 20:06:50,0,CH,0,0,0,
-Puducherry,824,384,13,427,03/07/2020 13:22:30,0,PY,22,53,1,
+Puducherry,824,384,13,427,03/07/2020 13:26:29,0,PY,22,53,1,
 Nagaland,539,197,0,342,03/07/2020 10:05:28,0,NL,4,0,0,
 Mizoram,162,126,0,36,02/07/2020 21:59:43,0,MZ,0,0,0,
 Arunachal Pradesh,232,71,1,160,02/07/2020 23:49:30,0,AR,0,0,0,
