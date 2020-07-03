@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,638039,386736,18399,232838,03/07/2020 20:46:25,66,TT,10871,6834,174,
+Total,638039,386736,18399,232838,03/07/2020 20:52:26,66,TT,10871,6834,174,
 Maharashtra,186626,101172,8178,77260,02/07/2020 22:21:26,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -21,7 +21,7 @@ Andhra Pradesh,16934,7632,206,9096,03/07/2020 13:37:27,0,AP,837,319,8,"Total inc
 Bihar,10911,8211,84,2616,03/07/2020 18:56:27,0,BR,229,217,6,
 Telangana,18570,9069,275,9226,02/07/2020 22:21:31,0,TG,0,0,0,
 Jammu and Kashmir,8019,5075,119,2825,03/07/2020 20:18:29,0,JK,170,101,4,
-Assam,9435,6328,14,3090,03/07/2020 20:46:27,3,AS,0,221,0,"Includes one case from Nagaland.
+Assam,9435,6328,14,3090,03/07/2020 20:52:33,3,AS,0,221,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,8106,5705,37,2364,03/07/2020 17:20:27,0,OR,561,203,2,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -35,15 +35,15 @@ Tripura,1440,1199,1,240,03/07/2020 19:25:32,0,TR,0,53,0,
 Ladakh,1002,776,1,225,03/07/2020 17:52:29,0,LA,11,47,0,
 Goa,1576,772,4,800,03/07/2020 20:38:37,0,GA,94,38,0,
 Himachal Pradesh,1021,654,9,345,03/07/2020 17:52:31,13,HP,7,22,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Manipur,1316,639,0,677,03/07/2020 20:46:29,0,MN,37,23,0,
+Manipur,1316,639,0,677,03/07/2020 20:48:30,0,MN,37,23,0,
 Chandigarh,454,393,6,55,02/07/2020 20:06:50,0,CH,4,4,0,
 Puducherry,824,384,13,427,03/07/2020 13:26:29,0,PY,22,53,1,
-Nagaland,539,228,0,311,03/07/2020 16:56:28,0,NL,4,31,0,
+Nagaland,539,228,0,311,03/07/2020 20:50:31,0,NL,4,31,0,
 Mizoram,162,127,0,35,03/07/2020 17:15:30,0,MZ,0,1,0,
 Arunachal Pradesh,232,71,1,160,02/07/2020 23:49:30,0,AR,0,0,0,
 Sikkim,101,52,0,49,02/07/2020 23:05:31,0,SK,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,303,132,0,170,03/07/2020 19:05:28,1,DN,49,20,0,
-Andaman and Nicobar Islands,116,54,0,62,03/07/2020 20:46:31,0,AN,7,3,0,
+Andaman and Nicobar Islands,116,54,0,62,03/07/2020 20:52:37,0,AN,7,3,0,
 Meghalaya,62,43,1,18,03/07/2020 14:58:28,0,ML,4,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
