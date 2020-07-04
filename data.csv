@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,662638,403009,18948,240615,04/07/2020 21:04:25,66,TT,12752,8690,279,
+Total,664488,404351,18953,241118,04/07/2020 21:14:25,66,TT,14602,10032,284,
 Maharashtra,192990,104687,8376,79911,03/07/2020 22:43:26,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -9,7 +9,7 @@ Tamil Nadu,107001,60592,1450,44959,04/07/2020 19:13:26,0,TN,4280,2214,65,"2 deat
 These cases have been added to TN deceased tally"
 Delhi,97200,68256,3004,25940,04/07/2020 19:49:26,0,DL,2505,2632,81,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Gujarat,35398,25414,1926,8058,04/07/2020 21:03:27,0,GJ,712,473,21,
+Gujarat,35398,25414,1926,8058,04/07/2020 21:12:26,0,GJ,712,473,21,
 Uttar Pradesh,25797,17597,749,7451,03/07/2020 19:56:27,0,UP,0,0,0,
 Rajasthan,19256,15352,443,3461,04/07/2020 10:49:27,0,RJ,204,71,3,
 West Bengal,21231,14166,736,6329,04/07/2020 20:15:27,0,WB,743,595,19,
@@ -19,7 +19,7 @@ State Unassigned,4999,0,0,4999,04/07/2020 10:13:27,0,UN,-1032,0,0,MoHFW website 
 Karnataka,21549,9246,335,11964,04/07/2020 20:25:26,4,KA,1839,439,42,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,17699,8008,218,9473,04/07/2020 14:46:27,0,AP,765,376,12,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,11457,8488,88,2881,04/07/2020 17:35:28,0,BR,349,277,4,
-Telangana,20462,10195,283,9984,03/07/2020 23:25:27,0,TG,0,0,0,
+Telangana,22312,11537,288,10487,04/07/2020 21:14:27,0,TG,1850,1342,5,
 Jammu and Kashmir,8246,5143,127,2976,04/07/2020 21:03:31,0,JK,227,68,8,
 Assam,9800,6328,14,3455,04/07/2020 00:26:27,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
