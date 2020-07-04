@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,673904,408646,19279,245913,05/07/2020 00:56:25,66,TT,24018,14327,610,
+Total,673904,409062,19279,245497,05/07/2020 01:23:25,66,TT,24018,14743,610,
 Maharashtra,200064,108082,8671,83295,04/07/2020 21:44:30,16,MH,7074,3395,295,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -21,7 +21,7 @@ Andhra Pradesh,17699,8008,218,9473,04/07/2020 14:46:27,0,AP,765,376,12,"Total in
 Bihar,11457,8488,88,2881,04/07/2020 17:35:28,0,BR,349,277,4,
 Telangana,22312,11537,288,10487,04/07/2020 21:23:29,0,TG,1850,1342,5,
 Jammu and Kashmir,8246,5143,127,2976,04/07/2020 21:03:31,0,JK,227,68,8,
-Assam,11002,6328,14,4657,05/07/2020 00:56:27,3,AS,1202,0,0,"Includes one case from Nagaland.
+Assam,11002,6744,14,4241,05/07/2020 01:23:27,3,AS,1202,416,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,8601,5934,43,2624,04/07/2020 18:48:28,0,OR,495,229,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
