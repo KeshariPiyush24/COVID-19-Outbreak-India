@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,659394,401408,18870,239050,04/07/2020 20:03:24,66,TT,9508,7089,201,
+Total,661233,401847,18912,240408,04/07/2020 20:13:25,66,TT,11347,7528,243,
 Maharashtra,192990,104687,8376,79911,03/07/2020 22:43:26,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -12,11 +12,11 @@ Delhi,97200,68256,3004,25940,04/07/2020 19:49:26,0,DL,2505,2632,81,"Delhi bullet
 Gujarat,34686,24941,1905,7840,03/07/2020 20:38:27,0,GJ,0,0,0,
 Uttar Pradesh,25797,17597,749,7451,03/07/2020 19:56:27,0,UP,0,0,0,
 Rajasthan,19256,15352,443,3461,04/07/2020 10:49:27,0,RJ,204,71,3,
-West Bengal,21231,14166,736,6329,04/07/2020 20:03:26,0,WB,743,595,19,
+West Bengal,21231,14166,736,6329,04/07/2020 20:13:26,0,WB,743,595,19,
 Madhya Pradesh,14604,11234,598,2772,04/07/2020 19:49:27,0,MP,307,185,5,
 Haryana,16246,11738,255,4253,04/07/2020 15:32:28,0,HR,243,47,0,
 State Unassigned,4999,0,0,4999,04/07/2020 10:13:27,0,UN,-1032,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 1032 cases were decreased in this category today by MoHFW. We have removed these cases from this category
-Karnataka,19710,8807,293,10606,03/07/2020 20:38:31,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,21549,9246,335,11964,04/07/2020 20:13:28,4,KA,1839,439,42,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,17699,8008,218,9473,04/07/2020 14:46:27,0,AP,765,376,12,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,11457,8488,88,2881,04/07/2020 17:35:28,0,BR,349,277,4,
 Telangana,20462,10195,283,9984,03/07/2020 23:25:27,0,TG,0,0,0,
