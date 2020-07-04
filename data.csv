@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,672637,408625,19279,244667,04/07/2020 22:04:25,66,TT,22751,14306,610,
+Total,672695,408645,19279,244705,04/07/2020 23:24:24,66,TT,22809,14326,610,
 Maharashtra,200064,108082,8671,83295,04/07/2020 21:44:30,16,MH,7074,3395,295,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -29,12 +29,12 @@ Punjab,6109,4306,162,1641,04/07/2020 19:25:29,0,PB,172,40,5,
 Kerala,5205,3048,26,2129,04/07/2020 18:48:29,2,KL,240,209,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,3093,2502,42,522,04/07/2020 20:48:29,27,UT,45,21,0,27 Migrated cases reduced from Active count
-Chhattisgarh,3133,2526,14,593,04/07/2020 19:54:29,0,CT,68,112,0,
-Jharkhand,2739,2035,18,686,04/07/2020 22:04:27,0,JH,42,34,3,
-Tripura,1533,1199,1,333,03/07/2020 23:37:27,0,TR,0,0,0,
+Chhattisgarh,3161,2526,14,621,04/07/2020 23:24:27,0,CT,96,112,0,
+Jharkhand,2739,2035,18,686,04/07/2020 22:16:29,0,JH,42,34,3,
+Tripura,1558,1199,1,358,04/07/2020 23:23:31,0,TR,25,0,0,
 Ladakh,1005,826,1,178,04/07/2020 19:49:30,0,LA,3,50,0,
 Goa,1684,825,6,853,04/07/2020 20:56:41,0,GA,108,53,2,
-Himachal Pradesh,1041,686,9,333,04/07/2020 18:24:29,13,HP,8,15,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,1046,696,9,328,04/07/2020 23:23:33,13,HP,13,25,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1325,667,0,658,04/07/2020 20:48:33,0,MN,9,28,0,
 Chandigarh,459,395,6,58,04/07/2020 17:58:27,0,CH,5,2,0,
 Puducherry,904,405,14,485,04/07/2020 12:00:28,0,PY,80,21,1,
@@ -43,7 +43,7 @@ Mizoram,164,130,0,34,04/07/2020 18:03:30,0,MZ,2,3,0,
 Arunachal Pradesh,252,75,1,176,04/07/2020 00:26:29,0,AR,0,0,0,
 Sikkim,103,52,0,51,04/07/2020 20:03:28,0,SK,1,0,0,
 Dadra and Nagar Haveli and Daman and Diu,341,142,0,198,04/07/2020 17:50:30,1,DN,37,9,0,
-Andaman and Nicobar Islands,119,56,0,63,04/07/2020 19:54:35,0,AN,3,2,0,
+Andaman and Nicobar Islands,119,66,0,53,04/07/2020 23:23:34,0,AN,3,12,0,
 Meghalaya,70,43,1,26,04/07/2020 20:48:36,0,ML,8,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
