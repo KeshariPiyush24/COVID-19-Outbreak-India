@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,677051,410994,19317,246672,05/07/2020 18:34:25,68,TT,3147,1929,37,
+Total,679295,414077,19380,245770,05/07/2020 18:54:32,68,TT,5391,5012,100,
 Maharashtra,200064,108082,8671,83295,04/07/2020 21:44:30,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -7,7 +7,7 @@ Maharashtra,200064,108082,8671,83295,04/07/2020 21:44:30,16,MH,0,0,0,"16 cases w
 Tamil Nadu,107001,60592,1450,44959,04/07/2020 19:13:26,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,97200,68256,3004,25940,04/07/2020 19:49:26,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+Delhi,99444,71339,3067,25038,05/07/2020 18:54:36,0,DL,2244,3083,63,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,35398,25414,1926,8058,04/07/2020 21:12:26,0,GJ,0,0,0,
 Uttar Pradesh,27707,18761,785,8161,05/07/2020 18:34:27,0,UP,1153,607,12,
