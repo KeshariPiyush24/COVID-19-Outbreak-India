@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,673932,409062,19279,245525,05/07/2020 09:04:25,66,TT,28,0,0,
+Total,673932,409065,19279,245522,05/07/2020 09:13:25,66,TT,28,0,0,
 Maharashtra,200064,108082,8671,83295,04/07/2020 21:44:30,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,7 +31,7 @@ One patient who absconded from Palakkad to TN and one patient who returned back 
 Uttarakhand,3093,2502,42,522,04/07/2020 20:48:29,27,UT,0,0,0,27 Migrated cases reduced from Active count
 Chhattisgarh,3161,2526,14,621,04/07/2020 23:37:27,0,CT,0,0,0,
 Jharkhand,2739,2035,18,686,04/07/2020 22:16:29,0,JH,0,0,0,
-Tripura,1558,1199,1,358,04/07/2020 23:37:29,0,TR,0,0,0,
+Tripura,1558,1202,1,355,05/07/2020 09:13:27,0,TR,0,0,0,
 Ladakh,1005,826,1,178,04/07/2020 19:49:30,0,LA,0,0,0,
 Goa,1684,825,6,853,04/07/2020 20:56:41,0,GA,0,0,0,
 Himachal Pradesh,1046,696,9,328,04/07/2020 23:37:30,13,HP,0,0,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
@@ -39,11 +39,11 @@ Manipur,1325,667,0,658,04/07/2020 20:48:33,0,MN,0,0,0,
 Chandigarh,459,395,6,58,04/07/2020 17:58:27,0,CH,0,0,0,
 Puducherry,904,405,14,485,04/07/2020 12:00:28,0,PY,0,0,0,
 Nagaland,563,228,0,335,04/07/2020 20:56:43,0,NL,0,0,0,
-Mizoram,186,130,0,56,05/07/2020 09:04:28,0,MZ,22,0,0,
+Mizoram,186,130,0,56,05/07/2020 09:06:29,0,MZ,22,0,0,
 Arunachal Pradesh,259,76,1,182,05/07/2020 00:34:28,0,AR,0,0,0,
 Sikkim,103,52,0,51,04/07/2020 20:03:28,0,SK,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,341,142,0,198,04/07/2020 17:50:30,1,DN,0,0,0,
-Andaman and Nicobar Islands,125,66,0,59,05/07/2020 09:04:29,0,AN,6,0,0,
+Andaman and Nicobar Islands,125,66,0,59,05/07/2020 09:06:31,0,AN,6,0,0,
 Meghalaya,70,43,1,26,04/07/2020 20:48:36,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
