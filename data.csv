@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,697101,424887,19700,252431,05/07/2020 23:14:25,83,TT,23197,15822,420,
+Total,697101,424891,19700,252427,05/07/2020 23:24:25,83,TT,23197,15826,420,
 Maharashtra,206619,111740,8822,86040,05/07/2020 21:06:27,17,MH,6555,3658,151,"17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,16 +31,16 @@ One patient who absconded from Palakkad to TN and one patient who returned back 
 Uttarakhand,3124,2524,42,530,05/07/2020 19:49:36,28,UT,31,22,0,28 Migrated cases reduced from Active count
 Chhattisgarh,3207,2578,14,615,05/07/2020 20:57:32,0,CT,46,52,0,
 Jharkhand,2807,2045,18,744,05/07/2020 22:27:28,0,JH,68,10,0,
-Tripura,1580,1202,1,377,05/07/2020 23:14:28,0,TR,22,0,0,
+Tripura,1580,1206,1,373,05/07/2020 23:24:27,0,TR,22,4,0,
 Ladakh,1005,826,1,178,04/07/2020 19:49:30,0,LA,0,0,0,
-Goa,1761,936,7,818,05/07/2020 23:14:30,0,GA,77,111,1,
+Goa,1761,936,7,818,05/07/2020 23:15:48,0,GA,77,111,1,
 Himachal Pradesh,1066,724,10,319,05/07/2020 21:57:30,13,HP,20,28,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1366,689,0,677,05/07/2020 21:27:32,0,MN,41,22,0,
 Chandigarh,466,395,6,65,05/07/2020 17:59:32,0,CH,7,0,0,
 Puducherry,946,448,14,484,05/07/2020 11:16:35,0,PY,42,43,0,
 Nagaland,578,228,0,350,05/07/2020 09:51:31,0,NL,15,0,0,
 Mizoram,186,133,0,53,05/07/2020 17:25:26,0,MZ,22,3,0,
-Arunachal Pradesh,269,78,1,190,05/07/2020 23:14:32,0,AR,10,2,0,
+Arunachal Pradesh,269,78,1,190,05/07/2020 23:23:32,0,AR,10,2,0,
 Sikkim,125,61,0,51,05/07/2020 21:17:37,13,SK,22,9,0,
 Dadra and Nagar Haveli and Daman and Diu,373,159,0,211,05/07/2020 17:25:28,3,DN,32,17,0,3 cases are migrated to different states which are reduced from active count.
 Andaman and Nicobar Islands,125,72,0,53,05/07/2020 20:46:35,0,AN,6,6,0,
