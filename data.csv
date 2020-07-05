@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,694870,422603,19689,252508,05/07/2020 20:54:25,70,TT,20966,13538,409,
-Maharashtra,206619,111740,8822,86040,05/07/2020 20:54:27,17,MH,6555,3658,151,"17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
+Total,694870,422603,19689,252508,05/07/2020 21:03:25,70,TT,20966,13538,409,
+Maharashtra,206619,111740,8822,86040,05/07/2020 21:03:30,17,MH,6555,3658,151,"17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
@@ -13,7 +13,7 @@ Gujarat,36123,25900,1944,8279,05/07/2020 20:37:34,0,GJ,725,486,18,
 Uttar Pradesh,27707,18761,785,8161,05/07/2020 18:34:27,0,UP,1153,607,12,
 Rajasthan,19756,15663,453,3640,05/07/2020 11:26:28,0,RJ,224,23,6,
 West Bengal,22126,14711,757,6658,05/07/2020 20:07:30,0,WB,895,545,21,
-Madhya Pradesh,14930,11411,608,2911,05/07/2020 20:54:30,0,MP,326,177,10,
+Madhya Pradesh,14930,11411,608,2911,05/07/2020 20:57:29,0,MP,326,177,10,
 Haryana,17005,12944,265,3796,05/07/2020 20:07:33,0,HR,457,687,5,
 State Unassigned,4629,0,0,4629,05/07/2020 10:04:27,0,UN,-370,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 370 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,23474,9849,372,13249,05/07/2020 20:25:30,4,KA,1925,603,37,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
@@ -29,7 +29,7 @@ Punjab,6283,4408,164,1711,05/07/2020 20:07:39,0,PB,174,102,2,
 Kerala,5430,3174,26,2228,05/07/2020 19:14:27,2,KL,225,126,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,3124,2524,42,530,05/07/2020 19:49:36,28,UT,31,22,0,28 Migrated cases reduced from Active count
-Chhattisgarh,3207,2578,14,615,05/07/2020 20:54:32,0,CT,46,52,0,
+Chhattisgarh,3207,2578,14,615,05/07/2020 20:57:32,0,CT,46,52,0,
 Jharkhand,2764,2035,18,711,05/07/2020 20:17:34,0,JH,25,0,0,
 Tripura,1558,1202,1,355,05/07/2020 09:26:28,0,TR,0,0,0,
 Ladakh,1005,826,1,178,04/07/2020 19:49:30,0,LA,0,0,0,
