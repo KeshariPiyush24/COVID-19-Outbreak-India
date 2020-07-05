@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,673932,409065,19279,245522,05/07/2020 09:26:25,66,TT,28,0,0,
+Total,673947,409065,19279,245537,05/07/2020 09:46:25,66,TT,43,0,0,
 Maharashtra,200064,108082,8671,83295,04/07/2020 21:44:30,16,MH,0,0,0,"16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -38,7 +38,7 @@ Himachal Pradesh,1046,696,9,328,04/07/2020 23:37:30,13,HP,0,0,0,"HP has 14 Migra
 Manipur,1325,667,0,658,04/07/2020 20:48:33,0,MN,0,0,0,
 Chandigarh,459,395,6,58,04/07/2020 17:58:27,0,CH,0,0,0,
 Puducherry,904,405,14,485,04/07/2020 12:00:28,0,PY,0,0,0,
-Nagaland,563,228,0,335,04/07/2020 20:56:43,0,NL,0,0,0,
+Nagaland,578,228,0,350,05/07/2020 09:46:28,0,NL,15,0,0,
 Mizoram,186,130,0,56,05/07/2020 09:06:29,0,MZ,22,0,0,
 Arunachal Pradesh,259,76,1,182,05/07/2020 00:34:28,0,AR,0,0,0,
 Sikkim,103,52,0,51,04/07/2020 20:03:28,0,SK,0,0,0,
