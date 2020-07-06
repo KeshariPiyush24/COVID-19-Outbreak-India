@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,717033,437638,20160,259152,06/07/2020 21:24:25,83,TT,19188,12744,459,
+Total,719170,439989,20172,258926,06/07/2020 21:38:29,83,TT,21032,14822,470,
 Maharashtra,211987,115262,9026,87682,06/07/2020 20:00:27,17,MH,5368,3522,204,"17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -11,15 +11,15 @@ Delhi,100823,72088,3115,25620,06/07/2020 19:50:29,0,DL,1379,749,48,"Delhi bullet
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,36858,26323,1961,8574,06/07/2020 20:17:28,0,GJ,735,423,17,
 Uttar Pradesh,28636,19109,809,8718,06/07/2020 21:07:26,0,UP,929,348,24,
-Rajasthan,20263,15965,459,3839,06/07/2020 10:57:27,0,RJ,99,37,3,
+Rajasthan,20555,16238,460,3857,06/07/2020 10:57:27,0,RJ,99,37,3,
 West Bengal,22987,15235,779,6973,06/07/2020 20:40:27,0,WB,861,524,22,
 Madhya Pradesh,15284,11579,617,3088,06/07/2020 19:04:28,0,MP,354,168,9,
 Haryana,17504,13335,276,3893,06/07/2020 20:17:30,0,HR,499,391,11,
 State Unassigned,4913,0,0,4913,06/07/2020 09:35:28,0,UN,284,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 284 cases were increased in this category today by MoHFW. We have included these cases to this category
-Karnataka,25317,10529,402,14382,06/07/2020 21:24:26,4,KA,1843,680,30,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,25317,10529,402,14382,06/07/2020 21:38:38,4,KA,1843,680,30,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,20019,8920,239,10860,06/07/2020 16:27:28,0,AP,1322,498,7,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,12140,9014,97,3029,06/07/2020 17:16:31,0,BR,280,249,7,
-Telangana,23902,12703,295,10904,05/07/2020 22:05:29,0,TG,0,0,0,
+Telangana,25733,14781,306,10646,06/07/2020 21:38:47,0,TG,1831,2078,11,
 Jammu and Kashmir,8675,5318,138,3219,06/07/2020 21:07:29,0,JK,246,63,6,
 Assam,11737,7883,14,3837,06/07/2020 21:18:28,3,AS,0,449,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
@@ -34,7 +34,7 @@ Jharkhand,2815,2045,20,750,06/07/2020 11:39:29,0,JH,8,0,1,
 Tripura,1580,1206,1,373,05/07/2020 23:38:28,0,TR,0,0,0,
 Ladakh,1005,836,1,168,06/07/2020 19:17:28,0,LA,0,10,0,
 Goa,1813,1061,7,745,06/07/2020 19:50:34,0,GA,52,125,0,
-Himachal Pradesh,1070,746,10,301,06/07/2020 17:55:31,13,HP,7,22,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,1076,746,10,307,06/07/2020 21:38:50,13,HP,12,22,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1390,734,0,656,06/07/2020 20:40:30,0,MN,24,45,0,
 Chandigarh,487,401,6,80,06/07/2020 17:55:34,0,CH,21,6,0,
 Puducherry,1011,480,14,517,06/07/2020 11:27:32,0,PY,65,32,0,
@@ -44,6 +44,6 @@ Arunachal Pradesh,269,78,1,190,05/07/2020 23:27:32,0,AR,0,0,0,
 Sikkim,125,65,0,47,06/07/2020 19:50:37,13,SK,0,4,0,13 Migrated cases reduced from Active count
 Dadra and Nagar Haveli and Daman and Diu,400,174,0,223,06/07/2020 18:52:47,3,DN,27,15,0,3 cases are migrated to different states which are reduced from active count.
 Andaman and Nicobar Islands,141,74,0,67,06/07/2020 10:12:28,0,AN,16,2,0,
-Meghalaya,80,43,1,36,06/07/2020 18:08:39,0,ML,8,0,0,"[June 17]:
+Meghalaya,88,43,1,44,06/07/2020 21:37:31,0,ML,16,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
