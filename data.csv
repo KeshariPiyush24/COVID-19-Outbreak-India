@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,720707,440192,20178,260241,07/07/2020 10:53:25,96,TT,361,42,4,
+Total,720707,440192,20178,260241,07/07/2020 10:56:25,96,TT,361,42,4,
 Maharashtra,211987,115262,9026,87682,06/07/2020 20:00:27,17,MH,0,0,0,"17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -11,7 +11,7 @@ Delhi,100823,72088,3115,25620,06/07/2020 19:50:29,0,DL,0,0,0,"Delhi bulletins in
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,36858,26323,1961,8574,06/07/2020 20:17:28,0,GJ,0,0,0,
 Uttar Pradesh,28636,19109,809,8718,06/07/2020 21:07:26,0,UP,0,0,0,
-Rajasthan,20922,16320,465,4137,07/07/2020 10:53:28,0,RJ,234,42,4,
+Rajasthan,20922,16320,465,4137,07/07/2020 10:56:27,0,RJ,234,42,4,
 West Bengal,22987,15235,779,6973,06/07/2020 20:40:27,0,WB,0,0,0,
 Madhya Pradesh,15284,11579,617,3088,06/07/2020 19:04:28,0,MP,0,0,0,
 Haryana,17504,13335,276,3893,06/07/2020 20:17:30,0,HR,0,0,0,
