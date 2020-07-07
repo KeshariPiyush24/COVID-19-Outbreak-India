@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,720473,440150,20174,260053,07/07/2020 10:13:25,96,TT,127,0,0,
+Total,720473,440150,20174,260053,07/07/2020 10:15:25,96,TT,127,0,0,
 Maharashtra,211987,115262,9026,87682,06/07/2020 20:00:27,17,MH,0,0,0,"17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,7 +15,7 @@ Rajasthan,20688,16278,461,3949,06/07/2020 21:57:28,0,RJ,0,0,0,
 West Bengal,22987,15235,779,6973,06/07/2020 20:40:27,0,WB,0,0,0,
 Madhya Pradesh,15284,11579,617,3088,06/07/2020 19:04:28,0,MP,0,0,0,
 Haryana,17504,13335,276,3893,06/07/2020 20:17:30,0,HR,0,0,0,
-State Unassigned,5034,0,0,5034,07/07/2020 10:13:27,0,UN,121,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 121 cases were increased in this category today by MoHFW. We have included these cases to this category
+State Unassigned,5034,0,0,5034,07/07/2020 10:15:28,0,UN,121,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 121 cases were increased in this category today by MoHFW. We have included these cases to this category
 Karnataka,25317,10529,402,14382,06/07/2020 21:38:38,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,20019,8920,239,10860,06/07/2020 16:27:28,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,12140,9014,97,3029,06/07/2020 17:16:31,0,BR,0,0,0,
@@ -43,7 +43,7 @@ Mizoram,197,133,0,64,06/07/2020 22:39:36,0,MZ,0,0,0,
 Arunachal Pradesh,270,92,2,176,06/07/2020 23:03:34,0,AR,0,0,0,
 Sikkim,125,65,0,47,06/07/2020 19:50:37,13,SK,0,0,0,13 Migrated cases reduced from Active count
 Dadra and Nagar Haveli and Daman and Diu,400,175,0,222,06/07/2020 22:28:52,3,DN,0,0,0,3 cases are migrated to different states which are reduced from active count.
-Andaman and Nicobar Islands,147,74,0,73,07/07/2020 10:13:30,0,AN,6,0,0,
+Andaman and Nicobar Islands,147,74,0,73,07/07/2020 10:15:31,0,AN,6,0,0,
 Meghalaya,88,43,1,44,06/07/2020 21:50:40,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
