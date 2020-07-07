@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,723503,441868,20201,261338,07/07/2020 19:14:25,96,TT,3157,1718,27,
+Total,723503,441868,20201,261336,07/07/2020 19:24:25,98,TT,3157,1718,27,
 Maharashtra,211987,115262,9026,87682,06/07/2020 20:00:27,17,MH,0,0,0,"17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -26,7 +26,7 @@ Total of 3 patients who migrated to other states has been reduced from Active co
 Odisha,10097,6703,54,3340,07/07/2020 17:54:28,0,OR,571,217,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Punjab,6491,4494,169,1828,06/07/2020 20:29:29,0,PB,0,0,0,
-Kerala,5895,3452,28,2413,07/07/2020 19:14:28,2,KL,272,111,0,"Mahe native who expired in Kannur included in Kerala's tally.
+Kerala,5895,3452,28,2411,07/07/2020 19:24:28,4,KL,272,111,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Uttarakhand,3161,2586,42,505,06/07/2020 19:50:32,28,UT,0,0,0,28 Migrated cases reduced from Active count
 Chhattisgarh,3305,2644,14,647,06/07/2020 21:57:32,0,CT,0,0,0,
