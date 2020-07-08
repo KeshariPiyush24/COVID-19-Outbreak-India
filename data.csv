@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,744010,457058,20653,266199,08/07/2020 10:54:25,100,TT,529,0,0,
+Total,744010,457058,20659,266193,08/07/2020 11:04:27,100,TT,529,0,6,
 Maharashtra,217121,118558,9250,89294,07/07/2020 23:07:39,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -23,7 +23,7 @@ Telangana,27612,16287,313,11012,07/07/2020 22:29:36,0,TG,0,0,0,
 Jammu and Kashmir,8931,5399,143,3389,07/07/2020 21:26:29,0,JK,0,0,0,
 Assam,13337,8330,16,4988,07/07/2020 23:56:29,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
-Odisha,10624,6703,54,3867,08/07/2020 10:47:29,0,OR,527,0,0,"Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,10624,6703,60,3861,08/07/2020 11:03:31,0,OR,527,0,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Punjab,6749,4554,175,2020,07/07/2020 20:19:43,0,PB,0,0,0,
 Kerala,5895,3452,28,2411,07/07/2020 19:39:35,4,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
@@ -44,6 +44,6 @@ Arunachal Pradesh,276,105,2,169,08/07/2020 00:17:28,0,AR,0,0,0,
 Sikkim,127,80,0,34,07/07/2020 22:57:41,13,SK,0,0,0,13 Migrated cases reduced from Active count
 Dadra and Nagar Haveli and Daman and Diu,415,183,0,229,07/07/2020 19:48:03,3,DN,0,0,0,3 cases are migrated to different states which are reduced from active count.
 Andaman and Nicobar Islands,149,74,0,75,08/07/2020 09:57:39,0,AN,2,0,0,
-Meghalaya,98,43,2,53,08/07/2020 10:53:31,0,ML,4,0,0,"[June 17]:
+Meghalaya,98,43,2,53,08/07/2020 11:03:36,0,ML,4,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
