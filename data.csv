@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,744118,457125,20663,266230,08/07/2020 11:14:43,100,TT,637,67,10,
+Total,744118,457125,20664,266229,08/07/2020 11:24:25,100,TT,637,67,11,
 Maharashtra,217121,118558,9250,89294,07/07/2020 23:07:39,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -21,9 +21,9 @@ Andhra Pradesh,21197,9745,252,11200,07/07/2020 16:25:31,0,AP,0,0,0,"Total includ
 Bihar,12525,9338,98,3089,07/07/2020 17:40:28,0,BR,0,0,0,
 Telangana,27612,16287,313,11012,07/07/2020 22:29:36,0,TG,0,0,0,
 Jammu and Kashmir,8931,5399,143,3389,07/07/2020 21:26:29,0,JK,0,0,0,
-Assam,13337,8330,20,4984,07/07/2020 23:56:29,3,AS,0,0,4,"Includes one case from Nagaland.
+Assam,13337,8330,20,4984,08/07/2020 11:21:28,3,AS,0,0,4,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
-Odisha,10624,6703,60,3861,08/07/2020 11:13:39,0,OR,527,0,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,10624,6703,61,3860,08/07/2020 11:24:28,0,OR,527,0,7,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Punjab,6749,4554,175,2020,07/07/2020 20:19:43,0,PB,0,0,0,
 Kerala,5895,3452,28,2411,07/07/2020 19:39:35,4,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
@@ -37,7 +37,7 @@ Goa,1903,1156,8,739,07/07/2020 20:51:41,0,GA,0,0,0,
 Himachal Pradesh,1083,777,10,283,07/07/2020 21:58:30,13,HP,0,0,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Manipur,1430,771,0,659,07/07/2020 19:48:01,0,MN,0,0,0,
 Chandigarh,492,401,7,84,07/07/2020 15:27:31,0,CH,0,0,0,
-Puducherry,1151,584,14,553,08/07/2020 11:13:55,0,PY,108,67,0,
+Puducherry,1151,584,14,553,08/07/2020 11:21:34,0,PY,108,67,0,
 Nagaland,656,303,0,353,08/07/2020 09:57:36,0,NL,12,0,0,
 Mizoram,198,139,0,59,07/07/2020 22:29:39,0,MZ,0,0,0,
 Arunachal Pradesh,276,105,2,169,08/07/2020 00:17:28,0,AR,0,0,0,
