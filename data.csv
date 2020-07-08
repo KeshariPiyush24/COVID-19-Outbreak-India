@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,768206,476484,21144,270478,08/07/2020 22:24:27,100,TT,24713,19439,491,
+Total,768208,476484,21144,270480,08/07/2020 22:37:26,100,TT,24715,19439,491,
 Maharashtra,223724,123192,9448,91065,08/07/2020 20:28:27,19,MH,6603,4634,198,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -35,7 +35,7 @@ Goa,2039,1207,8,824,08/07/2020 21:51:38,0,GA,136,51,0,
 Tripura,1716,1324,1,378,08/07/2020 18:40:15,13,TR,0,76,0,
 Manipur,1435,793,0,642,08/07/2020 19:52:44,0,MN,5,22,0,
 Puducherry,1151,584,14,553,08/07/2020 11:21:34,0,PY,108,67,0,
-Himachal Pradesh,1101,820,10,258,08/07/2020 22:24:31,13,HP,18,43,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,1101,820,10,258,08/07/2020 22:28:28,13,HP,18,43,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1047,888,1,158,08/07/2020 17:28:30,0,LA,6,28,0,
 Nagaland,657,304,0,353,08/07/2020 19:18:33,0,NL,13,1,0,
 Chandigarh,507,402,7,98,08/07/2020 20:15:34,0,CH,15,1,0,
@@ -44,6 +44,6 @@ Arunachal Pradesh,276,105,2,169,08/07/2020 00:17:28,0,AR,0,0,0,
 Mizoram,201,143,0,58,08/07/2020 17:28:33,0,MZ,3,4,0,
 Andaman and Nicobar Islands,149,74,0,75,08/07/2020 09:57:39,0,AN,2,0,0,
 Sikkim,133,71,0,49,08/07/2020 20:37:32,13,SK,6,6,0,13 Migrated cases reduced from Active count
-Meghalaya,98,45,1,52,08/07/2020 17:16:39,0,ML,4,2,0,"[June 17]:
+Meghalaya,100,45,1,54,08/07/2020 22:37:30,0,ML,6,2,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
