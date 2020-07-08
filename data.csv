@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,744328,457133,20671,266426,08/07/2020 13:30:26,98,TT,849,75,18,
+Total,745390,458489,20683,266120,08/07/2020 14:04:25,98,TT,1911,1431,30,
 Maharashtra,217121,118558,9250,89294,07/07/2020 23:07:39,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,7 +17,7 @@ Madhya Pradesh,15627,11768,622,3237,07/07/2020 20:39:41,0,MP,0,0,0,
 Haryana,17999,13645,279,4075,07/07/2020 21:17:28,0,HR,0,0,0,
 State Unassigned,5018,0,0,5018,08/07/2020 09:57:29,0,UN,-16,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 16 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,26815,11100,417,15294,07/07/2020 20:39:43,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
-Andhra Pradesh,21197,9745,252,11200,07/07/2020 16:25:31,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,22259,11101,264,10894,08/07/2020 14:04:27,0,AP,1062,1356,12,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Bihar,12525,9338,98,3089,07/07/2020 17:40:28,0,BR,0,0,0,
 Telangana,27612,16287,313,11012,07/07/2020 22:29:36,0,TG,0,0,0,
 Jammu and Kashmir,8931,5399,143,3389,07/07/2020 21:26:29,0,JK,0,0,0,
