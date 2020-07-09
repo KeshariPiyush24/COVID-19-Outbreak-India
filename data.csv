@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,769150,476565,21151,271334,09/07/2020 11:14:06,100,TT,98,11,7,
+Total,769199,476600,21159,271340,09/07/2020 11:24:06,100,TT,147,46,15,
 Maharashtra,223724,123192,9448,91065,08/07/2020 20:28:27,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,13 +15,13 @@ Karnataka,28877,11878,471,16524,08/07/2020 21:07:27,4,KA,0,0,0,4 cases are class
 Telangana,29536,17279,324,11933,08/07/2020 22:08:28,0,TG,0,0,0,
 West Bengal,24823,16291,827,7705,08/07/2020 19:40:32,0,WB,0,0,0,
 Andhra Pradesh,22259,11101,264,10894,08/07/2020 14:18:28,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Rajasthan,22212,16877,489,4846,09/07/2020 11:14:08,0,RJ,149,11,7,
+Rajasthan,22212,16877,489,4846,09/07/2020 11:23:08,0,RJ,149,11,7,
 Haryana,18690,14106,282,4302,08/07/2020 21:38:33,0,HR,0,0,0,
 Madhya Pradesh,16036,11987,629,3420,08/07/2020 19:40:35,0,MP,0,0,0,
 Assam,14033,8727,22,5281,08/07/2020 23:48:28,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Bihar,13274,9541,100,3633,08/07/2020 17:55:29,0,BR,0,0,0,
-Odisha,11201,7006,61,4134,09/07/2020 10:55:12,0,OR,577,0,0,"Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,11201,7006,67,4128,09/07/2020 11:24:08,0,OR,577,0,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,9261,5567,149,3545,08/07/2020 21:38:35,0,JK,0,0,0,
 Punjab,6907,4828,178,1901,08/07/2020 19:52:30,0,PB,0,0,0,
@@ -34,7 +34,7 @@ Jharkhand,3134,2170,22,942,08/07/2020 23:24:29,0,JH,0,0,0,
 Goa,2039,1207,8,824,08/07/2020 21:51:38,0,GA,0,0,0,
 Tripura,1773,1324,1,435,08/07/2020 22:57:31,13,TR,0,0,0,
 Manipur,1435,793,0,642,08/07/2020 19:52:44,0,MN,0,0,0,
-Puducherry,1151,584,14,553,08/07/2020 11:21:34,0,PY,0,0,0,
+Puducherry,1200,619,16,565,09/07/2020 11:24:11,0,PY,49,35,2,
 Himachal Pradesh,1101,820,10,258,08/07/2020 22:28:28,13,HP,0,0,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1047,888,1,158,08/07/2020 17:28:30,0,LA,0,0,0,
 Nagaland,660,304,0,356,09/07/2020 09:49:11,0,NL,3,0,0,
