@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,771842,477688,21174,272880,09/07/2020 17:18:06,100,TT,2790,1134,30,
+Total,771866,477720,21174,272872,09/07/2020 17:40:06,100,TT,2814,1166,30,
 Maharashtra,223724,123192,9448,91065,08/07/2020 20:28:27,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -36,10 +36,10 @@ Tripura,1773,1324,1,435,08/07/2020 22:57:31,13,TR,0,0,0,
 Manipur,1435,793,0,642,08/07/2020 19:52:44,0,MN,0,0,0,
 Puducherry,1200,619,16,565,09/07/2020 11:38:11,0,PY,49,35,2,
 Himachal Pradesh,1101,821,10,257,09/07/2020 13:26:12,13,HP,0,1,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Ladakh,1047,888,1,158,08/07/2020 17:28:30,0,LA,0,0,0,
-Nagaland,660,304,0,356,09/07/2020 09:49:11,0,NL,3,0,0,
+Ladakh,1055,915,1,139,09/07/2020 17:40:08,0,LA,8,27,0,
+Nagaland,673,304,0,369,09/07/2020 09:49:11,0,NL,16,0,0,
 Chandigarh,507,402,7,98,08/07/2020 20:15:34,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,442,196,1,242,08/07/2020 16:38:34,3,DN,0,0,0,3 cases are migrated to different states which are reduced from active count.
+Dadra and Nagar Haveli and Daman and Diu,445,201,1,240,09/07/2020 17:40:10,3,DN,3,5,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,287,109,2,176,09/07/2020 01:18:10,0,AR,0,0,0,
 Mizoram,203,143,0,60,08/07/2020 22:57:33,0,MZ,0,0,0,
 Andaman and Nicobar Islands,151,77,0,74,09/07/2020 17:18:09,0,AN,2,3,0,
