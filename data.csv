@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,795606,496048,21634,277823,10/07/2020 11:04:06,101,TT,764,88,11,
+Total,795606,496048,21634,277823,10/07/2020 11:24:06,101,TT,764,88,11,
 Maharashtra,230599,127259,9667,93654,09/07/2020 19:55:08,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,13 +15,13 @@ Karnataka,31105,12835,488,17778,09/07/2020 20:38:16,4,KA,0,0,0,4 cases are class
 Telangana,30946,18192,331,12423,09/07/2020 22:24:11,0,TG,0,0,0,
 West Bengal,25911,16826,854,8231,09/07/2020 20:17:14,0,WB,0,0,0,
 Andhra Pradesh,23814,12154,277,11383,09/07/2020 14:52:08,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Rajasthan,22678,17140,495,5043,10/07/2020 11:02:08,0,RJ,115,70,4,
+Rajasthan,22678,17140,495,5043,10/07/2020 11:06:08,0,RJ,115,70,4,
 Haryana,19364,14505,287,4572,09/07/2020 19:27:08,0,HR,0,0,0,
 Madhya Pradesh,16341,12232,634,3475,09/07/2020 19:55:10,0,MP,0,0,0,
 Assam,14601,9148,27,5423,10/07/2020 00:02:09,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Bihar,13978,9792,109,4077,09/07/2020 19:08:08,0,BR,0,0,0,
-Odisha,11956,7407,73,4476,10/07/2020 11:04:08,0,OR,755,0,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,11956,7407,73,4476,10/07/2020 11:24:08,0,OR,755,0,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,9501,5695,154,3652,09/07/2020 21:16:10,0,JK,0,0,0,
 Punjab,7140,4945,183,2012,09/07/2020 19:38:14,0,PB,0,0,0,
@@ -41,7 +41,7 @@ Nagaland,696,304,0,392,10/07/2020 09:50:10,0,NL,23,0,0,
 Chandigarh,523,403,7,113,09/07/2020 18:28:10,0,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,456,205,1,247,09/07/2020 19:38:18,3,DN,0,0,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,302,120,2,180,09/07/2020 23:47:38,0,AR,0,0,0,
-Mizoram,226,143,0,83,10/07/2020 11:04:11,0,MZ,23,0,0,
+Mizoram,226,143,0,83,10/07/2020 11:17:10,0,MZ,23,0,0,
 Andaman and Nicobar Islands,156,83,0,73,09/07/2020 22:05:17,0,AN,0,0,0,
 Sikkim,134,71,0,50,09/07/2020 19:55:20,13,SK,0,0,0,13 Migrated cases reduced from Active count
 Meghalaya,113,45,1,67,09/07/2020 19:38:23,0,ML,0,0,0,"[June 17]:
