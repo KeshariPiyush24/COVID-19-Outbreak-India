@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,798152,497688,21656,278707,10/07/2020 17:55:06,101,TT,3310,1728,33,
+Total,798161,497690,21656,278714,10/07/2020 18:37:06,101,TT,3319,1730,33,
 Maharashtra,230599,127259,9667,93654,09/07/2020 19:55:08,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -36,7 +36,7 @@ Tripura,1789,1338,1,437,09/07/2020 23:16:21,13,TR,0,0,0,
 Manipur,1450,799,0,651,09/07/2020 21:53:16,0,MN,0,0,0,
 Puducherry,1272,637,17,618,10/07/2020 10:49:09,0,PY,72,18,1,
 Himachal Pradesh,1143,851,10,269,10/07/2020 17:55:09,13,HP,3,18,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Ladakh,1055,915,1,139,09/07/2020 17:54:09,0,LA,0,0,0,
+Ladakh,1064,917,1,146,10/07/2020 18:37:09,0,LA,9,2,0,
 Nagaland,732,304,0,428,10/07/2020 14:16:08,0,NL,59,0,0,
 Chandigarh,536,408,7,121,10/07/2020 16:50:10,0,CH,13,5,0,
 Dadra and Nagar Haveli and Daman and Diu,470,224,1,242,10/07/2020 17:55:11,3,DN,14,19,0,3 cases are migrated to different states which are reduced from active count.
