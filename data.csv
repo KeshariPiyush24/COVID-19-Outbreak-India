@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,795728,496048,21634,277945,10/07/2020 12:04:06,101,TT,886,88,11,
+Total,795728,496048,21634,277945,10/07/2020 12:05:06,101,TT,886,88,11,
 Maharashtra,230599,127259,9667,93654,09/07/2020 19:55:08,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -30,7 +30,7 @@ One patient who absconded from Palakkad to TN and one patient who returned back 
 State Unassigned,4161,0,0,4161,10/07/2020 09:50:08,0,UN,-224,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 224 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Chhattisgarh,3666,2903,15,748,10/07/2020 00:57:09,0,CT,0,0,0,
 Uttarakhand,3305,2672,46,558,09/07/2020 19:55:13,29,UT,0,0,0,29 Migrated cases reduced from Active count
-Jharkhand,3362,2210,23,1129,10/07/2020 12:04:08,0,JH,94,0,0,
+Jharkhand,3362,2210,23,1129,10/07/2020 12:05:08,0,JH,94,0,0,
 Goa,2151,1273,9,869,09/07/2020 23:30:12,0,GA,0,0,0,
 Tripura,1789,1338,1,437,09/07/2020 23:16:21,13,TR,0,0,0,
 Manipur,1450,799,0,651,09/07/2020 21:53:16,0,MN,0,0,0,
