@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,795606,496048,21634,277823,10/07/2020 11:24:06,101,TT,764,88,11,
+Total,795634,496048,21634,277851,10/07/2020 11:48:06,101,TT,792,88,11,
 Maharashtra,230599,127259,9667,93654,09/07/2020 19:55:08,19,MH,0,0,0,"19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -21,7 +21,7 @@ Madhya Pradesh,16341,12232,634,3475,09/07/2020 19:55:10,0,MP,0,0,0,
 Assam,14601,9148,27,5423,10/07/2020 00:02:09,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Bihar,13978,9792,109,4077,09/07/2020 19:08:08,0,BR,0,0,0,
-Odisha,11956,7407,73,4476,10/07/2020 11:24:08,0,OR,755,0,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,11956,7407,73,4476,10/07/2020 11:28:08,0,OR,755,0,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,9501,5695,154,3652,09/07/2020 21:16:10,0,JK,0,0,0,
 Punjab,7140,4945,183,2012,09/07/2020 19:38:14,0,PB,0,0,0,
@@ -44,6 +44,6 @@ Arunachal Pradesh,302,120,2,180,09/07/2020 23:47:38,0,AR,0,0,0,
 Mizoram,226,143,0,83,10/07/2020 11:17:10,0,MZ,23,0,0,
 Andaman and Nicobar Islands,156,83,0,73,09/07/2020 22:05:17,0,AN,0,0,0,
 Sikkim,134,71,0,50,09/07/2020 19:55:20,13,SK,0,0,0,13 Migrated cases reduced from Active count
-Meghalaya,113,45,1,67,09/07/2020 19:38:23,0,ML,0,0,0,"[June 17]:
+Meghalaya,141,45,1,95,10/07/2020 11:48:09,0,ML,28,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
