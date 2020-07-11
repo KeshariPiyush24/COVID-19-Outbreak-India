@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,826241,518097,22173,285592,11/07/2020 18:46:06,379,TT,3637,1847,29,
+Total,830206,522428,22249,285150,11/07/2020 18:54:06,379,TT,7602,6178,105,
 Maharashtra,238461,132625,9893,95647,10/07/2020 22:28:08,296,MH,0,0,0,"296 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,130261,82324,1829,46108,10/07/2020 19:56:10,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,134226,85915,1898,46413,11/07/2020 18:54:07,0,TN,3965,3591,69,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,109140,84694,3300,21146,10/07/2020 20:40:13,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
@@ -20,12 +20,12 @@ Haryana,20381,14912,290,5179,11/07/2020 15:26:10,0,HR,447,8,0,
 Madhya Pradesh,16657,12481,638,3538,10/07/2020 21:39:13,0,MP,0,0,0,
 Assam,15537,9849,36,5649,11/07/2020 15:26:11,3,AS,0,0,1,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
-Bihar,15039,10251,111,4677,11/07/2020 14:50:08,0,BR,709,0,0,
+Bihar,15039,10991,118,3930,11/07/2020 14:50:08,0,BR,709,740,7,
 Odisha,12526,8360,79,4087,11/07/2020 18:39:08,0,OR,570,388,6,"Three non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,9888,5786,159,3943,10/07/2020 21:57:08,0,JK,0,0,0,
 Punjab,7357,5017,187,2153,10/07/2020 20:21:10,0,PB,0,0,0,
-Kerala,7439,3963,30,3442,11/07/2020 18:46:10,4,KL,488,143,2,"Mahe native who expired in Kannur included in Kerala's tally.
+Kerala,7439,3963,30,3442,11/07/2020 18:54:09,4,KL,488,143,2,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 State Unassigned,3416,0,0,3416,11/07/2020 10:08:08,0,UN,-745,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 745 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Chhattisgarh,3832,3028,17,787,10/07/2020 23:25:08,0,CT,0,0,0,
