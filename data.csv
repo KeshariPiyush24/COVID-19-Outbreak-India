@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,849381,535988,22679,290334,11/07/2020 22:37:06,380,TT,26777,19738,535,
+Total,849782,536223,22684,290495,11/07/2020 22:46:06,380,TT,27178,19973,540,
 Maharashtra,246600,136985,10116,99203,11/07/2020 20:39:07,296,MH,8139,4360,223,"296 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,7 +15,7 @@ Karnataka,36216,14718,615,20879,11/07/2020 21:58:09,4,KA,2798,880,70,4 cases are
 Telangana,33402,20919,348,12135,11/07/2020 21:58:11,0,TG,1178,1714,9,
 West Bengal,28453,17959,906,9588,11/07/2020 20:50:09,0,WB,1344,611,26,
 Andhra Pradesh,27235,14393,309,12533,11/07/2020 17:39:08,0,AP,1813,1199,17,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Rajasthan,23344,17634,499,5211,11/07/2020 11:51:08,0,RJ,170,14,2,
+Rajasthan,23745,17869,503,5373,11/07/2020 22:46:08,0,RJ,571,249,6,
 Haryana,20582,15394,297,4891,11/07/2020 20:18:09,0,HR,648,490,7,
 Madhya Pradesh,17201,12679,644,3878,11/07/2020 19:14:08,0,MP,544,198,6,
 Assam,15537,10427,37,5070,11/07/2020 22:18:08,3,AS,0,578,2,"Includes one case from Nagaland.
@@ -30,7 +30,7 @@ One patient who absconded from Palakkad to TN and one patient who returned back 
 State Unassigned,3416,0,0,3416,11/07/2020 10:08:08,0,UN,-745,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 745 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Chhattisgarh,3897,3070,17,810,11/07/2020 22:28:09,0,CT,65,42,0,
 Uttarakhand,3417,2718,46,623,11/07/2020 20:07:16,30,UT,44,12,0,30 Migrated cases reduced from Active count
-Jharkhand,3663,2256,23,1384,11/07/2020 22:37:09,0,JH,145,32,0,
+Jharkhand,3663,2256,24,1383,11/07/2020 22:46:10,0,JH,145,32,1,
 Goa,2368,1428,10,930,11/07/2020 22:28:11,0,GA,117,81,1,
 Tripura,1931,1372,1,545,11/07/2020 09:40:09,13,TR,0,0,0,
 Manipur,1593,843,0,750,11/07/2020 19:41:18,0,MN,11,11,0,
