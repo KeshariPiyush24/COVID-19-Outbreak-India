@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,849817,536223,22685,290529,11/07/2020 23:15:06,380,TT,27213,19973,541,
+Total,849823,536228,22687,290528,11/07/2020 23:37:06,380,TT,27219,19978,543,
 Maharashtra,246600,136985,10116,99203,11/07/2020 20:39:07,296,MH,8139,4360,223,"296 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,7 +31,7 @@ State Unassigned,3416,0,0,3416,11/07/2020 10:08:08,0,UN,-745,0,0,MoHFW website r
 Chhattisgarh,3897,3070,17,810,11/07/2020 22:28:09,0,CT,65,42,0,
 Uttarakhand,3417,2718,46,623,11/07/2020 20:07:16,30,UT,44,12,0,30 Migrated cases reduced from Active count
 Jharkhand,3663,2256,24,1383,11/07/2020 22:57:12,0,JH,145,32,1,
-Goa,2368,1428,10,930,11/07/2020 22:28:11,0,GA,117,81,1,
+Goa,2368,1428,12,928,11/07/2020 23:37:09,0,GA,117,81,3,
 Tripura,1963,1372,2,576,11/07/2020 23:15:08,13,TR,32,0,1,
 Manipur,1593,843,0,750,11/07/2020 19:41:18,0,MN,11,11,0,
 Puducherry,1336,690,18,628,11/07/2020 16:58:09,0,PY,64,53,1,
@@ -40,7 +40,7 @@ Ladakh,1077,928,1,148,11/07/2020 18:39:12,0,LA,13,11,0,
 Nagaland,748,313,0,435,11/07/2020 16:17:08,0,NL,16,9,0,
 Chandigarh,549,413,8,128,11/07/2020 19:33:11,0,CH,13,5,1,
 Dadra and Nagar Haveli and Daman and Diu,482,237,1,240,11/07/2020 15:50:11,4,DN,12,12,0,3 cases are migrated to different states which are reduced from active count.
-Arunachal Pradesh,335,120,2,213,11/07/2020 05:16:08,0,AR,0,0,0,
+Arunachal Pradesh,341,125,2,214,11/07/2020 23:37:12,0,AR,6,5,0,
 Mizoram,226,150,0,76,11/07/2020 18:39:13,0,MZ,0,7,0,
 Andaman and Nicobar Islands,156,92,0,64,11/07/2020 13:39:10,0,AN,0,0,0,
 Sikkim,160,80,0,67,11/07/2020 21:48:24,13,SK,26,0,0,13 Migrated cases reduced from Active count
