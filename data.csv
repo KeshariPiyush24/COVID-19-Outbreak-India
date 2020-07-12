@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,878597,554357,23186,300672,12/07/2020 22:46:06,382,TT,28238,18126,499,
+Total,878597,554357,23187,300671,12/07/2020 22:54:06,382,TT,28238,18126,500,
 Maharashtra,254427,140325,10289,103516,12/07/2020 19:07:08,297,MH,7827,3340,173,"297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -18,7 +18,7 @@ Andhra Pradesh,29168,15412,328,13428,12/07/2020 15:39:08,0,AP,1933,1019,19,"Tota
 Rajasthan,24392,18103,510,5779,12/07/2020 21:50:09,0,RJ,644,234,7,
 Haryana,21240,15983,301,4956,12/07/2020 21:07:11,0,HR,658,589,4,
 Madhya Pradesh,17632,12876,653,4103,12/07/2020 22:17:08,0,MP,431,197,9,
-Assam,16072,10895,40,5134,12/07/2020 22:41:08,3,AS,0,468,3,"Includes one case from Nagaland.
+Assam,16072,10895,41,5133,12/07/2020 22:54:08,3,AS,0,468,4,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Bihar,16305,11953,125,4227,12/07/2020 18:22:10,0,BR,1266,962,7,
 Odisha,13121,8750,84,4287,12/07/2020 18:22:11,0,OR,595,390,5,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
@@ -43,7 +43,7 @@ Dadra and Nagar Haveli and Daman and Diu,489,255,1,229,12/07/2020 15:28:13,4,DN,
 Arunachal Pradesh,341,125,2,214,11/07/2020 23:50:11,0,AR,0,0,0,
 Mizoram,231,150,0,81,12/07/2020 21:16:09,0,MZ,4,0,0,
 Andaman and Nicobar Islands,163,100,0,63,12/07/2020 21:07:14,0,AN,7,8,0,
-Sikkim,164,81,0,70,12/07/2020 22:46:09,13,SK,4,1,0,13 Migrated cases reduced from Active count
+Sikkim,164,81,0,70,12/07/2020 22:54:10,13,SK,4,1,0,13 Migrated cases reduced from Active count
 Meghalaya,295,45,2,248,12/07/2020 13:06:11,0,ML,33,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
