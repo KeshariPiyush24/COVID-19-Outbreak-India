@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,878060,553641,23170,300867,12/07/2020 22:04:07,382,TT,27701,17410,483,
+Total,878491,553838,23179,301092,12/07/2020 22:14:07,382,TT,28132,17607,492,
 Maharashtra,254427,140325,10289,103516,12/07/2020 19:07:08,297,MH,7827,3340,173,"297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,138470,89532,1966,46972,12/07/2020 22:04:11,0,TN,4244,3617,68,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,138470,89532,1966,46972,12/07/2020 22:08:10,0,TN,4244,3617,68,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,112494,89968,3371,19155,12/07/2020 18:22:07,0,DL,1573,2276,37,"Delhi bulletins contain the counts for the previous day. We will add that data to the date on which the report is released, rather than the previous day.
@@ -17,7 +17,7 @@ West Bengal,30013,18581,932,10500,12/07/2020 19:26:09,0,WB,1560,622,26,
 Andhra Pradesh,29168,15412,328,13428,12/07/2020 15:39:08,0,AP,1933,1019,19,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Rajasthan,24392,18103,510,5779,12/07/2020 21:50:09,0,RJ,644,234,7,
 Haryana,21240,15983,301,4956,12/07/2020 21:07:11,0,HR,658,589,4,
-Madhya Pradesh,17201,12679,644,3878,12/07/2020 22:04:16,0,MP,0,0,0,
+Madhya Pradesh,17632,12876,653,4103,12/07/2020 22:14:10,0,MP,431,197,9,
 Assam,16072,10427,40,5602,12/07/2020 14:34:09,3,AS,0,0,3,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Bihar,16305,11953,125,4227,12/07/2020 18:22:10,0,BR,1266,962,7,
