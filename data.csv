@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,872784,549656,23087,299659,12/07/2020 21:14:06,382,TT,22425,13425,400,
+Total,872784,549656,23087,299659,12/07/2020 21:16:06,382,TT,22425,13425,400,
 Maharashtra,254427,140325,10289,103516,12/07/2020 19:07:08,297,MH,7827,3340,173,"297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -41,7 +41,7 @@ Nagaland,774,327,0,447,12/07/2020 16:18:09,0,NL,26,14,0,
 Chandigarh,559,417,8,134,12/07/2020 15:28:11,0,CH,10,4,0,
 Dadra and Nagar Haveli and Daman and Diu,489,255,1,229,12/07/2020 15:28:13,4,DN,7,18,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,341,125,2,214,11/07/2020 23:50:11,0,AR,0,0,0,
-Mizoram,231,150,0,81,12/07/2020 21:13:10,0,MZ,4,0,0,
+Mizoram,231,150,0,81,12/07/2020 21:16:09,0,MZ,4,0,0,
 Andaman and Nicobar Islands,163,100,0,63,12/07/2020 21:07:14,0,AN,7,8,0,
 Sikkim,160,80,0,67,11/07/2020 21:48:24,13,SK,0,0,0,13 Migrated cases reduced from Active count
 Meghalaya,295,45,2,248,12/07/2020 13:06:11,0,ML,33,0,0,"[June 17]:
