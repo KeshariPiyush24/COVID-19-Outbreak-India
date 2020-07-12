@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,853211,537585,22718,292526,12/07/2020 15:38:06,382,TT,2852,1354,31,
+Total,853211,537585,22718,292526,12/07/2020 15:39:06,382,TT,2852,1354,31,
 Maharashtra,246600,136985,10116,99202,12/07/2020 01:51:08,297,MH,0,0,0,"297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -7,14 +7,14 @@ Maharashtra,246600,136985,10116,99202,12/07/2020 01:51:08,297,MH,0,0,0,"297 case
 Tamil Nadu,134226,85915,1898,46413,11/07/2020 19:07:07,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,110921,87692,3334,19895,11/07/2020 19:50:08,0,DL,0,0,0,"Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+Delhi,110921,87692,3334,19895,11/07/2020 19:50:08,0,DL,0,0,0,"Delhi bulletins contain the counts for the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,41027,28685,2033,10309,11/07/2020 20:18:07,0,GJ,0,0,0,
 Uttar Pradesh,35092,22689,913,11490,11/07/2020 20:07:10,0,UP,0,0,0,
 Karnataka,36216,14718,615,20879,11/07/2020 21:58:09,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Telangana,33402,20919,348,12135,11/07/2020 21:58:11,0,TG,0,0,0,
 West Bengal,28453,17959,906,9588,11/07/2020 20:50:09,0,WB,0,0,0,
-Andhra Pradesh,29168,15412,328,13428,12/07/2020 15:38:08,0,AP,1933,1019,19,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,29168,15412,328,13428,12/07/2020 15:39:08,0,AP,1933,1019,19,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Rajasthan,23901,17902,507,5492,12/07/2020 11:28:07,0,RJ,153,33,4,
 Haryana,20965,15614,297,5054,12/07/2020 14:08:08,0,HR,383,220,0,
 Madhya Pradesh,17201,12679,644,3878,11/07/2020 19:14:08,0,MP,0,0,0,
