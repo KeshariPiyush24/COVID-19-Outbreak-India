@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,879904,554908,23200,301414,13/07/2020 16:53:49,382,TT,437,479,13,
+Total,879904,554908,23200,301414,13/07/2020 17:01:06,382,TT,437,479,13,
 Maharashtra,254427,140325,10289,103516,12/07/2020 19:07:08,297,MH,0,0,0,"297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -14,7 +14,7 @@ Uttar Pradesh,36476,23334,934,12208,12/07/2020 21:07:07,0,UP,0,0,0,
 Karnataka,38843,15411,686,22742,12/07/2020 20:40:07,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Telangana,34671,22482,356,11833,12/07/2020 21:07:09,0,TG,0,0,0,
 West Bengal,30013,18581,932,10500,12/07/2020 19:26:09,0,WB,0,0,0,
-Andhra Pradesh,29168,15412,328,13428,12/07/2020 15:39:08,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,29168,15412,328,13428,13/07/2020 17:01:08,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Rajasthan,24487,18236,514,5737,13/07/2020 13:53:08,0,RJ,95,133,4,
 Haryana,21482,16256,301,4925,13/07/2020 13:53:10,0,HR,242,273,0,
 Madhya Pradesh,17632,12876,653,4103,12/07/2020 22:17:08,0,MP,0,0,0,
@@ -43,7 +43,7 @@ Dadra and Nagar Haveli and Daman and Diu,513,287,1,221,13/07/2020 15:59:08,4,DN,
 Arunachal Pradesh,360,138,2,220,13/07/2020 00:17:11,0,AR,0,0,0,
 Mizoram,231,150,0,81,12/07/2020 21:16:09,0,MZ,0,0,0,
 Andaman and Nicobar Islands,163,100,0,63,12/07/2020 21:07:14,0,AN,0,0,0,
-Sikkim,166,82,0,71,13/07/2020 16:53:51,13,SK,2,1,0,13 Migrated cases reduced from Active count
+Sikkim,166,82,0,71,13/07/2020 16:56:09,13,SK,2,1,0,13 Migrated cases reduced from Active count
 Meghalaya,295,45,2,248,12/07/2020 13:06:11,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
