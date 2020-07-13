@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,906615,571578,23727,310926,13/07/2020 22:54:06,384,TT,27148,17149,540,
+Total,906617,571578,23727,310928,13/07/2020 23:05:07,384,TT,27150,17149,540,
 Maharashtra,260924,144507,10482,105638,13/07/2020 19:41:41,297,MH,6497,4182,193,"297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -30,7 +30,7 @@ One patient who absconded from Palakkad to TN and one patient who returned back 
 State Unassigned,2358,0,0,2358,13/07/2020 10:27:10,0,UN,-666,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 666 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Chhattisgarh,4265,3202,19,1044,13/07/2020 20:54:12,0,CT,184,49,0,
 Uttarakhand,3608,2856,49,671,13/07/2020 19:58:15,32,UT,71,70,2,32 Migrated cases reduced from Active count
-Jharkhand,3963,2351,33,1579,13/07/2020 22:52:11,0,JH,203,43,2,
+Jharkhand,3963,2351,33,1579,13/07/2020 22:55:11,0,JH,203,43,2,
 Goa,2583,1540,17,1026,13/07/2020 21:51:25,0,GA,130,53,3,
 Tripura,2093,1475,2,602,13/07/2020 22:28:11,14,TR,26,54,0,
 Manipur,1626,970,0,656,13/07/2020 22:28:12,0,MN,17,74,0,
@@ -41,8 +41,8 @@ Nagaland,845,340,0,505,13/07/2020 17:17:16,0,NL,71,13,0,
 Chandigarh,588,423,8,157,13/07/2020 20:28:26,0,CH,29,6,0,
 Dadra and Nagar Haveli and Daman and Diu,525,310,1,210,13/07/2020 21:29:15,4,DN,25,42,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,360,138,2,220,13/07/2020 00:17:11,0,AR,0,0,0,
-Mizoram,231,151,0,80,13/07/2020 17:17:18,0,MZ,0,1,0,
-Andaman and Nicobar Islands,166,109,0,57,13/07/2020 22:54:10,0,AN,3,9,0,
+Mizoram,233,151,0,82,13/07/2020 23:05:12,0,MZ,2,1,0,
+Andaman and Nicobar Islands,166,109,0,57,13/07/2020 22:57:21,0,AN,3,9,0,
 Sikkim,166,82,0,71,13/07/2020 16:56:09,13,SK,2,1,0,13 Migrated cases reduced from Active count
 Meghalaya,316,46,2,268,13/07/2020 20:07:14,0,ML,21,1,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
