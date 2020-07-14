@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,911629,573961,23788,313496,14/07/2020 17:39:07,384,TT,3984,1849,60,
+Total,911629,573961,23788,313493,14/07/2020 17:57:48,387,TT,3984,1849,60,
 Maharashtra,260924,144507,10482,105638,13/07/2020 19:41:41,297,MH,0,0,0,"297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -7,7 +7,7 @@ Maharashtra,260924,144507,10482,105638,13/07/2020 19:41:41,297,MH,0,0,0,"297 cas
 Tamil Nadu,142798,92567,2032,48199,13/07/2020 18:28:09,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,113740,91312,3411,19017,13/07/2020 21:07:08,0,DL,0,0,0,"Delhi bulletins contain the counts for the previous day. We will add that data to the date on which the report is released, rather than the previous day.
+Delhi,113740,91312,3411,19017,13/07/2020 21:07:08,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Gujarat,42808,29806,2056,10946,13/07/2020 19:54:11,0,GJ,0,0,0,
 Uttar Pradesh,38130,24203,955,12972,13/07/2020 18:40:09,0,UP,0,0,0,
@@ -39,9 +39,9 @@ Himachal Pradesh,1298,927,10,348,14/07/2020 12:18:09,13,HP,55,0,0,"HP has 14 Mig
 Ladakh,1093,946,1,146,13/07/2020 17:41:09,0,LA,0,0,0,
 Nagaland,896,340,0,556,14/07/2020 16:07:11,0,NL,51,0,0,
 Chandigarh,588,423,8,157,13/07/2020 20:28:26,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,530,325,1,200,14/07/2020 16:49:13,4,DN,5,15,0,3 cases are migrated to different states which are reduced from active count.
+Dadra and Nagar Haveli and Daman and Diu,530,325,1,197,14/07/2020 17:58:05,7,DN,5,15,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,387,145,3,239,14/07/2020 11:07:16,0,AR,0,0,0,
-Mizoram,233,159,0,74,14/07/2020 17:39:13,0,MZ,0,8,0,
+Mizoram,233,159,0,74,14/07/2020 17:42:13,0,MZ,0,8,0,
 Andaman and Nicobar Islands,166,109,0,57,13/07/2020 22:57:21,0,AN,0,0,0,
 Sikkim,166,87,0,66,14/07/2020 00:28:10,13,SK,0,0,0,13 Migrated cases reduced from Active count
 Meghalaya,316,46,2,268,13/07/2020 20:07:14,0,ML,0,0,0,"[June 17]:
