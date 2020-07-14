@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,933518,590258,24283,318588,14/07/2020 20:37:29,389,TT,25873,18146,555,
+Total,933518,590258,24283,318588,14/07/2020 20:40:57,389,TT,25873,18146,555,
 Maharashtra,267665,149007,10695,107665,14/07/2020 20:12:00,298,MH,6741,4500,213,"298 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -38,12 +38,12 @@ Puducherry,1531,829,18,684,14/07/2020 11:07:13,0,PY,63,44,0,
 Himachal Pradesh,1298,927,10,348,14/07/2020 12:18:09,13,HP,55,0,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1128,946,1,181,13/07/2020 17:41:09,0,LA,35,0,0,
 Nagaland,896,346,0,550,14/07/2020 18:15:10,0,NL,51,6,0,
-Chandigarh,600,446,10,144,14/07/2020 20:37:31,0,CH,12,23,2,
-Dadra and Nagar Haveli and Daman and Diu,541,342,1,191,14/07/2020 20:37:34,7,DN,16,32,0,3 cases are migrated to different states which are reduced from active count.
+Chandigarh,600,446,10,144,14/07/2020 20:41:01,0,CH,12,23,2,
+Dadra and Nagar Haveli and Daman and Diu,541,342,1,191,14/07/2020 20:41:02,7,DN,16,32,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,387,145,3,239,14/07/2020 11:07:16,0,AR,0,0,0,
 Meghalaya,318,46,2,270,13/07/2020 20:07:14,0,ML,2,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Mizoram,233,159,0,74,14/07/2020 17:42:13,0,MZ,0,8,0,
 Andaman and Nicobar Islands,166,109,0,57,13/07/2020 22:57:21,0,AN,0,0,0,
-Sikkim,211,86,0,112,14/07/2020 20:37:35,13,SK,45,-1,0,13 Migrated cases reduced from Active count
+Sikkim,211,86,0,112,14/07/2020 20:41:03,13,SK,45,-1,0,13 Migrated cases reduced from Active count
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
