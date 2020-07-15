@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,937872,593198,24327,319958,15/07/2020 14:53:58,389,TT,310,109,12,
+Total,939192,593198,24327,321278,15/07/2020 15:11:57,389,TT,1630,109,12,
 Maharashtra,267665,149007,10695,107665,14/07/2020 20:12:00,298,MH,0,0,0,"298 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,7 +17,7 @@ Andhra Pradesh,33019,17467,408,15144,14/07/2020 14:18:08,0,AP,0,0,0,"Total inclu
 West Bengal,32838,19931,980,11927,14/07/2020 20:12:02,0,WB,0,0,0,
 Rajasthan,25806,19199,527,6080,15/07/2020 11:16:59,0,RJ,235,30,3,
 Haryana,22628,17090,312,5226,13/07/2020 20:43:19,0,HR,0,0,0,
-Bihar,18853,13019,143,5691,14/07/2020 16:49:10,0,BR,0,0,0,
+Bihar,20173,13019,143,7011,15/07/2020 15:11:59,0,BR,1320,0,0,
 Madhya Pradesh,19005,13575,673,4757,14/07/2020 20:27:01,0,MP,0,0,0,
 Assam,18667,12174,51,6439,15/07/2020 00:37:59,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
@@ -39,7 +39,7 @@ Himachal Pradesh,1312,946,10,343,15/07/2020 12:27:00,13,HP,3,8,0,"HP has 14 Migr
 Ladakh,1128,946,1,181,14/07/2020 20:12:02,0,LA,0,0,0,
 Nagaland,896,346,0,550,14/07/2020 18:15:10,0,NL,0,0,0,
 Chandigarh,600,446,10,144,14/07/2020 20:41:01,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,545,354,1,183,15/07/2020 14:54:00,7,DN,4,11,0,3 cases are migrated to different states which are reduced from active count.
+Dadra and Nagar Haveli and Daman and Diu,545,354,1,183,15/07/2020 14:57:00,7,DN,4,11,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,462,153,3,306,15/07/2020 06:17:00,0,AR,0,0,0,
 Meghalaya,337,46,2,289,15/07/2020 09:55:00,0,ML,19,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
