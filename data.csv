@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,941660,594739,24371,322161,15/07/2020 18:54:58,389,TT,4098,1650,56,
+Total,946156,599739,24439,321589,15/07/2020 19:14:58,389,TT,8594,6650,124,
 Maharashtra,267665,149007,10695,107665,14/07/2020 20:12:00,298,MH,0,0,0,"298 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,147324,97310,2099,47915,14/07/2020 20:12:02,0,TN,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Tamil Nadu,151820,102310,2167,47343,15/07/2020 19:14:59,0,TN,4496,5000,68,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,115346,93236,3446,18664,14/07/2020 20:12:04,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
