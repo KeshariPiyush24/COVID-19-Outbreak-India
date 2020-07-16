@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,972144,613881,24936,332938,16/07/2020 13:47:58,389,TT,1975,146,7,
+Total,972144,613881,24936,332938,16/07/2020 13:50:58,389,TT,1975,146,7,
 Maharashtra,275640,152613,10928,111801,15/07/2020 19:43:06,298,MH,0,0,0,"298 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,7 +17,7 @@ Andhra Pradesh,35451,18378,452,16621,15/07/2020 16:39:59,0,AP,0,0,0,"Total inclu
 West Bengal,34427,20680,1000,12747,15/07/2020 19:43:16,0,WB,0,0,0,
 Rajasthan,26580,19587,534,6459,16/07/2020 10:57:01,0,RJ,143,85,4,
 Haryana,23306,17667,319,5320,15/07/2020 21:48:09,0,HR,0,0,0,
-Bihar,21558,13533,157,7868,16/07/2020 13:48:01,0,BR,1385,0,0,
+Bihar,21558,13533,157,7868,16/07/2020 13:51:01,0,BR,1385,0,0,
 Madhya Pradesh,19643,13908,682,5053,15/07/2020 19:43:21,0,MP,0,0,0,
 Assam,19755,12889,53,6810,16/07/2020 00:17:01,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
@@ -28,7 +28,7 @@ Punjab,8799,5867,221,2711,15/07/2020 20:54:22,0,PB,0,0,0,
 Kerala,9554,4634,36,4880,15/07/2020 19:43:23,4,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Chhattisgarh,4556,3324,20,1212,15/07/2020 23:41:04,0,CT,0,0,0,
-Jharkhand,4576,2485,38,2053,16/07/2020 13:48:03,0,JH,14,0,0,
+Jharkhand,4576,2485,38,2053,16/07/2020 13:51:03,0,JH,14,0,0,
 Uttarakhand,3785,2948,50,754,15/07/2020 20:12:01,33,UT,0,0,0,33 Migrated cases reduced from Active count
 Goa,2951,1674,18,1259,15/07/2020 21:48:14,0,GA,0,0,0,
 State Unassigned,1285,0,0,1285,16/07/2020 10:40:02,0,UN,-239,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 239 cases were decreased in this category today by MoHFW. We have removed these cases from this category
