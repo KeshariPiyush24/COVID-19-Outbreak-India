@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1010247,638546,25670,345641,17/07/2020 17:13:58,390,TT,4610,1944,61,
+Total,1010250,638547,25670,345643,17/07/2020 17:23:58,390,TT,4613,1945,61,
 Maharashtra,284281,158140,11194,114648,16/07/2020 20:16:59,299,MH,0,0,0,"299 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,7 +17,7 @@ Andhra Pradesh,40646,20298,534,19814,17/07/2020 15:09:04,0,AP,2602,905,42,"Total
 West Bengal,36117,21415,1023,13679,16/07/2020 20:17:05,0,WB,0,0,0,
 Rajasthan,27333,20028,542,6763,17/07/2020 11:16:00,0,RJ,159,58,4,
 Haryana,24002,18185,322,5495,16/07/2020 19:50:11,0,HR,0,0,0,
-Bihar,23300,14997,173,8130,17/07/2020 17:14:02,0,BR,1742,896,6,
+Bihar,23300,14997,173,8130,17/07/2020 17:17:01,0,BR,1742,896,6,
 Madhya Pradesh,20378,14127,689,5562,16/07/2020 19:17:02,0,MP,0,0,0,
 Assam,20647,13555,55,7034,17/07/2020 00:17:02,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
@@ -36,7 +36,7 @@ Tripura,2379,1637,3,725,17/07/2020 00:17:04,14,TR,0,0,0,
 Manipur,1764,1129,0,635,16/07/2020 20:17:12,0,MN,0,0,0,
 Puducherry,1832,1014,25,793,17/07/2020 11:58:31,0,PY,89,67,3,
 Himachal Pradesh,1384,985,10,376,17/07/2020 13:58:02,13,HP,7,14,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Ladakh,1147,970,1,176,16/07/2020 18:08:03,0,LA,0,0,0,
+Ladakh,1150,971,1,178,17/07/2020 17:24:02,0,LA,3,1,0,
 Nagaland,916,391,0,525,16/07/2020 17:22:02,0,NL,0,0,0,
 Chandigarh,660,480,11,169,17/07/2020 16:57:02,0,CH,25,4,0,
 Dadra and Nagar Haveli and Daman and Diu,576,392,2,175,16/07/2020 21:51:13,7,DN,0,0,0,3 cases are migrated to different states which are reduced from active count.
