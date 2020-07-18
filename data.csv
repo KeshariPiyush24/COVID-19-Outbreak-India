@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1053566,662302,26468,364403,18/07/2020 19:23:59,393,TT,13109,8224,183,
+Total,1054247,662652,26476,364726,18/07/2020 19:36:59,393,TT,13790,8574,191,
 Maharashtra,292589,160357,11452,120480,17/07/2020 20:49:00,300,MH,0,0,0,"300 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -18,10 +18,10 @@ West Bengal,38011,22253,1049,14709,17/07/2020 19:59:11,0,WB,0,0,0,
 Rajasthan,27973,20686,550,6737,18/07/2020 12:06:45,0,RJ,184,60,4,
 Haryana,24797,18718,327,5752,17/07/2020 19:27:04,0,HR,0,0,0,
 Bihar,24967,15771,177,9019,18/07/2020 17:27:00,0,BR,1667,774,4,
-Madhya Pradesh,21082,14514,698,5870,17/07/2020 19:41:02,0,MP,0,0,0,
+Madhya Pradesh,21763,14864,706,6193,18/07/2020 19:37:01,0,MP,681,350,8,
 Assam,21865,14106,56,7700,18/07/2020 00:15:46,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
-Odisha,16701,11937,112,4652,18/07/2020 19:24:01,0,OR,591,607,3,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,16701,11937,112,4652,18/07/2020 19:27:01,0,OR,591,607,3,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,12757,6558,231,5968,17/07/2020 20:49:09,0,JK,0,0,0,
 Punjab,9442,6373,239,2830,17/07/2020 20:49:11,0,PB,0,0,0,
@@ -41,7 +41,7 @@ Nagaland,978,405,0,573,18/07/2020 14:26:46,0,NL,22,0,0,
 Chandigarh,691,485,12,194,18/07/2020 18:57:01,0,CH,31,5,1,
 Dadra and Nagar Haveli and Daman and Diu,652,436,2,206,18/07/2020 17:54:05,8,DN,44,22,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,609,175,3,431,18/07/2020 00:40:47,0,AR,0,0,0,
-Meghalaya,418,49,2,367,18/07/2020 19:24:03,0,ML,15,0,0,"[June 17]:
+Meghalaya,418,49,2,367,18/07/2020 19:27:03,0,ML,15,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Mizoram,282,167,0,115,18/07/2020 17:27:03,0,MZ,0,7,0,
 Andaman and Nicobar Islands,180,133,0,47,16/07/2020 20:52:11,0,AN,0,0,0,
