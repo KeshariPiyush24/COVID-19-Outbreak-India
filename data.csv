@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1054597,662733,26483,364988,18/07/2020 19:53:59,393,TT,14140,8655,198,
+Total,1054771,662793,26484,365100,18/07/2020 20:03:59,394,TT,14314,8715,199,
 Maharashtra,292589,160357,11452,120480,17/07/2020 20:49:00,300,MH,0,0,0,"300 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -24,12 +24,12 @@ Total of 3 patients who migrated to other states has been reduced from Active co
 Odisha,16701,11937,112,4652,18/07/2020 19:27:01,0,OR,591,607,3,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,12757,6558,231,5968,17/07/2020 20:49:09,0,JK,0,0,0,
-Punjab,9792,6454,246,3092,18/07/2020 19:54:02,0,PB,350,81,7,
+Punjab,9792,6454,246,3092,18/07/2020 19:56:01,0,PB,350,81,7,
 Kerala,11660,5198,41,6417,18/07/2020 18:26:01,4,KL,593,204,2,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Chhattisgarh,5003,3512,24,1467,17/07/2020 23:16:47,0,CT,0,0,0,
 Jharkhand,5110,2577,46,2487,18/07/2020 12:41:45,0,JH,14,0,0,
-Uttarakhand,4102,3021,51,996,17/07/2020 19:59:14,34,UT,0,0,0,34 Migrated cases reduced from Active count
+Uttarakhand,4276,3081,52,1108,18/07/2020 20:04:01,35,UT,174,60,1,35 Migrated cases reduced from Active count
 Goa,3304,1946,21,1337,17/07/2020 20:49:14,0,GA,0,0,0,
 State Unassigned,163,0,0,163,18/07/2020 09:57:46,0,UN,-368,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 368 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Tripura,2497,1684,3,796,17/07/2020 23:49:48,14,TR,0,0,0,
