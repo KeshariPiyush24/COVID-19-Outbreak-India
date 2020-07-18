@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1046622,656444,26351,363434,18/07/2020 17:38:59,393,TT,6165,2366,66,
+Total,1046645,656464,26351,363437,18/07/2020 17:57:59,393,TT,6188,2386,66,
 Maharashtra,292589,160357,11452,120480,17/07/2020 20:49:00,300,MH,0,0,0,"300 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -34,12 +34,12 @@ Goa,3304,1946,21,1337,17/07/2020 20:49:14,0,GA,0,0,0,
 State Unassigned,163,0,0,163,18/07/2020 09:57:46,0,UN,-368,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 368 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Tripura,2497,1684,3,796,17/07/2020 23:49:48,14,TR,0,0,0,
 Manipur,1800,1163,0,637,17/07/2020 21:07:01,0,MN,0,0,0,
-Puducherry,1890,1062,28,800,18/07/2020 17:39:01,0,PY,58,48,3,
-Himachal Pradesh,1421,1014,10,384,18/07/2020 12:50:46,13,HP,4,3,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Puducherry,1890,1062,28,800,18/07/2020 17:42:02,0,PY,58,48,3,
+Himachal Pradesh,1430,1021,10,386,18/07/2020 17:58:02,13,HP,13,10,0,"HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1151,973,2,176,17/07/2020 17:43:01,0,LA,0,0,0,
 Nagaland,978,405,0,573,18/07/2020 14:26:46,0,NL,22,0,0,
 Chandigarh,660,480,11,169,17/07/2020 16:57:02,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,638,423,2,205,18/07/2020 16:15:49,8,DN,30,9,0,3 cases are migrated to different states which are reduced from active count.
+Dadra and Nagar Haveli and Daman and Diu,652,436,2,206,18/07/2020 17:54:05,8,DN,44,22,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,609,175,3,431,18/07/2020 00:40:47,0,AR,0,0,0,
 Meghalaya,403,49,2,352,17/07/2020 21:52:07,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
