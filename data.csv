@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1095722,687673,27070,380579,19/07/2020 19:54:59,400,TT,17858,10016,242,
+Total,1095741,687691,27074,380576,19/07/2020 20:03:59,400,TT,17877,10034,246,
 Maharashtra,300937,165663,11596,123377,19/07/2020 10:36:01,301,MH,0,0,0,"301 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -19,7 +19,7 @@ Rajasthan,28693,21266,556,6871,19/07/2020 11:51:01,0,RJ,193,122,3,
 Haryana,25547,19318,344,5885,18/07/2020 21:40:05,0,HR,0,0,0,
 Bihar,26379,16597,179,9603,19/07/2020 17:16:01,0,BR,1412,826,2,
 Madhya Pradesh,22600,15311,721,6568,19/07/2020 19:26:02,0,MP,837,447,15,
-Assam,22982,15166,58,7755,19/07/2020 00:40:01,3,AS,0,0,0,"Includes one case from Nagaland.
+Assam,22982,15166,62,7751,19/07/2020 20:04:01,3,AS,0,0,4,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,17437,11937,119,5381,19/07/2020 11:40:03,0,OR,736,0,7,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -36,10 +36,10 @@ Tripura,2668,1735,5,914,19/07/2020 00:28:03,14,TR,0,0,0,
 Manipur,1891,1182,0,709,18/07/2020 20:56:03,0,MN,0,0,0,
 Puducherry,1999,1154,28,817,19/07/2020 11:40:05,0,PY,109,92,0,
 Himachal Pradesh,1483,1037,10,421,19/07/2020 17:54:02,15,HP,26,7,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Ladakh,1159,985,2,172,18/07/2020 20:54:05,0,LA,0,0,0,
+Ladakh,1178,1003,2,173,19/07/2020 20:04:03,0,LA,19,18,0,
 Nagaland,988,445,0,543,19/07/2020 18:16:04,0,NL,10,13,0,
 Chandigarh,717,488,12,217,19/07/2020 19:16:08,0,CH,26,3,0,
-Dadra and Nagar Haveli and Daman and Diu,690,450,2,228,19/07/2020 19:55:01,10,DN,37,14,0,3 cases are migrated to different states which are reduced from active count.
+Dadra and Nagar Haveli and Daman and Diu,690,450,2,228,19/07/2020 19:58:02,10,DN,37,14,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,650,274,3,373,18/07/2020 23:50:01,0,AR,0,0,0,
 Meghalaya,450,49,4,397,19/07/2020 18:08:03,0,ML,32,0,2,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
