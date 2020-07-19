@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1115648,699428,27482,388336,19/07/2020 21:57:01,402,TT,37784,21771,654,
+Total,1116613,700305,27502,388404,19/07/2020 22:13:59,402,TT,38749,22648,674,
 Maharashtra,310455,169569,11854,128730,19/07/2020 20:40:03,302,MH,9518,3906,258,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -9,7 +9,7 @@ Tamil Nadu,170693,117915,2481,50297,19/07/2020 18:56:01,0,TN,4979,4059,78,"2 dea
 These cases have been added to TN deceased tally"
 Delhi,122793,103134,3628,16031,19/07/2020 18:16:01,0,DL,1211,1860,31,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Gujarat,47476,34005,2126,11345,19/07/2020 10:36:05,0,GJ,0,0,0,
+Gujarat,48441,34882,2146,11413,19/07/2020 22:14:00,0,GJ,965,877,20,
 Karnataka,63772,23066,1336,39366,19/07/2020 20:56:01,4,KA,4120,1290,91,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Uttar Pradesh,49247,29845,1146,18256,19/07/2020 19:16:00,0,UP,2211,1181,38,
 Telangana,45076,32438,415,12223,19/07/2020 21:53:01,0,TG,1296,1831,6,
