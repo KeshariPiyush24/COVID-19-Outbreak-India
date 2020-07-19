@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1078768,677856,26838,373674,19/07/2020 13:37:59,400,TT,904,226,10,
+Total,1078768,677856,26838,373674,19/07/2020 13:47:59,400,TT,904,226,10,
 Maharashtra,300937,165663,11596,123377,19/07/2020 10:36:01,301,MH,0,0,0,"301 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -35,9 +35,9 @@ State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,-163,0,0,MoHFW website reports
 Tripura,2668,1735,5,914,19/07/2020 00:28:03,14,TR,0,0,0,
 Manipur,1891,1182,0,709,18/07/2020 20:56:03,0,MN,0,0,0,
 Puducherry,1999,1154,28,817,19/07/2020 11:40:05,0,PY,109,92,0,
-Himachal Pradesh,1458,1030,10,403,19/07/2020 13:38:01,15,HP,1,0,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,1458,1030,10,403,19/07/2020 13:48:02,15,HP,1,0,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1159,985,2,172,18/07/2020 20:54:05,0,LA,0,0,0,
-Nagaland,988,405,0,583,19/07/2020 13:38:03,0,NL,10,0,0,
+Nagaland,988,405,0,583,19/07/2020 13:48:04,0,NL,10,0,0,
 Chandigarh,691,485,12,194,18/07/2020 18:57:01,0,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,653,436,2,205,18/07/2020 22:56:04,10,DN,0,0,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,650,274,3,373,18/07/2020 23:50:01,0,AR,0,0,0,
