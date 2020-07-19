@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1081497,680603,26873,373621,19/07/2020 18:23:59,400,TT,3633,2946,45,
+Total,1081497,680603,26873,373621,19/07/2020 18:36:59,400,TT,3633,2946,45,
 Maharashtra,300937,165663,11596,123377,19/07/2020 10:36:01,301,MH,0,0,0,"301 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -39,7 +39,7 @@ Himachal Pradesh,1483,1037,10,421,19/07/2020 17:54:02,15,HP,26,7,0,"HP has 16 Mi
 Ladakh,1159,985,2,172,18/07/2020 20:54:05,0,LA,0,0,0,
 Nagaland,988,445,0,543,19/07/2020 18:16:04,0,NL,10,13,0,
 Chandigarh,691,485,12,194,18/07/2020 18:57:01,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,688,450,2,226,19/07/2020 18:24:02,10,DN,35,14,0,3 cases are migrated to different states which are reduced from active count.
+Dadra and Nagar Haveli and Daman and Diu,688,450,2,226,19/07/2020 18:37:02,10,DN,35,14,0,3 cases are migrated to different states which are reduced from active count.
 Arunachal Pradesh,650,274,3,373,18/07/2020 23:50:01,0,AR,0,0,0,
 Meghalaya,450,49,4,397,19/07/2020 18:08:03,0,ML,32,0,2,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
