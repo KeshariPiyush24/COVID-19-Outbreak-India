@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1119307,700646,27514,390745,20/07/2020 12:14:46,402,TT,1200,247,11,
+Total,1119307,700646,27514,390745,20/07/2020 12:16:46,402,TT,1200,247,11,
 Maharashtra,310455,169569,11854,128730,19/07/2020 20:40:03,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,7 +15,7 @@ Uttar Pradesh,49247,29845,1146,18256,19/07/2020 19:16:00,0,UP,0,0,0,
 Telangana,45076,32438,415,12223,19/07/2020 21:53:01,0,TG,0,0,0,
 Andhra Pradesh,49650,22890,642,26118,19/07/2020 19:26:00,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 West Bengal,42487,24883,1112,16492,19/07/2020 21:13:01,0,WB,0,0,0,
-Rajasthan,29835,21866,563,7406,20/07/2020 12:14:49,0,RJ,401,136,4,
+Rajasthan,29835,21866,563,7406,20/07/2020 12:16:51,0,RJ,401,136,4,
 Haryana,26164,19793,349,6022,19/07/2020 20:23:00,0,HR,0,0,0,
 Bihar,26379,16597,179,9603,19/07/2020 17:16:01,0,BR,0,0,0,
 Madhya Pradesh,22600,15311,721,6568,19/07/2020 19:26:02,0,MP,0,0,0,
