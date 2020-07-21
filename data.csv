@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1170636,735061,28329,406842,21/07/2020 18:54:38,404,TT,15723,10258,230,
+Total,1170636,735061,28329,406842,21/07/2020 19:05:35,404,TT,15723,10258,230,
 Maharashtra,318695,175029,12030,131334,20/07/2020 20:45:37,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -21,7 +21,7 @@ Bihar,28564,18741,198,9624,21/07/2020 17:26:40,1,BR,1109,1206,11,
 Madhya Pradesh,23310,15684,738,6888,20/07/2020 19:42:39,0,MP,0,0,0,
 Assam,25093,17096,63,7931,21/07/2020 00:40:37,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
-Odisha,18757,13310,133,5314,21/07/2020 18:54:45,0,OR,647,400,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,18757,13310,133,5314,21/07/2020 19:05:37,0,OR,647,400,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,14650,8274,254,6122,20/07/2020 21:58:40,0,JK,0,0,0,
 Punjab,10510,7118,262,3130,20/07/2020 19:42:41,0,PB,0,0,0,
