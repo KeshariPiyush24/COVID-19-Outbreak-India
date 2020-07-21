@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1191777,752205,28763,410404,21/07/2020 22:13:57,405,TT,36864,27401,664,
+Total,1191777,752205,28763,410404,21/07/2020 22:24:55,405,TT,36864,27401,664,
 Maharashtra,327031,182217,12276,132236,21/07/2020 21:27:07,302,MH,8336,7188,246,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -19,7 +19,7 @@ Rajasthan,31373,22744,577,8052,21/07/2020 21:41:27,0,RJ,983,549,9,
 Haryana,27462,20952,364,6146,21/07/2020 20:43:03,0,HR,604,726,9,
 Bihar,28564,18741,198,9624,21/07/2020 17:26:40,1,BR,1109,1206,11,
 Madhya Pradesh,24095,16257,756,7082,21/07/2020 20:43:05,0,MP,785,573,18,
-Assam,25093,18034,69,6987,21/07/2020 22:13:59,3,AS,0,938,6,"Includes one case from Nagaland.
+Assam,25093,18034,69,6987,21/07/2020 22:16:57,3,AS,0,938,6,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Odisha,18757,13310,133,5314,21/07/2020 19:16:37,0,OR,647,400,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -40,7 +40,7 @@ Ladakh,1198,1010,2,186,21/07/2020 18:15:50,0,LA,3,3,0,
 Nagaland,1030,485,0,545,21/07/2020 21:00:08,0,NL,9,1,0,
 Chandigarh,751,518,12,221,21/07/2020 18:50:46,0,CH,14,0,0,
 Dadra and Nagar Haveli and Daman and Diu,739,475,2,252,21/07/2020 17:41:41,10,DN,28,10,0,10 Migrated cases reduced from Active count
-Arunachal Pradesh,858,303,3,552,20/07/2020 23:04:42,0,AR,68,18,0,
+Arunachal Pradesh,858,303,3,552,21/07/2020 22:24:58,0,AR,68,18,0,
 Meghalaya,490,70,4,416,21/07/2020 12:26:51,0,ML,21,18,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Mizoram,297,168,0,129,20/07/2020 23:26:39,0,MZ,0,0,0,
