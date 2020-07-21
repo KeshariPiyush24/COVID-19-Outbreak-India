@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1156082,724877,28116,402685,21/07/2020 12:53:35,404,TT,1169,175,17,
+Total,1156082,724877,28116,402685,21/07/2020 12:56:35,404,TT,1169,175,17,
 Maharashtra,318695,175029,12030,131334,20/07/2020 20:45:37,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -28,7 +28,7 @@ Punjab,10510,7118,262,3130,20/07/2020 19:42:41,0,PB,0,0,0,
 Kerala,13275,5615,44,7612,21/07/2020 09:41:42,4,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Chhattisgarh,5598,3944,28,1626,20/07/2020 13:20:49,0,CT,0,0,0,
-Jharkhand,5821,2835,55,2931,21/07/2020 12:53:38,0,JH,44,0,2,
+Jharkhand,5821,2835,55,2931,21/07/2020 12:56:38,0,JH,44,0,2,
 Uttarakhand,4642,3212,55,1338,20/07/2020 21:40:48,37,UT,0,0,0,37 Migrated cases reduced from Active count
 Goa,3853,2361,23,1469,20/07/2020 20:45:47,0,GA,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
