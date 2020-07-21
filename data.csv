@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1171446,737064,28330,405648,21/07/2020 20:14:49,404,TT,16533,12260,231,
+Total,1171446,737808,28425,404809,21/07/2020 20:24:52,404,TT,16533,13004,326,
 Maharashtra,318695,175029,12030,131334,20/07/2020 20:45:37,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -9,8 +9,8 @@ Tamil Nadu,180643,126670,2626,51347,21/07/2020 18:50:38,0,TN,4965,4894,75,"2 dea
 These cases have been added to TN deceased tally"
 Delhi,125096,106118,3690,15288,21/07/2020 18:50:40,0,DL,1349,1200,27,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Gujarat,49439,35760,2166,11513,21/07/2020 15:17:01,0,GJ,0,0,0,
-Karnataka,67420,25460,1408,40548,21/07/2020 20:14:51,4,KA,0,1664,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Gujarat,49439,36504,2200,10735,21/07/2020 20:24:54,0,GJ,0,744,34,
+Karnataka,67420,25460,1469,40487,21/07/2020 20:24:57,4,KA,0,1664,61,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Uttar Pradesh,53288,31855,1229,20204,21/07/2020 18:50:42,0,UP,2128,1024,37,
 Telangana,46274,34323,422,11529,20/07/2020 20:50:37,0,TG,0,0,0,
 Andhra Pradesh,58668,25574,758,32336,21/07/2020 17:41:39,0,AP,4944,1346,62,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -33,7 +33,7 @@ Uttarakhand,4642,3212,55,1338,20/07/2020 21:40:48,37,UT,0,0,0,37 Migrated cases 
 Goa,3853,2361,23,1469,20/07/2020 20:45:47,0,GA,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Tripura,3093,1845,7,1227,20/07/2020 23:16:41,14,TR,0,0,0,
-Manipur,2015,1384,0,631,21/07/2020 20:14:54,0,MN,90,64,0,
+Manipur,2015,1384,0,631,21/07/2020 20:17:58,0,MN,90,64,0,
 Puducherry,2179,1318,30,831,21/07/2020 12:50:41,0,PY,87,53,1,
 Himachal Pradesh,1656,1068,11,562,21/07/2020 18:17:39,15,HP,25,1,1,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1198,1010,2,186,21/07/2020 18:15:50,0,LA,3,3,0,
