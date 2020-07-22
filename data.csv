@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1194162,752393,28770,412594,22/07/2020 10:38:54,405,TT,77,0,0,
+Total,1195361,752444,28771,413741,22/07/2020 11:14:00,405,TT,803,51,1,
 Maharashtra,327031,182217,12276,132236,21/07/2020 21:27:07,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -21,7 +21,7 @@ Bihar,28564,18741,198,9624,21/07/2020 17:26:40,1,BR,0,0,0,
 Madhya Pradesh,24095,16257,756,7082,21/07/2020 20:43:05,0,MP,0,0,0,
 Assam,26773,18034,69,8667,22/07/2020 00:48:56,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
-Odisha,18757,13310,133,5314,21/07/2020 19:16:37,0,OR,0,0,0,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,19835,13310,133,6392,22/07/2020 11:14:05,0,OR,605,0,0,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,15258,8455,263,6540,21/07/2020 22:06:57,0,JK,0,0,0,
 Punjab,10889,7389,263,3237,21/07/2020 20:43:07,0,PB,0,0,0,
@@ -34,7 +34,7 @@ Goa,4027,2449,26,1552,21/07/2020 21:00:05,0,GA,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Tripura,3347,1926,8,1399,22/07/2020 01:07:58,14,TR,0,0,0,
 Manipur,2015,1384,0,631,21/07/2020 20:17:58,0,MN,0,0,0,
-Puducherry,2179,1318,30,831,21/07/2020 12:50:41,0,PY,0,0,0,
+Puducherry,2300,1369,31,900,22/07/2020 11:14:09,0,PY,121,51,1,
 Himachal Pradesh,1664,1077,11,561,21/07/2020 21:53:06,15,HP,0,0,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1198,1010,2,186,21/07/2020 18:15:50,0,LA,0,0,0,
 Nagaland,1087,485,0,602,22/07/2020 10:38:57,0,NL,57,0,0,
