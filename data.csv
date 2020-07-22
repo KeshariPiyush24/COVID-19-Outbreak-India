@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1195676,752596,28781,413894,22/07/2020 13:50:54,405,TT,1604,203,11,
+Total,1195674,752596,28781,413892,22/07/2020 13:50:54,405,TT,1591,203,11,
 Maharashtra,327031,182217,12276,132236,21/07/2020 21:27:07,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -32,7 +32,7 @@ Jharkhand,6243,2942,61,3240,22/07/2020 11:52:26,0,JH,48,0,0,
 Uttarakhand,4849,3297,55,1459,21/07/2020 21:18:00,38,UT,0,0,0,38 Migrated cases reduced from Active count
 Goa,4027,2449,26,1552,21/07/2020 21:00:05,0,GA,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
-Tripura,3347,1926,8,1399,22/07/2020 01:07:58,14,TR,0,0,0,
+Tripura,3345,1926,8,1397,22/07/2020 01:07:58,14,TR,0,0,0,
 Manipur,2015,1384,0,631,21/07/2020 20:17:58,0,MN,0,0,0,
 Puducherry,2300,1369,31,900,22/07/2020 11:17:07,0,PY,121,51,1,
 Himachal Pradesh,1681,1077,11,578,22/07/2020 12:41:08,15,HP,17,0,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
@@ -41,7 +41,7 @@ Nagaland,1087,485,0,602,22/07/2020 10:38:57,0,NL,57,0,0,
 Chandigarh,751,518,12,221,21/07/2020 18:50:46,0,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,739,475,2,252,21/07/2020 17:41:41,10,DN,0,0,0,10 Migrated cases reduced from Active count
 Arunachal Pradesh,858,303,3,552,21/07/2020 22:26:58,0,AR,0,0,0,
-Meghalaya,514,77,4,433,22/07/2020 13:17:05,0,ML,37,7,0,"[June 17]:
+Meghalaya,514,77,4,433,22/07/2020 13:17:05,0,ML,24,7,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Mizoram,317,168,0,149,22/07/2020 09:50:56,0,MZ,20,0,0,
 Andaman and Nicobar Islands,212,159,0,52,21/07/2020 22:07:00,1,AN,0,0,0,
