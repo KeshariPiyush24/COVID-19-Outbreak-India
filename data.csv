@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1285185,815229,30607,438932,23/07/2020 21:25:21,417,TT,45501,30962,717,
+Total,1285236,815251,30607,438961,23/07/2020 21:39:22,417,TT,45552,30984,717,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,9895,6484,298,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -16,7 +16,7 @@ Uttar Pradesh,58104,35803,1298,21003,23/07/2020 19:56:26,0,UP,2516,2303,35,
 Gujarat,51485,37341,2228,11916,23/07/2020 02:17:03,0,GJ,0,0,0,
 West Bengal,51757,31656,1255,18846,23/07/2020 20:42:24,0,WB,2436,2006,34,
 Telangana,50826,39327,447,11052,23/07/2020 21:16:22,0,TG,1567,1661,9,
-Rajasthan,33220,23815,594,8811,23/07/2020 21:25:23,0,RJ,886,451,11,
+Rajasthan,33220,23815,594,8811,23/07/2020 21:39:24,0,RJ,886,451,11,
 Bihar,31691,20959,212,10519,23/07/2020 17:57:22,1,BR,1625,1083,4,
 Haryana,28975,22249,378,6348,23/07/2020 19:56:27,0,HR,789,552,6,
 Assam,27745,19351,66,8325,23/07/2020 00:40:07,3,AS,0,0,0,"Includes one case from Nagaland.
@@ -35,13 +35,13 @@ Goa,4350,2655,29,1666,23/07/2020 20:09:28,0,GA,174,114,1,
 Tripura,3471,2033,10,1410,23/07/2020 20:09:29,18,TR,0,0,1,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,2421,1400,34,987,23/07/2020 12:26:25,0,PY,121,31,3,
 Manipur,2115,1460,0,655,23/07/2020 19:56:36,0,MN,55,42,0,
-Himachal Pradesh,1783,1118,11,639,23/07/2020 19:01:22,15,HP,58,13,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,1834,1136,11,672,23/07/2020 21:38:25,15,HP,109,31,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1210,1025,2,183,23/07/2020 18:43:22,0,LA,4,7,0,
 Nagaland,1174,530,0,644,23/07/2020 20:09:31,0,NL,90,44,0,
 Arunachal Pradesh,949,314,3,632,23/07/2020 00:28:06,0,AR,0,0,0,
 Chandigarh,800,531,13,256,23/07/2020 17:06:24,0,CH,20,5,0,
 Dadra and Nagar Haveli and Daman and Diu,820,513,2,295,23/07/2020 18:06:24,10,DN,45,23,0,10 Migrated cases reduced from Active count
-Meghalaya,534,78,4,452,23/07/2020 13:41:25,0,ML,20,1,0,"[June 17]:
+Meghalaya,534,82,4,448,23/07/2020 21:38:26,0,ML,20,5,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,473,122,0,338,23/07/2020 21:16:25,13,SK,22,10,0,13 Migrated cases reduced from Active count
 Mizoram,326,183,0,143,23/07/2020 17:57:25,0,MZ,9,4,0,
