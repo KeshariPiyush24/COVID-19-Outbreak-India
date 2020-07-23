@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1283049,813241,30592,438799,23/07/2020 20:51:21,417,TT,43365,28974,702,
+Total,1284638,814912,30601,438708,23/07/2020 21:14:21,417,TT,44954,30645,711,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,9895,6484,298,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,7 +15,7 @@ Andhra Pradesh,72711,37555,884,34272,23/07/2020 18:19:32,0,AP,7998,5428,61,"Tota
 Uttar Pradesh,58104,35803,1298,21003,23/07/2020 19:56:26,0,UP,2516,2303,35,
 Gujarat,51485,37341,2228,11916,23/07/2020 02:17:03,0,GJ,0,0,0,
 West Bengal,51757,31656,1255,18846,23/07/2020 20:42:24,0,WB,2436,2006,34,
-Telangana,49259,37666,438,11155,22/07/2020 22:18:06,0,TG,0,0,0,
+Telangana,50826,39327,447,11052,23/07/2020 21:14:22,0,TG,1567,1661,9,
 Rajasthan,32673,23498,588,8587,23/07/2020 12:06:20,0,RJ,339,134,5,
 Bihar,31691,20959,212,10519,23/07/2020 17:57:22,1,BR,1625,1083,4,
 Haryana,28975,22249,378,6348,23/07/2020 19:56:27,0,HR,789,552,6,
@@ -43,7 +43,7 @@ Chandigarh,800,531,13,256,23/07/2020 17:06:24,0,CH,20,5,0,
 Dadra and Nagar Haveli and Daman and Diu,820,513,2,295,23/07/2020 18:06:24,10,DN,45,23,0,10 Migrated cases reduced from Active count
 Meghalaya,534,78,4,452,23/07/2020 13:41:25,0,ML,20,1,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
-Sikkim,451,112,0,326,22/07/2020 22:18:19,13,SK,0,0,0,13 Migrated cases reduced from Active count
+Sikkim,473,122,0,338,23/07/2020 21:14:24,13,SK,22,10,0,13 Migrated cases reduced from Active count
 Mizoram,326,183,0,143,23/07/2020 17:57:25,0,MZ,9,4,0,
 Andaman and Nicobar Islands,240,170,0,69,23/07/2020 20:28:24,1,AN,19,7,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
