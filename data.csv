@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1288130,817554,30645,439514,24/07/2020 00:40:21,417,TT,48446,33287,755,
+Total,1288130,817554,30646,439513,24/07/2020 00:54:21,417,TT,48446,33287,756,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,9895,6484,298,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -32,7 +32,7 @@ Jharkhand,7166,3254,67,3845,23/07/2020 23:26:24,0,JH,484,206,3,
 Chhattisgarh,6370,4387,34,1949,23/07/2020 22:56:23,0,CT,371,157,5,
 Uttarakhand,5445,3399,60,1948,23/07/2020 20:51:28,38,UT,145,50,3,38 Migrated cases reduced from Active count
 Goa,4350,2655,29,1666,23/07/2020 20:09:28,0,GA,174,114,1,
-Tripura,3677,2033,10,1616,23/07/2020 23:40:23,18,TR,206,0,1,18 cases are marked as migrated in Tripura dashboard.
+Tripura,3677,2033,11,1615,24/07/2020 00:54:24,18,TR,206,0,2,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,2421,1400,34,987,23/07/2020 12:26:25,0,PY,121,31,3,
 Manipur,2115,1460,0,655,23/07/2020 19:56:36,0,MN,55,42,0,
 Himachal Pradesh,1834,1136,11,672,23/07/2020 21:42:25,15,HP,109,31,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
