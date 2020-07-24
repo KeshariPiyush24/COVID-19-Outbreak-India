@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1290375,817738,30657,441562,24/07/2020 12:25:21,418,TT,2248,145,12,
+Total,1290375,817738,30657,441562,24/07/2020 12:27:21,418,TT,2248,145,12,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -28,7 +28,7 @@ Jammu and Kashmir,16429,8709,282,7438,23/07/2020 20:09:25,0,JK,0,0,0,
 Kerala,16111,6594,51,9458,24/07/2020 09:41:24,8,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Punjab,11739,7741,277,3721,23/07/2020 19:56:34,0,PB,0,0,0,
-Jharkhand,7250,3254,67,3929,24/07/2020 12:25:24,0,JH,86,0,0,
+Jharkhand,7250,3254,67,3929,24/07/2020 12:27:23,0,JH,86,0,0,
 Chhattisgarh,6370,4387,34,1949,23/07/2020 22:56:23,0,CT,0,0,0,
 Uttarakhand,5445,3399,60,1948,23/07/2020 20:51:28,38,UT,0,0,0,38 Migrated cases reduced from Active count
 Goa,4350,2655,29,1666,23/07/2020 20:09:28,0,GA,0,0,0,
@@ -40,7 +40,7 @@ Ladakh,1210,1025,2,183,23/07/2020 18:43:22,0,LA,0,0,0,
 Nagaland,1237,530,0,707,24/07/2020 11:52:24,0,NL,63,0,0,
 Arunachal Pradesh,991,334,3,654,23/07/2020 23:07:24,0,AR,0,0,0,
 Chandigarh,800,531,13,256,23/07/2020 17:06:24,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,827,513,2,302,24/07/2020 12:25:26,10,DN,7,0,0,10 Migrated cases reduced from Active count
+Dadra and Nagar Haveli and Daman and Diu,827,513,2,302,24/07/2020 12:27:24,10,DN,7,0,0,10 Migrated cases reduced from Active count
 Meghalaya,558,87,4,467,24/07/2020 10:56:24,0,ML,24,5,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,473,122,0,338,23/07/2020 21:16:25,13,SK,0,0,0,13 Migrated cases reduced from Active count
