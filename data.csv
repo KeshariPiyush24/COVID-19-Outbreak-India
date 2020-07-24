@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1323471,841424,31112,450517,24/07/2020 21:06:21,418,TT,35344,23831,467,
-Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,1323471,841424,31112,450517,24/07/2020 21:09:22,418,TT,35344,23831,467,
+Maharashtra,347502,194253,12854,140093,24/07/2020 21:06:23,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
@@ -8,7 +8,7 @@ Tamil Nadu,199749,143297,3320,53132,24/07/2020 18:17:23,0,TN,6785,6504,88,"[July
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,128389,110931,3777,13681,24/07/2020 21:05:23,0,DL,1025,1866,32,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,128389,110931,3777,13681,24/07/2020 21:09:25,0,DL,1025,1866,32,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,85870,31347,1726,52788,24/07/2020 19:06:23,9,KA,5007,2037,110,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,80858,39935,933,39990,24/07/2020 17:58:23,0,AP,8147,2380,49,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -29,7 +29,7 @@ Kerala,16996,7562,55,9371,24/07/2020 20:19:24,8,KL,885,968,4,"Mahe native who ex
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Punjab,12216,8096,282,3838,24/07/2020 19:41:26,0,PB,477,355,5,
 Jharkhand,7250,3254,69,3927,24/07/2020 13:06:23,0,JH,86,0,2,
-Chhattisgarh,6847,4577,40,2230,24/07/2020 21:05:25,0,CT,477,190,6,
+Chhattisgarh,6847,4577,40,2230,24/07/2020 21:09:27,0,CT,477,190,6,
 Uttarakhand,5717,3441,62,2176,24/07/2020 20:27:24,38,UT,272,42,2,38 Migrated cases reduced from Active count
 Goa,4540,2865,29,1646,24/07/2020 20:06:23,0,GA,190,210,0,
 Tripura,3677,2072,10,1577,24/07/2020 01:10:29,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
