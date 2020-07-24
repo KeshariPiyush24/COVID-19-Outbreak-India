@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1336601,848886,31398,455897,24/07/2020 22:47:21,420,TT,48474,31293,753,
+Total,1336915,848886,31398,456211,24/07/2020 22:54:22,420,TT,48788,31293,753,
 Maharashtra,357117,199967,13132,143714,24/07/2020 21:52:24,304,MH,9615,5714,278,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -19,7 +19,7 @@ Telangana,52466,40334,455,11677,24/07/2020 22:07:24,0,TG,1640,1007,8,
 Rajasthan,34178,24547,602,9029,24/07/2020 21:58:23,0,RJ,958,732,8,
 Bihar,33511,22832,221,10457,24/07/2020 17:43:23,1,BR,1820,1873,9,
 Haryana,29755,22953,382,6420,24/07/2020 19:41:24,0,HR,780,704,4,
-Assam,29922,20700,76,9143,24/07/2020 22:47:23,3,AS,1130,0,6,"Includes one case from Nagaland.
+Assam,29922,20700,76,9143,24/07/2020 22:50:23,3,AS,1130,0,6,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Madhya Pradesh,26210,17866,791,7553,24/07/2020 19:41:25,0,MP,736,507,11,
 Odisha,22693,15201,153,7339,24/07/2020 19:06:27,0,OR,1594,808,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
@@ -28,7 +28,7 @@ Jammu and Kashmir,16782,9217,296,7269,24/07/2020 18:49:23,0,JK,353,508,14,
 Kerala,16996,7562,55,9371,24/07/2020 20:19:24,8,KL,885,968,4,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Punjab,12216,8096,282,3838,24/07/2020 19:41:26,0,PB,477,355,5,
-Jharkhand,7250,3254,69,3927,24/07/2020 13:06:23,0,JH,86,0,2,
+Jharkhand,7564,3254,69,4241,24/07/2020 22:54:24,0,JH,400,0,2,
 Chhattisgarh,6819,4567,36,2216,24/07/2020 22:26:23,0,CT,449,180,2,
 Uttarakhand,5717,3441,62,2176,24/07/2020 20:27:24,38,UT,272,42,2,38 Migrated cases reduced from Active count
 Goa,4540,2865,29,1646,24/07/2020 20:06:23,0,GA,190,210,0,
