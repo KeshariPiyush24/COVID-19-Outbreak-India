@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1307191,828514,30807,447452,24/07/2020 18:24:21,418,TT,19064,10921,162,
+Total,1312198,830551,30807,450422,24/07/2020 18:38:21,418,TT,24071,12958,162,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -10,7 +10,7 @@ Tamil Nadu,199749,143297,3320,53132,24/07/2020 18:17:23,0,TN,6785,6504,88,"[July
 These cases have been added to TN deceased tally"
 Delhi,127364,109065,3745,14554,23/07/2020 20:51:26,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Karnataka,80863,29310,1616,49928,23/07/2020 20:28:22,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,85870,31347,1616,52898,24/07/2020 18:38:22,9,KA,5007,2037,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,80858,39935,933,39990,24/07/2020 17:58:23,0,AP,8147,2380,49,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,58104,35803,1298,21003,23/07/2020 19:56:26,0,UP,0,0,0,
 Gujarat,52563,38059,2256,12248,23/07/2020 22:26:22,0,GJ,0,0,0,
@@ -37,7 +37,7 @@ Puducherry,2515,1483,35,997,24/07/2020 18:17:25,0,PY,95,83,1,
 Manipur,2115,1460,0,655,23/07/2020 19:56:36,0,MN,0,0,0,
 Himachal Pradesh,1848,1141,12,680,24/07/2020 14:16:22,15,HP,14,5,1,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1210,1025,2,183,23/07/2020 18:43:22,0,LA,0,0,0,
-Nagaland,1239,537,0,702,24/07/2020 18:24:24,0,NL,65,7,0,
+Nagaland,1239,537,0,702,24/07/2020 18:27:24,0,NL,65,7,0,
 Arunachal Pradesh,991,334,3,654,23/07/2020 23:07:24,0,AR,0,0,0,
 Chandigarh,823,535,13,275,24/07/2020 17:43:26,0,CH,23,4,0,
 Dadra and Nagar Haveli and Daman and Diu,850,516,2,322,24/07/2020 17:58:25,10,DN,30,3,0,10 Migrated cases reduced from Active count
