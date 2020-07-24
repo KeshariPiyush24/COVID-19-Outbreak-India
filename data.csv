@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1288535,817655,30649,439813,24/07/2020 11:13:22,418,TT,405,62,4,
+Total,1288627,817738,30649,439822,24/07/2020 11:23:21,418,TT,498,145,4,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -16,7 +16,7 @@ Uttar Pradesh,58104,35803,1298,21003,23/07/2020 19:56:26,0,UP,0,0,0,
 Gujarat,52563,38059,2256,12248,23/07/2020 22:26:22,0,GJ,0,0,0,
 West Bengal,51757,31656,1255,18846,23/07/2020 20:42:24,0,WB,0,0,0,
 Telangana,50826,39327,447,11052,23/07/2020 21:16:22,0,TG,0,0,0,
-Rajasthan,33595,23872,598,9125,24/07/2020 11:13:24,0,RJ,375,57,4,
+Rajasthan,33595,23872,598,9125,24/07/2020 11:16:26,0,RJ,375,57,4,
 Bihar,31691,20959,212,10519,23/07/2020 17:57:22,1,BR,0,0,0,
 Haryana,28975,22249,378,6348,23/07/2020 19:56:27,0,HR,0,0,0,
 Assam,28792,20700,70,8019,24/07/2020 00:40:23,3,AS,0,0,0,"Includes one case from Nagaland.
@@ -33,7 +33,7 @@ Chhattisgarh,6370,4387,34,1949,23/07/2020 22:56:23,0,CT,0,0,0,
 Uttarakhand,5445,3399,60,1948,23/07/2020 20:51:28,38,UT,0,0,0,38 Migrated cases reduced from Active count
 Goa,4350,2655,29,1666,23/07/2020 20:09:28,0,GA,0,0,0,
 Tripura,3677,2072,10,1577,24/07/2020 01:10:29,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
-Puducherry,2421,1400,34,987,23/07/2020 12:26:25,0,PY,0,0,0,
+Puducherry,2513,1483,34,996,24/07/2020 11:23:23,0,PY,93,83,0,
 Manipur,2115,1460,0,655,23/07/2020 19:56:36,0,MN,0,0,0,
 Himachal Pradesh,1834,1136,11,672,23/07/2020 21:42:25,15,HP,0,0,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1210,1025,2,183,23/07/2020 18:43:22,0,LA,0,0,0,
