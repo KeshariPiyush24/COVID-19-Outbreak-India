@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1300402,822003,30718,447263,24/07/2020 17:55:21,418,TT,12275,4410,73,
+Total,1300402,822003,30718,447263,24/07/2020 17:58:21,418,TT,12275,4410,73,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -11,7 +11,7 @@ These cases have been added to TN deceased tally"
 Delhi,127364,109065,3745,14554,23/07/2020 20:51:26,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,80863,29310,1616,49928,23/07/2020 20:28:22,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
-Andhra Pradesh,80858,39935,933,39990,24/07/2020 17:55:23,0,AP,8147,2380,49,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,80858,39935,933,39990,24/07/2020 17:58:23,0,AP,8147,2380,49,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,58104,35803,1298,21003,23/07/2020 19:56:26,0,UP,0,0,0,
 Gujarat,52563,38059,2256,12248,23/07/2020 22:26:22,0,GJ,0,0,0,
 West Bengal,51757,31656,1255,18846,23/07/2020 20:42:24,0,WB,0,0,0,
@@ -40,7 +40,7 @@ Ladakh,1210,1025,2,183,23/07/2020 18:43:22,0,LA,0,0,0,
 Nagaland,1237,530,0,707,24/07/2020 11:52:24,0,NL,63,0,0,
 Arunachal Pradesh,991,334,3,654,23/07/2020 23:07:24,0,AR,0,0,0,
 Chandigarh,823,535,13,275,24/07/2020 17:43:26,0,CH,23,4,0,
-Dadra and Nagar Haveli and Daman and Diu,850,516,2,322,24/07/2020 17:55:26,10,DN,30,3,0,10 Migrated cases reduced from Active count
+Dadra and Nagar Haveli and Daman and Diu,850,516,2,322,24/07/2020 17:58:25,10,DN,30,3,0,10 Migrated cases reduced from Active count
 Meghalaya,558,87,4,467,24/07/2020 10:56:24,0,ML,24,5,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,473,122,0,338,23/07/2020 21:16:25,13,SK,0,0,0,13 Migrated cases reduced from Active count
