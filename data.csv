@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1319302,837459,31024,450401,24/07/2020 20:37:21,418,TT,31175,19866,379,
+Total,1319302,837459,31024,450401,24/07/2020 20:40:21,418,TT,31175,19866,379,
 Maharashtra,347502,194253,12854,140093,23/07/2020 20:42:23,302,MH,0,0,0,"302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -13,8 +13,8 @@ Delhi,127364,109065,3745,14554,23/07/2020 20:51:26,0,DL,0,0,0,"[July 14]: Value 
 Karnataka,85870,31347,1726,52788,24/07/2020 19:06:23,9,KA,5007,2037,110,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,80858,39935,933,39990,24/07/2020 17:58:23,0,AP,8147,2380,49,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,58104,35803,1298,21003,23/07/2020 19:56:26,0,UP,0,0,0,
-Gujarat,53631,38931,2282,12418,24/07/2020 20:37:23,0,GJ,1068,872,26,
-West Bengal,53973,33529,1290,19154,24/07/2020 20:37:24,0,WB,2216,1873,35,
+Gujarat,53631,38931,2282,12418,24/07/2020 20:40:24,0,GJ,1068,872,26,
+West Bengal,53973,33529,1290,19154,24/07/2020 20:40:26,0,WB,2216,1873,35,
 Telangana,50826,39327,447,11052,23/07/2020 21:16:22,0,TG,0,0,0,
 Rajasthan,33595,23872,598,9125,24/07/2020 11:16:26,0,RJ,375,57,4,
 Bihar,33511,22832,221,10457,24/07/2020 17:43:23,1,BR,1820,1873,9,
@@ -45,6 +45,6 @@ Meghalaya,558,87,4,467,24/07/2020 10:56:24,0,ML,24,5,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,473,122,0,338,23/07/2020 21:16:25,13,SK,0,0,0,13 Migrated cases reduced from Active count
 Mizoram,332,183,0,149,24/07/2020 09:27:25,0,MZ,6,0,0,
-Andaman and Nicobar Islands,259,174,0,84,24/07/2020 20:37:27,1,AN,19,4,0,
+Andaman and Nicobar Islands,259,174,0,84,24/07/2020 20:40:28,1,AN,19,4,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
