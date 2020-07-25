@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1339130,850295,31425,456990,25/07/2020 11:37:21,420,TT,2108,188,19,
+Total,1339130,850295,31425,456990,25/07/2020 11:40:22,420,TT,2108,188,19,
 Maharashtra,357117,199967,13132,143714,24/07/2020 21:52:24,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -28,7 +28,7 @@ Jammu and Kashmir,16782,9217,296,7269,24/07/2020 18:49:23,0,JK,0,0,0,
 Kerala,16996,7562,55,9371,24/07/2020 20:19:24,8,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's tally.
 One patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count"
 Punjab,12216,8096,282,3838,24/07/2020 19:41:26,0,PB,0,0,0,
-Jharkhand,7627,3354,76,4197,25/07/2020 11:37:22,0,JH,63,0,0,
+Jharkhand,7627,3354,76,4197,25/07/2020 11:40:23,0,JH,63,0,0,
 Chhattisgarh,6819,4567,36,2216,24/07/2020 22:26:23,0,CT,0,0,0,
 Uttarakhand,5717,3441,62,2176,24/07/2020 20:27:24,38,UT,0,0,0,38 Migrated cases reduced from Active count
 Goa,4540,2865,29,1646,24/07/2020 20:06:23,0,GA,0,0,0,
