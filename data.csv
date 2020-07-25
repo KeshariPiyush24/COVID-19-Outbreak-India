@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1338371,850107,31406,456438,25/07/2020 10:50:21,420,TT,1349,0,0,
+Total,1338928,850217,31412,456879,25/07/2020 11:03:20,420,TT,1906,110,6,
 Maharashtra,357117,199967,13132,143714,24/07/2020 21:52:24,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -16,7 +16,7 @@ Uttar Pradesh,60771,37712,1348,21711,24/07/2020 21:03:23,0,UP,0,0,0,
 Gujarat,53631,38931,2282,12418,24/07/2020 20:40:24,0,GJ,0,0,0,
 West Bengal,53973,33529,1290,19154,24/07/2020 20:40:26,0,WB,0,0,0,
 Telangana,52466,40334,455,11677,24/07/2020 22:07:24,0,TG,0,0,0,
-Rajasthan,34178,24547,602,9029,24/07/2020 21:58:23,0,RJ,0,0,0,
+Rajasthan,34735,24657,608,9470,25/07/2020 11:03:21,0,RJ,557,110,6,
 Bihar,33511,22832,221,10457,24/07/2020 17:43:23,1,BR,0,0,0,
 Haryana,29755,22953,382,6420,24/07/2020 19:41:24,0,HR,0,0,0,
 Assam,29922,21762,76,8081,24/07/2020 23:17:24,3,AS,0,0,0,"Includes one case from Nagaland.
