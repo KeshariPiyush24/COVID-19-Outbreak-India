@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1339176,850303,31425,457028,25/07/2020 13:43:21,420,TT,2155,196,19,
+Total,1339195,850306,31425,457044,25/07/2020 16:37:22,420,TT,2174,199,19,
 Maharashtra,357117,199967,13132,143714,24/07/2020 21:52:24,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -40,7 +40,7 @@ Ladakh,1246,1035,2,209,24/07/2020 20:19:27,0,LA,0,0,0,
 Nagaland,1239,537,0,702,24/07/2020 18:27:24,0,NL,0,0,0,
 Arunachal Pradesh,1056,392,3,661,24/07/2020 22:40:25,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,823,535,13,275,24/07/2020 17:43:26,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,864,531,2,321,24/07/2020 19:41:28,10,DN,0,0,0,10 Migrated cases reduced from Active count
+Dadra and Nagar Haveli and Daman and Diu,883,534,2,337,25/07/2020 16:37:24,10,DN,19,3,0,10 Migrated cases reduced from Active count
 Meghalaya,596,94,5,497,25/07/2020 13:43:23,0,ML,9,7,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,490,137,0,340,24/07/2020 22:07:26,13,SK,0,0,0,13 Migrated cases reduced from Active count
