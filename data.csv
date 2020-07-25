@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1383172,883977,32082,466693,25/07/2020 21:06:24,420,TT,46151,33869,679,
+Total,1383749,884632,32087,466610,25/07/2020 21:37:24,420,TT,46728,34524,684,
 Maharashtra,366368,207194,13389,145481,25/07/2020 20:18:45,304,MH,9251,7227,257,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -16,7 +16,7 @@ Uttar Pradesh,63742,39903,1387,22452,25/07/2020 17:16:23,0,UP,2971,2191,39,
 Gujarat,54712,39714,2301,12697,25/07/2020 19:50:23,0,GJ,1081,782,22,
 West Bengal,56377,35654,1332,19391,25/07/2020 20:39:26,0,WB,2404,2125,42,
 Telangana,52466,40334,455,11677,24/07/2020 22:07:24,0,TG,0,0,0,
-Rajasthan,34735,24657,608,9470,25/07/2020 11:06:22,0,RJ,557,110,6,
+Rajasthan,35298,25306,613,9379,25/07/2020 21:26:25,0,RJ,1120,759,11,
 Bihar,36314,24520,232,11561,25/07/2020 19:07:23,1,BR,2803,1688,11,
 Haryana,30538,23654,389,6495,25/07/2020 20:27:27,0,HR,783,701,7,
 Assam,29922,21762,77,8080,25/07/2020 19:27:23,3,AS,0,0,1,"Includes one case from Nagaland.
@@ -35,7 +35,7 @@ Goa,4686,3047,33,1606,25/07/2020 21:06:26,0,GA,146,182,4,
 Tripura,3783,2131,10,1624,25/07/2020 00:33:23,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,2654,1561,38,1055,25/07/2020 11:16:23,0,PY,139,78,3,
 Manipur,2176,1520,0,656,25/07/2020 19:58:25,0,MN,30,29,0,
-Himachal Pradesh,2035,1167,12,841,25/07/2020 18:09:25,15,HP,81,22,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,2049,1173,12,849,25/07/2020 21:37:27,15,HP,95,28,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1246,1035,2,209,24/07/2020 20:19:27,0,LA,0,0,0,
 Nagaland,1289,541,0,748,25/07/2020 19:50:27,0,NL,50,4,0,
 Arunachal Pradesh,1056,392,3,661,24/07/2020 22:40:25,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
