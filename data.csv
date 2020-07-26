@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1435894,918708,32810,483955,26/07/2020 22:53:27,421,TT,48807,31475,702,
+Total,1435894,918708,32810,483955,26/07/2020 22:56:28,421,TT,48807,31475,702,
 Maharashtra,375799,213238,13656,148601,26/07/2020 20:06:27,304,MH,9431,6044,267,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,7 +31,7 @@ In total 9 such cases have been reduced from active count"
 Punjab,13218,8810,306,4102,26/07/2020 20:16:29,0,PB,534,513,15,
 Jharkhand,8349,3704,83,4562,26/07/2020 22:26:33,0,JH,508,183,0,
 Chhattisgarh,7489,4944,43,2502,26/07/2020 21:06:30,0,CT,307,261,4,
-Uttarakhand,6104,3566,63,2437,26/07/2020 22:53:32,38,UT,143,71,0,38 Migrated cases reduced from Active count
+Uttarakhand,6104,3566,63,2437,26/07/2020 22:56:33,38,UT,143,71,0,38 Migrated cases reduced from Active count
 Goa,4861,3277,35,1549,26/07/2020 20:40:30,0,GA,175,230,2,
 Tripura,3919,2336,13,1552,26/07/2020 22:26:35,18,TR,37,126,2,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,2787,1645,40,1102,26/07/2020 15:39:27,0,PY,133,84,2,
@@ -42,7 +42,7 @@ Nagaland,1339,549,4,786,26/07/2020 17:54:33,0,NL,50,8,0,
 Arunachal Pradesh,1158,505,3,650,26/07/2020 22:40:39,0,AR,32,77,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,887,572,13,302,26/07/2020 20:40:34,0,CH,35,17,0,
 Dadra and Nagar Haveli and Daman and Diu,950,565,2,373,26/07/2020 22:49:45,10,DN,49,21,0,10 Migrated cases reduced from Active count
-Meghalaya,702,135,5,562,26/07/2020 22:53:36,0,ML,56,41,0,"[June 17]:
+Meghalaya,702,135,5,562,26/07/2020 22:56:36,0,ML,56,41,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,557,146,1,397,26/07/2020 21:51:30,13,SK,45,4,1,13 Migrated cases reduced from Active count
 Mizoram,361,183,0,178,25/07/2020 09:51:22,0,MZ,0,0,0,
