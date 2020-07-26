@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1428229,913657,32723,481429,26/07/2020 21:13:26,420,TT,41142,26424,615,
+Total,1433428,915745,32803,484460,26/07/2020 21:23:27,420,TT,46341,28512,695,
 Maharashtra,375799,213238,13656,148601,26/07/2020 20:06:27,304,MH,9431,6044,267,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -10,10 +10,10 @@ Tamil Nadu,213723,156526,3494,53703,26/07/2020 18:17:27,0,TN,6986,5471,85,"[July
 These cases have been added to TN deceased tally"
 Delhi,130606,114875,3827,11904,26/07/2020 15:08:29,0,DL,1075,1807,21,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Karnataka,90942,33750,1798,55385,25/07/2020 20:39:24,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,96141,35838,1878,58416,26/07/2020 21:23:28,9,KA,5199,2088,80,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,96298,46301,1041,48956,26/07/2020 18:26:30,0,AP,7627,3046,56,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,66988,41641,1426,23921,26/07/2020 16:26:27,0,UP,3246,1738,39,
-Gujarat,55822,40467,2322,13033,26/07/2020 21:13:29,0,GJ,1110,753,21,
+Gujarat,55822,40467,2322,13033,26/07/2020 21:16:28,0,GJ,1110,753,21,
 West Bengal,58718,37751,1372,19595,26/07/2020 20:40:27,0,WB,2341,2097,40,
 Telangana,54059,41332,463,12264,26/07/2020 12:06:27,0,TG,0,0,0,
 Rajasthan,35909,25353,621,9935,26/07/2020 10:56:26,0,RJ,611,47,8,
