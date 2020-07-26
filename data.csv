@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1396396,892735,32207,471034,26/07/2020 17:38:24,420,TT,9309,5502,99,
+Total,1396396,892743,32207,471026,26/07/2020 17:51:26,420,TT,9309,5510,99,
 Maharashtra,366368,207194,13389,145481,25/07/2020 20:18:45,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -35,9 +35,9 @@ Goa,4686,3047,33,1606,25/07/2020 21:06:26,0,GA,0,0,0,
 Tripura,3882,2210,11,1643,25/07/2020 23:58:29,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,2787,1645,40,1102,26/07/2020 15:39:27,0,PY,133,84,2,
 Manipur,2176,1520,0,656,25/07/2020 19:58:25,0,MN,0,0,0,
-Himachal Pradesh,2136,1178,13,930,26/07/2020 17:38:27,15,HP,87,5,1,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,2136,1178,13,930,26/07/2020 17:41:29,15,HP,87,5,1,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1276,1057,3,216,25/07/2020 21:50:25,0,LA,0,0,0,
-Nagaland,1339,541,4,794,26/07/2020 13:06:28,0,NL,50,0,0,
+Nagaland,1339,549,4,786,26/07/2020 17:51:30,0,NL,50,8,0,
 Arunachal Pradesh,1126,428,3,695,25/07/2020 23:51:56,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,852,555,13,284,25/07/2020 19:40:25,0,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,925,558,2,355,26/07/2020 17:26:28,10,DN,24,14,0,10 Migrated cases reduced from Active count
@@ -45,6 +45,6 @@ Meghalaya,669,109,5,555,26/07/2020 12:16:29,0,ML,23,15,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,512,142,0,357,25/07/2020 22:07:27,13,SK,0,0,0,13 Migrated cases reduced from Active count
 Mizoram,361,183,0,178,25/07/2020 09:51:22,0,MZ,0,0,0,
-Andaman and Nicobar Islands,318,180,0,137,26/07/2020 17:38:30,1,AN,28,4,0,
+Andaman and Nicobar Islands,318,180,0,137,26/07/2020 17:41:31,1,AN,28,4,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
