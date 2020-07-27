@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1482158,951665,33448,496622,27/07/2020 22:28:24,423,TT,46139,32920,636,
+Total,1482386,953096,33448,495419,27/07/2020 23:12:29,423,TT,46367,34351,636,
 Maharashtra,383723,221944,13883,147592,27/07/2020 20:19:26,304,MH,7924,8706,227,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -20,7 +20,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 Rajasthan,37564,26934,633,9997,27/07/2020 21:59:26,0,RJ,1134,980,9,
 Bihar,41111,27844,255,13011,27/07/2020 17:17:24,1,BR,2192,1536,6,
 Haryana,32127,25046,397,6684,27/07/2020 20:42:28,0,HR,795,662,5,
-Assam,33577,24041,86,9447,27/07/2020 22:28:25,3,AS,1348,0,7,"Includes one case from Nagaland.
+Assam,33577,25403,86,8085,27/07/2020 23:12:31,3,AS,1348,1362,7,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Madhya Pradesh,28589,19791,820,7978,27/07/2020 19:30:26,0,MP,789,659,9,
 Odisha,26892,17374,181,9337,27/07/2020 20:28:31,0,OR,1503,581,7,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
@@ -34,13 +34,13 @@ Jharkhand,8803,3805,90,4908,27/07/2020 22:28:27,0,JH,454,101,7,
 Chhattisgarh,7863,5172,45,2646,27/07/2020 22:28:28,0,CT,250,228,2,
 Uttarakhand,6328,3675,66,2549,27/07/2020 22:07:26,38,UT,224,109,3,38 Migrated cases reduced from Active count
 Goa,5119,3410,36,1673,27/07/2020 20:10:29,0,GA,258,133,1,
-Tripura,3919,2362,13,1526,27/07/2020 00:06:32,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
+Tripura,4066,2362,13,1673,27/07/2020 23:12:33,18,TR,147,0,0,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,2872,1721,43,1108,27/07/2020 13:08:27,0,PY,85,76,3,
 Manipur,2286,1559,0,727,27/07/2020 20:28:33,0,MN,51,38,0,
 Himachal Pradesh,2270,1216,13,1026,27/07/2020 21:59:29,15,HP,94,18,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1306,1066,4,236,27/07/2020 19:30:27,0,LA,21,3,0,
 Nagaland,1385,569,5,811,27/07/2020 19:30:28,0,NL,46,20,1,
-Arunachal Pradesh,1158,505,3,650,26/07/2020 22:40:39,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Arunachal Pradesh,1239,574,3,662,27/07/2020 23:12:36,0,AR,81,69,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,910,576,14,320,27/07/2020 17:07:27,0,CH,23,4,1,
 Dadra and Nagar Haveli and Daman and Diu,986,597,2,376,27/07/2020 20:42:32,11,DN,36,32,0,11 Migrated cases reduced from Active count
 Meghalaya,738,186,5,547,27/07/2020 21:28:35,0,ML,36,51,0,"[June 17]:
