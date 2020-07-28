@@ -1,18 +1,18 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1505064,964830,33685,506126,28/07/2020 19:14:31,423,TT,22561,11731,233,
+Total,1514058,969336,33830,510469,28/07/2020 19:24:28,423,TT,31555,16237,376,
 Maharashtra,383723,221944,13883,147592,27/07/2020 20:19:26,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,227688,166956,3659,57073,28/07/2020 19:14:32,0,TN,6972,4707,88,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,227688,166956,3659,57073,28/07/2020 19:24:30,0,TN,6972,4707,88,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Delhi,132275,117507,3881,10887,28/07/2020 18:18:30,0,DL,1056,1135,28,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Karnataka,101465,37685,1953,61818,27/07/2020 18:48:25,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,107001,40504,2057,64431,28/07/2020 19:24:31,9,KA,5536,2819,102,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,110297,52622,1148,56527,28/07/2020 17:14:29,0,AP,7948,3064,58,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Uttar Pradesh,70493,42833,1456,26204,27/07/2020 17:44:24,0,UP,0,0,0,
+Uttar Pradesh,73951,44520,1497,27934,28/07/2020 19:24:34,0,UP,3458,1687,41,
 Gujarat,56874,41482,2344,13048,27/07/2020 21:08:25,0,GJ,0,0,0,
 West Bengal,60830,39917,1411,19502,27/07/2020 20:42:26,0,WB,0,0,0,
 Telangana,57142,42909,480,13753,28/07/2020 09:57:29,0,TG,1610,803,9,"[July 27]
