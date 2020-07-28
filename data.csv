@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1531812,988583,34224,508582,28/07/2020 23:14:27,423,TT,49309,35484,770,
+Total,1532125,988626,34224,508852,28/07/2020 23:25:29,423,TT,49622,35527,770,
 Maharashtra,391440,232277,14165,144694,28/07/2020 20:50:34,304,MH,7717,10333,282,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,16 +31,16 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 10 such cases have been reduced from active count"
 Punjab,14378,9752,336,4290,28/07/2020 20:10:30,0,PB,609,688,18,
 Jharkhand,9563,3984,94,5485,28/07/2020 22:18:32,0,JH,760,179,4,
-Chhattisgarh,8286,5439,46,2801,28/07/2020 23:14:29,0,CT,306,267,1,
+Chhattisgarh,8286,5439,46,2801,28/07/2020 23:19:30,0,CT,306,267,1,
 Uttarakhand,6587,3720,70,2759,28/07/2020 19:53:32,38,UT,259,45,4,38 Migrated cases reduced from Active count
 Goa,5287,3595,36,1656,28/07/2020 20:50:38,0,GA,168,185,0,
-Tripura,4066,2467,17,1564,28/07/2020 09:18:28,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
+Tripura,4288,2467,17,1786,28/07/2020 23:25:31,18,TR,222,0,0,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,3011,1782,47,1182,28/07/2020 18:18:34,0,PY,139,62,4,
 Manipur,2317,1615,0,702,28/07/2020 20:50:39,0,MN,31,56,0,
 Himachal Pradesh,2330,1234,13,1068,28/07/2020 22:28:33,15,HP,60,18,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1327,1067,4,256,28/07/2020 17:27:33,0,LA,21,1,0,
 Nagaland,1460,577,4,879,28/07/2020 20:50:40,0,NL,75,8,-1,
-Arunachal Pradesh,1239,574,3,662,27/07/2020 23:12:36,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Arunachal Pradesh,1330,617,3,710,28/07/2020 23:25:33,0,AR,91,43,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,934,599,14,321,28/07/2020 19:07:37,0,CH,24,24,0,
 Dadra and Nagar Haveli and Daman and Diu,1020,646,2,361,28/07/2020 19:53:35,11,DN,34,49,0,11 Migrated cases reduced from Active count
 Meghalaya,779,194,5,580,28/07/2020 20:50:41,0,ML,41,8,0,"[June 17]:
