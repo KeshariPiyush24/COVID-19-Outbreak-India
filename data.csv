@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1531783,988583,34224,508553,28/07/2020 22:38:31,423,TT,49280,35484,770,
+Total,1531783,988583,34224,508553,28/07/2020 22:45:29,423,TT,49280,35484,770,
 Maharashtra,391440,232277,14165,144694,28/07/2020 20:50:34,304,MH,7717,10333,282,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -20,7 +20,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 Rajasthan,38636,27317,644,10675,28/07/2020 21:19:28,0,RJ,1072,483,11,
 Bihar,43591,29220,269,14101,28/07/2020 18:18:32,1,BR,2480,1376,14,
 Haryana,32876,25758,406,6712,28/07/2020 21:19:29,0,HR,749,712,9,
-Assam,34948,26619,88,8238,28/07/2020 22:37:39,3,AS,1371,1216,2,"Includes one case from Nagaland.
+Assam,34948,26619,88,8238,28/07/2020 22:45:31,3,AS,1371,1216,2,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Madhya Pradesh,29217,20343,830,8044,28/07/2020 19:43:31,0,MP,628,552,10,
 Odisha,28107,18061,189,9857,28/07/2020 20:50:36,0,OR,1215,687,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
