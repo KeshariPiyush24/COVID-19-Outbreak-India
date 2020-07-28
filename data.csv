@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1485935,953974,33479,498059,28/07/2020 13:28:30,423,TT,3432,874,27,
+Total,1493883,957038,33537,502885,28/07/2020 17:04:29,423,TT,11380,3938,85,
 Maharashtra,383723,221944,13883,147592,27/07/2020 20:19:26,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -11,7 +11,7 @@ These cases have been added to TN deceased tally"
 Delhi,131219,116372,3853,10994,27/07/2020 13:42:28,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,101465,37685,1953,61818,27/07/2020 18:48:25,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
-Andhra Pradesh,102349,49558,1090,51701,27/07/2020 18:20:25,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,110297,52622,1148,56527,28/07/2020 17:04:31,0,AP,7948,3064,58,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,70493,42833,1456,26204,27/07/2020 17:44:24,0,UP,0,0,0,
 Gujarat,56874,41482,2344,13048,27/07/2020 21:08:25,0,GJ,0,0,0,
 West Bengal,60830,39917,1411,19502,27/07/2020 20:42:26,0,WB,0,0,0,
