@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1485831,953947,33479,497982,28/07/2020 12:54:29,423,TT,3328,747,27,
+Total,1485918,953955,33479,498061,28/07/2020 13:04:27,423,TT,3415,755,27,
 Maharashtra,383723,221944,13883,147592,27/07/2020 20:19:26,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -35,11 +35,11 @@ Chhattisgarh,7980,5172,45,2763,27/07/2020 23:46:26,0,CT,0,0,0,
 Uttarakhand,6328,3675,66,2549,27/07/2020 22:07:26,38,UT,0,0,0,38 Migrated cases reduced from Active count
 Goa,5119,3410,36,1673,27/07/2020 20:10:29,0,GA,0,0,0,
 Tripura,4066,2467,17,1564,28/07/2020 09:18:28,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
-Puducherry,2872,1720,43,1109,28/07/2020 12:54:32,0,PY,0,0,0,
+Puducherry,2872,1720,43,1109,28/07/2020 12:58:29,0,PY,0,0,0,
 Manipur,2286,1559,0,727,27/07/2020 20:28:33,0,MN,0,0,0,
-Himachal Pradesh,2270,1216,13,1026,27/07/2020 21:59:29,15,HP,0,0,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,2282,1224,13,1030,28/07/2020 13:04:30,15,HP,12,8,0,"HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1306,1066,4,236,27/07/2020 19:30:27,0,LA,0,0,0,
-Nagaland,1385,569,5,811,27/07/2020 19:30:28,0,NL,0,0,0,
+Nagaland,1460,569,5,886,28/07/2020 13:04:32,0,NL,75,0,0,
 Arunachal Pradesh,1239,574,3,662,27/07/2020 23:12:36,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,910,576,14,320,27/07/2020 17:07:27,0,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,986,597,2,376,28/07/2020 11:35:41,11,DN,0,0,0,11 Migrated cases reduced from Active count
