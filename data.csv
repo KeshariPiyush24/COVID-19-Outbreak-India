@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1529653,987174,34223,507833,28/07/2020 21:14:26,423,TT,47150,34075,769,
+Total,1529653,987174,34223,507833,28/07/2020 21:19:26,423,TT,47150,34075,769,
 Maharashtra,391440,232277,14165,144694,28/07/2020 20:50:34,304,MH,7717,10333,282,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,9 +17,9 @@ Gujarat,57982,42514,2368,13100,28/07/2020 21:07:27,0,GJ,1108,1032,24,
 West Bengal,62964,42022,1449,19493,28/07/2020 21:07:29,0,WB,2134,2105,38,
 Telangana,57142,42909,480,13753,28/07/2020 09:57:29,0,TG,1610,803,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
-Rajasthan,38636,27317,644,10675,28/07/2020 21:14:27,0,RJ,1072,483,11,
+Rajasthan,38636,27317,644,10675,28/07/2020 21:19:28,0,RJ,1072,483,11,
 Bihar,43591,29220,269,14101,28/07/2020 18:18:32,1,BR,2480,1376,14,
-Haryana,32876,25758,406,6712,28/07/2020 21:14:28,0,HR,749,712,9,
+Haryana,32876,25758,406,6712,28/07/2020 21:19:29,0,HR,749,712,9,
 Assam,33577,25403,88,8083,28/07/2020 19:07:34,3,AS,0,0,2,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Madhya Pradesh,29217,20343,830,8044,28/07/2020 19:43:31,0,MP,628,552,10,
@@ -31,7 +31,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 10 such cases have been reduced from active count"
 Punjab,14378,9752,336,4290,28/07/2020 20:10:30,0,PB,609,688,18,
 Jharkhand,8877,3805,93,4979,28/07/2020 12:27:31,0,JH,74,0,3,
-Chhattisgarh,8257,5439,46,2772,28/07/2020 21:14:30,0,CT,277,267,1,
+Chhattisgarh,8257,5439,46,2772,28/07/2020 21:19:31,0,CT,277,267,1,
 Uttarakhand,6587,3720,70,2759,28/07/2020 19:53:32,38,UT,259,45,4,38 Migrated cases reduced from Active count
 Goa,5287,3595,36,1656,28/07/2020 20:50:38,0,GA,168,185,0,
 Tripura,4066,2467,17,1564,28/07/2020 09:18:28,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
