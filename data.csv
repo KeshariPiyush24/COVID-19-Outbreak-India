@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1584384,1021611,35003,527355,29/07/2020 23:48:31,415,TT,52263,32829,775,
+Total,1584384,1021611,35003,527355,29/07/2020 23:52:32,415,TT,52263,32829,775,
 Maharashtra,400651,239755,14463,146129,29/07/2020 20:39:33,304,MH,9211,7478,298,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,7 +31,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 14 such cases have been reduced from active count"
 Punjab,14946,10213,361,4372,29/07/2020 20:59:36,0,PB,568,461,25,
 Jharkhand,9894,4061,99,5734,29/07/2020 22:42:36,0,JH,331,77,5,
-Chhattisgarh,8600,5636,50,2914,29/07/2020 23:48:34,0,CT,314,197,4,
+Chhattisgarh,8600,5636,50,2914,29/07/2020 23:52:35,0,CT,314,197,4,
 Uttarakhand,6866,3811,72,2945,29/07/2020 20:39:36,38,UT,279,91,2,38 Migrated cases reduced from Active count
 Goa,5489,3784,39,1666,29/07/2020 20:21:33,0,GA,202,189,3,
 Tripura,4287,2621,21,1627,29/07/2020 09:28:29,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
@@ -47,6 +47,6 @@ Meghalaya,784,207,5,572,29/07/2020 21:45:35,0,ML,5,13,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,596,198,1,397,29/07/2020 20:39:42,0,SK,17,12,0,
 Mizoram,395,215,0,180,29/07/2020 17:39:35,0,MZ,11,17,0,
-Andaman and Nicobar Islands,428,201,2,224,29/07/2020 23:42:32,1,AN,65,5,1,
+Andaman and Nicobar Islands,428,201,2,224,29/07/2020 23:50:40,1,AN,65,5,1,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
