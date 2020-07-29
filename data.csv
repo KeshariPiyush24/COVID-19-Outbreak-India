@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1535332,989876,34246,510787,29/07/2020 11:04:27,423,TT,3198,1094,18,
+Total,1535332,989876,34252,510781,29/07/2020 11:13:28,423,TT,3198,1094,24,
 Maharashtra,391440,232277,14165,144694,28/07/2020 20:50:34,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,13 +17,13 @@ Gujarat,57982,42514,2368,13100,28/07/2020 21:07:27,0,GJ,0,0,0,
 West Bengal,62964,42022,1449,19493,28/07/2020 21:07:29,0,WB,0,0,0,
 Telangana,58906,43751,492,14663,29/07/2020 10:17:27,0,TG,1764,842,12,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
-Rajasthan,38964,27569,650,10745,29/07/2020 11:04:29,0,RJ,328,252,6,
+Rajasthan,38964,27569,650,10745,29/07/2020 11:08:27,0,RJ,328,252,6,
 Bihar,43591,29220,269,14101,28/07/2020 18:18:32,1,BR,0,0,0,
 Haryana,32876,25758,406,6712,28/07/2020 21:19:29,0,HR,0,0,0,
 Assam,34948,26619,88,8238,28/07/2020 22:45:31,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Madhya Pradesh,29217,20343,830,8044,28/07/2020 19:43:31,0,MP,0,0,0,
-Odisha,29175,18061,189,10925,29/07/2020 10:57:31,0,OR,1068,0,0,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,29175,18061,195,10919,29/07/2020 11:13:31,0,OR,1068,0,6,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,18879,10885,333,7661,28/07/2020 18:57:35,0,JK,0,0,0,
 Kerala,20895,10724,68,10093,28/07/2020 19:43:34,10,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
