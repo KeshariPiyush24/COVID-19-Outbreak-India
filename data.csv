@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1639350,1059093,35786,544048,31/07/2020 00:06:34,423,TT,54750,37425,783,
+Total,1639350,1059093,35786,544048,31/07/2020 01:41:33,423,TT,54750,37425,783,
 Maharashtra,411798,248615,14729,148150,30/07/2020 20:53:30,304,MH,11147,8860,266,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
