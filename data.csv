@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1636609,1057280,35783,543123,30/07/2020 21:49:33,423,TT,52009,35612,780,
+Total,1636609,1057280,35783,543123,30/07/2020 21:53:32,423,TT,52009,35612,780,
 Maharashtra,411798,248615,14729,148150,30/07/2020 20:53:30,304,MH,11147,8860,266,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -32,7 +32,7 @@ In total 18 such cases have been reduced from active count"
 Punjab,15456,10509,370,4577,30/07/2020 21:24:35,0,PB,510,296,9,
 Jharkhand,10028,4061,100,5867,30/07/2020 13:09:33,0,JH,134,0,1,
 Chhattisgarh,8775,5921,51,2803,30/07/2020 21:24:37,0,CT,175,285,1,
-Uttarakhand,7065,3996,76,2955,30/07/2020 21:49:37,38,UT,199,185,4,38 Migrated cases reduced from Active count
+Uttarakhand,7065,3996,76,2955,30/07/2020 21:53:35,38,UT,199,185,4,38 Migrated cases reduced from Active count
 Goa,5704,4005,42,1657,30/07/2020 20:30:59,0,GA,215,221,3,
 Tripura,4503,2678,21,1786,30/07/2020 08:17:31,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,3298,1958,48,1292,30/07/2020 17:57:29,0,PY,121,84,1,
