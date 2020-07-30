@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1639184,1058659,35786,544316,30/07/2020 22:41:32,423,TT,54584,36991,783,
+Total,1639184,1059093,35786,543882,30/07/2020 23:14:32,423,TT,54584,37425,783,
 Maharashtra,411798,248615,14729,148150,30/07/2020 20:53:30,304,MH,11147,8860,266,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -34,13 +34,13 @@ Jharkhand,10399,4176,103,6120,30/07/2020 22:17:44,0,JH,505,115,4,
 Chhattisgarh,8775,5921,51,2803,30/07/2020 21:24:37,0,CT,175,285,1,
 Uttarakhand,7065,3996,76,2955,30/07/2020 21:53:35,38,UT,199,185,4,38 Migrated cases reduced from Active count
 Goa,5704,4005,42,1657,30/07/2020 20:30:59,0,GA,215,221,3,
-Tripura,4503,2678,21,1786,30/07/2020 08:17:31,18,TR,0,0,0,18 cases are marked as migrated in Tripura dashboard.
+Tripura,4503,2962,21,1502,30/07/2020 23:14:35,18,TR,0,284,0,18 cases are marked as migrated in Tripura dashboard.
 Puducherry,3298,1958,48,1292,30/07/2020 17:57:29,0,PY,121,84,1,
 Manipur,2505,1672,4,829,30/07/2020 21:24:41,0,MN,47,19,3,
 Himachal Pradesh,2506,1387,13,1089,30/07/2020 22:41:38,17,HP,103,55,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1378,1094,6,278,30/07/2020 20:31:06,0,LA,31,14,0,
 Nagaland,1566,625,4,935,30/07/2020 21:24:46,2,NL,53,30,0,
-Arunachal Pradesh,1410,677,3,730,29/07/2020 23:01:35,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Arunachal Pradesh,1410,827,3,580,30/07/2020 23:14:37,0,AR,0,150,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1016,647,14,355,30/07/2020 16:50:28,0,CH,38,36,0,
 Dadra and Nagar Haveli and Daman and Diu,1103,684,2,406,30/07/2020 18:37:35,11,DN,35,17,0,11 Migrated cases reduced from Active count
 Meghalaya,803,210,5,588,30/07/2020 21:24:49,0,ML,19,3,0,"[June 17]:
