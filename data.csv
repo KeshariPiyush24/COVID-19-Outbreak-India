@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1587617,1022489,35016,529697,30/07/2020 10:17:27,415,TT,3017,821,13,
+Total,1587617,1022489,35016,529697,30/07/2020 10:25:26,415,TT,3017,821,13,
 Maharashtra,400651,239755,14463,146129,29/07/2020 20:39:33,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -23,7 +23,7 @@ Haryana,33631,26420,413,6798,29/07/2020 20:10:34,0,HR,0,0,0,
 Assam,36296,27833,92,8368,29/07/2020 23:09:33,3,AS,0,0,0,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Madhya Pradesh,30134,20934,844,8356,29/07/2020 20:10:47,0,MP,0,0,0,
-Odisha,30378,18939,195,11244,30/07/2020 10:17:30,0,OR,1203,0,0,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,30378,18939,195,11244,30/07/2020 10:25:28,0,OR,1203,0,0,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,19419,11322,348,7749,29/07/2020 18:28:34,0,JK,0,0,0,
 Kerala,21798,11365,69,10350,29/07/2020 20:10:51,14,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
