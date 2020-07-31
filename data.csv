@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1690546,1091018,36497,562605,31/07/2020 20:58:32,426,TT,50978,31925,710,
+Total,1690590,1091047,36497,562620,31/07/2020 21:38:32,426,TT,51022,31954,710,
 Maharashtra,422118,256158,14994,150662,31/07/2020 20:43:39,304,MH,10320,7543,265,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -37,7 +37,7 @@ Goa,5913,4211,45,1657,31/07/2020 20:27:03,0,GA,209,206,3,
 Tripura,4722,2962,21,1721,31/07/2020 08:59:30,18,TR,0,0,0,
 Puducherry,3472,2100,49,1323,31/07/2020 18:49:37,0,PY,174,142,1,
 Manipur,2621,1689,5,927,31/07/2020 19:52:10,0,MN,116,17,1,
-Himachal Pradesh,2512,1388,13,1094,31/07/2020 13:42:36,17,HP,6,1,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,2556,1417,13,1109,31/07/2020 21:38:36,17,HP,50,30,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1404,1095,7,302,31/07/2020 20:00:19,0,LA,26,1,0,
 Nagaland,1693,635,4,1052,31/07/2020 20:00:22,2,NL,127,10,0,
 Arunachal Pradesh,1484,827,3,654,30/07/2020 23:37:39,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
