@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1677971,1081902,36189,559454,31/07/2020 20:13:33,426,TT,38402,22809,402,
-Maharashtra,411798,248615,14729,148150,30/07/2020 20:53:30,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,1689444,1090278,36476,562264,31/07/2020 20:24:36,426,TT,49875,31185,689,
+Maharashtra,422118,256158,14994,150662,30/07/2020 20:53:30,304,MH,10320,7543,265,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
@@ -13,7 +13,7 @@ Delhi,135598,120930,3963,10705,31/07/2020 16:57:34,0,DL,1195,1206,27,"[July 14]:
 Karnataka,124115,49788,2314,72004,31/07/2020 19:30:10,9,KA,5483,3094,84,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,140933,63864,1349,75720,31/07/2020 17:47:34,0,AP,10376,3840,68,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,85461,48863,1630,34968,31/07/2020 16:57:36,0,UP,4422,2060,43,
-Gujarat,60285,44176,2414,13695,30/07/2020 20:30:08,0,GJ,0,0,0,
+Gujarat,61438,45009,2436,13993,31/07/2020 20:24:39,0,GJ,1153,833,22,
 West Bengal,67692,46256,1536,19900,30/07/2020 21:24:31,0,WB,0,0,0,
 Telangana,62703,45388,519,16796,31/07/2020 09:29:31,0,TG,1986,816,14,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
@@ -32,7 +32,7 @@ In total 22 such cases have been reduced from active count"
 Punjab,15456,10509,370,4577,30/07/2020 21:24:35,0,PB,0,0,0,
 Jharkhand,10488,4176,104,6208,31/07/2020 13:42:33,0,JH,89,0,1,
 Chhattisgarh,8856,5921,51,2884,30/07/2020 23:44:34,0,CT,0,0,0,
-Uttarakhand,7183,4168,80,2897,31/07/2020 20:13:36,38,UT,118,172,4,38 Migrated cases reduced from Active count
+Uttarakhand,7183,4168,80,2897,31/07/2020 20:16:36,38,UT,118,172,4,38 Migrated cases reduced from Active count
 Goa,5704,4005,42,1657,30/07/2020 20:30:59,0,GA,0,0,0,
 Tripura,4722,2962,21,1721,31/07/2020 08:59:30,18,TR,0,0,0,
 Puducherry,3472,2100,49,1323,31/07/2020 18:49:37,0,PY,174,142,1,
