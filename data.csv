@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1663209,1069521,35981,557284,31/07/2020 18:14:34,423,TT,23640,10428,195,
+Total,1663209,1069521,35981,557284,31/07/2020 18:24:33,423,TT,23640,10428,195,
 Maharashtra,411798,248615,14729,148150,30/07/2020 20:53:30,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -41,12 +41,12 @@ Himachal Pradesh,2512,1388,13,1094,31/07/2020 13:42:36,17,HP,6,1,0,"HP has 18 Mi
 Ladakh,1378,1094,6,278,30/07/2020 20:31:06,0,LA,0,0,0,
 Nagaland,1692,625,4,1061,31/07/2020 15:27:33,2,NL,126,0,0,
 Arunachal Pradesh,1484,827,3,654,30/07/2020 23:37:39,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Chandigarh,1051,667,15,369,31/07/2020 18:14:38,0,CH,35,20,1,
+Chandigarh,1051,667,15,369,31/07/2020 18:24:36,0,CH,35,20,1,
 Dadra and Nagar Haveli and Daman and Diu,1152,725,2,414,31/07/2020 18:08:37,11,DN,49,41,0,
 Meghalaya,823,215,5,603,31/07/2020 12:28:33,0,ML,20,5,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,610,214,1,395,30/07/2020 21:24:52,0,SK,0,0,0,
-Mizoram,408,247,0,160,31/07/2020 18:14:40,1,MZ,-1,13,0,
+Mizoram,408,247,0,160,31/07/2020 18:18:39,1,MZ,-1,13,0,
 Andaman and Nicobar Islands,470,201,3,265,30/07/2020 20:31:13,1,AN,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
