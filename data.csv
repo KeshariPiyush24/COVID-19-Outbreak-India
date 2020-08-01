@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1702670,1098116,36613,567515,01/08/2020 16:27:32,426,TT,5616,2469,62,
+Total,1706257,1100587,36660,568584,01/08/2020 17:14:31,426,TT,9203,4940,109,
 Maharashtra,422118,256158,14994,150662,31/07/2020 20:43:39,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -12,7 +12,7 @@ Delhi,136716,122131,3989,10596,01/08/2020 16:27:34,0,DL,1118,1201,26,"[July 14]:
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,124115,49788,2314,72004,31/07/2020 19:30:10,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,140933,63864,1349,75720,31/07/2020 17:47:34,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Uttar Pradesh,85461,48863,1630,34968,31/07/2020 16:57:36,0,UP,0,0,0,
+Uttar Pradesh,89048,51334,1677,36037,01/08/2020 17:14:33,0,UP,3587,2471,47,
 Gujarat,61438,45009,2436,13993,31/07/2020 20:35:11,0,GJ,0,0,0,
 West Bengal,70188,48374,1581,20233,31/07/2020 22:08:31,0,WB,0,0,0,
 Telangana,64786,46502,530,17754,01/08/2020 09:42:37,0,TG,2083,1114,11,"[July 27]
