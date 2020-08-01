@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1751836,1146828,37403,567173,01/08/2020 23:03:36,432,TT,54782,51181,852,
+Total,1751919,1146879,37403,567205,01/08/2020 23:13:37,432,TT,54865,51232,852,
 Maharashtra,431719,266883,15316,149214,01/08/2020 21:07:36,306,MH,9601,10725,322,"306 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,7 +31,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 24 such cases have been reduced from active count"
 Punjab,17063,11075,405,5583,01/08/2020 19:41:41,0,PB,944,341,19,
 Jharkhand,12104,4513,114,7477,01/08/2020 22:51:36,0,JH,790,170,8,
-Chhattisgarh,9427,6610,55,2762,01/08/2020 23:03:39,0,CT,235,380,1,
+Chhattisgarh,9427,6610,55,2762,01/08/2020 23:07:36,0,CT,235,380,1,
 Uttarakhand,7447,4330,83,2996,01/08/2020 22:18:41,38,UT,264,162,3,38 Migrated cases reduced from Active count
 Goa,6193,4438,48,1707,01/08/2020 22:56:38,0,GA,280,227,3,
 Tripura,4996,3327,21,1630,01/08/2020 03:42:32,18,TR,0,0,0,
@@ -40,7 +40,7 @@ Manipur,2756,1699,6,1051,01/08/2020 22:00:39,0,MN,135,10,1,
 Himachal Pradesh,2634,1502,13,1102,01/08/2020 22:08:41,17,HP,70,43,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1462,1108,7,347,01/08/2020 22:00:41,0,LA,58,13,0,
 Nagaland,1831,640,4,1183,01/08/2020 19:52:39,4,NL,138,5,0,
-Arunachal Pradesh,1591,918,3,670,31/07/2020 23:53:30,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Arunachal Pradesh,1674,969,3,702,01/08/2020 23:13:40,0,AR,83,51,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1079,683,18,378,01/08/2020 19:27:39,0,CH,28,16,3,
 Dadra and Nagar Haveli and Daman and Diu,1194,755,2,427,01/08/2020 18:52:39,10,DN,45,30,0,
 Meghalaya,856,252,5,599,01/08/2020 18:52:42,0,ML,33,37,0,"[June 17]:
