@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1728507,1125765,36936,565378,01/08/2020 19:04:32,428,TT,31453,30118,385,
+Total,1728535,1125765,36841,565501,01/08/2020 19:14:31,428,TT,31481,30118,290,
 Maharashtra,422118,256158,14994,150662,31/07/2020 20:43:39,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -10,7 +10,7 @@ Tamil Nadu,251738,190966,4034,56738,01/08/2020 18:17:38,0,TN,5879,7010,99,"[July
 These cases have been added to TN deceased tally"
 Delhi,136716,122131,3989,10596,01/08/2020 16:27:34,0,DL,1118,1201,26,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Karnataka,129287,53648,2412,73218,31/07/2020 19:30:10,9,KA,5172,3860,98,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,129287,53648,2314,73316,01/08/2020 19:13:36,9,KA,5172,3860,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,150209,76614,1407,72188,01/08/2020 18:17:40,0,AP,9276,12750,58,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,89048,51334,1677,36037,01/08/2020 17:18:38,0,UP,3587,2471,47,
 Gujarat,61438,45009,2436,13993,31/07/2020 20:35:11,0,GJ,0,0,0,
@@ -20,13 +20,13 @@ Telangana bulletin for the previous day is released on the next day. We will add
 Rajasthan,42646,29977,690,11979,01/08/2020 11:28:33,0,RJ,563,132,10,
 Bihar,50987,33650,298,17038,31/07/2020 17:47:37,1,BR,0,0,0,
 Haryana,34965,28227,421,6317,31/07/2020 20:00:13,0,HR,0,0,0,
-Assam,40270,30358,98,9811,31/07/2020 23:36:33,3,AS,0,0,0,"Includes one case from Nagaland.
+Assam,40270,30358,101,9808,01/08/2020 19:13:38,3,AS,0,0,3,"Includes one case from Nagaland.
 Total of 3 patients who migrated to other states has been reduced from Active count"
 Madhya Pradesh,31806,22271,867,8668,31/07/2020 19:31:22,0,MP,0,0,0,
 Odisha,33479,20518,225,12736,01/08/2020 11:17:38,0,OR,1602,0,11,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,20972,12871,388,7713,01/08/2020 18:42:33,0,JK,613,654,11,
-Kerala,24743,13775,82,10862,01/08/2020 19:04:35,24,KL,1129,752,8,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,24743,13775,82,10862,01/08/2020 19:08:37,24,KL,1129,752,8,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 24 such cases have been reduced from active count"
 Punjab,16119,10734,386,4999,31/07/2020 20:58:34,0,PB,0,0,0,
@@ -41,7 +41,7 @@ Himachal Pradesh,2596,1462,13,1104,01/08/2020 18:52:37,17,HP,32,3,0,"HP has 18 M
 Ladakh,1404,1095,7,302,31/07/2020 20:00:19,0,LA,0,0,0,
 Nagaland,1823,635,4,1182,01/08/2020 12:59:36,2,NL,130,0,0,
 Arunachal Pradesh,1591,918,3,670,31/07/2020 23:53:30,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Chandigarh,1051,667,15,369,31/07/2020 18:32:35,0,CH,0,0,0,
+Chandigarh,1079,667,15,397,31/07/2020 18:32:35,0,CH,28,0,0,
 Dadra and Nagar Haveli and Daman and Diu,1194,755,2,427,01/08/2020 18:52:39,10,DN,45,30,0,
 Meghalaya,856,252,5,599,01/08/2020 18:52:42,0,ML,33,37,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
