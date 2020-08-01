@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1735745,1130376,37015,567924,01/08/2020 20:38:33,430,TT,38691,34729,464,
+Total,1738422,1132531,37065,568396,01/08/2020 20:48:36,430,TT,41368,36884,514,
 Maharashtra,422118,256158,14994,150662,31/07/2020 20:43:39,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -10,11 +10,11 @@ Tamil Nadu,251738,190966,4034,56738,01/08/2020 18:17:38,0,TN,5879,7010,99,"[July
 These cases have been added to TN deceased tally"
 Delhi,136716,122131,3989,10596,01/08/2020 16:27:34,0,DL,1118,1201,26,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Karnataka,129287,53648,2412,73218,01/08/2020 20:38:36,9,KA,5172,3860,98,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
+Karnataka,129287,53648,2412,73218,01/08/2020 20:42:37,9,KA,5172,3860,98,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,150209,76614,1407,72188,01/08/2020 18:17:40,0,AP,9276,12750,58,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,89048,51334,1677,36037,01/08/2020 17:18:38,0,UP,3587,2471,47,
-Gujarat,62574,45884,2460,14230,01/08/2020 20:38:38,0,GJ,1136,875,24,
-West Bengal,70188,48374,1581,20233,31/07/2020 22:08:31,0,WB,0,0,0,
+Gujarat,62574,45884,2460,14230,01/08/2020 20:42:39,0,GJ,1136,875,24,
+West Bengal,72777,50517,1629,20631,01/08/2020 20:48:39,0,WB,2589,2143,48,
 Telangana,64786,46502,530,17754,01/08/2020 09:42:37,0,TG,2083,1114,11,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
 Rajasthan,42646,29977,690,11979,01/08/2020 11:28:33,0,RJ,563,132,10,
@@ -47,6 +47,6 @@ Meghalaya,856,252,5,599,01/08/2020 18:52:42,0,ML,33,37,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,639,231,1,407,31/07/2020 19:30:18,0,SK,0,0,0,
 Mizoram,413,253,0,159,01/08/2020 18:17:43,1,MZ,5,6,0,
-Andaman and Nicobar Islands,548,214,5,328,31/07/2020 20:00:25,1,AN,0,0,0,
+Andaman and Nicobar Islands,636,226,7,402,01/08/2020 20:48:42,1,AN,88,12,2,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
