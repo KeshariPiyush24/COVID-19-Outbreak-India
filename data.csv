@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1702670,1098116,36613,567515,01/08/2020 16:24:31,426,TT,5616,2469,62,
+Total,1702670,1098116,36613,567515,01/08/2020 16:27:32,426,TT,5616,2469,62,
 Maharashtra,422118,256158,14994,150662,31/07/2020 20:43:39,304,MH,0,0,0,"304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -8,7 +8,7 @@ Tamil Nadu,245859,183956,3935,57968,31/07/2020 18:52:33,0,TN,0,0,0,"[July 22]: 4
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,136716,122131,3989,10596,01/08/2020 16:24:33,0,DL,1118,1201,26,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,136716,122131,3989,10596,01/08/2020 16:27:34,0,DL,1118,1201,26,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,124115,49788,2314,72004,31/07/2020 19:30:10,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,140933,63864,1349,75720,31/07/2020 17:47:34,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
