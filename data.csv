@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1789777,1175373,37954,576016,02/08/2020 20:05:31,434,TT,37606,28358,549,
-Maharashtra,441228,276809,15576,148537,02/08/2020 20:04:32,306,MH,9509,9926,260,"306 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,1791847,1176633,37996,576784,02/08/2020 20:14:32,434,TT,39676,29618,591,
+Maharashtra,441228,276809,15576,148537,02/08/2020 20:14:34,306,MH,9509,9926,260,"306 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
@@ -13,7 +13,7 @@ Delhi,137677,123317,4004,10356,02/08/2020 15:07:33,0,DL,961,1186,15,"[July 14]: 
 Karnataka,129287,53648,2412,73218,01/08/2020 20:42:37,9,KA,0,0,0,9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,158764,82886,1474,74404,02/08/2020 19:22:32,0,AP,8555,6272,67,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,92921,53357,1730,37834,02/08/2020 19:17:37,0,UP,3873,2023,53,
-Gujarat,62574,45884,2460,14230,01/08/2020 20:42:39,0,GJ,0,0,0,
+Gujarat,63675,46689,2482,14504,02/08/2020 20:14:35,0,GJ,1101,805,22,
 West Bengal,72777,50517,1629,20631,01/08/2020 20:52:36,0,WB,0,0,0,
 Telangana,66677,47590,540,18547,02/08/2020 09:51:37,0,TG,1891,1088,10,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
@@ -29,24 +29,24 @@ Jammu and Kashmir,21416,13127,396,7893,02/08/2020 18:51:32,0,JK,444,256,8,
 Kerala,25912,14463,83,11342,02/08/2020 18:51:34,24,KL,1169,688,1,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 24 such cases have been reduced from active count"
-Punjab,17063,11075,405,5583,01/08/2020 19:41:41,0,PB,0,0,0,
+Punjab,17853,11466,423,5964,02/08/2020 20:14:38,0,PB,790,391,18,
 Jharkhand,12188,4513,115,7560,02/08/2020 13:42:33,0,JH,84,0,1,
 Chhattisgarh,9427,6610,55,2762,01/08/2020 23:07:36,0,CT,0,0,0,
 Uttarakhand,7447,4330,83,2996,01/08/2020 22:18:41,38,UT,0,0,0,
 Goa,6193,4438,48,1707,01/08/2020 22:56:38,0,GA,0,0,0,
 Tripura,5248,3463,23,1744,02/08/2020 10:17:36,18,TR,0,0,0,
 Puducherry,3806,2309,52,1445,02/08/2020 14:59:33,0,PY,200,111,1,
-Manipur,2756,1699,6,1051,01/08/2020 22:00:39,0,MN,0,0,0,
+Manipur,2831,1737,7,1087,02/08/2020 20:14:40,0,MN,75,38,1,
 Himachal Pradesh,2654,1508,13,1116,02/08/2020 18:17:36,17,HP,20,6,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1466,1108,7,351,02/08/2020 19:22:35,0,LA,4,0,0,
 Nagaland,1935,648,4,1279,02/08/2020 19:22:37,4,NL,104,8,0,
 Arunachal Pradesh,1674,969,3,702,01/08/2020 23:17:39,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1117,698,19,399,02/08/2020 18:51:36,1,CH,38,15,1,
 Dadra and Nagar Haveli and Daman and Diu,1249,804,2,432,02/08/2020 19:06:38,11,DN,55,49,0,
-Meghalaya,868,254,5,609,02/08/2020 14:22:34,0,ML,12,2,0,"[June 17]:
+Meghalaya,874,264,5,605,02/08/2020 20:14:42,0,ML,18,12,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,650,269,1,380,01/08/2020 20:59:42,0,SK,0,0,0,
 Mizoram,468,258,0,209,02/08/2020 20:00:44,1,MZ,55,5,0,
-Andaman and Nicobar Islands,636,226,7,402,01/08/2020 20:52:39,1,AN,0,0,0,
+Andaman and Nicobar Islands,734,242,8,483,02/08/2020 20:14:43,1,AN,98,16,1,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
