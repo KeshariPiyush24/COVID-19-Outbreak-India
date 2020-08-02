@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1804702,1187228,38161,578879,02/08/2020 23:14:34,434,TT,52531,40213,756,
+Total,1804702,1187228,38161,578879,02/08/2020 23:17:32,434,TT,52531,40213,756,
 Maharashtra,441228,276809,15576,148537,02/08/2020 20:17:33,306,MH,9509,9926,260,"306 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -30,17 +30,17 @@ Kerala,25912,14463,83,11342,02/08/2020 18:51:34,24,KL,1169,688,1,"Mahe native wh
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 24 such cases have been reduced from active count"
 Punjab,17853,11466,423,5964,02/08/2020 20:28:42,0,PB,790,391,18,
-Jharkhand,12559,4682,118,7759,02/08/2020 23:14:37,0,JH,455,169,4,
+Jharkhand,12559,4682,118,7759,02/08/2020 23:17:34,0,JH,455,169,4,
 Chhattisgarh,9608,6991,58,2559,02/08/2020 20:42:34,0,CT,181,381,3,
 Uttarakhand,7593,4437,86,3032,02/08/2020 21:38:38,38,UT,146,107,3,
 Goa,6530,4668,53,1809,02/08/2020 21:38:43,0,GA,337,230,5,
 Tripura,5248,3463,23,1744,02/08/2020 10:17:36,18,TR,0,0,0,
 Puducherry,3806,2309,52,1445,02/08/2020 14:59:33,0,PY,200,111,1,
 Manipur,2831,1737,7,1087,02/08/2020 20:28:44,0,MN,75,38,1,
-Himachal Pradesh,2703,1559,13,1114,02/08/2020 23:13:38,17,HP,69,57,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,2703,1559,13,1114,02/08/2020 23:17:37,17,HP,69,57,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1466,1108,7,351,02/08/2020 19:22:35,0,LA,4,0,0,
 Nagaland,1935,648,4,1279,02/08/2020 19:22:37,4,NL,104,8,0,
-Arunachal Pradesh,1698,996,3,699,02/08/2020 23:13:40,0,AR,24,27,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Arunachal Pradesh,1698,996,3,699,02/08/2020 23:17:39,0,AR,24,27,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1117,698,19,399,02/08/2020 18:51:36,1,CH,38,15,1,
 Dadra and Nagar Haveli and Daman and Diu,1249,804,2,432,02/08/2020 19:06:38,11,DN,55,49,0,
 Meghalaya,874,264,5,605,02/08/2020 20:28:46,0,ML,18,12,0,"[June 17]:
