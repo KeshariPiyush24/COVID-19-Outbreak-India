@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1804702,1187228,38161,578879,02/08/2020 23:17:32,434,TT,0,0,0,
+Total,1804855,1187370,38165,578886,03/08/2020 08:52:39,434,TT,12,0,0,
 Maharashtra,441228,276809,15576,148537,02/08/2020 20:17:33,306,MH,0,0,0,"306 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -33,7 +33,7 @@ Jharkhand,12559,4682,118,7759,02/08/2020 23:17:34,0,JH,0,0,0,
 Chhattisgarh,9608,6991,58,2559,02/08/2020 20:42:34,0,CT,0,0,0,
 Uttarakhand,7593,4437,86,3032,02/08/2020 21:38:38,38,UT,0,0,0,
 Goa,6530,4668,53,1809,02/08/2020 21:38:43,0,GA,0,0,0,
-Tripura,5248,3463,23,1744,02/08/2020 10:17:36,18,TR,0,0,0,
+Tripura,5389,3605,27,1739,03/08/2020 08:52:42,18,TR,0,0,0,
 Puducherry,3806,2309,52,1445,02/08/2020 14:59:33,0,PY,0,0,0,
 Manipur,2831,1737,7,1087,02/08/2020 20:28:44,0,MN,0,0,0,
 Himachal Pradesh,2703,1559,13,1114,02/08/2020 23:17:37,17,HP,0,0,0,"HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
@@ -45,7 +45,7 @@ Dadra and Nagar Haveli and Daman and Diu,1249,804,2,432,02/08/2020 19:06:38,11,D
 Meghalaya,874,264,5,605,02/08/2020 20:28:46,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,658,289,1,368,02/08/2020 21:57:41,0,SK,0,0,0,
-Mizoram,470,258,0,211,02/08/2020 20:53:41,1,MZ,0,0,0,
+Mizoram,482,258,0,223,03/08/2020 08:51:49,1,MZ,12,0,0,
 Andaman and Nicobar Islands,734,242,8,483,02/08/2020 20:28:48,1,AN,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
