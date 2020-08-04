@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1862097,1233589,39044,589019,04/08/2020 15:46:35,445,TT,6766,3149,73,
+Total,1864561,1235841,39057,589218,04/08/2020 16:51:09,445,TT,9230,5401,86,
 Maharashtra,450196,287030,15842,147018,03/08/2020 21:53:33,306,MH,0,0,0,"306 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -18,7 +18,7 @@ West Bengal,78232,54818,1731,21683,03/08/2020 21:53:37,0,WB,0,0,0,
 Telangana,68946,49675,563,18708,04/08/2020 09:52:31,0,TG,1286,1066,12,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
 Rajasthan,46106,32157,727,13222,04/08/2020 11:08:34,0,RJ,551,106,8,
-Bihar,59567,38508,336,20722,03/08/2020 18:42:48,1,BR,0,0,0,
+Bihar,62031,40760,349,20921,04/08/2020 16:51:16,1,BR,2464,2252,13,
 Haryana,37173,30470,440,6263,03/08/2020 21:53:43,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Assam,45276,33429,109,11735,03/08/2020 23:11:36,3,AS,0,0,0,Includes 1 case from Nagaland
 Madhya Pradesh,34285,24099,900,9286,03/08/2020 19:36:49,0,MP,0,0,0,
