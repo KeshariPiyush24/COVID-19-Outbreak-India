@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1926642,1298528,40081,587583,05/08/2020 19:39:44,450,TT,20029,16868,261,
+Total,1926642,1298528,40081,587583,05/08/2020 19:52:44,450,TT,20029,16868,261,
 Maharashtra,457956,299356,16142,142151,04/08/2020 20:55:49,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,273460,214815,4461,54184,04/08/2020 20:55:51,0,TN,5175,6031,112,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,273460,214815,4461,54184,05/08/2020 19:52:47,0,TN,5175,6031,112,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -36,7 +36,7 @@ Goa,7075,5114,60,1901,04/08/2020 18:54:42,0,GA,0,0,0,
 Tripura,5643,3725,30,1870,05/08/2020 09:42:40,18,TR,123,50,2,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,4433,2668,65,1700,05/08/2020 18:14:04,0,PY,286,131,7,
-Manipur,3093,1862,7,1224,05/08/2020 19:39:48,0,MN,75,48,0,
+Manipur,3093,1862,7,1224,05/08/2020 19:44:49,0,MN,75,48,0,
 Himachal Pradesh,2883,1717,13,1125,05/08/2020 18:43:54,28,HP,4,7,0,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1534,1127,7,400,04/08/2020 22:00:56,0,LA,0,0,0,
 Nagaland,2498,685,6,1804,05/08/2020 19:31:56,3,NL,93,26,2,
