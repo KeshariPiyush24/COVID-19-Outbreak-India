@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1913782,1285929,39883,587521,05/08/2020 18:04:50,449,TT,7169,4269,63,
+Total,1913799,1285952,39883,587515,05/08/2020 18:14:45,449,TT,7175,4269,63,
 Maharashtra,457956,299356,16142,142151,04/08/2020 20:55:49,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -35,14 +35,14 @@ Uttarakhand,8008,4847,95,3028,04/08/2020 21:19:41,38,UT,0,0,0,
 Goa,7075,5114,60,1901,04/08/2020 18:54:42,0,GA,0,0,0,
 Tripura,5643,3725,30,1870,05/08/2020 09:42:40,18,TR,123,50,2,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,4433,2668,65,1700,05/08/2020 18:04:57,0,PY,286,131,7,
+Puducherry,4433,2668,65,1700,05/08/2020 18:14:04,0,PY,286,131,7,
 Manipur,3018,1814,7,1197,04/08/2020 18:50:49,0,MN,0,0,0,
 Himachal Pradesh,2879,1714,13,1124,05/08/2020 13:18:41,28,HP,0,4,0,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1534,1127,7,400,04/08/2020 22:00:56,0,LA,0,0,0,
 Nagaland,2499,659,4,1832,05/08/2020 16:42:50,4,NL,94,0,0,
 Arunachal Pradesh,1790,1105,3,682,04/08/2020 22:32:46,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1206,715,20,470,04/08/2020 19:55:51,1,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,1327,920,2,395,04/08/2020 18:50:54,10,DN,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,1344,943,2,389,05/08/2020 18:14:07,10,DN,6,0,0,
 Meghalaya,937,338,5,594,05/08/2020 13:32:42,0,ML,20,8,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,783,299,1,483,04/08/2020 22:09:46,0,SK,0,0,0,
