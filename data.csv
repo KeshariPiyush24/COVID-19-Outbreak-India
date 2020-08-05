@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,1959714,1324954,40732,593578,05/08/2020 21:39:34,450,TT,53101,43294,912,
+Total,1959714,1324954,40732,593578,05/08/2020 21:50:39,450,TT,53101,43294,912,
 Maharashtra,468265,305521,16476,145961,05/08/2020 20:40:01,307,MH,10309,6165,334,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,7 +31,7 @@ In total 31 such cases have been reduced from active count"
 Punjab,19856,12943,491,6422,05/08/2020 20:19:08,0,PB,841,452,29,
 Jharkhand,14070,5199,129,8742,04/08/2020 23:27:49,0,JH,0,0,0,
 Chhattisgarh,10407,7871,71,2465,05/08/2020 21:17:50,0,CT,205,258,2,
-Uttarakhand,8254,5233,98,2885,05/08/2020 21:39:36,38,UT,246,386,3,
+Uttarakhand,8254,5233,98,2885,05/08/2020 21:50:44,38,UT,246,386,3,
 Goa,7423,5287,64,2072,05/08/2020 21:04:48,0,GA,348,173,4,
 Tripura,5642,3725,30,1869,05/08/2020 21:17:52,18,TR,122,50,2,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
