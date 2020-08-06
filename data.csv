@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2016984,1371225,41538,603767,06/08/2020 21:05:40,454,TT,53745,43982,799,
+Total,2021407,1374420,41627,604906,06/08/2020 21:23:40,454,TT,58168,47177,888,
 Maharashtra,479779,316375,16792,146305,06/08/2020 20:42:51,307,MH,11514,10854,316,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -10,11 +10,11 @@ Tamil Nadu,279144,221087,4571,53486,06/08/2020 19:44:47,0,TN,5684,6272,110,"[Jul
 These cases have been added to TN deceased tally"
 Delhi,141531,127124,4059,10348,06/08/2020 18:39:45,0,DL,1299,1008,15,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Karnataka,158254,80281,2897,75067,06/08/2020 21:05:44,9,KA,6805,5602,93,
+Karnataka,158254,80281,2897,75067,06/08/2020 21:19:51,9,KA,6805,5602,93,
 Andhra Pradesh,196789,112870,1753,82166,06/08/2020 19:45:03,0,AP,10328,8516,72,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,108974,63402,1918,43654,06/08/2020 17:53:49,0,UP,4586,2844,61,
-Gujarat,66777,49607,2552,14618,06/08/2020 11:26:01,0,GJ,0,0,0,
-West Bengal,83800,58962,1846,22992,06/08/2020 11:26:04,0,WB,0,0,0,
+Gujarat,67811,50524,2579,14708,06/08/2020 21:23:42,0,GJ,1034,917,27,
+West Bengal,86754,61023,1902,23829,06/08/2020 21:23:45,0,WB,2954,2061,56,
 Telangana,73050,52103,589,20358,06/08/2020 11:26:06,0,TG,2092,1289,13,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
 Rajasthan,48384,34318,753,13313,06/08/2020 11:26:09,0,RJ,539,469,8,
@@ -28,9 +28,9 @@ Jammu and Kashmir,23454,15708,436,7310,06/08/2020 18:19:43,0,JK,499,464,10,
 Kerala,30449,18333,98,11983,06/08/2020 20:08:58,35,KL,1298,800,3,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 35 such cases have been reduced from active count"
-Punjab,20891,13659,517,6715,06/08/2020 21:05:47,0,PB,1035,716,26,
+Punjab,20891,13659,517,6715,06/08/2020 21:19:59,0,PB,1035,716,26,
 Jharkhand,15130,5914,142,9074,06/08/2020 14:51:41,0,JH,82,88,6,
-Chhattisgarh,10497,7871,71,2555,06/08/2020 11:26:32,0,CT,0,0,0,
+Chhattisgarh,10932,8088,77,2767,06/08/2020 21:23:48,0,CT,435,217,6,
 Uttarakhand,8552,5427,98,2989,06/08/2020 20:44:59,38,UT,298,194,0,
 Goa,7614,5453,66,2095,06/08/2020 19:39:50,0,GA,191,166,2,
 Tripura,5740,3793,31,1898,06/08/2020 11:43:39,18,TR,98,68,1,"[Aug 4]
