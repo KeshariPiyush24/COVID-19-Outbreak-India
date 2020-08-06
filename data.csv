@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2025128,1375287,41631,607756,06/08/2020 22:26:37,454,TT,61889,48044,892,
+Total,2025216,1377299,41634,605829,06/08/2020 22:49:46,454,TT,61977,50056,895,
 Maharashtra,479779,316375,16792,146305,06/08/2020 20:42:51,307,MH,11514,10854,316,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -20,7 +20,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 Rajasthan,48996,35131,757,13108,06/08/2020 21:54:44,0,RJ,1151,1282,12,
 Bihar,68148,43820,388,23939,06/08/2020 17:29:43,1,BR,3416,1450,19,
 Haryana,39303,32640,458,6205,06/08/2020 20:29:05,0,HR,755,680,3,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Assam,52818,35893,126,16796,06/08/2020 22:26:41,3,AS,2372,0,5,Includes 1 case from Nagaland
+Assam,52818,37225,126,15464,06/08/2020 22:49:49,3,AS,2372,1332,5,Includes 1 case from Nagaland
 Madhya Pradesh,36564,26902,946,8716,06/08/2020 19:55:50,0,MP,830,838,17,
 Odisha,40717,26888,280,13549,06/08/2020 20:44:03,0,OR,1699,1150,11,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -29,8 +29,8 @@ Kerala,30449,18333,98,11983,06/08/2020 20:08:58,35,KL,1298,800,3,"Mahe native wh
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 35 such cases have been reduced from active count"
 Punjab,20891,13659,517,6715,06/08/2020 21:19:59,0,PB,1035,716,26,
-Jharkhand,15756,5914,142,9700,06/08/2020 14:51:41,0,JH,708,88,6,
-Chhattisgarh,10932,8088,77,2767,06/08/2020 21:28:45,0,CT,435,217,6,
+Jharkhand,15756,6594,145,9017,06/08/2020 22:49:52,0,JH,708,768,9,
+Chhattisgarh,11020,8088,77,2855,06/08/2020 22:49:53,0,CT,523,217,6,
 Uttarakhand,8552,5427,98,2989,06/08/2020 20:44:59,38,UT,298,194,0,
 Goa,7614,5453,66,2095,06/08/2020 19:39:50,0,GA,191,166,2,
 Tripura,5740,3793,31,1898,06/08/2020 11:43:39,18,TR,98,68,1,"[Aug 4]
