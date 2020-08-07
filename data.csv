@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2086483,1425819,42561,617645,07/08/2020 22:38:31,458,TT,61074,48435,923,
+Total,2086506,1427457,42561,616030,07/08/2020 22:49:32,458,TT,61097,50073,923,
 Maharashtra,490262,327281,17092,145582,07/08/2020 21:00:33,307,MH,10483,10906,300,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,10 +17,10 @@ Gujarat,68885,51894,2601,14390,07/08/2020 21:55:35,0,GJ,1074,1370,22,
 West Bengal,89666,63060,1954,24652,07/08/2020 21:55:37,0,WB,2912,2037,52,
 Telangana,75257,53239,601,21417,07/08/2020 09:18:03,0,TG,2207,1136,12,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
-Rajasthan,50159,36195,767,13197,07/08/2020 22:38:33,0,RJ,1163,1064,10,
+Rajasthan,50157,36195,767,13195,07/08/2020 22:49:36,0,RJ,1161,1064,10,
 Bihar,71794,46265,400,25128,07/08/2020 16:02:32,1,BR,3646,2445,12,
 Haryana,40054,33444,467,6143,07/08/2020 20:03:52,0,HR,751,804,9,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Assam,55497,37225,132,18137,07/08/2020 21:55:40,3,AS,2679,0,6,Includes 1 case from Nagaland
+Assam,55497,38810,132,16552,07/08/2020 22:49:38,3,AS,2679,1585,6,Includes 1 case from Nagaland
 Madhya Pradesh,37298,27621,962,8715,07/08/2020 19:53:41,0,MP,734,719,16,
 Odisha,42550,28698,292,13560,07/08/2020 20:17:31,0,OR,1833,1810,12,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -29,7 +29,7 @@ Kerala,31700,19147,103,12411,07/08/2020 20:46:36,39,KL,1251,814,5,"Mahe native w
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 39 such cases have been reduced from active count"
 Punjab,21930,14040,539,7351,07/08/2020 22:14:28,0,PB,1039,381,22,
-Jharkhand,16482,7491,151,8840,07/08/2020 22:38:35,0,JH,726,897,6,
+Jharkhand,16482,7491,151,8840,07/08/2020 22:42:45,0,JH,726,897,6,
 Chhattisgarh,11328,8309,83,2936,07/08/2020 22:01:46,0,CT,308,221,6,
 Uttarakhand,8623,5427,102,3056,06/08/2020 23:46:40,38,UT,0,0,0,
 Goa,7947,5595,70,2282,07/08/2020 20:46:38,0,GA,333,142,4,
@@ -45,7 +45,7 @@ Chandigarh,1374,820,23,530,07/08/2020 18:46:34,1,CH,47,43,3,
 Dadra and Nagar Haveli and Daman and Diu,1459,1038,2,409,07/08/2020 18:02:31,10,DN,44,41,0,
 Meghalaya,1006,411,5,590,07/08/2020 22:14:35,0,ML,16,66,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
-Sikkim,829,353,1,475,06/08/2020 23:01:46,0,SK,0,0,0,
+Sikkim,854,406,1,447,07/08/2020 22:49:42,0,SK,25,53,0,
 Mizoram,559,288,0,270,07/08/2020 17:29:31,1,MZ,21,0,0,"""Other"" case in MZ is a patient who 'migrated-in'. Although state bulletin consider this case only in the  'Active' count, we have added this in both Confirmed and Active count"
 Andaman and Nicobar Islands,1222,425,19,778,07/08/2020 21:55:52,0,AN,99,70,3,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
