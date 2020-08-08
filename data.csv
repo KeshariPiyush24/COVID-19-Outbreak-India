@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2127960,1460879,43116,623504,08/08/2020 20:24:32,461,TT,41096,33108,541,
-Maharashtra,503084,338362,17367,147048,08/08/2020 20:24:35,307,MH,12822,11081,275,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,2127960,1460879,43124,623496,08/08/2020 20:38:35,461,TT,41096,33108,549,
+Maharashtra,503084,338362,17367,147048,08/08/2020 20:29:36,307,MH,12822,11081,275,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
@@ -20,9 +20,9 @@ Telangana bulletin for the previous day is released on the next day. We will add
 Rajasthan,50656,36310,776,13570,08/08/2020 11:17:35,0,RJ,499,115,9,
 Bihar,75786,48673,419,26693,08/08/2020 19:27:36,1,BR,3992,2408,19,
 Haryana,40054,33444,467,6143,07/08/2020 20:03:52,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Assam,55497,38810,132,16552,07/08/2020 22:54:37,3,AS,0,0,0,Includes 1 case from Nagaland
+Assam,55497,38810,140,16544,08/08/2020 20:38:39,3,AS,0,0,8,Includes 1 case from Nagaland
 Madhya Pradesh,37298,27621,962,8715,07/08/2020 19:53:41,0,MP,0,0,0,
-Odisha,44193,30242,307,13644,08/08/2020 20:24:38,0,OR,1643,1544,15,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,44193,30242,307,13644,08/08/2020 20:29:40,0,OR,1643,1544,15,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,24390,16667,459,7264,08/08/2020 18:52:34,0,JK,463,449,10,
 Kerala,33120,20862,107,12109,08/08/2020 19:27:40,42,KL,1420,1715,4,"Mahe native who expired in Kannur included in Kerala's deceased tally.
