@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2089274,1429087,42590,617140,08/08/2020 11:04:33,457,TT,2410,1316,15,
+Total,2089773,1429202,42599,617515,08/08/2020 11:14:33,457,TT,2909,1431,24,
 Maharashtra,490262,327281,17092,145582,07/08/2020 21:00:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -17,7 +17,7 @@ Gujarat,68885,51894,2601,14390,07/08/2020 21:55:35,0,GJ,0,0,0,
 West Bengal,89666,63060,1954,24652,07/08/2020 21:55:37,0,WB,0,0,0,
 Telangana,77513,54330,615,22568,08/08/2020 09:35:35,0,TG,2256,1091,14,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
-Rajasthan,50157,36195,767,13195,07/08/2020 22:54:31,0,RJ,0,0,0,
+Rajasthan,50656,36310,776,13570,08/08/2020 11:14:37,0,RJ,499,115,9,
 Bihar,71794,46265,400,25128,07/08/2020 16:02:32,1,BR,0,0,0,
 Haryana,40054,33444,467,6143,07/08/2020 20:03:52,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Assam,55497,38810,132,16552,07/08/2020 22:54:37,3,AS,0,0,0,Includes 1 case from Nagaland
@@ -33,7 +33,7 @@ Jharkhand,16482,7491,151,8840,07/08/2020 22:42:45,0,JH,0,0,0,
 Chhattisgarh,11408,8319,87,3002,07/08/2020 23:28:36,0,CT,0,0,0,
 Uttarakhand,8901,5731,112,3020,07/08/2020 23:43:47,38,UT,0,0,0,
 Goa,7947,5595,70,2282,07/08/2020 20:46:38,0,GA,0,0,0,
-Tripura,6014,4084,37,1875,08/08/2020 11:04:38,18,TR,146,224,1,"[Aug 4]
+Tripura,6014,4084,37,1875,08/08/2020 11:07:37,18,TR,146,224,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,4862,2914,75,1873,07/08/2020 17:46:34,0,PY,0,0,0,
 Manipur,3466,1926,10,1530,07/08/2020 21:55:45,0,MN,0,0,0,
