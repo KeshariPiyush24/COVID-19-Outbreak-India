@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2151899,1479694,43453,628290,08/08/2020 22:49:32,462,TT,65035,52025,875,
+Total,2151901,1479700,43453,628286,08/08/2020 22:55:31,462,TT,65037,52031,875,
 Maharashtra,503084,338362,17367,147048,08/08/2020 20:29:36,307,MH,12822,11081,275,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -30,7 +30,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 42 such cases have been reduced from active count"
 Punjab,22928,14860,562,7506,08/08/2020 20:20:43,0,PB,998,820,23,
 Jharkhand,17468,8325,160,8983,08/08/2020 22:37:35,0,JH,986,834,9,
-Chhattisgarh,11804,8582,90,3132,08/08/2020 22:49:34,0,CT,396,263,3,
+Chhattisgarh,11804,8582,90,3132,08/08/2020 22:52:36,0,CT,396,263,3,
 Uttarakhand,9402,5963,117,3283,08/08/2020 22:17:36,39,UT,501,232,5,
 Goa,8206,5802,72,2332,08/08/2020 21:03:02,0,GA,259,207,2,
 Tripura,6014,4084,37,1875,08/08/2020 11:07:37,18,TR,146,224,1,"[Aug 4]
@@ -42,7 +42,7 @@ Ladakh,1639,1214,9,416,08/08/2020 21:53:46,0,LA,25,20,0,
 Nagaland,2688,893,7,1785,08/08/2020 18:27:40,3,NL,31,69,0,
 Arunachal Pradesh,2049,1326,3,720,07/08/2020 22:27:38,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1426,872,24,529,08/08/2020 18:17:38,1,CH,52,52,1,
-Dadra and Nagar Haveli and Daman and Diu,1508,1083,2,413,08/08/2020 22:17:40,10,DN,49,45,0,
+Dadra and Nagar Haveli and Daman and Diu,1510,1089,2,409,08/08/2020 22:55:39,10,DN,51,51,0,
 Meghalaya,1023,423,6,594,08/08/2020 14:46:40,0,ML,17,12,1,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,860,417,1,442,08/08/2020 22:17:42,0,SK,6,11,0,
