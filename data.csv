@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2091810,1429427,42623,619303,08/08/2020 17:12:31,457,TT,4946,1656,48,
+Total,2091810,1429427,42623,619303,08/08/2020 17:16:41,457,TT,4946,1656,48,
 Maharashtra,490262,327281,17092,145582,08/08/2020 12:43:37,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -46,7 +46,7 @@ Dadra and Nagar Haveli and Daman and Diu,1459,1038,2,409,07/08/2020 18:02:31,10,
 Meghalaya,1023,423,6,594,08/08/2020 14:46:40,0,ML,17,12,1,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,854,406,1,447,07/08/2020 22:54:44,0,SK,0,0,0,
-Mizoram,567,296,0,270,08/08/2020 17:12:37,1,MZ,8,8,0,"""Other"" case in MZ is a patient who 'migrated-in'. Although state bulletin consider this case only in the  'Active' count, we have added this in both Confirmed and Active count"
+Mizoram,567,296,0,270,08/08/2020 17:17:13,1,MZ,8,8,0,"""Other"" case in MZ is a patient who 'migrated-in'. Although state bulletin consider this case only in the  'Active' count, we have added this in both Confirmed and Active count"
 Andaman and Nicobar Islands,1222,425,19,778,07/08/2020 21:55:52,0,AN,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
