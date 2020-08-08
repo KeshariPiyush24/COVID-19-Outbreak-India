@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2091416,1429202,42599,619158,08/08/2020 12:08:33,457,TT,4552,1431,24,
-Maharashtra,490262,327281,17092,145582,07/08/2020 21:00:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,2091416,1429202,42599,619158,08/08/2020 12:43:35,457,TT,4552,1431,24,
+Maharashtra,490262,327281,17092,145582,08/08/2020 12:43:37,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,285024,227575,4690,52759,07/08/2020 19:19:32,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,285024,227575,4690,52759,08/08/2020 12:43:40,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
