@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2152020,1479804,43453,628302,09/08/2020 07:39:31,461,TT,0,0,0,
+Total,2152046,1479804,43453,628328,09/08/2020 07:51:30,461,TT,26,0,0,
 Maharashtra,503084,338362,17367,147048,08/08/2020 20:29:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -16,7 +16,9 @@ Uttar Pradesh,118038,69833,2028,46177,08/08/2020 18:17:35,0,UP,0,0,0,
 Gujarat,69986,52927,2627,14432,08/08/2020 22:17:34,0,GJ,0,0,0,
 West Bengal,92615,65124,2005,25486,08/08/2020 21:17:34,0,WB,0,0,0,
 Telangana,77513,54330,615,22568,08/08/2020 09:35:35,0,TG,0,0,0,"[July 27]
-Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
+Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
+--
+District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Rajasthan,51328,37163,778,13387,08/08/2020 21:53:37,0,RJ,0,0,0,
 Bihar,75786,48673,419,26693,08/08/2020 19:27:36,1,BR,0,0,0,
 Haryana,40843,34031,474,6338,08/08/2020 21:02:34,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
@@ -46,7 +48,7 @@ Dadra and Nagar Haveli and Daman and Diu,1510,1089,2,409,08/08/2020 22:59:35,10,
 Meghalaya,1023,423,6,594,08/08/2020 14:46:40,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,860,417,1,442,08/08/2020 22:17:42,0,SK,0,0,0,
-Mizoram,567,296,0,271,09/08/2020 07:39:34,0,MZ,0,0,0,"""Other"" case in MZ is a patient who 'migrated-in'. Although state bulletin consider this case only in the  'Active' count, we have added this in both Confirmed and Active count"
+Mizoram,593,296,0,297,09/08/2020 07:51:32,0,MZ,26,0,0,
 Andaman and Nicobar Islands,1351,500,20,831,08/08/2020 21:03:05,0,AN,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
