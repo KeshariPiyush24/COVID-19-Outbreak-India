@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2188560,1507724,43869,636503,09/08/2020 19:58:31,464,TT,36540,27920,416,
+Total,2188790,1507895,43877,636554,09/08/2020 20:04:31,464,TT,36770,28091,424,
 Maharashtra,503084,338362,17367,147048,08/08/2020 20:29:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -13,7 +13,7 @@ Delhi,145427,130587,4111,10729,09/08/2020 17:07:32,0,DL,1300,1225,13,"[July 14]:
 Karnataka,172102,89238,3091,79764,08/08/2020 21:27:33,9,KA,0,0,0,
 Andhra Pradesh,227860,138712,2036,87112,09/08/2020 19:53:37,0,AP,10820,9097,97,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,122609,72650,2069,47890,09/08/2020 17:44:33,0,UP,4571,2817,41,
-Gujarat,71064,54238,2652,14174,09/08/2020 19:58:33,0,GJ,1078,1311,25,
+Gujarat,71064,54238,2652,14174,09/08/2020 20:04:33,0,GJ,1078,1311,25,
 West Bengal,92615,65124,2005,25486,08/08/2020 21:17:34,0,WB,0,0,0,
 Telangana,79495,55999,627,22869,09/08/2020 09:23:33,0,TG,1982,1669,12,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
@@ -33,7 +33,7 @@ In total 43 such cases have been reduced from active count"
 Punjab,23903,15319,586,7998,09/08/2020 19:42:39,0,PB,975,459,24,
 Jharkhand,17626,8391,168,9067,09/08/2020 12:42:34,0,JH,158,66,8,
 Chhattisgarh,11855,8582,90,3183,08/08/2020 23:27:34,0,CT,0,0,0,
-Uttarakhand,9402,5963,117,3283,08/08/2020 22:17:36,39,UT,0,0,0,
+Uttarakhand,9632,6134,125,3334,09/08/2020 20:04:35,39,UT,230,171,8,
 Goa,8206,5802,72,2332,08/08/2020 21:03:02,0,GA,0,0,0,
 Tripura,6161,4176,41,1926,09/08/2020 13:05:33,18,TR,147,92,4,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
