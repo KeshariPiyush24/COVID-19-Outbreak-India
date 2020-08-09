@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2168631,1489975,43585,634610,09/08/2020 18:24:31,461,TT,16611,10171,132,
+Total,2168631,1489975,43585,634610,09/08/2020 18:27:31,461,TT,16611,10171,132,
 Maharashtra,503084,338362,17367,147048,08/08/2020 20:29:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -27,7 +27,7 @@ Madhya Pradesh,38157,28353,977,8827,08/08/2020 21:27:38,0,MP,0,0,0,
 Odisha,45927,30242,321,15364,09/08/2020 11:25:33,0,OR,1734,0,14,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,24897,17003,472,7422,09/08/2020 18:17:35,0,JK,507,336,13,
-Kerala,34331,21832,109,12348,09/08/2020 18:24:33,42,KL,1211,970,2,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,34331,21832,109,12348,09/08/2020 18:27:33,42,KL,1211,970,2,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 42 such cases have been reduced from active count"
 Punjab,22928,14860,562,7506,08/08/2020 20:20:43,0,PB,0,0,0,
