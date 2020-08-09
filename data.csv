@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2156756,1481825,43498,630972,09/08/2020 12:56:31,461,TT,4736,2021,45,
+Total,2156756,1481825,43498,630972,09/08/2020 13:00:31,461,TT,4736,2021,45,
 Maharashtra,503084,338362,17367,147048,08/08/2020 20:29:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -35,7 +35,7 @@ Jharkhand,17626,8391,168,9067,09/08/2020 12:42:34,0,JH,158,66,8,
 Chhattisgarh,11855,8582,90,3183,08/08/2020 23:27:34,0,CT,0,0,0,
 Uttarakhand,9402,5963,117,3283,08/08/2020 22:17:36,39,UT,0,0,0,
 Goa,8206,5802,72,2332,08/08/2020 21:03:02,0,GA,0,0,0,
-Tripura,6161,4176,41,1926,09/08/2020 12:56:33,18,TR,147,92,4,"[Aug 4]
+Tripura,6161,4176,41,1926,09/08/2020 13:00:34,18,TR,147,92,4,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,5123,3054,80,1989,08/08/2020 16:44:36,0,PY,0,0,0,
 Manipur,3635,1927,11,1697,08/08/2020 18:52:37,0,MN,0,0,0,
