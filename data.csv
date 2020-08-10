@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2226571,1544878,44599,636630,10/08/2020 19:08:35,464,TT,12434,10600,133,
+Total,2235677,1552545,44703,637965,10/08/2020 19:43:33,464,TT,21540,18267,237,
 Maharashtra,515332,351710,17757,145558,09/08/2020 21:07:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -11,7 +11,7 @@ These cases have been added to TN deceased tally"
 Delhi,146134,131657,4131,10346,10/08/2020 18:27:35,0,DL,707,1070,20,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,178087,93908,3198,80972,09/08/2020 20:17:41,9,KA,0,0,0,
-Andhra Pradesh,227860,138712,2036,87112,09/08/2020 19:53:37,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,235525,145636,2116,87773,10/08/2020 19:28:36,0,AP,7665,6924,80,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,126722,76724,2120,47878,10/08/2020 18:27:37,0,UP,4113,4074,51,
 Gujarat,71064,54238,2652,14174,09/08/2020 20:11:38,0,GJ,0,0,0,
 West Bengal,95554,67120,2059,26375,09/08/2020 20:27:34,0,WB,0,0,0,
@@ -30,20 +30,20 @@ Jammu and Kashmir,25367,17375,478,7514,10/08/2020 18:38:38,0,JK,470,372,6,
 Kerala,34331,21832,109,12347,09/08/2020 19:17:33,43,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 43 such cases have been reduced from active count"
-Punjab,23903,15319,586,7998,09/08/2020 19:42:39,0,PB,0,0,0,
+Punjab,24889,15735,604,8550,10/08/2020 19:42:36,0,PB,986,416,18,
 Jharkhand,18156,8998,177,8981,09/08/2020 23:14:33,0,JH,0,0,0,
 Chhattisgarh,12148,8809,96,3243,09/08/2020 21:27:35,0,CT,0,0,0,
 Uttarakhand,9632,6134,125,3334,09/08/2020 20:11:43,39,UT,0,0,0,
-Goa,8712,5995,75,2642,09/08/2020 20:41:36,0,GA,0,0,0,
+Goa,9029,6208,80,2741,10/08/2020 19:42:39,0,GA,317,213,5,
 Tripura,6223,4443,42,1720,10/08/2020 12:18:38,18,TR,62,267,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,5624,3355,89,2180,10/08/2020 18:52:36,0,PY,242,154,2,
 Manipur,3853,2122,11,1720,10/08/2020 19:08:41,0,MN,100,78,0,
-Himachal Pradesh,3375,2181,14,1152,10/08/2020 13:55:33,28,HP,4,0,0,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,3433,2195,15,1195,10/08/2020 19:28:39,28,HP,62,14,1,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1688,1222,9,457,10/08/2020 07:31:36,0,LA,0,0,0,
 Nagaland,3011,904,8,2096,10/08/2020 17:18:35,3,NL,230,0,0,
 Arunachal Pradesh,2155,1482,3,670,09/08/2020 21:42:44,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Chandigarh,1515,904,25,585,09/08/2020 20:27:39,1,CH,0,0,0,
+Chandigarh,1595,1004,25,565,10/08/2020 19:42:41,1,CH,80,100,0,
 Dadra and Nagar Haveli and Daman and Diu,1594,1139,2,441,10/08/2020 18:05:37,12,DN,39,22,0,
 Meghalaya,1114,498,6,610,10/08/2020 13:28:35,0,ML,52,8,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
