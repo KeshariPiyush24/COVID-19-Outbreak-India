@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2217918,1536306,44499,636649,10/08/2020 17:57:33,464,TT,3781,2028,33,
+Total,2218625,1537376,44519,636266,10/08/2020 18:06:33,464,TT,4488,3098,53,
 Maharashtra,515332,351710,17757,145558,09/08/2020 21:07:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -8,7 +8,7 @@ Tamil Nadu,296901,238638,4927,53336,09/08/2020 19:07:32,0,TN,0,0,0,"[July 22]: 4
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,145427,130587,4111,10729,09/08/2020 17:07:32,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,146134,131657,4131,10346,10/08/2020 18:06:35,0,DL,707,1070,20,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,178087,93908,3198,80972,09/08/2020 20:17:41,9,KA,0,0,0,
 Andhra Pradesh,227860,138712,2036,87112,09/08/2020 19:53:37,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
@@ -44,7 +44,7 @@ Ladakh,1688,1222,9,457,10/08/2020 07:31:36,0,LA,0,0,0,
 Nagaland,3011,904,8,2096,10/08/2020 17:18:35,3,NL,230,0,0,
 Arunachal Pradesh,2155,1482,3,670,09/08/2020 21:42:44,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1515,904,25,585,09/08/2020 20:27:39,1,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,1594,1139,2,441,10/08/2020 17:57:38,12,DN,39,22,0,
+Dadra and Nagar Haveli and Daman and Diu,1594,1139,2,441,10/08/2020 18:05:37,12,DN,39,22,0,
 Meghalaya,1114,498,6,610,10/08/2020 13:28:35,0,ML,52,8,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,866,497,1,368,09/08/2020 22:17:34,0,SK,0,0,0,
