@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2217531,1535984,44482,636601,10/08/2020 11:49:34,464,TT,3394,1706,16,
+Total,2217531,1535984,44498,636585,10/08/2020 12:06:33,464,TT,3394,1706,32,
 Maharashtra,515332,351710,17757,145558,09/08/2020 21:07:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -24,7 +24,7 @@ Bihar,79720,51315,429,27975,09/08/2020 17:58:33,1,BR,0,0,0,
 Haryana,41635,34781,483,6371,09/08/2020 20:17:45,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Assam,58838,42326,145,16364,09/08/2020 23:27:34,3,AS,0,0,0,Includes 1 case from Nagaland
 Madhya Pradesh,39025,29020,996,9009,09/08/2020 19:42:37,0,MP,0,0,0,
-Odisha,47455,31785,321,15349,10/08/2020 11:49:39,0,OR,1528,0,0,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,47455,31785,337,15333,10/08/2020 12:06:38,0,OR,1528,0,16,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,24897,17003,472,7422,09/08/2020 18:17:35,0,JK,0,0,0,
 Kerala,34331,21832,109,12347,09/08/2020 19:17:33,43,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
