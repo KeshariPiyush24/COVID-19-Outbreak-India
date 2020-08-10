@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2217649,1536259,44499,636427,10/08/2020 13:55:31,464,TT,3512,1981,33,
+Total,2217879,1536259,44499,636657,10/08/2020 17:14:33,464,TT,3742,1981,33,
 Maharashtra,515332,351710,17757,145558,09/08/2020 21:07:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -41,7 +41,7 @@ Puducherry,5382,3201,87,2094,09/08/2020 17:26:36,0,PY,0,0,0,
 Manipur,3753,2044,11,1698,09/08/2020 19:17:34,0,MN,0,0,0,
 Himachal Pradesh,3375,2181,14,1152,10/08/2020 13:55:33,28,HP,4,0,0,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1688,1222,9,457,10/08/2020 07:31:36,0,LA,0,0,0,
-Nagaland,2781,904,8,1866,09/08/2020 18:17:37,3,NL,0,0,0,
+Nagaland,3011,904,8,2096,10/08/2020 17:14:35,3,NL,230,0,0,
 Arunachal Pradesh,2155,1482,3,670,09/08/2020 21:42:44,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1515,904,25,585,09/08/2020 20:27:39,1,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,1555,1117,2,424,09/08/2020 19:42:43,12,DN,0,0,0,
