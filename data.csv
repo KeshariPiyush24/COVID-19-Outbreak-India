@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2218625,1537376,44519,636266,10/08/2020 18:06:33,464,TT,4488,3098,53,
+Total,2225759,1544274,44591,636430,10/08/2020 18:17:33,464,TT,11622,9996,125,
 Maharashtra,515332,351710,17757,145558,09/08/2020 21:07:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -8,11 +8,11 @@ Tamil Nadu,296901,238638,4927,53336,09/08/2020 19:07:32,0,TN,0,0,0,"[July 22]: 4
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,146134,131657,4131,10346,10/08/2020 18:06:35,0,DL,707,1070,20,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,146134,131657,4131,10346,10/08/2020 18:17:36,0,DL,707,1070,20,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,178087,93908,3198,80972,09/08/2020 20:17:41,9,KA,0,0,0,
 Andhra Pradesh,227860,138712,2036,87112,09/08/2020 19:53:37,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Uttar Pradesh,122609,72650,2069,47890,09/08/2020 17:44:33,0,UP,0,0,0,
+Uttar Pradesh,126722,76724,2120,47878,10/08/2020 18:17:39,0,UP,4113,4074,51,
 Gujarat,71064,54238,2652,14174,09/08/2020 20:11:38,0,GJ,0,0,0,
 West Bengal,95554,67120,2059,26375,09/08/2020 20:27:34,0,WB,0,0,0,
 Telangana,80751,57586,637,22528,10/08/2020 09:43:37,0,TG,1256,1587,10,"[July 27]
@@ -20,7 +20,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Rajasthan,53095,38354,795,13946,10/08/2020 11:49:36,0,RJ,598,119,6,
-Bihar,79720,51315,429,27975,09/08/2020 17:58:33,1,BR,0,0,0,
+Bihar,82741,54139,450,28151,10/08/2020 18:17:41,1,BR,3021,2824,21,
 Haryana,41635,34781,483,6371,09/08/2020 20:17:45,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Assam,58838,42326,145,16364,09/08/2020 23:27:34,3,AS,0,0,0,Includes 1 case from Nagaland
 Madhya Pradesh,39025,29020,996,9009,09/08/2020 19:42:37,0,MP,0,0,0,
