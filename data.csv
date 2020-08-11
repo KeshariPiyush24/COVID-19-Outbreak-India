@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2271218,1583865,45384,641502,11/08/2020 15:58:34,467,TT,4065,2225,31,
+Total,2271586,1584162,45388,641569,11/08/2020 16:48:34,467,TT,4433,2522,35,
 Maharashtra,524513,358421,18050,147735,10/08/2020 21:40:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,13 +31,13 @@ Kerala,35515,22616,116,12737,10/08/2020 21:05:39,46,KL,0,0,0,"Mahe native who ex
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 46 such cases have been reduced from active count"
 Punjab,24889,15735,604,8550,10/08/2020 19:48:37,0,PB,0,0,0,
-Jharkhand,18786,9748,189,8849,10/08/2020 22:20:35,0,JH,0,0,0,
+Jharkhand,18878,9873,191,8814,11/08/2020 16:48:40,0,JH,92,125,2,
 Chhattisgarh,12625,9017,99,3509,10/08/2020 23:27:12,0,CT,0,0,0,
 Uttarakhand,10021,6301,134,3547,10/08/2020 22:01:45,39,UT,0,0,0,
 Goa,9029,6208,80,2741,10/08/2020 19:48:39,0,GA,0,0,0,
 Tripura,6387,4656,43,1670,11/08/2020 15:23:43,18,TR,164,213,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,5624,3355,89,2180,10/08/2020 18:52:36,0,PY,0,0,0,
+Puducherry,5900,3527,91,2282,11/08/2020 16:48:41,0,PY,276,172,2,
 Manipur,3853,2122,11,1720,10/08/2020 19:08:41,0,MN,0,0,0,
 Himachal Pradesh,3463,2205,16,1214,11/08/2020 01:27:35,28,HP,0,0,0,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1717,1237,9,471,10/08/2020 22:39:38,0,LA,0,0,0,
