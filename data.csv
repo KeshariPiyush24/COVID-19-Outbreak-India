@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2277191,1588631,45456,642637,11/08/2020 18:09:34,467,TT,10038,6991,103,
+Total,2287472,1598476,45551,642978,11/08/2020 18:24:35,467,TT,20319,16836,198,
 Maharashtra,524513,358421,18050,147735,10/08/2020 21:40:33,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -8,10 +8,10 @@ Tamil Nadu,302815,244675,5041,53099,10/08/2020 20:28:35,0,TN,0,0,0,"[July 22]: 4
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Delhi,146134,131657,4131,10346,10/08/2020 18:27:35,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,147391,132384,4139,10868,11/08/2020 18:24:36,0,DL,1257,727,8,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Karnataka,182354,99126,3312,79907,10/08/2020 22:01:39,9,KA,0,0,0,
-Andhra Pradesh,235525,145636,2116,87773,10/08/2020 19:28:36,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,244549,154749,2203,87597,11/08/2020 18:24:39,0,AP,9024,9113,87,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,131763,80589,2176,48998,11/08/2020 17:59:36,0,UP,5041,3865,56,
 Gujarat,72120,55376,2672,14072,10/08/2020 22:01:41,0,GJ,0,0,0,
 West Bengal,98459,70328,2100,26031,10/08/2020 21:40:39,0,WB,0,0,0,
@@ -37,7 +37,7 @@ Uttarakhand,10021,6301,134,3547,10/08/2020 22:01:45,39,UT,0,0,0,
 Goa,9029,6208,80,2741,10/08/2020 19:48:39,0,GA,0,0,0,
 Tripura,6387,4656,43,1670,11/08/2020 15:23:43,18,TR,164,213,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,5900,3527,91,2282,11/08/2020 16:52:39,0,PY,276,172,2,
+Puducherry,5900,3532,91,2277,11/08/2020 18:24:41,0,PY,276,177,2,
 Manipur,3853,2122,11,1720,10/08/2020 19:08:41,0,MN,0,0,0,
 Himachal Pradesh,3463,2205,16,1214,11/08/2020 01:27:35,28,HP,0,0,0,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1717,1237,9,471,10/08/2020 22:39:38,0,LA,0,0,0,
