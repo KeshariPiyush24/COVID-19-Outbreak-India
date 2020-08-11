@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2325026,1635842,46185,642526,11/08/2020 21:52:39,473,TT,57873,54202,832,
+Total,2325026,1635848,46185,642520,11/08/2020 21:57:38,473,TT,57873,54208,832,
 Maharashtra,535601,368435,18306,148553,11/08/2020 21:10:43,307,MH,11088,10014,256,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -13,13 +13,13 @@ Delhi,147391,132384,4139,10868,11/08/2020 18:28:42,0,DL,1257,727,8,"[July 14]: V
 Karnataka,188611,105599,3398,79605,11/08/2020 21:10:48,9,KA,6257,6473,86,
 Andhra Pradesh,244549,154749,2203,87597,11/08/2020 18:28:46,0,AP,9024,9113,87,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,131763,80589,2176,48998,11/08/2020 17:59:36,0,UP,5041,3865,56,
-Gujarat,73238,56510,2695,14033,11/08/2020 21:52:43,0,GJ,1118,1134,23,
+Gujarat,73238,56516,2695,14027,11/08/2020 21:57:40,0,GJ,1118,1140,23,
 West Bengal,101390,73395,2149,25846,11/08/2020 21:10:50,0,WB,2931,3067,49,
 Telangana,82647,59374,645,22628,11/08/2020 09:54:43,0,TG,1896,1788,8,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
-Rajasthan,54887,40399,811,13677,11/08/2020 21:52:45,0,RJ,1217,1339,11,
+Rajasthan,54887,40399,811,13677,11/08/2020 21:56:46,0,RJ,1217,1339,11,
 Bihar,86812,57039,465,29307,11/08/2020 19:11:38,1,BR,4071,2900,15,
 Haryana,43227,36082,500,6645,11/08/2020 21:10:54,0,HR,798,590,11,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Assam,61738,43587,155,17993,11/08/2020 21:28:51,3,AS,0,0,4,Includes 1 case from Nagaland
@@ -33,7 +33,7 @@ In total 48 such cases have been reduced from active count"
 Punjab,25889,16790,636,8463,11/08/2020 21:10:59,0,PB,1000,1055,32,
 Jharkhand,18878,9873,191,8814,11/08/2020 16:52:37,0,JH,92,125,2,
 Chhattisgarh,12938,9239,104,3595,11/08/2020 21:11:01,0,CT,313,222,5,
-Uttarakhand,10432,6470,136,3787,11/08/2020 21:52:47,39,UT,411,169,2,
+Uttarakhand,10432,6470,136,3787,11/08/2020 21:56:50,39,UT,411,169,2,
 Goa,9444,6480,86,2878,11/08/2020 19:28:44,0,GA,415,272,6,
 Tripura,6387,4656,43,1670,11/08/2020 15:23:43,18,TR,164,213,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
@@ -49,6 +49,6 @@ Meghalaya,1142,510,6,626,11/08/2020 21:28:55,0,ML,27,12,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,910,510,1,399,10/08/2020 22:28:40,0,SK,0,0,0,
 Mizoram,623,323,0,300,11/08/2020 09:46:38,0,MZ,3,0,0,
-Andaman and Nicobar Islands,1764,749,21,994,11/08/2020 21:52:50,0,AN,139,40,1,
+Andaman and Nicobar Islands,1764,749,21,994,11/08/2020 21:55:07,0,AN,139,40,1,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
