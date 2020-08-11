@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2325026,1635848,46185,642520,11/08/2020 22:08:05,473,TT,57873,54208,832,
+Total,2328302,1636572,46188,645069,11/08/2020 22:56:40,473,TT,61149,54932,835,
 Maharashtra,535601,368435,18306,148553,11/08/2020 21:10:43,307,MH,11088,10014,256,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -22,7 +22,7 @@ District-wise numbers are not reported because cumulative counts for each distri
 Rajasthan,54887,40399,811,13677,11/08/2020 21:56:46,0,RJ,1217,1339,11,
 Bihar,86812,57039,465,29307,11/08/2020 19:11:38,1,BR,4071,2900,15,
 Haryana,43227,36082,500,6645,11/08/2020 21:10:54,0,HR,798,590,11,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Assam,61738,43587,155,17993,11/08/2020 21:28:51,3,AS,0,0,4,Includes 1 case from Nagaland
+Assam,64407,43587,155,20662,11/08/2020 22:56:45,3,AS,2669,0,4,Includes 1 case from Nagaland
 Madhya Pradesh,40734,30596,1033,9105,11/08/2020 19:28:41,0,MP,843,922,18,
 Odisha,48796,34806,349,13641,11/08/2020 21:10:56,0,OR,1341,1785,12,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -31,7 +31,7 @@ Kerala,36932,24042,121,12721,11/08/2020 19:51:41,48,KL,1417,1426,5,"Mahe native 
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 48 such cases have been reduced from active count"
 Punjab,25889,16790,636,8463,11/08/2020 21:10:59,0,PB,1000,1055,32,
-Jharkhand,18878,9873,191,8814,11/08/2020 16:52:37,0,JH,92,125,2,
+Jharkhand,19469,10555,194,8720,11/08/2020 22:56:48,0,JH,683,807,5,
 Chhattisgarh,12938,9239,104,3595,11/08/2020 21:11:01,0,CT,313,222,5,
 Uttarakhand,10432,6470,136,3787,11/08/2020 21:56:50,39,UT,411,169,2,
 Goa,9444,6480,86,2878,11/08/2020 19:28:44,0,GA,415,272,6,
@@ -39,7 +39,7 @@ Tripura,6387,4656,43,1670,11/08/2020 15:23:43,18,TR,164,213,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,5900,3532,91,2277,11/08/2020 18:28:51,0,PY,276,177,2,
 Manipur,3941,2155,12,1774,11/08/2020 19:11:44,0,MN,88,33,1,
-Himachal Pradesh,3481,2231,17,1205,11/08/2020 19:03:29,28,HP,18,26,1,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,3497,2273,17,1179,11/08/2020 22:56:51,28,HP,34,68,1,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1717,1237,9,471,10/08/2020 22:39:38,0,LA,0,0,0,
 Nagaland,3031,985,7,2032,11/08/2020 18:54:18,7,NL,20,12,-1,
 Arunachal Pradesh,2327,1634,3,690,11/08/2020 21:11:04,0,AR,96,42,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
