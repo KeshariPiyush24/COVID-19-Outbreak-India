@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2328405,1636614,46188,645130,11/08/2020 23:14:39,473,TT,61252,54974,835,
+Total,2328405,1636614,46188,645130,11/08/2020 23:17:43,473,TT,61252,54974,835,
 Maharashtra,535601,368435,18306,148553,11/08/2020 21:10:43,307,MH,11088,10014,256,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -32,7 +32,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 48 such cases have been reduced from active count"
 Punjab,25889,16790,636,8463,11/08/2020 21:10:59,0,PB,1000,1055,32,
 Jharkhand,19469,10555,194,8720,11/08/2020 23:07:44,0,JH,683,807,5,
-Chhattisgarh,12985,9239,104,3642,11/08/2020 23:14:42,0,CT,360,222,5,
+Chhattisgarh,12985,9239,104,3642,11/08/2020 23:17:46,0,CT,360,222,5,
 Uttarakhand,10432,6470,136,3787,11/08/2020 21:56:50,39,UT,411,169,2,
 Goa,9444,6480,86,2878,11/08/2020 19:28:44,0,GA,415,272,6,
 Tripura,6387,4656,43,1670,11/08/2020 15:23:43,18,TR,164,213,1,"[Aug 4]
@@ -47,7 +47,7 @@ Chandigarh,1670,1015,26,628,11/08/2020 19:28:47,1,CH,75,11,1,
 Dadra and Nagar Haveli and Daman and Diu,1656,1208,2,434,11/08/2020 18:54:24,12,DN,39,41,0,
 Meghalaya,1142,510,6,626,11/08/2020 21:28:55,0,ML,27,12,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
-Sikkim,913,534,1,378,11/08/2020 23:14:45,0,SK,3,24,0,
+Sikkim,913,534,1,378,11/08/2020 23:17:48,0,SK,3,24,0,
 Mizoram,623,323,0,300,11/08/2020 09:46:38,0,MZ,3,0,0,
 Andaman and Nicobar Islands,1764,749,21,994,11/08/2020 21:55:07,0,AN,139,40,1,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
