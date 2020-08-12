@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2368377,1671376,46650,649877,12/08/2020 20:04:36,474,TT,39972,33275,462,
+Total,2370549,1672763,46707,650605,12/08/2020 20:39:37,474,TT,42144,34662,519,
 Maharashtra,535601,368435,18306,148553,11/08/2020 21:10:43,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -13,7 +13,7 @@ Delhi,148504,133405,4153,10946,12/08/2020 16:08:37,0,DL,1113,1021,14,"[July 14]:
 Karnataka,196494,112633,3511,80341,12/08/2020 20:04:38,9,KA,7883,7034,113,
 Andhra Pradesh,254146,161425,2296,90425,12/08/2020 18:36:44,0,AP,9597,6676,93,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Uttar Pradesh,136238,84661,2230,49347,12/08/2020 18:36:47,0,UP,4475,4072,54,
-Gujarat,73238,56516,2695,14027,11/08/2020 22:08:13,0,GJ,0,0,0,
+Gujarat,74390,57481,2713,14196,12/08/2020 20:39:39,0,GJ,1152,965,18,
 West Bengal,101390,73395,2149,25846,11/08/2020 21:10:50,0,WB,0,0,0,
 Telangana,84544,61294,654,22596,12/08/2020 09:42:38,0,TG,1897,1920,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
@@ -30,7 +30,7 @@ Jammu and Kashmir,26413,18523,498,7392,12/08/2020 18:43:43,0,JK,482,544,8,
 Kerala,36932,24042,121,12721,11/08/2020 19:51:41,48,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 48 such cases have been reduced from active count"
-Punjab,25889,16790,636,8463,11/08/2020 21:10:59,0,PB,0,0,0,
+Punjab,26909,17212,675,9022,12/08/2020 20:39:41,0,PB,1020,422,39,
 Jharkhand,19578,10630,194,8754,12/08/2020 15:40:39,0,JH,109,75,0,
 Chhattisgarh,12985,9239,104,3642,11/08/2020 23:17:46,0,CT,0,0,0,
 Uttarakhand,10432,6470,136,3787,11/08/2020 21:56:50,39,UT,0,0,0,
