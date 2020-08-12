@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2371761,1673643,46713,650931,12/08/2020 20:50:38,474,TT,43356,35542,525,
+Total,2372200,1673860,46717,651149,12/08/2020 20:57:35,474,TT,43795,35759,529,
 Maharashtra,535601,368435,18306,148553,11/08/2020 21:10:43,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -27,13 +27,13 @@ Madhya Pradesh,41604,31239,1048,9317,12/08/2020 19:09:08,0,MP,870,643,15,
 Odisha,50672,36479,358,13835,12/08/2020 20:04:40,0,OR,1876,1673,9,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Jammu and Kashmir,26413,18523,498,7392,12/08/2020 18:43:43,0,JK,482,544,8,
-Kerala,38144,24922,127,13047,12/08/2020 20:50:41,48,KL,1212,880,6,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,38144,24922,127,13047,12/08/2020 20:55:38,48,KL,1212,880,6,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 48 such cases have been reduced from active count"
 Punjab,26909,17212,675,9022,12/08/2020 20:43:42,0,PB,1020,422,39,
 Jharkhand,19578,10630,194,8754,12/08/2020 15:40:39,0,JH,109,75,0,
 Chhattisgarh,12985,9239,104,3642,11/08/2020 23:17:46,0,CT,0,0,0,
-Uttarakhand,10432,6470,136,3787,11/08/2020 21:56:50,39,UT,0,0,0,
+Uttarakhand,10871,6687,140,4005,12/08/2020 20:57:37,39,UT,439,217,4,
 Goa,9924,6641,89,3194,12/08/2020 19:09:11,0,GA,480,161,3,
 Tripura,6497,4838,43,1598,12/08/2020 10:42:41,18,TR,110,182,0,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
