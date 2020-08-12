@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2332970,1640388,46216,645893,12/08/2020 14:43:35,473,TT,4565,2287,28,
+Total,2333166,1640463,46216,646014,12/08/2020 15:39:35,473,TT,4761,2362,28,
 Maharashtra,535601,368435,18306,148553,11/08/2020 21:10:43,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -31,7 +31,7 @@ Kerala,36932,24042,121,12721,11/08/2020 19:51:41,48,KL,0,0,0,"Mahe native who ex
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 48 such cases have been reduced from active count"
 Punjab,25889,16790,636,8463,11/08/2020 21:10:59,0,PB,0,0,0,
-Jharkhand,19469,10555,194,8720,11/08/2020 23:07:44,0,JH,0,0,0,
+Jharkhand,19578,10630,194,8754,12/08/2020 15:39:37,0,JH,109,75,0,
 Chhattisgarh,12985,9239,104,3642,11/08/2020 23:17:46,0,CT,0,0,0,
 Uttarakhand,10432,6470,136,3787,11/08/2020 21:56:50,39,UT,0,0,0,
 Goa,9444,6480,86,2878,11/08/2020 19:28:44,0,GA,0,0,0,
@@ -41,7 +41,7 @@ Puducherry,5900,3532,91,2277,11/08/2020 18:28:51,0,PY,0,0,0,
 Manipur,3941,2155,12,1774,11/08/2020 19:11:44,0,MN,0,0,0,
 Himachal Pradesh,3536,2292,17,1199,12/08/2020 14:43:37,28,HP,39,19,0,"HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Ladakh,1770,1255,9,506,11/08/2020 23:09:45,0,LA,0,0,0,
-Nagaland,3031,985,7,2032,11/08/2020 18:54:18,7,NL,0,0,0,
+Nagaland,3118,985,7,2119,12/08/2020 15:39:39,7,NL,87,0,0,
 Arunachal Pradesh,2327,1634,3,690,11/08/2020 21:11:04,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Chandigarh,1670,1015,26,628,11/08/2020 19:28:47,1,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,1656,1208,2,434,11/08/2020 18:54:24,12,DN,0,0,0,
