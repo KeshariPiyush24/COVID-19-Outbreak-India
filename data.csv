@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2431649,1725887,47536,657752,13/08/2020 21:06:35,474,TT,36178,30027,398,
+Total,2434853,1726037,47542,660800,13/08/2020 21:14:35,474,TT,39382,30177,404,
 Maharashtra,548313,381843,18650,147513,12/08/2020 22:49:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -20,7 +20,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Gujarat,74390,57493,2713,14184,12/08/2020 21:39:46,0,GJ,0,0,0,
-Assam,69000,47210,169,21618,13/08/2020 21:06:38,3,AS,0,0,8,Includes 1 case from Nagaland
+Assam,71796,47210,169,24414,13/08/2020 21:14:36,3,AS,2796,0,8,Includes 1 case from Nagaland
 Rajasthan,56708,41819,833,14056,13/08/2020 11:27:44,0,RJ,608,171,11,
 Odisha,52653,37901,367,14385,13/08/2020 20:42:37,0,OR,1981,1422,9,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -32,7 +32,7 @@ In total 48 such cases have been reduced from active count"
 Punjab,27936,17839,706,9391,13/08/2020 20:33:40,0,PB,1027,627,31,
 Jammu and Kashmir,26949,19302,509,7138,13/08/2020 19:49:39,0,JK,536,779,11,
 Jharkhand,20321,12412,204,7705,13/08/2020 16:53:35,0,JH,64,215,2,
-Chhattisgarh,13552,9508,109,3935,12/08/2020 23:15:37,0,CT,0,0,0,
+Chhattisgarh,13960,9658,115,4187,13/08/2020 21:14:38,0,CT,408,150,6,
 Uttarakhand,10886,6687,140,4020,12/08/2020 21:08:38,39,UT,0,0,0,
 Goa,10494,6912,91,3491,13/08/2020 19:55:40,0,GA,570,271,2,
 Tripura,6618,4912,44,1644,13/08/2020 13:17:45,18,TR,121,74,1,"[Aug 4]
