@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2410591,1707806,47260,655051,13/08/2020 17:04:35,474,TT,15120,11946,122,
+Total,2411547,1708719,47274,655080,13/08/2020 17:14:37,474,TT,16076,12859,136,
 Maharashtra,548313,381843,18650,147513,12/08/2020 22:49:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -10,7 +10,7 @@ Tamil Nadu,314520,256313,5278,52929,12/08/2020 18:52:40,0,TN,0,0,0,"[July 22]: 4
 These cases have been added to TN deceased tally"
 Andhra Pradesh,264142,170924,2378,90840,13/08/2020 16:41:37,0,AP,9996,9499,82,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,196494,112633,3511,80341,12/08/2020 20:04:38,9,KA,0,0,0,
-Delhi,148504,133405,4153,10946,12/08/2020 16:08:37,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,149460,134318,4167,10975,13/08/2020 17:14:39,0,DL,956,913,14,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,136238,84661,2230,49347,12/08/2020 18:36:47,0,UP,0,0,0,
 West Bengal,104326,76120,2203,26003,12/08/2020 21:39:49,0,WB,0,0,0,
@@ -46,7 +46,7 @@ Andaman and Nicobar Islands,1900,829,21,1050,12/08/2020 21:51:45,0,AN,0,0,0,
 Ladakh,1811,1274,9,528,12/08/2020 22:06:44,0,LA,0,0,0,
 Chandigarh,1751,1023,27,700,12/08/2020 20:04:43,1,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,1695,1243,2,437,12/08/2020 18:43:48,13,DN,0,0,0,
-Meghalaya,1191,547,6,638,13/08/2020 17:04:37,0,ML,12,30,0,"[June 17]:
+Meghalaya,1191,547,6,638,13/08/2020 17:08:40,0,ML,12,30,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,930,550,1,379,12/08/2020 22:01:55,0,SK,0,0,0,
 Mizoram,649,330,0,319,13/08/2020 09:54:42,0,MZ,1,0,0,
