@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2416169,1712913,47325,655457,13/08/2020 18:14:35,474,TT,20698,17053,187,
+Total,2416169,1712913,47325,655457,13/08/2020 18:17:35,474,TT,20698,17053,187,
 Maharashtra,548313,381843,18650,147513,12/08/2020 22:49:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -45,7 +45,7 @@ Arunachal Pradesh,2430,1659,3,768,12/08/2020 21:27:47,0,AR,0,0,0,[July 25]: All 
 Andaman and Nicobar Islands,1900,829,21,1050,12/08/2020 21:51:45,0,AN,0,0,0,
 Ladakh,1811,1274,9,528,12/08/2020 22:06:44,0,LA,0,0,0,
 Chandigarh,1751,1023,27,700,12/08/2020 20:04:43,1,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,1723,1261,2,447,13/08/2020 18:14:38,13,DN,28,18,0,
+Dadra and Nagar Haveli and Daman and Diu,1723,1261,2,447,13/08/2020 18:17:40,13,DN,28,18,0,
 Meghalaya,1191,547,6,638,13/08/2020 17:08:40,0,ML,12,30,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,930,550,1,379,12/08/2020 22:01:55,0,SK,0,0,0,
