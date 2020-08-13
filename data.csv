@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2456785,1748759,48117,659432,13/08/2020 21:51:34,477,TT,61314,52899,979,
-Maharashtra,560126,390958,19063,149798,13/08/2020 21:51:36,307,MH,11813,9115,413,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,2457529,1748767,48117,660168,13/08/2020 21:59:34,477,TT,62058,52907,979,
+Maharashtra,560126,390958,19063,149798,13/08/2020 21:55:36,307,MH,11813,9115,413,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
@@ -9,7 +9,7 @@ Tamil Nadu,320355,261459,5397,53499,13/08/2020 19:08:37,0,TN,5835,5146,119,"[Jul
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Andhra Pradesh,264142,170924,2378,90840,13/08/2020 16:41:37,0,AP,9996,9499,82,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,203200,121242,3614,78335,13/08/2020 21:51:37,9,KA,6706,8609,103,
+Karnataka,203200,121242,3614,78335,13/08/2020 21:55:38,9,KA,6706,8609,103,
 Delhi,149460,134318,4167,10975,13/08/2020 17:19:37,0,DL,956,913,14,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,140775,88786,2280,49709,13/08/2020 18:01:35,0,UP,4537,4125,50,
@@ -20,8 +20,8 @@ Telangana bulletin for the previous day is released on the next day. We will add
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Gujarat,74390,57493,2713,14184,12/08/2020 21:39:46,0,GJ,0,0,0,
-Assam,71796,49384,169,22240,13/08/2020 21:51:39,3,AS,2796,2174,8,Includes 1 case from Nagaland
-Rajasthan,56708,41819,833,14056,13/08/2020 11:27:44,0,RJ,608,171,11,
+Assam,71796,49384,169,22240,13/08/2020 21:55:39,3,AS,2796,2174,8,Includes 1 case from Nagaland
+Rajasthan,57414,41819,833,14762,13/08/2020 11:27:44,0,RJ,1314,171,11,
 Odisha,52653,37901,367,14385,13/08/2020 20:42:37,0,OR,1981,1422,9,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,44817,37486,511,6820,13/08/2020 20:33:39,0,HR,793,792,8,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
@@ -33,7 +33,7 @@ Punjab,27936,17839,706,9391,13/08/2020 20:33:40,0,PB,1027,627,31,
 Jammu and Kashmir,26949,19302,509,7138,13/08/2020 19:49:39,0,JK,536,779,11,
 Jharkhand,20321,12412,204,7705,13/08/2020 16:53:35,0,JH,64,215,2,
 Chhattisgarh,13960,9658,115,4187,13/08/2020 21:17:45,0,CT,408,150,6,
-Uttarakhand,11302,7014,143,4103,13/08/2020 21:51:40,42,UT,416,327,3,
+Uttarakhand,11302,7014,143,4103,13/08/2020 21:55:41,42,UT,416,327,3,
 Goa,10494,6912,91,3491,13/08/2020 19:55:40,0,GA,570,271,2,
 Tripura,6618,4912,44,1644,13/08/2020 13:17:45,18,TR,121,74,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
@@ -43,7 +43,7 @@ Himachal Pradesh,3744,2398,18,1300,13/08/2020 18:01:37,28,HP,108,36,1,"HP has 29
 Nagaland,3168,1139,7,2015,13/08/2020 18:01:39,7,NL,50,26,0,
 Arunachal Pradesh,2430,1659,3,768,12/08/2020 21:27:47,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,1900,829,21,1050,12/08/2020 21:51:45,0,AN,0,0,0,
-Ladakh,1811,1274,9,528,12/08/2020 22:06:44,0,LA,0,0,0,
+Ladakh,1849,1282,9,558,13/08/2020 21:59:37,0,LA,38,8,0,
 Chandigarh,1842,1076,28,737,13/08/2020 20:57:37,1,CH,91,53,1,
 Dadra and Nagar Haveli and Daman and Diu,1741,1281,2,445,13/08/2020 19:02:42,13,DN,46,38,0,
 Meghalaya,1193,547,6,640,13/08/2020 19:55:42,0,ML,14,30,0,"[June 17]:
