@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2492594,1778718,48517,664874,14/08/2020 19:51:42,485,TT,32982,28082,373,
+Total,2492594,1778718,48517,664874,14/08/2020 19:54:49,485,TT,32982,28082,373,
 Maharashtra,560126,390958,19063,149798,13/08/2020 21:55:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,326245,267015,5514,53716,14/08/2020 19:51:45,0,TN,5890,5556,117,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,326245,267015,5514,53716,14/08/2020 19:54:51,0,TN,5890,5556,117,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -38,13 +38,13 @@ Goa,10739,7220,93,3426,14/08/2020 19:50:56,0,GA,245,308,2,
 Tripura,6782,5015,46,1703,14/08/2020 12:10:38,18,TR,164,103,2,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,6995,4009,106,2880,14/08/2020 19:23:48,0,PY,315,181,4,
-Manipur,4198,2360,13,1825,14/08/2020 19:51:50,0,MN,86,65,0,
+Manipur,4198,2360,13,1825,14/08/2020 19:54:54,0,MN,86,65,0,
 Himachal Pradesh,3852,2474,18,1324,14/08/2020 19:51:00,36,HP,36,39,0,"HP has 37 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,3322,1139,7,2169,14/08/2020 16:59:40,7,NL,154,0,0,
 Arunachal Pradesh,2512,1718,4,790,13/08/2020 22:51:41,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,2037,924,22,1091,13/08/2020 22:17:39,0,AN,0,0,0,
 Ladakh,1849,1282,9,558,13/08/2020 22:07:40,0,LA,0,0,0,
-Chandigarh,1928,1091,29,807,14/08/2020 19:51:52,1,CH,86,15,1,
+Chandigarh,1928,1091,29,807,14/08/2020 19:54:57,1,CH,86,15,1,
 Dadra and Nagar Haveli and Daman and Diu,1765,1293,2,457,14/08/2020 19:28:00,13,DN,24,12,0,
 Meghalaya,1193,547,6,640,13/08/2020 19:55:42,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
