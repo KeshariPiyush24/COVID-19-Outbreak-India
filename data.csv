@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2461542,1751846,48153,661058,14/08/2020 09:14:43,485,TT,1929,1210,9,
+Total,2461542,1751846,48153,661058,14/08/2020 09:17:42,485,TT,1929,1210,9,
 Maharashtra,560126,390958,19063,149798,13/08/2020 21:55:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,7 +15,7 @@ Delhi,149460,134318,4167,10975,13/08/2020 17:19:37,0,DL,0,0,0,"[July 14]: Value 
 Uttar Pradesh,140775,88786,2280,49709,13/08/2020 18:01:35,0,UP,0,0,0,
 West Bengal,107323,78617,2259,26447,13/08/2020 21:27:38,0,WB,0,0,0,
 Bihar,94459,62507,484,31467,13/08/2020 19:17:38,1,BR,0,0,0,
-Telangana,88396,64284,674,23438,14/08/2020 09:14:45,0,TG,1921,1210,9,"[July 27]
+Telangana,88396,64284,674,23438,14/08/2020 09:17:44,0,TG,1921,1210,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
@@ -49,6 +49,6 @@ Dadra and Nagar Haveli and Daman and Diu,1741,1281,2,445,13/08/2020 19:02:42,13,
 Meghalaya,1193,547,6,640,13/08/2020 19:55:42,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,932,581,1,350,13/08/2020 23:05:40,0,SK,0,0,0,
-Mizoram,657,343,0,314,14/08/2020 09:14:49,0,MZ,8,0,0,
+Mizoram,657,343,0,314,14/08/2020 09:17:48,0,MZ,8,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
