@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2465508,1753719,48188,663116,14/08/2020 16:24:36,485,TT,5895,3083,44,
+Total,2465508,1753719,48188,663116,14/08/2020 16:29:35,485,TT,5895,3083,44,
 Maharashtra,560126,390958,19063,149798,13/08/2020 21:55:36,307,MH,0,0,0,"307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -10,7 +10,7 @@ Tamil Nadu,320355,261459,5397,53499,13/08/2020 19:08:37,0,TN,0,0,0,"[July 22]: 4
 These cases have been added to TN deceased tally"
 Andhra Pradesh,264142,170924,2378,90840,13/08/2020 16:41:37,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,203200,121242,3614,78335,13/08/2020 21:55:38,9,KA,0,0,0,
-Delhi,150652,135108,4178,11366,14/08/2020 16:24:38,0,DL,1192,790,11,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,150652,135108,4178,11366,14/08/2020 16:29:37,0,DL,1192,790,11,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,140775,88786,2280,49709,13/08/2020 18:01:35,0,UP,0,0,0,
 West Bengal,107323,78617,2259,26447,13/08/2020 21:27:38,0,WB,0,0,0,
@@ -31,7 +31,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 48 such cases have been reduced from active count"
 Punjab,27936,17839,706,9391,13/08/2020 20:33:40,0,PB,0,0,0,
 Jammu and Kashmir,26949,19302,509,7138,13/08/2020 19:49:39,0,JK,0,0,0,
-Jharkhand,20950,13113,209,7628,14/08/2020 16:24:40,0,JH,0,100,0,
+Jharkhand,20950,13113,209,7628,14/08/2020 16:29:39,0,JH,0,100,0,
 Chhattisgarh,14030,9658,117,4255,13/08/2020 23:27:36,0,CT,0,0,0,
 Uttarakhand,11302,7014,143,4103,13/08/2020 21:55:41,42,UT,0,0,0,
 Goa,10494,6912,91,3491,13/08/2020 19:55:40,0,GA,0,0,0,
