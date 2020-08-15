@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2525222,1807556,49134,668044,14/08/2020 23:28:40,488,TT,0,0,0,
+Total,2525240,1807556,49134,668062,14/08/2020 23:28:40,488,TT,18,0,0,
 Maharashtra,572734,401442,19427,151555,14/08/2020 20:28:46,310,MH,0,0,0,"310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -15,7 +15,7 @@ Delhi,150652,135108,4178,11366,14/08/2020 16:29:37,0,DL,0,0,0,"[July 14]: Value 
 Uttar Pradesh,145287,92526,2335,50426,14/08/2020 17:54:15,0,UP,0,0,0,
 West Bengal,110358,81189,2319,26850,14/08/2020 20:53:43,0,WB,0,0,0,
 Bihar,98370,65307,500,32562,14/08/2020 18:18:52,1,BR,0,0,0,
-Telangana,88396,64284,674,23438,14/08/2020 09:17:44,0,TG,0,0,0,"[July 27]
+Telangana,88414,64284,674,23456,14/08/2020 09:17:44,0,TG,18,0,0,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
