@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2565755,1842235,49641,673388,15/08/2020 20:41:41,491,TT,40533,34679,508,
+Total,2565755,1842235,49641,673388,15/08/2020 20:45:41,491,TT,40533,34679,508,
 Maharashtra,572734,401442,19427,151555,14/08/2020 20:28:46,310,MH,0,0,0,"310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -32,8 +32,8 @@ In total 48 such cases have been reduced from active count"
 Punjab,30041,18863,771,10407,15/08/2020 20:13:45,0,PB,1028,535,40,
 Jammu and Kashmir,28021,20676,527,6818,15/08/2020 18:51:55,0,JK,532,734,7,
 Jharkhand,22192,13811,225,8156,15/08/2020 16:27:42,0,JH,67,133,1,
-Chhattisgarh,14987,10046,134,4807,15/08/2020 20:41:44,0,CT,428,189,4,
-Uttarakhand,11940,7748,151,3997,15/08/2020 20:41:46,44,UT,325,246,4,
+Chhattisgarh,14987,10046,134,4807,15/08/2020 20:45:43,0,CT,428,189,4,
+Uttarakhand,11940,7748,151,3997,15/08/2020 20:45:45,44,UT,325,246,4,
 Goa,11339,7488,98,3753,15/08/2020 20:13:48,0,GA,369,331,5,
 Tripura,6949,5088,50,1793,15/08/2020 09:28:45,18,TR,167,73,4,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
@@ -46,7 +46,7 @@ Andaman and Nicobar Islands,2186,1032,24,1130,14/08/2020 22:17:49,0,AN,0,0,0,
 Ladakh,1879,1303,9,567,14/08/2020 22:38:46,0,LA,0,0,0,
 Chandigarh,2009,1118,28,861,15/08/2020 18:59:43,2,CH,81,27,0,
 Dadra and Nagar Haveli and Daman and Diu,1782,1312,2,455,14/08/2020 20:28:49,13,DN,0,0,0,
-Meghalaya,1292,596,6,690,15/08/2020 20:41:48,0,ML,64,15,0,"[June 17]:
+Meghalaya,1292,596,6,690,15/08/2020 20:45:48,0,ML,64,15,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1080,623,1,456,14/08/2020 22:05:54,0,SK,0,0,0,
 Mizoram,713,356,0,357,15/08/2020 17:17:40,0,MZ,56,9,0,
