@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2647129,1918064,51025,677534,16/08/2020 23:04:42,506,TT,57921,57392,940,
+Total,2647154,1918076,51040,677532,16/08/2020 23:14:41,506,TT,57946,57404,955,
 Maharashtra,595865,417123,20037,158395,16/08/2020 20:14:46,310,MH,11111,8837,288,"310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -32,7 +32,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 54 such cases have been reduced from active count"
 Punjab,31206,19431,812,10963,16/08/2020 20:19:00,0,PB,1165,568,41,
 Jammu and Kashmir,28470,20943,542,6985,16/08/2020 18:28:03,0,JK,449,267,15,
-Jharkhand,23218,14747,229,8242,16/08/2020 23:04:45,0,JH,546,566,0,
+Jharkhand,23224,14747,244,8233,16/08/2020 23:14:43,0,JH,552,566,15,
 Chhattisgarh,15471,10235,141,5095,16/08/2020 20:52:51,0,CT,426,189,7,
 Uttarakhand,12175,8100,152,3879,16/08/2020 20:56:50,44,UT,235,352,1,
 Goa,11639,7775,104,3760,16/08/2020 19:50:43,0,GA,300,287,6,
@@ -49,7 +49,7 @@ Chandigarh,2102,1137,29,934,16/08/2020 19:17:50,2,CH,93,19,1,
 Dadra and Nagar Haveli and Daman and Diu,1881,1431,2,432,16/08/2020 19:02:51,16,DN,35,47,0,
 Meghalaya,1374,675,6,693,16/08/2020 17:28:44,0,ML,82,79,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
-Sikkim,1148,661,1,486,15/08/2020 22:41:57,0,SK,0,0,0,
+Sikkim,1167,673,1,493,16/08/2020 23:13:45,0,SK,19,12,0,
 Mizoram,777,371,0,406,16/08/2020 17:18:52,0,MZ,64,15,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
