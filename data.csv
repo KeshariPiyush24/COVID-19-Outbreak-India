@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2645184,1915483,51025,678170,16/08/2020 22:14:41,506,TT,55976,54811,940,
+Total,2645223,1915532,51025,678160,16/08/2020 22:24:42,506,TT,56015,54860,940,
 Maharashtra,595865,417123,20037,158395,16/08/2020 20:14:46,310,MH,11111,8837,288,"310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -43,8 +43,8 @@ Manipur,4569,2632,16,1921,16/08/2020 18:44:49,0,MN,179,194,3,
 Himachal Pradesh,4156,2720,18,1376,16/08/2020 22:07:45,42,HP,163,88,0,"HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,3394,1422,7,1958,16/08/2020 19:28:47,7,NL,54,101,0,
 Arunachal Pradesh,2658,1771,5,882,15/08/2020 21:54:47,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Andaman and Nicobar Islands,2399,1226,28,1145,16/08/2020 22:14:45,0,AN,93,98,4,
-Ladakh,1909,1307,10,592,16/08/2020 09:17:48,0,LA,0,0,0,
+Andaman and Nicobar Islands,2399,1226,28,1145,16/08/2020 22:17:52,0,AN,93,98,4,
+Ladakh,1948,1356,10,582,16/08/2020 22:24:46,0,LA,39,49,0,
 Chandigarh,2102,1137,29,934,16/08/2020 19:17:50,2,CH,93,19,1,
 Dadra and Nagar Haveli and Daman and Diu,1881,1431,2,432,16/08/2020 19:02:51,16,DN,35,47,0,
 Meghalaya,1374,675,6,693,16/08/2020 17:28:44,0,ML,82,79,0,"[June 17]:
