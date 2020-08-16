@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2618877,1891185,50464,676724,16/08/2020 19:24:41,504,TT,29669,30513,379,
+Total,2619177,1891472,50470,676731,16/08/2020 19:39:40,504,TT,29969,30800,385,
 Maharashtra,584754,408286,19749,156409,15/08/2020 22:07:49,310,MH,0,0,0,"310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -35,13 +35,13 @@ Jammu and Kashmir,28470,20943,542,6985,16/08/2020 18:28:03,0,JK,449,267,15,
 Jharkhand,22672,14181,229,8262,15/08/2020 23:17:47,0,JH,0,0,0,
 Chhattisgarh,15045,10046,134,4865,15/08/2020 23:07:45,0,CT,0,0,0,
 Uttarakhand,11940,7748,151,3997,15/08/2020 20:51:56,44,UT,0,0,0,
-Goa,11339,7488,98,3753,15/08/2020 20:13:48,0,GA,0,0,0,
+Goa,11639,7775,104,3760,16/08/2020 19:39:43,0,GA,300,287,6,
 Tripura,7076,5151,55,1852,16/08/2020 09:17:46,18,TR,127,63,5,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,7732,4443,110,3179,16/08/2020 17:18:44,0,PY,378,219,4,
 Manipur,4569,2632,16,1921,16/08/2020 18:44:49,0,MN,179,194,3,
 Himachal Pradesh,4057,2640,18,1357,16/08/2020 18:00:43,42,HP,64,8,0,"HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Nagaland,3394,1422,7,1958,16/08/2020 19:24:44,7,NL,54,101,0,
+Nagaland,3394,1422,7,1958,16/08/2020 19:28:47,7,NL,54,101,0,
 Arunachal Pradesh,2658,1771,5,882,15/08/2020 21:54:47,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,2306,1128,24,1154,15/08/2020 23:27:41,0,AN,0,0,0,
 Ladakh,1909,1307,10,592,16/08/2020 09:17:48,0,LA,0,0,0,
