@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2594112,1862937,50122,680561,16/08/2020 12:50:39,492,TT,4904,2265,37,
+Total,2594112,1862937,50122,680561,16/08/2020 13:00:40,492,TT,4904,2265,37,
 Maharashtra,584754,408286,19749,156409,15/08/2020 22:07:49,310,MH,0,0,0,"310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -23,7 +23,7 @@ District-wise numbers are not reported because cumulative counts for each distri
 Gujarat,77663,60637,2765,14261,15/08/2020 20:34:42,0,GJ,0,0,0,
 Assam,75559,53287,182,22087,16/08/2020 00:30:42,3,AS,0,0,0,Includes 1 case from Nagaland
 Rajasthan,60666,45526,875,14265,16/08/2020 11:36:45,0,RJ,687,272,13,
-Odisha,60050,40727,396,18927,16/08/2020 12:50:43,0,OR,2924,0,10,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,60050,40727,396,18927,16/08/2020 13:00:43,0,OR,2924,0,10,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,46410,38939,528,6943,15/08/2020 20:34:46,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,44433,33353,1094,9986,15/08/2020 20:17:43,0,MP,0,0,0,
