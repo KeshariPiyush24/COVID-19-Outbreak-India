@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2594687,1863263,50126,680794,16/08/2020 17:56:41,504,TT,5479,2591,41,
+Total,2599044,1867464,50182,680894,16/08/2020 18:00:40,504,TT,9836,6792,97,
 Maharashtra,584754,408286,19749,156409,15/08/2020 22:07:49,310,MH,0,0,0,"310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -13,7 +13,7 @@ Andhra Pradesh,281817,191117,2562,88138,15/08/2020 18:28:40,0,AP,0,0,0,"Total in
 Karnataka,219926,134811,3832,81274,15/08/2020 22:17:43,9,KA,0,0,0,
 Delhi,151928,136251,4188,11489,15/08/2020 19:50:42,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Uttar Pradesh,150061,96231,2393,51437,15/08/2020 18:51:46,0,UP,0,0,0,
+Uttar Pradesh,154418,100432,2449,51537,15/08/2020 18:51:46,0,UP,4357,4201,56,
 West Bengal,113432,83836,2377,27219,15/08/2020 20:13:41,0,WB,0,0,0,
 Bihar,101906,68675,515,32715,15/08/2020 19:07:39,1,BR,0,0,0,
 Telangana,91361,68126,693,22542,16/08/2020 09:17:43,0,TG,1102,1930,9,"[July 27]
@@ -40,13 +40,13 @@ Tripura,7076,5151,55,1852,16/08/2020 09:17:46,18,TR,127,63,5,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,7732,4443,110,3179,16/08/2020 17:18:44,0,PY,378,219,4,
 Manipur,4390,2438,13,1939,15/08/2020 19:57:46,0,MN,0,0,0,
-Himachal Pradesh,4057,2640,18,1357,16/08/2020 17:56:45,42,HP,64,8,0,"HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,4057,2640,18,1357,16/08/2020 18:00:43,42,HP,64,8,0,"HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,3394,1321,7,2059,16/08/2020 17:18:48,7,NL,54,0,0,
 Arunachal Pradesh,2658,1771,5,882,15/08/2020 21:54:47,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,2306,1128,24,1154,15/08/2020 23:27:41,0,AN,0,0,0,
 Ladakh,1909,1307,10,592,16/08/2020 09:17:48,0,LA,0,0,0,
 Chandigarh,2009,1118,28,861,15/08/2020 18:59:43,2,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,1862,1408,2,436,16/08/2020 17:56:47,16,DN,16,24,0,
+Dadra and Nagar Haveli and Daman and Diu,1862,1408,2,436,16/08/2020 18:00:45,16,DN,16,24,0,
 Meghalaya,1355,656,6,693,16/08/2020 17:28:44,0,ML,63,60,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1148,661,1,486,15/08/2020 22:41:57,0,SK,0,0,0,
