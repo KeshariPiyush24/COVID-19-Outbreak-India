@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2763941,2035116,53015,675296,18/08/2020 22:50:45,514,TT,62339,58868,1090,
+Total,2763985,2035143,53018,675310,18/08/2020 22:56:46,514,TT,62383,58895,1093,
 Maharashtra,615477,437870,20687,156608,18/08/2020 20:52:52,312,MH,11119,9356,422,"312 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -32,7 +32,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 54 such cases have been reduced from active count"
 Punjab,34400,21762,898,11740,18/08/2020 20:03:02,0,PB,1705,1582,36,
 Jammu and Kashmir,29326,21886,561,6879,18/08/2020 18:20:48,0,JK,434,590,13,
-Jharkhand,25333,15709,265,9359,18/08/2020 22:50:48,0,JH,1266,361,10,
+Jharkhand,25333,15709,265,9359,18/08/2020 22:54:19,0,JH,1266,361,10,
 Chhattisgarh,16726,10847,158,5721,18/08/2020 21:02:01,0,CT,701,249,8,
 Uttarakhand,12961,8724,164,4024,18/08/2020 21:55:52,49,UT,468,239,6,
 Goa,12333,8356,116,3861,18/08/2020 19:58:58,0,GA,339,298,5,
@@ -44,7 +44,7 @@ Himachal Pradesh,4235,2923,18,1252,18/08/2020 21:55:54,42,HP,61,89,0,"HP has 43 
 Nagaland,3520,1664,7,1842,18/08/2020 19:19:51,7,NL,65,134,0,
 Arunachal Pradesh,2875,1949,5,921,18/08/2020 22:26:46,0,AR,134,56,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,2529,1421,30,1078,18/08/2020 22:31:49,0,AN,84,96,1,
-Ladakh,1966,1368,14,584,17/08/2020 22:28:46,0,LA,0,0,0,
+Ladakh,2010,1395,17,598,18/08/2020 22:56:49,0,LA,44,27,3,
 Chandigarh,2305,1243,30,1030,18/08/2020 19:19:53,2,CH,89,60,0,
 Dadra and Nagar Haveli and Daman and Diu,1959,1519,2,421,18/08/2020 19:19:55,17,DN,51,39,0,
 Meghalaya,1457,685,6,766,18/08/2020 21:21:11,0,ML,39,6,0,"[June 17]:
