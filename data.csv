@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2766626,2036703,53014,676388,19/08/2020 00:49:50,521,TT,65024,60455,1098,
+Total,2766626,2036703,53014,676388,19/08/2020 00:53:48,521,TT,65024,60455,1098,
 Maharashtra,615477,437870,20687,156608,18/08/2020 20:52:52,312,MH,11119,9356,422,"312 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -10,7 +10,7 @@ Tamil Nadu,349654,289787,6007,53860,18/08/2020 19:01:46,0,TN,5709,5850,121,"[Jul
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Andhra Pradesh,306261,218311,2820,85130,18/08/2020 17:13:45,0,AP,9652,9211,88,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,240948,156949,4201,79782,19/08/2020 00:49:52,16,KA,7665,8387,139,
+Karnataka,240948,156949,4201,79782,19/08/2020 00:53:50,16,KA,7665,8387,139,
 Delhi,154741,139447,4226,11068,18/08/2020 22:09:54,0,DL,1374,1146,12,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,162434,109607,2585,50242,18/08/2020 18:11:48,0,UP,4218,4799,70,
