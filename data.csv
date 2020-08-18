@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2719499,1992150,52060,674782,18/08/2020 17:13:43,507,TT,17897,15902,135,
+Total,2719866,1992439,52069,674851,18/08/2020 17:41:46,507,TT,18264,16191,144,
 Maharashtra,604358,428514,20265,155268,17/08/2020 20:17:43,311,MH,0,0,0,"311 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -38,7 +38,7 @@ Uttarakhand,12493,8485,158,3806,17/08/2020 21:52:02,44,UT,0,0,0,
 Goa,11994,8058,111,3825,17/08/2020 19:32:59,0,GA,0,0,0,
 Tripura,7424,5404,62,1940,18/08/2020 09:18:45,18,TR,205,118,3,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,8029,4627,114,3288,17/08/2020 18:10:56,0,PY,0,0,0,
+Puducherry,8396,4909,123,3364,18/08/2020 17:41:49,0,PY,367,282,9,
 Manipur,4687,2734,17,1936,17/08/2020 18:52:46,0,MN,0,0,0,
 Himachal Pradesh,4208,2835,18,1313,18/08/2020 15:28:45,42,HP,34,1,0,"HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,3520,1657,7,1849,18/08/2020 16:42:47,7,NL,65,127,0,
@@ -50,6 +50,6 @@ Dadra and Nagar Haveli and Daman and Diu,1915,1485,2,412,18/08/2020 16:42:49,16,
 Meghalaya,1454,683,6,765,18/08/2020 13:50:47,0,ML,36,4,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1187,701,1,485,17/08/2020 22:09:59,0,SK,0,0,0,
-Mizoram,815,372,0,443,18/08/2020 09:55:47,0,MZ,26,0,0,
+Mizoram,815,379,0,436,18/08/2020 17:40:49,0,MZ,26,7,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
