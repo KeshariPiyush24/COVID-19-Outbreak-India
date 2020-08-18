@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2706450,1978747,51955,675241,18/08/2020 11:38:43,507,TT,4846,2499,30,
+Total,2706484,1978751,51955,675271,18/08/2020 13:40:40,507,TT,4882,2503,30,
 Maharashtra,604358,428514,20265,155268,17/08/2020 20:17:43,311,MH,0,0,0,"311 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -47,7 +47,7 @@ Andaman and Nicobar Islands,2445,1325,29,1091,17/08/2020 22:19:51,0,AN,0,0,0,
 Ladakh,1966,1368,14,584,17/08/2020 22:28:46,0,LA,0,0,0,
 Chandigarh,2216,1183,30,1001,17/08/2020 19:33:04,2,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,1908,1480,2,410,17/08/2020 18:53:55,16,DN,0,0,0,
-Meghalaya,1420,679,6,735,17/08/2020 22:02:01,0,ML,0,0,0,"[June 17]:
+Meghalaya,1454,683,6,765,18/08/2020 13:40:43,0,ML,36,4,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1187,701,1,485,17/08/2020 22:09:59,0,SK,0,0,0,
 Mizoram,815,372,0,443,18/08/2020 09:55:47,0,MZ,26,0,0,
