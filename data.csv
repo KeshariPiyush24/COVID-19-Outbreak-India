@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2786999,2052736,53164,680574,19/08/2020 18:24:44,525,TT,20373,16033,149,
+Total,2787355,2053139,53170,680521,19/08/2020 18:39:50,525,TT,20729,16436,155,
 Maharashtra,615477,437870,20687,156608,18/08/2020 20:52:52,312,MH,0,0,0,"312 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -31,14 +31,14 @@ Kerala,47898,31390,176,16274,19/08/2020 08:56:45,58,KL,0,0,0,"Mahe native who ex
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 58 such cases have been reduced from active count"
 Punjab,34400,21762,898,11740,18/08/2020 20:03:02,0,PB,0,0,0,
-Jammu and Kashmir,30034,22497,572,6965,19/08/2020 18:24:46,0,JK,708,611,11,
+Jammu and Kashmir,30034,22497,572,6965,19/08/2020 18:36:49,0,JK,708,611,11,
 Jharkhand,25333,15709,265,9359,18/08/2020 22:54:19,0,JH,0,0,0,
 Chhattisgarh,16833,10847,158,5828,18/08/2020 23:18:50,0,CT,0,0,0,
 Uttarakhand,12961,8724,164,4024,18/08/2020 21:55:52,49,UT,0,0,0,
 Goa,12333,8356,116,3861,18/08/2020 19:58:58,0,GA,0,0,0,
 Tripura,7660,5497,65,2080,19/08/2020 09:28:46,18,TR,236,93,3,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,8396,4909,123,3364,18/08/2020 18:06:48,0,PY,0,0,0,
+Puducherry,8752,5312,129,3311,19/08/2020 18:39:58,0,PY,356,403,6,
 Manipur,4876,2885,18,1973,19/08/2020 18:17:50,0,MN,111,96,0,
 Himachal Pradesh,4318,2951,20,1305,19/08/2020 18:17:52,42,HP,83,28,2,"HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,3558,1706,7,1838,19/08/2020 18:18:53,7,NL,38,42,0,
