@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2872031,2127058,54426,690018,20/08/2020 19:41:44,529,TT,36209,30990,432,
+Total,2873173,2128123,54438,690083,20/08/2020 19:53:42,529,TT,37351,32055,444,
 Maharashtra,628642,446881,21033,160413,19/08/2020 19:47:53,315,MH,0,0,0,"315 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -25,12 +25,12 @@ Assam,84318,60349,213,23753,19/08/2020 22:42:49,3,AS,0,0,0,Includes 1 case from 
 Rajasthan,65979,50393,915,14671,20/08/2020 11:19:35,0,RJ,690,430,5,
 Odisha,70020,46936,433,22651,20/08/2020 11:50:00,0,OR,2898,0,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
-Haryana,50926,42793,578,7555,19/08/2020 21:15:52,0,HR,996,737,11,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Madhya Pradesh,48351,36475,1159,10717,19/08/2020 20:14:49,0,MP,0,0,0,
-Kerala,52199,33824,192,18124,20/08/2020 19:41:52,59,KL,1968,1217,9,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Haryana,50926,42793,578,7555,20/08/2020 19:53:44,0,HR,996,737,11,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
+Madhya Pradesh,49493,37540,1171,10782,20/08/2020 19:53:45,0,MP,1142,1065,12,
+Kerala,52199,33824,192,18124,20/08/2020 19:51:50,59,KL,1968,1217,9,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 59 such cases have been reduced from active count"
-Punjab,37824,23037,957,13830,20/08/2020 19:41:56,0,PB,1741,334,37,
+Punjab,37824,23037,957,13830,20/08/2020 19:51:51,0,PB,1741,334,37,
 Jammu and Kashmir,30717,23225,578,6914,20/08/2020 18:49:43,0,JK,683,728,6,
 Jharkhand,26421,16566,278,9577,20/08/2020 17:56:48,0,JH,121,0,0,
 Chhattisgarh,17585,11185,164,6236,19/08/2020 23:52:51,0,CT,0,0,0,
