@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2909977,2160045,55002,694401,21/08/2020 11:53:54,529,TT,5637,2104,27,
+Total,2910032,2160059,55002,694442,21/08/2020 12:04:49,529,TT,5692,2118,27,
 Maharashtra,643289,459124,21359,162491,20/08/2020 20:57:46,315,MH,0,0,0,"315 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -23,7 +23,7 @@ District-wise numbers are not reported because cumulative counts for each distri
 Gujarat,83262,66053,2853,14356,20/08/2020 21:10:46,0,GJ,0,0,0,
 Assam,86053,63121,221,22708,20/08/2020 22:25:43,3,AS,0,0,0,Includes 1 case from Nagaland
 Rajasthan,67314,51427,926,14961,21/08/2020 11:19:48,0,RJ,695,237,5,
-Odisha,72718,48577,443,23698,21/08/2020 11:53:57,0,OR,2698,0,10,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,72718,48577,443,23698,21/08/2020 11:57:54,0,OR,2698,0,10,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,50926,42793,578,7555,20/08/2020 19:57:45,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,49493,37540,1171,10782,20/08/2020 19:57:47,0,MP,0,0,0,
@@ -47,7 +47,7 @@ Andaman and Nicobar Islands,2680,1638,31,1011,20/08/2020 22:20:00,0,AN,0,0,0,
 Ladakh,2077,1436,18,623,20/08/2020 21:40:22,0,LA,0,0,0,
 Chandigarh,2515,1390,31,1092,20/08/2020 19:18:51,2,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2030,1613,2,399,20/08/2020 18:27:04,16,DN,0,0,0,
-Meghalaya,1661,730,6,925,20/08/2020 20:57:58,0,ML,0,0,0,"[June 17]:
+Meghalaya,1716,744,6,966,21/08/2020 12:04:55,0,ML,55,14,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1290,827,3,460,20/08/2020 21:40:26,0,SK,0,0,0,
 Mizoram,895,402,0,493,21/08/2020 09:44:48,0,MZ,21,0,0,
