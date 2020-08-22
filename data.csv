@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2973368,2220799,55928,696099,22/08/2020 00:04:46,542,TT,0,0,0,
+Total,2975842,2222575,55935,696790,22/08/2020 09:26:02,542,TT,2474,1776,7,
 Maharashtra,657449,470873,21698,164561,21/08/2020 21:38:55,317,MH,0,0,0,"317 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -16,7 +16,7 @@ Delhi,158604,142908,4270,11426,21/08/2020 19:09:53,0,DL,0,0,0,"[July 14]: Value 
 Uttar Pradesh,177239,126657,2797,47785,21/08/2020 17:47:51,0,UP,0,0,0,
 West Bengal,132364,101871,2689,27804,21/08/2020 20:19:08,0,WB,0,0,0,
 Bihar,117671,91841,588,25241,21/08/2020 19:09:55,1,BR,0,0,0,
-Telangana,99391,76967,737,21687,21/08/2020 09:44:45,0,TG,0,0,0,"[July 27]
+Telangana,101865,78735,744,22386,22/08/2020 09:26:05,0,TG,2474,1768,7,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
@@ -50,6 +50,6 @@ Dadra and Nagar Haveli and Daman and Diu,2083,1652,2,411,21/08/2020 19:49:00,18,
 Meghalaya,1718,749,6,963,21/08/2020 20:06:16,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1336,834,3,499,21/08/2020 20:19:18,0,SK,0,0,0,
-Mizoram,895,420,0,475,21/08/2020 17:47:53,0,MZ,0,0,0,
+Mizoram,895,428,0,467,22/08/2020 09:26:08,0,MZ,0,8,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
