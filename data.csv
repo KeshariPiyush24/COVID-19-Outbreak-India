@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,2979562,2223202,55950,699868,22/08/2020 11:57:46,542,TT,6193,2403,22,
+Total,2979616,2223236,55952,699882,22/08/2020 15:15:06,546,TT,6247,2437,24,
 Maharashtra,657450,470873,21698,164562,22/08/2020 09:43:51,317,MH,0,0,0,"317 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -40,13 +40,13 @@ Tripura,8386,6061,70,2237,22/08/2020 11:06:53,18,TR,280,410,1,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,9594,5934,143,3517,21/08/2020 19:09:58,0,PY,0,0,0,
 Manipur,5049,3261,20,1768,21/08/2020 18:38:56,0,MN,0,0,0,
-Himachal Pradesh,4728,3234,24,1421,21/08/2020 22:29:49,49,HP,0,0,0,"HP has 50 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,4780,3268,26,1437,22/08/2020 15:15:08,49,HP,52,34,2,"HP has 50 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,3619,2074,7,1531,21/08/2020 19:10:00,7,NL,0,0,0,
 Arunachal Pradesh,3126,2125,5,996,21/08/2020 23:16:55,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,2747,1744,32,971,21/08/2020 22:42:54,0,AN,0,0,0,
 Ladakh,2133,1449,19,665,21/08/2020 22:03:59,0,LA,0,0,0,
 Chandigarh,2631,1426,33,1170,21/08/2020 19:48:58,2,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2083,1652,2,411,21/08/2020 19:49:00,18,DN,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,2085,1652,2,409,22/08/2020 15:15:09,22,DN,2,0,0,
 Meghalaya,1718,749,6,963,21/08/2020 20:06:16,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1336,834,3,499,21/08/2020 20:19:18,0,SK,0,0,0,
