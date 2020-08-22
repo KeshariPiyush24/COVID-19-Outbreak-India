@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3019510,2255039,56523,707399,22/08/2020 20:06:05,549,TT,46141,34240,595,
+Total,3026806,2261051,56648,708558,22/08/2020 20:15:06,549,TT,53437,40252,720,
 Maharashtra,671942,480114,21995,169516,22/08/2020 19:57:06,317,MH,14492,9241,297,"317 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,367430,307677,6340,53413,21/08/2020 19:19:49,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,373410,313280,6420,53710,22/08/2020 20:15:08,0,TN,5980,5603,80,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -25,12 +25,12 @@ Assam,87909,65597,227,22082,22/08/2020 00:04:49,3,AS,0,0,0,Includes 1 case from 
 Rajasthan,68566,52721,938,14907,22/08/2020 11:52:52,0,RJ,612,225,5,
 Odisha,75537,50504,452,24581,22/08/2020 11:57:48,0,OR,2819,0,9,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
-Haryana,53290,44013,597,8680,22/08/2020 20:06:07,0,HR,1161,600,12,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
+Haryana,53290,44013,597,8680,22/08/2020 20:11:07,0,HR,1161,600,12,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,51866,39399,1206,11261,22/08/2020 19:12:08,0,MP,1226,872,21,
 Kerala,56354,36535,219,19538,22/08/2020 19:39:08,62,KL,2172,1292,15,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 62 such cases have been reduced from active count"
-Punjab,39327,23893,991,14443,21/08/2020 19:56:54,0,PB,0,0,0,
+Punjab,40643,24302,1036,15305,22/08/2020 20:14:09,0,PB,1316,409,45,
 Jammu and Kashmir,31981,24398,608,6975,22/08/2020 18:29:11,0,JK,610,593,15,
 Jharkhand,28196,18372,297,9527,21/08/2020 23:16:52,0,JH,0,0,0,
 Chhattisgarh,19510,12022,180,7308,22/08/2020 00:04:51,0,CT,0,0,0,
