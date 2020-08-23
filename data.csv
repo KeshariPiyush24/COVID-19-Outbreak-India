@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3080483,2313510,57263,709157,23/08/2020 21:00:10,553,TT,37047,33610,417,
+Total,3084314,2317062,57326,709373,23/08/2020 21:25:09,553,TT,40878,37162,480,
 Maharashtra,671942,480114,21995,169516,22/08/2020 19:57:06,317,MH,0,0,0,"317 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -14,7 +14,7 @@ Karnataka,271876,184568,4615,82677,22/08/2020 20:52:11,16,KA,0,0,0,
 Delhi,161466,145388,4300,11778,23/08/2020 18:08:10,0,DL,1450,1250,16,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,187781,135613,2926,49242,23/08/2020 17:38:11,0,UP,5325,4318,59,
-West Bengal,135596,104959,2737,27900,22/08/2020 20:39:14,0,WB,0,0,0,
+West Bengal,138870,108007,2794,28069,23/08/2020 21:25:11,0,WB,3274,3048,57,
 Bihar,122156,98454,610,23091,23/08/2020 20:08:13,1,BR,2247,3082,9,
 Telangana,104249,80586,755,22908,23/08/2020 09:50:11,0,TG,2384,1851,11,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
@@ -33,7 +33,7 @@ In total 62 such cases have been reduced from active count"
 Punjab,41779,26528,1086,14165,23/08/2020 20:08:19,0,PB,1136,2226,50,
 Jammu and Kashmir,32647,24832,617,7198,23/08/2020 20:08:21,0,JK,666,434,9,
 Jharkhand,29103,19186,310,9607,22/08/2020 23:13:12,0,JH,0,0,0,
-Chhattisgarh,20214,12394,190,7630,22/08/2020 23:57:10,0,CT,0,0,0,
+Chhattisgarh,20771,12898,196,7677,23/08/2020 21:25:13,0,CT,557,504,6,
 Uttarakhand,15124,10480,200,4389,23/08/2020 21:00:14,55,UT,558,459,5,
 Goa,13999,10472,144,3383,23/08/2020 20:23:12,0,GA,209,453,4,
 Tripura,8717,6182,72,2445,23/08/2020 10:53:13,18,TR,331,121,2,"[Aug 4]
