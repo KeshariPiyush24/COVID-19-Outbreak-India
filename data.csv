@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3164508,2403075,58543,702325,24/08/2020 22:52:10,565,TT,59323,66279,851,
+Total,3164559,2403101,58543,702350,24/08/2020 23:05:09,565,TT,59374,66305,851,
 Maharashtra,693398,502490,22465,168126,24/08/2020 20:18:11,317,MH,11015,14219,212,"317 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -10,7 +10,7 @@ Tamil Nadu,385352,325456,6614,53282,24/08/2020 19:18:09,0,TN,5967,6129,97,"[July
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Andhra Pradesh,361712,268828,3368,89516,24/08/2020 18:04:10,0,AP,8601,8741,86,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,283665,197625,4810,81211,24/08/2020 22:52:11,19,KA,5851,8061,127,
+Karnataka,283665,197625,4810,81211,24/08/2020 23:05:11,19,KA,5851,8061,127,
 Delhi,162527,146588,4313,11626,24/08/2020 20:08:14,0,DL,1061,1200,13,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,192382,140107,2987,49288,24/08/2020 16:53:09,0,UP,4601,4494,61,
@@ -32,7 +32,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 63 such cases have been reduced from active count"
 Punjab,43284,28357,1129,13798,24/08/2020 20:22:12,0,PB,1505,1829,43,
 Jammu and Kashmir,33075,25205,624,7246,24/08/2020 18:04:11,0,JK,428,373,7,
-Jharkhand,31118,21025,335,9758,24/08/2020 22:52:13,0,JH,940,889,17,
+Jharkhand,31118,21025,335,9758,24/08/2020 23:05:13,0,JH,940,889,17,
 Chhattisgarh,21732,13424,203,8105,24/08/2020 21:29:14,0,CT,814,493,6,
 Uttarakhand,15529,10912,207,4355,24/08/2020 20:08:17,55,UT,405,432,7,
 Goa,14138,10909,148,3081,24/08/2020 19:46:14,0,GA,139,437,4,
@@ -44,7 +44,7 @@ Himachal Pradesh,5101,3584,28,1435,24/08/2020 22:16:13,54,HP,100,123,0,"HP has 5
 Nagaland,3714,2396,8,1301,24/08/2020 19:20:11,9,NL,28,102,0,
 Arunachal Pradesh,3312,2427,5,880,24/08/2020 21:48:15,0,AR,49,130,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,2904,2092,35,777,24/08/2020 22:31:13,0,AN,44,129,2,
-Ladakh,2279,1491,23,765,23/08/2020 22:09:15,0,LA,0,0,0,
+Ladakh,2330,1517,23,790,24/08/2020 23:05:16,0,LA,51,26,0,
 Chandigarh,3035,1646,37,1350,24/08/2020 20:08:19,2,CH,117,154,0,
 Dadra and Nagar Haveli and Daman and Diu,2177,1783,2,368,24/08/2020 19:20:12,24,DN,18,39,0,
 Meghalaya,1976,789,8,1179,24/08/2020 22:09:15,0,ML,59,13,0,"[June 17]:
