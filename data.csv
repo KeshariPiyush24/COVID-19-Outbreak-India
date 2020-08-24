@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3126078,2355823,57891,711808,24/08/2020 18:40:09,556,TT,20893,19027,199,
+Total,3126078,2355823,57891,711808,24/08/2020 18:45:08,556,TT,20893,19027,199,
 Maharashtra,682383,488271,22253,171542,23/08/2020 22:43:10,317,MH,0,0,0,"317 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -15,7 +15,7 @@ Delhi,161466,145388,4300,11778,23/08/2020 18:08:10,0,DL,0,0,0,"[July 14]: Value 
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,192382,140107,2987,49288,24/08/2020 16:53:09,0,UP,4601,4494,61,
 West Bengal,138870,108007,2794,28069,23/08/2020 21:29:10,0,WB,0,0,0,
-Bihar,123383,101362,627,21393,24/08/2020 18:40:11,1,BR,1227,2908,17,
+Bihar,123383,101362,627,21393,24/08/2020 18:45:10,1,BR,1227,2908,17,
 Telangana,106091,82411,761,22919,24/08/2020 09:24:11,0,TG,1842,1825,6,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
@@ -46,7 +46,7 @@ Arunachal Pradesh,3263,2297,5,961,23/08/2020 22:22:15,0,AR,0,0,0,[July 25]: All 
 Andaman and Nicobar Islands,2860,1963,33,864,23/08/2020 22:11:19,0,AN,0,0,0,
 Ladakh,2279,1491,23,765,23/08/2020 22:09:15,0,LA,0,0,0,
 Chandigarh,2918,1492,37,1387,23/08/2020 23:51:15,2,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2166,1770,2,370,24/08/2020 18:40:13,24,DN,7,26,0,
+Dadra and Nagar Haveli and Daman and Diu,2166,1770,2,370,24/08/2020 18:45:14,24,DN,7,26,0,
 Meghalaya,1917,776,8,1133,23/08/2020 20:08:27,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1403,871,3,529,23/08/2020 23:19:15,0,SK,0,0,0,
