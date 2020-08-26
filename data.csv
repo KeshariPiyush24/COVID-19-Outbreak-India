@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3287698,2507781,60284,719065,26/08/2020 21:07:17,568,TT,55944,40529,672,
+Total,3287709,2511114,60284,715743,26/08/2020 21:37:18,568,TT,55955,43862,672,
 Maharashtra,703823,514790,22794,165921,25/08/2020 21:08:17,318,MH,0,0,0,"318 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -20,10 +20,10 @@ Telangana,111688,85223,780,25685,26/08/2020 09:45:14,0,TG,3018,1060,10,"[July 27
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
-Gujarat,90128,72418,2945,14765,26/08/2020 21:07:21,0,GJ,1186,1057,17,
+Gujarat,90139,72408,2945,14786,26/08/2020 21:37:23,0,GJ,1197,1047,17,
 Assam,94593,74815,260,19515,25/08/2020 22:30:14,3,AS,0,0,0,Includes 1 case from Nagaland
 Rajasthan,73935,58342,986,14607,26/08/2020 11:08:09,0,RJ,610,216,6,
-Odisha,87602,59470,494,27638,26/08/2020 11:50:10,0,OR,3371,0,13,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,87602,62813,494,24295,26/08/2020 21:37:25,0,OR,3371,3343,13,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,58005,47613,634,9758,26/08/2020 20:13:32,0,HR,1397,1117,11,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,56864,43246,1282,12336,26/08/2020 20:29:23,0,MP,1064,936,17,
@@ -46,7 +46,7 @@ Arunachal Pradesh,3412,2508,5,899,25/08/2020 22:04:22,0,AR,0,0,0,[July 25]: All 
 Andaman and Nicobar Islands,2945,2231,37,677,25/08/2020 22:20:19,0,AN,0,0,0,
 Ladakh,2420,1549,24,847,25/08/2020 23:14:20,0,LA,0,0,0,
 Chandigarh,3376,1800,41,1533,26/08/2020 20:13:49,2,CH,167,87,1,
-Dadra and Nagar Haveli and Daman and Diu,2220,1857,2,337,26/08/2020 21:07:29,24,DN,22,41,0,
+Dadra and Nagar Haveli and Daman and Diu,2220,1857,2,337,26/08/2020 21:17:24,24,DN,22,41,0,
 Meghalaya,2040,874,8,1158,26/08/2020 20:45:18,0,ML,22,42,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1475,1054,3,418,25/08/2020 22:45:17,0,SK,0,0,0,
