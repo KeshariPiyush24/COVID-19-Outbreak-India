@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3246929,2474743,59736,711882,26/08/2020 17:54:11,568,TT,15175,7491,124,
+Total,3250109,2476693,59768,713080,26/08/2020 18:59:12,568,TT,18355,9441,156,
 Maharashtra,703823,514790,22794,165921,25/08/2020 21:08:17,318,MH,0,0,0,"318 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -27,11 +27,11 @@ Odisha,87602,59470,494,27638,26/08/2020 11:50:10,0,OR,3371,0,13,"[July 12th] 20 
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,56608,46496,623,9489,25/08/2020 19:20:13,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,55800,42310,1265,12225,25/08/2020 22:14:15,0,MP,0,0,0,
-Kerala,61879,40339,245,21232,25/08/2020 19:20:15,63,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,64355,41690,258,22344,26/08/2020 18:59:14,63,KL,2476,1351,13,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 63 such cases have been reduced from active count"
 Punjab,44577,29145,1178,14254,25/08/2020 20:39:14,0,PB,0,0,0,
-Jammu and Kashmir,33776,25594,638,7544,25/08/2020 18:38:11,0,JK,0,0,0,
+Jammu and Kashmir,34480,26193,657,7630,26/08/2020 18:59:16,0,JK,704,599,19,
 Jharkhand,32174,21750,347,10077,25/08/2020 22:45:14,0,JH,0,0,0,
 Chhattisgarh,23341,13732,221,9388,26/08/2020 00:08:11,0,CT,0,0,0,
 Uttarakhand,16014,11201,213,4545,25/08/2020 21:24:36,55,UT,0,0,0,
