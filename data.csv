@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3307739,2521295,60629,725242,26/08/2020 23:41:16,573,TT,75985,54043,1017,
+Total,3307749,2521295,60629,725252,26/08/2020 23:54:23,573,TT,75995,54043,1017,
 Maharashtra,718711,522427,23089,172873,26/08/2020 22:49:32,322,MH,14888,7637,295,"322 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -33,7 +33,7 @@ In total 63 such cases have been reduced from active count"
 Punjab,46090,30231,1219,14640,26/08/2020 21:07:24,0,PB,1513,1086,41,
 Jammu and Kashmir,34480,26193,657,7630,26/08/2020 19:03:16,0,JK,704,599,19,
 Jharkhand,33311,22486,362,10463,26/08/2020 23:17:20,0,JH,1137,736,15,
-Chhattisgarh,24550,14145,231,10174,26/08/2020 23:41:19,0,CT,1209,413,10,
+Chhattisgarh,24550,14145,231,10174,26/08/2020 23:48:21,0,CT,1209,413,10,
 Uttarakhand,16549,11524,219,4749,26/08/2020 22:56:24,57,UT,535,323,6,
 Goa,15027,11511,165,3351,26/08/2020 20:29:26,0,GA,497,287,8,
 Tripura,9539,6574,83,2863,26/08/2020 09:04:15,19,TR,329,160,4,"[Aug 4]
@@ -47,7 +47,7 @@ Andaman and Nicobar Islands,2985,2309,41,635,26/08/2020 22:20:28,0,AN,40,78,4,
 Ladakh,2451,1580,25,846,26/08/2020 22:05:20,0,LA,31,31,1,
 Chandigarh,3376,1800,41,1533,26/08/2020 20:13:49,2,CH,167,87,1,
 Dadra and Nagar Haveli and Daman and Diu,2220,1857,2,337,26/08/2020 21:17:24,24,DN,22,41,0,
-Meghalaya,2040,874,8,1158,26/08/2020 20:45:18,0,ML,22,42,0,"[June 17]:
+Meghalaya,2050,874,8,1168,26/08/2020 23:54:28,0,ML,32,42,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1486,1076,3,407,26/08/2020 22:05:22,0,SK,11,22,0,
 Mizoram,967,473,0,494,26/08/2020 17:54:19,0,MZ,14,9,0,
