@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3333581,2541032,60848,731127,27/08/2020 18:02:17,574,TT,25832,17589,219,
+Total,3333581,2541032,60848,731127,27/08/2020 18:07:16,574,TT,25832,17589,219,
 Maharashtra,718711,522427,23089,172873,26/08/2020 22:49:32,322,MH,0,0,0,"322 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -13,9 +13,9 @@ Andhra Pradesh,393090,295248,3633,94209,27/08/2020 17:34:18,0,AP,10621,8528,92,"
 Karnataka,300406,211688,5091,83608,26/08/2020 20:39:16,19,KA,0,0,0,
 Delhi,165764,148897,4347,12520,26/08/2020 20:13:28,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Uttar Pradesh,208419,152893,3217,52309,27/08/2020 18:02:19,0,UP,5391,4331,76,
+Uttar Pradesh,208419,152893,3217,52309,27/08/2020 18:07:19,0,UP,5391,4331,76,
 West Bengal,147775,117857,2964,26954,26/08/2020 21:07:19,0,WB,0,0,0,
-Bihar,128850,109696,662,18491,27/08/2020 18:02:21,1,BR,1860,2931,9,
+Bihar,128850,109696,662,18491,27/08/2020 18:07:21,1,BR,1860,2931,9,
 Telangana,114483,86095,788,27600,27/08/2020 09:11:17,0,TG,2795,872,8,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
@@ -31,7 +31,7 @@ Kerala,64355,41690,258,22344,26/08/2020 19:03:15,63,KL,0,0,0,"Mahe native who ex
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 63 such cases have been reduced from active count"
 Punjab,46090,30231,1219,14640,26/08/2020 21:07:24,0,PB,0,0,0,
-Jammu and Kashmir,35135,26721,671,7743,27/08/2020 18:02:23,0,JK,655,528,14,
+Jammu and Kashmir,35135,26721,671,7743,27/08/2020 18:07:23,0,JK,655,528,14,
 Jharkhand,33311,22486,367,10458,27/08/2020 17:34:21,0,JH,0,0,5,
 Chhattisgarh,24550,14145,231,10174,26/08/2020 23:48:21,0,CT,0,0,0,
 Uttarakhand,16549,11524,219,4749,26/08/2020 22:56:24,57,UT,0,0,0,
@@ -50,6 +50,6 @@ Dadra and Nagar Haveli and Daman and Diu,2251,1881,2,343,27/08/2020 17:47:25,25,
 Meghalaya,2114,895,8,1211,27/08/2020 15:39:42,0,ML,64,21,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1486,1076,3,407,26/08/2020 22:05:22,0,SK,0,0,0,
-Mizoram,974,500,0,474,27/08/2020 18:02:26,0,MZ,7,27,0,
+Mizoram,974,500,0,474,27/08/2020 18:07:26,0,MZ,7,27,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
