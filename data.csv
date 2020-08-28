@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3414081,2604736,61938,746837,28/08/2020 19:25:16,570,TT,29505,21673,243,
+Total,3425744,2614427,62083,748664,28/08/2020 19:41:17,570,TT,41168,31364,388,
 Maharashtra,733568,531563,23444,178234,27/08/2020 20:31:19,327,MH,0,0,0,"327 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -9,8 +9,8 @@ Tamil Nadu,403242,343930,6948,52364,27/08/2020 20:09:22,0,TN,0,0,0,"[July 22]: 4
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Andhra Pradesh,403616,303711,3714,96191,28/08/2020 19:25:17,0,AP,10526,8463,81,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,309792,219554,5232,84987,27/08/2020 21:38:20,19,KA,0,0,0,
+Andhra Pradesh,403616,303711,3714,96191,28/08/2020 19:38:21,0,AP,10526,8463,81,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Karnataka,318752,227018,5368,86347,28/08/2020 19:41:20,19,KA,8960,7464,136,
 Delhi,169412,151473,4389,13550,28/08/2020 19:13:19,0,DL,1808,1446,20,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,213824,157879,3294,52651,28/08/2020 18:57:23,0,UP,5405,4986,77,
@@ -27,7 +27,7 @@ Odisha,94668,65323,509,28836,28/08/2020 11:30:17,0,OR,3682,0,8,"[July 12th] 20 n
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,59298,48690,646,9962,27/08/2020 20:55:28,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,58181,44453,1306,12422,27/08/2020 19:58:28,0,MP,0,0,0,
-Kerala,66761,43757,268,22673,27/08/2020 20:09:27,63,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,69304,45854,275,23112,28/08/2020 19:41:22,63,KL,2543,2097,7,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 63 such cases have been reduced from active count"
 Punjab,47836,30972,1256,15608,27/08/2020 20:31:31,0,PB,0,0,0,
@@ -45,8 +45,8 @@ Nagaland,3805,2850,8,937,28/08/2020 18:19:15,10,NL,21,115,0,
 Arunachal Pradesh,3633,2621,5,1007,27/08/2020 22:18:26,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3018,2374,42,602,27/08/2020 22:18:28,0,AN,0,0,0,
 Ladakh,2492,1640,27,825,27/08/2020 22:18:30,0,LA,0,0,0,
-Chandigarh,3564,1977,43,1544,27/08/2020 20:09:30,0,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2291,1960,2,304,28/08/2020 19:22:26,25,DN,29,47,0,
+Chandigarh,3724,2107,45,1572,28/08/2020 19:41:25,0,CH,160,130,2,
+Dadra and Nagar Haveli and Daman and Diu,2291,1960,2,304,28/08/2020 19:29:22,25,DN,29,47,0,
 Meghalaya,2202,906,9,1287,28/08/2020 12:59:19,0,ML,72,7,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1542,1151,3,388,27/08/2020 22:18:32,0,SK,0,0,0,
