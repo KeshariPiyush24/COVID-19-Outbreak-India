@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3447245,2633319,62567,750784,28/08/2020 20:15:25,575,TT,62669,50256,872,
-Maharashtra,747995,543170,23775,180718,28/08/2020 20:15:29,332,MH,14427,11607,331,"332 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,3454550,2640173,62669,751133,28/08/2020 20:26:19,575,TT,69974,57110,974,
+Maharashtra,747995,543170,23775,180718,28/08/2020 20:21:23,332,MH,14427,11607,331,"332 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,403242,343930,6948,52364,27/08/2020 20:09:22,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,409238,349682,7050,52506,28/08/2020 20:26:21,0,TN,5996,5752,102,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -14,19 +14,19 @@ Karnataka,318752,227018,5368,86347,28/08/2020 19:56:19,19,KA,8960,7464,136,
 Delhi,169412,151473,4389,13550,28/08/2020 19:13:19,0,DL,1808,1446,20,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,213824,157879,3294,52651,28/08/2020 18:57:23,0,UP,5405,4986,77,
-West Bengal,153754,124332,3073,26349,28/08/2020 20:15:34,0,WB,2982,3286,56,
+West Bengal,153754,124332,3073,26349,28/08/2020 20:21:28,0,WB,2982,3286,56,
 Bihar,130848,112445,674,17728,28/08/2020 18:25:25,1,BR,1998,2749,12,
 Telangana,117425,87675,799,28951,28/08/2020 09:30:17,0,TG,2942,1580,11,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
-Gujarat,91329,73601,2976,14752,28/08/2020 20:15:37,0,GJ,0,0,14,
+Gujarat,92601,74651,2976,14974,28/08/2020 20:26:24,0,GJ,1272,1050,14,
 Assam,98808,79308,278,19219,27/08/2020 22:09:19,3,AS,0,0,0,Includes 1 case from Nagaland
 Rajasthan,76572,60830,1012,14730,28/08/2020 11:26:23,0,RJ,557,245,7,
 Odisha,94668,65323,509,28836,28/08/2020 11:30:17,0,OR,3682,0,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,60596,49710,661,10225,28/08/2020 20:04:31,0,HR,1298,1020,15,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Madhya Pradesh,59433,45396,1323,12714,28/08/2020 20:13:31,0,MP,1252,943,17,
+Madhya Pradesh,59433,45396,1323,12714,28/08/2020 20:16:50,0,MP,1252,943,17,
 Kerala,69304,45854,275,23112,28/08/2020 19:56:24,63,KL,2543,2097,7,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 63 such cases have been reduced from active count"
@@ -47,7 +47,7 @@ Andaman and Nicobar Islands,3018,2374,42,602,27/08/2020 22:18:28,0,AN,0,0,0,
 Ladakh,2492,1640,27,825,27/08/2020 22:18:30,0,LA,0,0,0,
 Chandigarh,3724,2107,45,1572,28/08/2020 19:56:28,0,CH,160,130,2,
 Dadra and Nagar Haveli and Daman and Diu,2291,1960,2,304,28/08/2020 19:29:22,25,DN,29,47,0,
-Meghalaya,2202,906,9,1287,28/08/2020 12:59:19,0,ML,72,7,0,"[June 17]:
+Meghalaya,2239,958,9,1272,28/08/2020 20:26:27,0,ML,109,59,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1542,1151,3,388,27/08/2020 22:18:32,0,SK,0,0,0,
 Mizoram,1003,514,0,489,28/08/2020 18:19:29,0,MZ,29,14,0,
