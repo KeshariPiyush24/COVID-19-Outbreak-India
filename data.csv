@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3477250,2658477,62837,755355,29/08/2020 18:40:19,581,TT,16017,10939,123,
+Total,3477250,2658477,62837,755355,29/08/2020 18:44:14,581,TT,16017,10939,123,
 Maharashtra,747995,543170,23775,180718,28/08/2020 20:29:20,332,MH,0,0,0,"332 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -41,7 +41,7 @@ Tripura bulletin for the previous day is released on the next day. We will add t
 Puducherry,13556,8511,211,4834,29/08/2020 18:06:19,0,PY,532,431,12,
 Manipur,5960,4186,28,1746,29/08/2020 18:14:19,0,MN,117,129,1,
 Himachal Pradesh,5637,4149,32,1412,28/08/2020 22:08:23,44,HP,0,0,0,"HP has 45 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Nagaland,3851,2908,8,925,29/08/2020 18:40:22,10,NL,46,58,0,
+Nagaland,3851,2908,8,925,29/08/2020 18:44:17,10,NL,46,58,0,
 Arunachal Pradesh,3745,2709,7,1029,28/08/2020 22:10:25,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3050,2444,42,564,28/08/2020 22:18:22,0,AN,0,0,0,
 Ladakh,2540,1714,28,798,28/08/2020 22:10:29,0,LA,0,0,0,
