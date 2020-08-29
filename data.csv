@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3464434,2649411,62727,751718,29/08/2020 09:50:14,578,TT,3194,1873,14,
+Total,3464425,2649411,62728,751708,29/08/2020 09:50:14,578,TT,3194,1873,14,
 Maharashtra,747995,543170,23775,180718,28/08/2020 20:29:20,332,MH,0,0,0,"332 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -16,7 +16,7 @@ Delhi,169412,151473,4389,13550,28/08/2020 19:13:19,0,DL,0,0,0,"[July 14]: Value 
 Uttar Pradesh,213824,157879,3294,52651,28/08/2020 18:57:23,0,UP,0,0,0,
 West Bengal,153754,124332,3073,26349,28/08/2020 20:29:25,0,WB,0,0,0,
 Bihar,130848,112445,674,17728,28/08/2020 18:25:25,1,BR,0,0,0,
-Telangana,120176,89350,808,30018,29/08/2020 09:50:16,0,TG,2751,1675,9,"[July 27]
+Telangana,120166,89350,808,30008,29/08/2020 09:50:16,0,TG,2751,1675,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
@@ -47,7 +47,7 @@ Andaman and Nicobar Islands,3050,2444,42,564,28/08/2020 22:18:22,0,AN,0,0,0,
 Ladakh,2540,1714,28,798,28/08/2020 22:10:29,0,LA,0,0,0,
 Chandigarh,3724,2107,45,1572,28/08/2020 19:56:28,0,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2291,1960,2,304,28/08/2020 19:29:22,25,DN,0,0,0,
-Meghalaya,2239,958,9,1272,28/08/2020 20:51:20,0,ML,0,0,0,"[June 17]:
+Meghalaya,2240,958,10,1272,28/08/2020 20:51:20,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1576,1184,3,389,28/08/2020 20:51:21,0,SK,0,0,0,
 Mizoram,1003,514,0,489,28/08/2020 18:19:29,0,MZ,0,0,0,
