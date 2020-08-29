@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3513902,2691243,63280,758798,29/08/2020 21:00:14,581,TT,52669,43705,566,
+Total,3515765,2692352,63299,759533,29/08/2020 21:25:14,581,TT,54532,44814,585,
 Maharashtra,747995,543170,23775,180718,28/08/2020 20:29:20,332,MH,0,0,0,"332 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -10,7 +10,7 @@ Tamil Nadu,415590,355727,7137,52726,29/08/2020 19:29:17,0,TN,6352,6045,87,"[July
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Andhra Pradesh,414164,312687,3796,97681,29/08/2020 18:59:20,0,AP,10548,8976,82,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,327076,235128,5483,86446,29/08/2020 19:29:19,19,KA,8324,8110,115,
+Karnataka,327076,235128,5483,86446,29/08/2020 21:12:15,19,KA,8324,8110,115,
 Delhi,171366,152922,4404,14040,29/08/2020 20:28:16,0,DL,1954,1449,15,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,219457,162741,3356,53360,29/08/2020 16:43:15,0,UP,5633,4862,62,
@@ -20,7 +20,7 @@ Telangana,120166,89350,808,30008,29/08/2020 10:18:18,0,TG,2751,1675,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
-Gujarat,93883,75762,2989,15132,29/08/2020 21:00:16,0,GJ,1282,1111,13,
+Gujarat,93883,75762,2989,15132,29/08/2020 21:06:18,0,GJ,1282,1111,13,
 Assam,101368,81071,289,20005,29/08/2020 20:48:17,3,AS,0,0,3,Includes 1 case from Nagaland
 Rajasthan,77965,62243,1025,14697,29/08/2020 11:14:17,0,RJ,595,210,8,
 Odisha,97920,67826,523,29571,29/08/2020 11:14:19,0,OR,3252,0,14,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
@@ -33,8 +33,8 @@ In total 64 such cases have been reduced from active count"
 Punjab,50848,34091,1348,15409,29/08/2020 20:48:19,0,PB,1470,1083,41,
 Jammu and Kashmir,36377,28020,685,7672,29/08/2020 18:14:17,0,JK,546,648,7,
 Jharkhand,35813,24138,389,11286,28/08/2020 23:29:20,0,JH,0,0,0,
-Chhattisgarh,27233,15109,251,11873,28/08/2020 23:46:20,0,CT,0,0,0,
-Uttarakhand,17865,12124,239,5440,28/08/2020 23:26:21,62,UT,0,0,0,
+Chhattisgarh,28390,15818,259,12313,29/08/2020 21:25:17,0,CT,1157,709,8,
+Uttarakhand,18571,12524,250,5735,29/08/2020 21:25:19,62,UT,706,400,11,
 Goa,16553,12729,178,3646,29/08/2020 20:28:20,0,GA,547,433,3,
 Tripura,10876,7037,94,3726,29/08/2020 09:50:18,19,TR,443,198,5,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
