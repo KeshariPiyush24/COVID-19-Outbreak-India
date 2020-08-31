@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3660480,2815153,65126,779616,31/08/2020 20:37:24,585,TT,41307,42211,509,
+Total,3663473,2818471,65178,779239,31/08/2020 20:46:25,585,TT,44300,45529,561,
 Maharashtra,780689,562401,24399,193548,30/08/2020 21:23:26,341,MH,0,0,0,"341 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,428041,368141,7323,52577,31/08/2020 20:37:26,0,TN,5956,6008,92,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,428041,368141,7323,52577,31/08/2020 20:41:30,0,TN,5956,6008,92,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -14,7 +14,7 @@ Karnataka,342423,249467,5702,87235,31/08/2020 19:38:32,19,KA,6495,7238,113,
 Delhi,174748,155678,4444,14626,31/08/2020 19:21:24,0,DL,1358,1507,18,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,230414,172140,3486,54788,31/08/2020 17:39:45,0,UP,4782,4597,63,
-West Bengal,159785,130952,3176,25657,30/08/2020 20:46:19,0,WB,0,0,0,
+West Bengal,162778,134270,3228,25280,31/08/2020 20:46:29,0,WB,2993,3318,52,
 Bihar,136337,119572,694,16070,31/08/2020 17:43:31,1,BR,1324,2267,6,
 Telangana,124963,92837,827,31299,31/08/2020 09:39:27,0,TG,1873,1849,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
