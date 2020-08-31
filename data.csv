@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3687939,2837377,65435,784539,31/08/2020 23:57:17,588,TT,68766,64435,818,
+Total,3687939,2837377,65435,784539,01/09/2020 00:01:17,588,TT,68766,64435,818,
 Maharashtra,792541,573559,24583,194056,31/08/2020 21:54:22,343,MH,11852,11158,184,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -21,7 +21,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Gujarat,96435,77882,3020,15533,31/08/2020 21:54:25,0,GJ,1280,1025,14,
-Assam,109041,85459,306,23273,31/08/2020 23:57:20,3,AS,3266,1531,10,Includes 1 case from Nagaland
+Assam,109041,85459,306,23273,01/09/2020 00:01:19,3,AS,3266,1531,10,Includes 1 case from Nagaland
 Rajasthan,81693,66812,1056,13825,31/08/2020 22:09:27,0,RJ,1466,1719,13,
 Odisha,103536,77286,545,25705,31/08/2020 20:16:27,0,OR,2602,4053,10,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -32,7 +32,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 64 such cases have been reduced from active count"
 Punjab,53992,37027,1453,15512,31/08/2020 20:32:37,0,PB,1466,1280,49,
 Jammu and Kashmir,37698,29015,703,7980,31/08/2020 18:30:29,0,JK,535,505,9,
-Jharkhand,41656,27143,417,14096,31/08/2020 23:57:22,0,JH,3221,695,7,
+Jharkhand,41656,27143,417,14096,01/09/2020 00:01:21,0,JH,3221,695,7,
 Chhattisgarh,31503,16989,277,14237,31/08/2020 23:46:25,0,CT,1411,686,8,
 Uttarakhand,19827,13608,269,5887,31/08/2020 22:12:39,63,UT,592,604,12,
 Goa,17418,13577,193,3648,31/08/2020 20:32:40,0,GA,414,391,10,
