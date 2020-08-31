@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3684339,2834973,65427,783351,31/08/2020 22:45:22,588,TT,65166,62031,810,
+Total,3687936,2835846,65435,786067,31/08/2020 23:41:18,588,TT,68763,62904,818,
 Maharashtra,792541,573559,24583,194056,31/08/2020 21:54:22,343,MH,11852,11158,184,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -32,8 +32,8 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 64 such cases have been reduced from active count"
 Punjab,53992,37027,1453,15512,31/08/2020 20:32:37,0,PB,1466,1280,49,
 Jammu and Kashmir,37698,29015,703,7980,31/08/2020 18:30:29,0,JK,535,505,9,
-Jharkhand,38435,26448,410,11577,30/08/2020 23:14:19,0,JH,0,0,0,
-Chhattisgarh,31195,16989,277,13929,31/08/2020 21:54:41,0,CT,1103,686,8,
+Jharkhand,41653,27143,417,14093,31/08/2020 23:41:20,0,JH,3218,695,7,
+Chhattisgarh,31503,16989,277,14237,31/08/2020 23:41:22,0,CT,1411,686,8,
 Uttarakhand,19827,13608,269,5887,31/08/2020 22:12:39,63,UT,592,604,12,
 Goa,17418,13577,193,3648,31/08/2020 20:32:40,0,GA,414,391,10,
 Tripura,11644,7433,103,4089,31/08/2020 09:39:30,19,TR,321,201,5,"[Aug 4]
@@ -43,8 +43,8 @@ Manipur,6252,4330,28,1894,31/08/2020 21:54:44,0,MN,140,91,0,
 Himachal Pradesh,6116,4473,37,1562,31/08/2020 22:12:47,44,HP,171,65,3,"HP has 45 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,3950,3058,8,874,31/08/2020 18:18:34,10,NL,28,41,0,
 Arunachal Pradesh,4112,2885,7,1220,31/08/2020 22:38:33,0,AR,78,63,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Andaman and Nicobar Islands,3104,2586,45,473,30/08/2020 22:12:25,0,AN,0,0,0,
-Ladakh,2638,1757,34,847,30/08/2020 23:19:17,0,LA,0,0,0,
+Andaman and Nicobar Islands,3132,2647,46,439,31/08/2020 23:41:24,0,AN,28,61,1,
+Ladakh,2681,1874,34,773,31/08/2020 23:41:26,0,LA,43,117,0,
 Chandigarh,4346,2431,56,1857,31/08/2020 19:38:40,2,CH,191,135,4,
 Dadra and Nagar Haveli and Daman and Diu,2367,2081,2,264,31/08/2020 21:54:47,20,DN,27,39,0,
 Meghalaya,2368,1162,10,1196,31/08/2020 21:54:49,0,ML,25,113,0,"[June 17]:
