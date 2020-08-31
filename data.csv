@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3641583,2791769,64816,784413,31/08/2020 18:25:48,585,TT,22410,18827,199,
+Total,3641583,2791769,64816,784413,31/08/2020 18:30:25,585,TT,22410,18827,199,
 Maharashtra,780689,562401,24399,193548,30/08/2020 21:23:26,341,MH,0,0,0,"341 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -31,7 +31,7 @@ Kerala,73855,49845,288,23658,30/08/2020 19:29:30,64,KL,0,0,0,"Mahe native who ex
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 64 such cases have been reduced from active count"
 Punjab,52526,35747,1404,15375,30/08/2020 23:07:20,0,PB,0,0,0,
-Jammu and Kashmir,37698,29015,703,7980,31/08/2020 18:25:52,0,JK,535,505,9,
+Jammu and Kashmir,37698,29015,703,7980,31/08/2020 18:30:29,0,JK,535,505,9,
 Jharkhand,38435,26448,410,11577,30/08/2020 23:14:19,0,JH,0,0,0,
 Chhattisgarh,30092,16303,269,13520,30/08/2020 23:14:21,0,CT,0,0,0,
 Uttarakhand,19235,13004,257,5912,30/08/2020 22:08:27,62,UT,0,0,0,
