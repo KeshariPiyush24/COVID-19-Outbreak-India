@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3766056,2897983,66459,801025,01/09/2020 23:16:43,589,TT,78116,60606,1026,
+Total,3766108,2898087,66460,800972,01/09/2020 23:42:21,589,TT,78168,60710,1027,
 Maharashtra,808306,584537,24903,198523,01/09/2020 22:10:25,343,MH,15765,10978,320,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -32,8 +32,8 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 64 such cases have been reduced from active count"
 Punjab,55508,38147,1512,15849,01/09/2020 20:12:43,0,PB,1516,1120,59,
 Jammu and Kashmir,38223,29484,717,8022,01/09/2020 18:15:29,0,JK,525,469,14,
-Jharkhand,43833,28149,428,15256,01/09/2020 23:16:45,0,JH,2177,1006,11,
-Chhattisgarh,33387,17567,287,15533,01/09/2020 23:16:48,0,CT,1884,578,10,
+Jharkhand,43833,28149,428,15256,01/09/2020 23:22:02,0,JH,2177,1006,11,
+Chhattisgarh,33387,17567,287,15533,01/09/2020 23:22:18,0,CT,1884,578,10,
 Uttarakhand,20398,14012,280,6042,01/09/2020 22:57:24,64,UT,571,404,11,
 Goa,18006,13850,194,3962,01/09/2020 19:48:25,0,GA,588,273,2,
 Tripura,12153,7654,113,4367,01/09/2020 09:17:29,19,TR,509,221,10,"[Aug 4]
@@ -44,7 +44,7 @@ Himachal Pradesh,6255,4646,41,1525,01/09/2020 22:35:00,43,HP,139,173,4,"HP has 4
 Nagaland,4003,3191,8,794,01/09/2020 17:49:24,10,NL,53,133,0,
 Arunachal Pradesh,4212,2979,7,1226,01/09/2020 22:57:28,0,AR,100,94,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3160,2714,46,400,01/09/2020 22:10:37,0,AN,28,67,0,
-Ladakh,2681,1874,34,773,31/08/2020 23:46:32,0,LA,0,0,0,
+Ladakh,2733,1978,35,720,01/09/2020 23:42:24,0,LA,52,104,1,
 Chandigarh,4550,2551,57,1939,01/09/2020 19:16:27,3,CH,204,120,1,
 Dadra and Nagar Haveli and Daman and Diu,2386,2121,2,243,01/09/2020 19:32:23,20,DN,19,40,0,
 Meghalaya,2440,1235,12,1193,01/09/2020 22:10:40,0,ML,72,73,2,"[June 17]:
