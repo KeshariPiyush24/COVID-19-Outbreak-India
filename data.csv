@@ -1,16 +1,16 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3715931,2856147,65725,793470,01/09/2020 19:07:21,589,TT,27991,18770,292,
+Total,3732227,2871528,65905,794205,01/09/2020 19:15:19,589,TT,44287,34151,472,
 Maharashtra,792541,573559,24583,194056,31/08/2020 21:54:22,343,MH,0,0,0,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,428041,368141,7322,52578,01/09/2020 09:59:22,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,433969,374172,7418,52379,01/09/2020 19:15:21,0,TN,5928,6031,96,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Andhra Pradesh,434771,330526,3969,100276,31/08/2020 18:18:28,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,351481,254626,5837,90999,01/09/2020 19:07:23,19,KA,9058,5159,135,
+Andhra Pradesh,445139,339876,4053,101210,01/09/2020 19:15:23,0,AP,10368,9350,84,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Karnataka,351481,254626,5837,90999,01/09/2020 19:12:24,19,KA,9058,5159,135,
 Delhi,177060,156728,4462,15870,01/09/2020 19:05:31,0,DL,2312,1050,18,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,235757,176677,3542,55538,01/09/2020 17:49:21,0,UP,5343,4537,56,
@@ -45,7 +45,7 @@ Nagaland,4003,3191,8,794,01/09/2020 17:49:24,10,NL,53,133,0,
 Arunachal Pradesh,4112,2885,7,1220,31/08/2020 22:38:33,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3132,2647,46,439,31/08/2020 23:46:27,0,AN,0,0,0,
 Ladakh,2681,1874,34,773,31/08/2020 23:46:32,0,LA,0,0,0,
-Chandigarh,4550,2551,57,1939,01/09/2020 19:07:26,3,CH,204,120,1,
+Chandigarh,4550,2551,57,1939,01/09/2020 19:12:27,3,CH,204,120,1,
 Dadra and Nagar Haveli and Daman and Diu,2371,2098,2,251,01/09/2020 19:05:42,20,DN,4,17,0,
 Meghalaya,2368,1162,10,1196,31/08/2020 21:54:49,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
