@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3766108,2899521,66460,799538,01/09/2020 23:59:23,589,TT,78168,62144,1027,
+Total,3766108,2899521,66460,799538,02/09/2020 00:03:23,589,TT,78168,62144,1027,
 Maharashtra,808306,584537,24903,198523,01/09/2020 22:10:25,343,MH,15765,10978,320,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -21,7 +21,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Gujarat,97745,79013,3034,15698,01/09/2020 23:09:37,0,GJ,1310,1131,14,
-Assam,111725,86893,315,24514,01/09/2020 23:59:26,3,AS,2684,1434,9,Includes 1 case from Nagaland
+Assam,111725,86893,315,24514,02/09/2020 00:03:26,3,AS,2684,1434,9,Includes 1 case from Nagaland
 Rajasthan,83163,68124,1069,13970,01/09/2020 22:10:30,0,RJ,1470,1312,13,
 Odisha,106561,80770,556,25235,01/09/2020 22:10:33,0,OR,3025,3484,11,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
