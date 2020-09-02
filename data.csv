@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3769574,2901955,66475,800554,02/09/2020 09:19:17,590,TT,3394,2433,15,
+Total,3770264,2902096,66480,801098,02/09/2020 10:53:17,590,TT,4156,2574,20,
 Maharashtra,808306,584537,24903,198523,01/09/2020 22:10:25,343,MH,0,0,0,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -22,7 +22,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Gujarat,97745,79013,3034,15698,01/09/2020 23:09:37,0,GJ,0,0,0,
 Assam,111725,86893,315,24514,02/09/2020 00:03:26,3,AS,0,0,0,Includes 1 case from Nagaland
-Rajasthan,83163,68124,1069,13970,01/09/2020 22:10:30,0,RJ,0,0,0,
+Rajasthan,83853,68265,1074,14514,02/09/2020 10:53:19,0,RJ,690,141,5,
 Odisha,106561,80770,556,25235,01/09/2020 22:10:33,0,OR,0,0,0,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,66426,53835,706,11885,01/09/2020 19:48:23,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
@@ -36,7 +36,7 @@ Jharkhand,43833,28149,428,15256,01/09/2020 23:22:02,0,JH,0,0,0,
 Chhattisgarh,33387,17567,287,15533,01/09/2020 23:22:18,0,CT,0,0,0,
 Uttarakhand,20398,14012,280,6042,01/09/2020 22:57:24,64,UT,0,0,0,
 Goa,18006,13850,194,3962,01/09/2020 19:48:25,0,GA,0,0,0,
-Tripura,12719,7847,118,4734,02/09/2020 09:19:19,20,TR,494,193,5,"[Aug 4]
+Tripura,12719,7847,118,4734,02/09/2020 09:19:19,20,TR,566,193,5,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,14766,9675,240,4851,01/09/2020 19:05:37,0,PY,0,0,0,
 Manipur,6382,4450,29,1903,01/09/2020 18:35:21,0,MN,0,0,0,
