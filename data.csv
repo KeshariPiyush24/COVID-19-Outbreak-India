@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3769574,2901955,66475,800554,02/09/2020 09:15:20,590,TT,3394,2433,15,
+Total,3769574,2901955,66475,800554,02/09/2020 09:19:17,590,TT,3394,2433,15,
 Maharashtra,808306,584537,24903,198523,01/09/2020 22:10:25,343,MH,0,0,0,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -36,7 +36,7 @@ Jharkhand,43833,28149,428,15256,01/09/2020 23:22:02,0,JH,0,0,0,
 Chhattisgarh,33387,17567,287,15533,01/09/2020 23:22:18,0,CT,0,0,0,
 Uttarakhand,20398,14012,280,6042,01/09/2020 22:57:24,64,UT,0,0,0,
 Goa,18006,13850,194,3962,01/09/2020 19:48:25,0,GA,0,0,0,
-Tripura,12719,7847,118,4734,02/09/2020 09:15:23,20,TR,494,193,5,"[Aug 4]
+Tripura,12719,7847,118,4734,02/09/2020 09:19:19,20,TR,494,193,5,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,14766,9675,240,4851,01/09/2020 19:05:37,0,PY,0,0,0,
 Manipur,6382,4450,29,1903,01/09/2020 18:35:21,0,MN,0,0,0,
@@ -50,6 +50,6 @@ Dadra and Nagar Haveli and Daman and Diu,2386,2122,2,242,02/09/2020 09:09:32,20,
 Meghalaya,2440,1235,12,1193,01/09/2020 22:10:40,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1670,1237,4,429,01/09/2020 22:10:52,0,SK,0,0,0,
-Mizoram,1020,610,0,410,02/09/2020 09:15:25,0,MZ,8,0,0,
+Mizoram,1020,610,0,410,02/09/2020 09:19:21,0,MZ,8,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
