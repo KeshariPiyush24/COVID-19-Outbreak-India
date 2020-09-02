@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3792746,2917967,66671,807518,02/09/2020 18:18:23,590,TT,26638,18445,211,
+Total,3792746,2917967,66671,807518,02/09/2020 18:23:26,590,TT,26638,18445,211,
 Maharashtra,808306,584537,24903,198523,01/09/2020 22:10:25,343,MH,0,0,0,"343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -9,7 +9,7 @@ Tamil Nadu,433969,374172,7418,52379,01/09/2020 19:29:23,0,TN,0,0,0,"[July 22]: 4
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Andhra Pradesh,455531,348330,4125,103076,02/09/2020 18:18:26,0,AP,10392,8454,72,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,455531,348330,4125,103076,02/09/2020 18:23:29,0,AP,10392,8454,72,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,351481,254626,5837,90999,01/09/2020 19:16:24,19,KA,0,0,0,
 Delhi,179569,158586,4481,16502,02/09/2020 18:14:34,0,DL,2509,1858,19,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
