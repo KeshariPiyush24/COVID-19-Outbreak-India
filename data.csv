@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3923037,3028984,68457,824997,03/09/2020 21:06:21,599,TT,74069,61588,971,
-Maharashtra,843844,612484,25586,205428,03/09/2020 21:06:23,346,MH,18105,13988,391,"346 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,3924563,3030513,68529,824922,03/09/2020 21:14:26,599,TT,75595,63117,1043,
+Maharashtra,843844,612484,25586,205428,03/09/2020 21:11:27,346,MH,18105,13988,391,"346 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
@@ -30,7 +30,7 @@ Madhya Pradesh,68586,52215,1483,14888,03/09/2020 19:56:34,0,MP,1672,1091,30,
 Kerala,79626,57728,316,21517,03/09/2020 20:39:27,65,KL,1553,1950,10,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 65 such cases have been reduced from active count"
-Punjab,56989,39742,1618,15629,03/09/2020 10:51:44,0,PB,0,0,0,
+Punjab,58515,41271,1690,15554,03/09/2020 21:14:28,0,PB,1526,1529,72,
 Jammu and Kashmir,39943,30759,743,8441,03/09/2020 20:12:55,0,JK,1079,680,11,
 Jharkhand,44862,29747,438,14677,03/09/2020 10:51:47,0,JH,0,0,0,
 Chhattisgarh,36520,18950,312,17258,03/09/2020 19:56:38,0,CT,837,730,13,
@@ -38,7 +38,7 @@ Uttarakhand,21234,14437,291,6442,03/09/2020 10:51:49,64,UT,0,0,0,
 Goa,19355,14361,212,4782,03/09/2020 19:56:40,0,GA,713,302,8,
 Tripura,13309,8033,126,5130,03/09/2020 11:39:20,20,TR,590,186,8,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,15581,10279,260,5042,03/09/2020 21:06:26,0,PY,424,311,7,
+Puducherry,15581,10279,260,5042,03/09/2020 21:11:30,0,PY,424,311,7,
 Manipur,6609,4774,32,1803,03/09/2020 19:07:28,0,MN,102,167,3,
 Himachal Pradesh,6416,4715,42,1613,03/09/2020 10:51:56,46,HP,0,0,0,"HP has 47 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,4066,3314,8,732,03/09/2020 18:32:34,12,NL,49,101,0,
