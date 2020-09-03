@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3889794,2997192,67856,824148,03/09/2020 19:42:23,598,TT,40826,29796,370,
+Total,3890873,2997872,67867,824536,03/09/2020 19:58:24,598,TT,41905,30476,381,
 Maharashtra,825739,598496,25195,201703,03/09/2020 10:52:20,345,MH,0,0,0,"345 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -11,11 +11,11 @@ Tamil Nadu,439959,380063,7516,52380,03/09/2020 10:52:21,0,TN,0,0,0,"[July 22]: 4
 These cases have been added to TN deceased tally"
 Andhra Pradesh,465730,357829,4200,103701,03/09/2020 18:26:23,0,AP,10199,9499,75,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,370206,268035,6054,96098,03/09/2020 19:09:27,19,KA,8865,7122,104,
-Delhi,182306,160114,4500,17692,03/09/2020 19:42:25,0,DL,2737,1528,19,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,182306,160114,4500,17692,03/09/2020 19:56:29,0,DL,2737,1528,19,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,247101,185812,3691,57598,03/09/2020 18:07:22,0,UP,5662,4448,75,
 West Bengal,168697,140913,3339,24445,03/09/2020 10:51:30,0,WB,0,0,0,
-Bihar,142156,124976,728,16451,03/09/2020 19:42:28,1,BR,1922,1572,6,
+Bihar,142156,124976,728,16451,03/09/2020 19:56:31,1,BR,1922,1572,6,
 Telangana,133406,100013,856,32537,03/09/2020 10:51:32,0,TG,2817,2611,10,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
@@ -26,16 +26,16 @@ Rajasthan,85379,70870,1088,13421,03/09/2020 11:18:18,0,RJ,705,196,7,
 Odisha,113411,84073,575,28763,03/09/2020 11:07:19,0,OR,3631,0,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,68218,54875,721,12622,03/09/2020 10:51:40,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Madhya Pradesh,68586,52215,1483,14888,03/09/2020 19:42:30,0,MP,1672,1091,30,
+Madhya Pradesh,68586,52215,1483,14888,03/09/2020 19:56:34,0,MP,1672,1091,30,
 Kerala,78073,55778,306,21924,03/09/2020 10:51:43,65,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 65 such cases have been reduced from active count"
 Punjab,56989,39742,1618,15629,03/09/2020 10:51:44,0,PB,0,0,0,
-Jammu and Kashmir,38864,30079,732,8053,03/09/2020 10:51:46,0,JK,0,0,0,
+Jammu and Kashmir,39943,30759,743,8441,03/09/2020 19:58:27,0,JK,1079,680,11,
 Jharkhand,44862,29747,438,14677,03/09/2020 10:51:47,0,JH,0,0,0,
-Chhattisgarh,36520,18950,312,17258,03/09/2020 19:42:33,0,CT,837,730,13,
+Chhattisgarh,36520,18950,312,17258,03/09/2020 19:56:38,0,CT,837,730,13,
 Uttarakhand,21234,14437,291,6442,03/09/2020 10:51:49,64,UT,0,0,0,
-Goa,19355,14361,212,4782,03/09/2020 19:42:35,0,GA,713,302,8,
+Goa,19355,14361,212,4782,03/09/2020 19:56:40,0,GA,713,302,8,
 Tripura,13309,8033,126,5130,03/09/2020 11:39:20,20,TR,590,186,8,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,15157,9968,253,4936,03/09/2020 10:51:53,0,PY,0,0,0,
