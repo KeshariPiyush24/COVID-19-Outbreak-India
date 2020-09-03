@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3895632,3005240,67912,821882,03/09/2020 20:25:20,598,TT,46664,37844,426,
+Total,3898616,3008575,67967,821476,03/09/2020 20:41:27,598,TT,49648,41179,481,
 Maharashtra,825739,598496,25195,201703,03/09/2020 10:52:20,345,MH,0,0,0,"345 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -14,7 +14,7 @@ Karnataka,370206,268035,6054,96098,03/09/2020 19:09:27,19,KA,8865,7122,104,
 Delhi,182306,160114,4500,17692,03/09/2020 19:56:29,0,DL,2737,1528,19,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,247101,185812,3691,57598,03/09/2020 18:07:22,0,UP,5662,4448,75,
-West Bengal,168697,140913,3339,24445,03/09/2020 10:51:30,0,WB,0,0,0,
+West Bengal,171681,144248,3394,24039,03/09/2020 20:41:30,0,WB,2984,3335,55,
 Bihar,142156,124976,728,16451,03/09/2020 19:56:31,1,BR,1922,1572,6,
 Telangana,133406,100013,856,32537,03/09/2020 10:51:32,0,TG,2817,2611,10,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
@@ -23,11 +23,11 @@ District-wise numbers are not reported because cumulative counts for each distri
 Gujarat,100375,81280,3062,16033,03/09/2020 20:17:26,0,GJ,1325,1126,16,
 Assam,115280,88727,323,26227,03/09/2020 10:51:36,3,AS,0,0,0,Includes 1 case from Nagaland
 Rajasthan,85379,70870,1088,13421,03/09/2020 11:18:18,0,RJ,705,196,7,
-Odisha,113411,87351,575,25485,03/09/2020 20:25:23,0,OR,3631,3278,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,113411,87351,575,25485,03/09/2020 20:39:23,0,OR,3631,3278,8,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
-Haryana,70099,55889,740,13470,03/09/2020 20:25:26,0,HR,1881,1014,19,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
+Haryana,70099,55889,740,13470,03/09/2020 20:41:32,0,HR,1881,1014,19,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,68586,52215,1483,14888,03/09/2020 19:56:34,0,MP,1672,1091,30,
-Kerala,79626,57728,316,21517,03/09/2020 20:25:31,65,KL,1553,1950,10,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,79626,57728,316,21517,03/09/2020 20:39:27,65,KL,1553,1950,10,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 65 such cases have been reduced from active count"
 Punjab,56989,39742,1618,15629,03/09/2020 10:51:44,0,PB,0,0,0,
