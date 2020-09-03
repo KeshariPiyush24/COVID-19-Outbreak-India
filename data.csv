@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3851805,2970007,67496,813705,03/09/2020 10:05:16,597,TT,2837,2611,10,
+Total,3851805,2970007,67496,813705,03/09/2020 10:08:18,597,TT,2837,2611,10,
 Maharashtra,825739,598496,25195,201703,02/09/2020 23:01:48,345,MH,0,0,0,"345 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -16,7 +16,7 @@ Delhi,179569,158586,4481,16502,02/09/2020 18:14:34,0,DL,0,0,0,"[July 14]: Value 
 Uttar Pradesh,241439,181364,3616,56459,02/09/2020 17:51:27,0,UP,0,0,0,
 West Bengal,168697,140913,3339,24445,02/09/2020 20:57:23,0,WB,0,0,0,
 Bihar,140234,123404,722,16107,02/09/2020 19:19:34,1,BR,0,0,0,
-Telangana,133406,100013,856,32537,03/09/2020 10:05:18,0,TG,2817,2611,10,"[July 27]
+Telangana,133406,100013,856,32537,03/09/2020 10:08:21,0,TG,2817,2611,10,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
@@ -50,6 +50,6 @@ Dadra and Nagar Haveli and Daman and Diu,2430,2139,2,269,02/09/2020 18:44:34,20,
 Meghalaya,2517,1318,13,1186,02/09/2020 20:28:26,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1704,1260,4,440,02/09/2020 21:09:32,0,SK,0,0,0,
-Mizoram,1040,659,0,381,03/09/2020 10:05:20,0,MZ,20,0,0,
+Mizoram,1040,659,0,381,03/09/2020 10:08:23,0,MZ,20,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
