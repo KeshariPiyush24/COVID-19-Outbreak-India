@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3904508,3014685,68059,821166,03/09/2020 20:55:22,598,TT,55540,47289,573,
-Maharashtra,825739,598496,25195,201703,03/09/2020 10:52:20,345,MH,0,0,0,"345 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,3923037,3028984,68457,824997,03/09/2020 21:06:21,599,TT,74069,61588,971,
+Maharashtra,843844,612484,25586,205428,03/09/2020 21:06:23,346,MH,18105,13988,391,"346 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,445851,386173,7608,52070,03/09/2020 20:55:24,0,TN,5892,6110,92,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,445851,386173,7608,52070,03/09/2020 21:00:36,0,TN,5892,6110,92,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -14,7 +14,7 @@ Karnataka,370206,268035,6054,96098,03/09/2020 19:09:27,19,KA,8865,7122,104,
 Delhi,182306,160114,4500,17692,03/09/2020 19:56:29,0,DL,2737,1528,19,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,247101,185812,3691,57598,03/09/2020 18:07:22,0,UP,5662,4448,75,
-West Bengal,171681,144248,3394,24039,03/09/2020 20:55:26,0,WB,2984,3335,55,
+West Bengal,171681,144248,3394,24039,03/09/2020 21:00:38,0,WB,2984,3335,55,
 Bihar,142156,124976,728,16451,03/09/2020 19:56:31,1,BR,1922,1572,6,
 Telangana,133406,100013,856,32537,03/09/2020 10:51:32,0,TG,2817,2611,10,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
@@ -38,7 +38,7 @@ Uttarakhand,21234,14437,291,6442,03/09/2020 10:51:49,64,UT,0,0,0,
 Goa,19355,14361,212,4782,03/09/2020 19:56:40,0,GA,713,302,8,
 Tripura,13309,8033,126,5130,03/09/2020 11:39:20,20,TR,590,186,8,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,15157,9968,253,4936,03/09/2020 10:51:53,0,PY,0,0,0,
+Puducherry,15581,10279,260,5042,03/09/2020 21:06:26,0,PY,424,311,7,
 Manipur,6609,4774,32,1803,03/09/2020 19:07:28,0,MN,102,167,3,
 Himachal Pradesh,6416,4715,42,1613,03/09/2020 10:51:56,46,HP,0,0,0,"HP has 47 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,4066,3314,8,732,03/09/2020 18:32:34,12,NL,49,101,0,
