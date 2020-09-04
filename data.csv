@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4016437,3102490,69632,843708,04/09/2020 23:23:29,607,TT,83313,67603,1063,
+Total,4020239,3102490,69635,847507,04/09/2020 23:42:25,607,TT,87115,67603,1066,
 Maharashtra,863062,625773,25964,210978,04/09/2020 22:02:29,347,MH,19218,13289,378,"347 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -21,7 +21,7 @@ Telangana bulletin for the previous day is released on the next day. We will add
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Gujarat,101695,82498,3076,16121,04/09/2020 20:17:39,0,GJ,1320,1218,14,
-Assam,118334,90698,345,27288,04/09/2020 22:46:28,3,AS,0,0,15,Includes 1 case from Nagaland
+Assam,121225,90698,345,30179,04/09/2020 23:42:28,3,AS,2891,0,15,Includes 1 case from Nagaland
 Rajasthan,87797,71899,1108,14790,04/09/2020 22:19:32,0,RJ,1570,679,13,
 Odisha,116678,90331,584,25763,04/09/2020 21:09:26,0,OR,3267,2980,9,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
@@ -33,7 +33,7 @@ In total 66 such cases have been reduced from active count"
 Punjab,60013,42543,1739,15731,04/09/2020 20:08:34,0,PB,1498,1272,49,
 Jammu and Kashmir,40990,31435,755,8800,04/09/2020 18:30:28,0,JK,1047,676,12,
 Jharkhand,48039,32043,447,15549,04/09/2020 23:23:32,0,JH,1559,1157,3,
-Chhattisgarh,39723,19608,334,19781,04/09/2020 20:45:30,0,CT,1756,658,19,
+Chhattisgarh,40634,19608,337,20689,04/09/2020 23:42:31,0,CT,2667,658,22,
 Uttarakhand,23011,15447,312,7187,04/09/2020 22:19:36,65,UT,831,502,12,
 Goa,19863,14747,220,4896,04/09/2020 22:46:31,0,GA,508,386,8,
 Tripura,13833,8212,129,5472,04/09/2020 09:00:35,20,TR,524,179,3,"[Aug 4]
