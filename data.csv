@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3993412,3083565,69214,840028,04/09/2020 20:40:26,605,TT,60288,48678,645,
+Total,3993412,3086545,69214,837048,04/09/2020 20:54:26,605,TT,60288,51658,645,
 Maharashtra,843844,612484,25586,205428,03/09/2020 21:18:24,346,MH,0,0,0,"346 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -23,17 +23,17 @@ District-wise numbers are not reported because cumulative counts for each distri
 Gujarat,101695,82498,3076,16121,04/09/2020 20:17:39,0,GJ,1320,1218,14,
 Assam,118334,90698,330,27303,04/09/2020 01:07:24,3,AS,0,0,0,Includes 1 case from Nagaland
 Rajasthan,86965,71249,1102,14614,04/09/2020 10:57:24,0,RJ,738,29,7,
-Odisha,116678,87351,584,28743,04/09/2020 12:05:24,0,OR,3267,0,9,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
+Odisha,116678,90331,584,25763,04/09/2020 20:54:30,0,OR,3267,2980,9,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,71983,57171,759,14053,04/09/2020 19:46:27,0,HR,1884,1282,19,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,70244,53257,1513,15474,04/09/2020 19:46:33,0,MP,1658,1042,30,
-Kerala,82105,60444,327,21268,04/09/2020 20:40:30,66,KL,2479,2716,11,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,82105,60444,327,21268,04/09/2020 20:45:28,66,KL,2479,2716,11,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 66 such cases have been reduced from active count"
 Punjab,60013,42543,1739,15731,04/09/2020 20:08:34,0,PB,1498,1272,49,
 Jammu and Kashmir,40990,31435,755,8800,04/09/2020 18:30:28,0,JK,1047,676,12,
 Jharkhand,46480,30886,444,15150,03/09/2020 23:30:29,0,JH,0,0,0,
-Chhattisgarh,39723,19608,334,19781,04/09/2020 20:40:33,0,CT,1756,658,19,
+Chhattisgarh,39723,19608,334,19781,04/09/2020 20:45:30,0,CT,1756,658,19,
 Uttarakhand,22180,14945,300,6871,03/09/2020 21:47:41,64,UT,0,0,0,
 Goa,19935,14721,220,4994,04/09/2020 20:39:49,0,GA,580,360,8,
 Tripura,13833,8212,129,5472,04/09/2020 09:00:35,20,TR,524,179,3,"[Aug 4]
