@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,3948247,3043588,68682,835377,04/09/2020 17:46:36,600,TT,15123,8701,113,
+Total,3948247,3043588,68682,835377,04/09/2020 17:54:24,600,TT,15123,8701,113,
 Maharashtra,843844,612484,25586,205428,03/09/2020 21:18:24,346,MH,0,0,0,"346 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -41,12 +41,12 @@ Tripura bulletin for the previous day is released on the next day. We will add t
 Puducherry,15581,10279,260,5042,03/09/2020 21:18:29,0,PY,0,0,0,
 Manipur,6609,4774,32,1803,03/09/2020 19:07:28,0,MN,0,0,0,
 Himachal Pradesh,6615,4813,47,1708,03/09/2020 22:20:29,47,HP,0,0,0,"HP has 48 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Nagaland,4107,3351,8,736,04/09/2020 17:46:39,12,NL,41,37,0,
+Nagaland,4107,3351,8,736,04/09/2020 17:54:27,12,NL,41,37,0,
 Arunachal Pradesh,4574,3167,8,1399,03/09/2020 23:03:25,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3223,2823,48,352,03/09/2020 22:20:32,0,AN,0,0,0,
 Ladakh,2840,2039,35,766,03/09/2020 22:20:35,0,LA,0,0,0,
 Chandigarh,5065,2883,63,2116,03/09/2020 19:20:32,3,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2482,2163,2,297,04/09/2020 17:46:41,20,DN,23,4,0,
+Dadra and Nagar Haveli and Daman and Diu,2482,2163,2,297,04/09/2020 17:54:29,20,DN,23,4,0,
 Meghalaya,2626,1393,13,1220,03/09/2020 22:20:38,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1738,1304,5,429,03/09/2020 21:37:34,0,SK,0,0,0,
