@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4096695,3165104,70558,860413,05/09/2020 21:16:20,620,TT,76456,60592,923,
+Total,4096695,3165104,70558,860413,05/09/2020 21:30:30,620,TT,76456,60592,923,
 Maharashtra,883862,636574,26276,220661,05/09/2020 20:52:26,351,MH,20800,10801,312,"351 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -11,7 +11,7 @@ Tamil Nadu,451827,392507,7687,51633,04/09/2020 19:40:49,0,TN,0,0,0,"[July 22]: 4
 These cases have been added to TN deceased tally"
 Andhra Pradesh,487331,382104,4347,100880,05/09/2020 20:15:29,0,AP,10825,11941,71,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,389232,283298,6298,99617,05/09/2020 19:27:22,19,KA,9746,9102,128,
-Delhi,188193,163785,4538,19870,05/09/2020 21:16:22,0,DL,2973,1920,25,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,188193,163785,4538,19870,05/09/2020 21:30:33,0,DL,2973,1920,25,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,259765,195959,3843,59963,05/09/2020 16:14:24,0,UP,6590,5141,81,
 West Bengal,177701,150801,3510,23390,05/09/2020 20:15:32,0,WB,3042,3248,58,
@@ -33,7 +33,7 @@ In total 66 such cases have been reduced from active count"
 Punjab,61527,43849,1808,15870,05/09/2020 20:15:43,0,PB,1514,1306,69,
 Jammu and Kashmir,42241,31924,770,9547,05/09/2020 18:43:30,0,JK,1251,489,15,
 Jharkhand,48039,32043,447,15549,04/09/2020 23:23:32,0,JH,0,0,0,
-Chhattisgarh,41806,20487,351,20968,05/09/2020 21:16:25,0,CT,1172,879,14,
+Chhattisgarh,41806,20487,351,20968,05/09/2020 21:30:35,0,CT,1172,879,14,
 Uttarakhand,23011,15447,312,7187,04/09/2020 22:19:36,65,UT,0,0,0,
 Goa,20455,15281,229,4945,05/09/2020 20:52:33,0,GA,592,534,9,
 Tripura,14524,8483,136,5884,05/09/2020 12:28:29,21,TR,691,271,7,"[Aug 4]
