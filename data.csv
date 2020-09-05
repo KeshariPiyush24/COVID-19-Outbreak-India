@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4027728,3107460,69668,849984,05/09/2020 15:21:24,616,TT,7489,2948,33,
+Total,4034339,3112669,69749,851305,05/09/2020 16:10:26,616,TT,14100,8157,114,
 Maharashtra,863062,625773,25964,210978,04/09/2020 22:02:29,347,MH,0,0,0,"347 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -13,7 +13,7 @@ Andhra Pradesh,476506,370163,4276,102067,04/09/2020 19:12:36,0,AP,0,0,0,"Total i
 Karnataka,379486,274196,6170,99101,04/09/2020 20:28:28,19,KA,0,0,0,
 Delhi,185220,161865,4513,18842,04/09/2020 18:58:28,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Uttar Pradesh,253175,190818,3762,58595,04/09/2020 17:31:26,0,UP,0,0,0,
+Uttar Pradesh,259765,195959,3843,59963,05/09/2020 16:10:28,0,UP,6590,5141,81,
 West Bengal,174659,147553,3452,23654,04/09/2020 20:08:28,0,WB,0,0,0,
 Bihar,144134,126411,741,16981,04/09/2020 17:17:26,1,BR,0,0,0,
 Telangana,138395,104603,877,32915,05/09/2020 10:23:30,0,TG,2511,2579,11,"[July 27]
@@ -41,7 +41,7 @@ Tripura bulletin for the previous day is released on the next day. We will add t
 Puducherry,16172,10674,280,5218,04/09/2020 20:39:52,0,PY,0,0,0,
 Manipur,6699,4899,35,1765,04/09/2020 20:08:37,0,MN,0,0,0,
 Himachal Pradesh,6830,4920,49,1814,05/09/2020 00:02:34,47,HP,0,0,0,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Nagaland,4107,3351,8,736,04/09/2020 17:54:27,12,NL,0,0,0,
+Nagaland,4128,3419,8,689,05/09/2020 16:10:31,12,NL,21,68,0,
 Arunachal Pradesh,4775,3280,8,1487,04/09/2020 22:19:39,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3257,2863,49,345,04/09/2020 22:17:38,0,AN,0,0,0,
 Ladakh,2935,2085,35,815,04/09/2020 22:58:28,0,LA,0,0,0,
