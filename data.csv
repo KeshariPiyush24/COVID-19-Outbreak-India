@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4120380,3182923,70716,866120,06/09/2020 17:14:30,621,TT,9541,5250,37,
+Total,4120846,3183467,70732,866026,06/09/2020 17:25:28,621,TT,10007,5794,53,
 Maharashtra,883862,636574,26276,220661,05/09/2020 20:52:26,351,MH,0,0,0,"351 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -15,7 +15,7 @@ Delhi,188193,163785,4538,19870,05/09/2020 21:31:26,0,DL,0,0,0,"[July 14]: Value 
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,259765,195959,3843,59963,05/09/2020 16:14:24,0,UP,0,0,0,
 West Bengal,177701,150801,3510,23390,05/09/2020 20:15:32,0,WB,0,0,0,
-Bihar,147658,130300,754,16603,06/09/2020 17:14:33,1,BR,1797,1924,4,
+Bihar,147658,130300,754,16603,06/09/2020 17:19:28,1,BR,1797,1924,4,
 Telangana,140969,107530,886,32553,06/09/2020 09:19:33,0,TG,2574,2927,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
@@ -38,7 +38,7 @@ Uttarakhand,23961,15982,330,7575,05/09/2020 23:12:30,74,UT,0,0,0,
 Goa,20455,15281,229,4945,05/09/2020 20:52:33,0,GA,0,0,0,
 Tripura,15127,8745,144,6217,06/09/2020 10:09:32,21,TR,603,262,8,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Puducherry,16566,11107,298,5161,05/09/2020 18:43:33,0,PY,0,0,0,
+Puducherry,17032,11632,314,5086,06/09/2020 17:25:32,0,PY,466,525,16,
 Manipur,6883,4975,36,1872,05/09/2020 20:15:46,0,MN,0,0,0,
 Himachal Pradesh,7018,4941,53,1977,05/09/2020 22:09:29,47,HP,0,0,0,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,4128,3419,8,689,05/09/2020 16:14:27,12,NL,0,0,0,
@@ -50,6 +50,6 @@ Dadra and Nagar Haveli and Daman and Diu,2531,2230,2,275,05/09/2020 19:27:27,24,
 Meghalaya,2916,1527,15,1374,06/09/2020 00:53:40,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1901,1347,5,549,06/09/2020 00:53:43,0,SK,0,0,0,
-Mizoram,1093,713,0,380,06/09/2020 09:06:33,0,MZ,31,0,0,
+Mizoram,1093,732,0,361,06/09/2020 17:24:33,0,MZ,31,19,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
