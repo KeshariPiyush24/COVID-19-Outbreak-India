@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4202562,3247297,71687,882955,06/09/2020 23:57:32,623,TT,91723,69624,1008,
+Total,4202562,3247297,71687,882955,07/09/2020 00:02:33,623,TT,91723,69624,1008,
 Maharashtra,907212,644400,26604,235857,06/09/2020 21:29:32,351,MH,23350,7826,328,"351 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -33,7 +33,7 @@ In total 66 such cases have been reduced from active count"
 Punjab,63473,45455,1862,16156,06/09/2020 22:10:34,0,PB,1946,1606,54,
 Jammu and Kashmir,43557,32327,784,10446,06/09/2020 19:10:29,0,JK,1316,403,14,
 Jharkhand,51063,36184,469,14410,06/09/2020 23:04:43,0,JH,1266,1854,7,
-Chhattisgarh,45263,21198,380,23685,06/09/2020 23:57:36,0,CT,2100,711,24,
+Chhattisgarh,45263,21198,380,23685,07/09/2020 00:02:37,0,CT,2100,711,24,
 Uttarakhand,24629,16573,341,7640,06/09/2020 21:02:33,75,UT,668,591,11,
 Goa,20829,15839,236,4754,06/09/2020 20:32:45,0,GA,374,558,7,
 Tripura,15127,8745,144,6217,06/09/2020 10:09:32,21,TR,603,262,8,"[Aug 4]
@@ -45,7 +45,7 @@ Nagaland,4178,3496,8,662,06/09/2020 18:06:32,12,NL,50,77,0,
 Arunachal Pradesh,5000,3472,8,1520,06/09/2020 23:16:44,0,AR,86,91,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3332,2951,50,331,06/09/2020 22:29:43,0,AN,40,47,0,
 Ladakh,3036,2151,35,850,06/09/2020 22:20:45,0,LA,40,24,0,
-Chandigarh,5763,3439,71,2250,06/09/2020 23:57:40,3,CH,261,149,2,
+Chandigarh,5763,3439,71,2250,07/09/2020 00:02:41,3,CH,261,149,2,
 Dadra and Nagar Haveli and Daman and Diu,2567,2251,2,290,06/09/2020 20:06:54,24,DN,36,21,0,
 Meghalaya,3005,1556,16,1433,06/09/2020 23:16:47,0,ML,89,29,1,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
