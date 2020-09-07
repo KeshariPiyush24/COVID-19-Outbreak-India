@@ -1,20 +1,20 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4248508,3295858,72263,879764,07/09/2020 20:40:50,623,TT,45946,48561,576,
+Total,4251587,3298881,72321,879762,07/09/2020 20:54:53,623,TT,49025,51584,634,
 Maharashtra,907212,644400,26604,235857,06/09/2020 21:29:32,351,MH,0,0,0,"351 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,469254,410114,7928,51212,07/09/2020 20:40:51,0,TN,5774,5928,89,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,469256,410116,7928,51212,07/09/2020 20:54:54,0,TN,5776,5930,89,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Andhra Pradesh,506493,404074,4487,97932,07/09/2020 18:07:51,0,AP,8368,10055,70,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,404324,300770,6534,97001,07/09/2020 20:40:53,19,KA,5773,7897,141,
+Karnataka,404324,300770,6534,97001,07/09/2020 20:44:58,19,KA,5773,7897,141,
 Delhi,193526,168384,4599,20543,07/09/2020 18:58:56,0,DL,2077,2411,32,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,271851,205731,3976,62144,07/09/2020 17:47:50,0,UP,5568,4993,56,
-West Bengal,180788,154008,3562,23218,06/09/2020 20:06:44,0,WB,0,0,0,
+West Bengal,183865,157029,3620,23216,06/09/2020 20:06:44,0,WB,3077,3021,58,
 Bihar,149027,132145,761,16120,07/09/2020 17:47:51,1,BR,1369,1845,7,
 Telangana,142771,110241,895,31635,07/09/2020 10:35:49,0,TG,1802,2711,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
