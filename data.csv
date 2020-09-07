@@ -1,6 +1,6 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4276777,3320947,72809,882426,07/09/2020 23:14:55,595,TT,74215,73650,1122,
-Maharashtra,923641,659322,27027,236934,07/09/2020 23:14:57,358,MH,16429,14922,423,"358 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
+Total,4276777,3320947,72809,882426,07/09/2020 23:18:50,595,TT,74215,73650,1122,
+Maharashtra,923641,659322,27027,236934,07/09/2020 23:18:52,358,MH,16429,14922,423,"358 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
