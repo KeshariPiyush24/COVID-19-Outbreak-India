@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4208645,3250311,71711,886000,07/09/2020 12:04:46,623,TT,6083,3014,24,
+Total,4215585,3257152,71774,886036,07/09/2020 17:42:50,623,TT,13023,9855,87,
 Maharashtra,907212,644400,26604,235857,06/09/2020 21:29:32,351,MH,0,0,0,"351 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -13,9 +13,9 @@ Andhra Pradesh,498125,394019,4417,99689,06/09/2020 17:47:28,0,AP,0,0,0,"Total in
 Karnataka,398551,292873,6393,99266,06/09/2020 19:45:37,19,KA,0,0,0,
 Delhi,191449,165973,4567,20909,06/09/2020 21:02:30,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Uttar Pradesh,266283,200738,3920,61625,06/09/2020 18:47:32,0,UP,0,0,0,
+Uttar Pradesh,271851,205731,3976,62144,07/09/2020 17:42:52,0,UP,5568,4993,56,
 West Bengal,180788,154008,3562,23218,06/09/2020 20:06:44,0,WB,0,0,0,
-Bihar,147658,130300,754,16603,06/09/2020 17:19:28,1,BR,0,0,0,
+Bihar,149027,132145,761,16120,07/09/2020 17:42:54,1,BR,1369,1845,7,
 Telangana,142771,110241,895,31635,07/09/2020 10:35:49,0,TG,1802,2711,9,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
@@ -46,7 +46,7 @@ Arunachal Pradesh,5000,3472,8,1520,06/09/2020 23:16:44,0,AR,0,0,0,[July 25]: All
 Andaman and Nicobar Islands,3332,2951,50,331,06/09/2020 22:29:43,0,AN,0,0,0,
 Ladakh,3036,2151,35,850,06/09/2020 22:20:45,0,LA,0,0,0,
 Chandigarh,5763,3439,71,2250,07/09/2020 00:08:36,3,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2567,2251,2,290,06/09/2020 20:06:54,24,DN,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,2570,2254,2,290,06/09/2020 20:06:54,24,DN,3,3,0,
 Meghalaya,3005,1556,16,1433,06/09/2020 23:16:47,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1910,1371,5,534,06/09/2020 23:19:39,0,SK,0,0,0,
