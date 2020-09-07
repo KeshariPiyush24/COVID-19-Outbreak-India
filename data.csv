@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4202562,3247297,71687,882955,07/09/2020 00:08:29,623,TT,0,0,0,
+Total,4204763,3250311,71701,882128,07/09/2020 10:14:58,623,TT,399,303,5,
 Maharashtra,907212,644400,26604,235857,06/09/2020 21:29:32,351,MH,0,0,0,"351 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -16,7 +16,7 @@ Delhi,191449,165973,4567,20909,06/09/2020 21:02:30,0,DL,0,0,0,"[July 14]: Value 
 Uttar Pradesh,266283,200738,3920,61625,06/09/2020 18:47:32,0,UP,0,0,0,
 West Bengal,180788,154008,3562,23218,06/09/2020 20:06:44,0,WB,0,0,0,
 Bihar,147658,130300,754,16603,06/09/2020 17:19:28,1,BR,0,0,0,
-Telangana,140969,107530,886,32553,06/09/2020 09:19:33,0,TG,0,0,0,"[July 27]
+Telangana,142771,110241,895,31635,07/09/2020 10:15:00,0,TG,0,0,0,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
@@ -36,7 +36,7 @@ Jharkhand,51063,36184,469,14410,06/09/2020 23:04:43,0,JH,0,0,0,
 Chhattisgarh,45263,21198,380,23685,07/09/2020 00:08:33,0,CT,0,0,0,
 Uttarakhand,24629,16573,341,7640,06/09/2020 21:02:33,75,UT,0,0,0,
 Goa,20829,15839,236,4754,06/09/2020 20:32:45,0,GA,0,0,0,
-Tripura,15127,8745,144,6217,06/09/2020 10:09:32,21,TR,0,0,0,"[Aug 4]
+Tripura,15526,9048,149,6308,07/09/2020 10:15:06,21,TR,399,303,5,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,17032,11632,314,5086,06/09/2020 17:34:34,0,PY,0,0,0,
 Manipur,7022,5164,38,1820,06/09/2020 20:18:40,0,MN,0,0,0,
