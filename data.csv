@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4277584,3321420,72816,882751,07/09/2020 23:56:49,597,TT,75022,74123,1129,
+Total,4277584,3321420,72816,882751,08/09/2020 00:03:25,597,TT,75022,74123,1129,
 Maharashtra,923641,659322,27027,236934,07/09/2020 23:18:52,358,MH,16429,14922,423,"358 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -34,7 +34,7 @@ Punjab,65583,47020,1923,16640,07/09/2020 20:01:00,0,PB,2110,1565,61,
 Jammu and Kashmir,44570,32760,801,11009,07/09/2020 18:59:04,0,JK,1013,433,17,
 Jharkhand,52620,37550,482,14588,07/09/2020 23:09:52,0,JH,1557,1366,13,
 Chhattisgarh,47280,22177,395,24708,07/09/2020 22:29:51,0,CT,2017,979,15,
-Uttarakhand,25436,17046,348,7965,07/09/2020 23:56:52,77,UT,807,473,7,
+Uttarakhand,25436,17046,348,7965,08/09/2020 00:03:28,77,UT,807,473,7,
 Goa,21173,16427,245,4501,07/09/2020 20:17:55,0,GA,344,588,9,
 Tripura,15526,9048,149,6308,07/09/2020 10:19:49,21,TR,399,303,5,"[Aug 4]
 Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
