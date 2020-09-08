@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4277593,3321420,72816,882761,08/09/2020 09:04:50,596,TT,9,0,0,
+Total,4277593,3321420,72816,882761,08/09/2020 09:12:51,596,TT,9,0,0,
 Maharashtra,923641,659322,27027,236934,07/09/2020 23:18:52,358,MH,0,0,0,"358 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -50,6 +50,6 @@ Dadra and Nagar Haveli and Daman and Diu,2589,2278,2,286,07/09/2020 18:07:56,23,
 Meghalaya,3034,1560,17,1457,07/09/2020 23:02:05,0,ML,0,0,0,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1939,1396,5,538,07/09/2020 23:02:07,0,SK,0,0,0,
-Mizoram,1123,732,0,391,08/09/2020 09:04:53,0,MZ,9,0,0,
+Mizoram,1123,732,0,391,08/09/2020 09:12:55,0,MZ,9,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
