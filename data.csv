@@ -1,15 +1,15 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4292421,3331463,72918,887444,08/09/2020 17:48:50,596,TT,14837,10043,102,
+Total,4313087,3352160,73105,887226,08/09/2020 18:41:20,596,TT,35503,30740,289,
 Maharashtra,923641,659322,27027,236934,07/09/2020 23:18:52,358,MH,0,0,0,"358 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,469256,410116,7928,51212,07/09/2020 21:08:51,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,474940,416715,8015,50210,08/09/2020 18:41:22,0,TN,5684,6599,87,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Andhra Pradesh,506493,404074,4487,97932,07/09/2020 18:07:51,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,517094,415765,4560,96769,08/09/2020 18:41:24,0,AP,10601,11691,73,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,404324,300770,6534,97001,07/09/2020 20:44:58,19,KA,0,0,0,
 Delhi,193526,168384,4599,20543,07/09/2020 18:58:56,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
@@ -27,11 +27,11 @@ Odisha,131382,99398,622,31362,08/09/2020 12:02:55,0,OR,3490,0,13,"[July 12th] 20
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,78773,61611,829,16333,07/09/2020 19:48:58,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
 Madhya Pradesh,75459,56909,1589,16961,07/09/2020 20:00:55,0,MP,0,0,0,
-Kerala,89490,66997,360,22067,07/09/2020 19:39:55,66,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Kerala,92516,68859,373,23218,08/09/2020 18:41:26,66,KL,3026,1862,13,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 66 such cases have been reduced from active count"
 Punjab,65583,47020,1923,16640,07/09/2020 20:01:00,0,PB,0,0,0,
-Jammu and Kashmir,44570,32760,801,11009,07/09/2020 18:59:04,0,JK,0,0,0,
+Jammu and Kashmir,45925,33251,815,11859,08/09/2020 18:41:28,0,JK,1355,491,14,
 Jharkhand,52620,37550,482,14588,07/09/2020 23:09:52,0,JH,0,0,0,
 Chhattisgarh,47280,22177,395,24708,07/09/2020 22:29:51,0,CT,0,0,0,
 Uttarakhand,25436,17046,348,7965,08/09/2020 00:03:28,77,UT,0,0,0,
@@ -41,7 +41,7 @@ Tripura bulletin for the previous day is released on the next day. We will add t
 Puducherry,17316,12135,325,4856,07/09/2020 22:15:54,0,PY,0,0,0,
 Manipur,7106,5358,38,1710,07/09/2020 19:39:58,0,MN,0,0,0,
 Himachal Pradesh,7660,5359,55,2234,08/09/2020 08:59:54,12,HP,0,0,0,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Nagaland,4245,3674,8,550,08/09/2020 17:48:54,13,NL,25,0,0,
+Nagaland,4245,3728,8,496,08/09/2020 18:41:30,13,NL,25,54,0,
 Arunachal Pradesh,5180,3596,8,1576,07/09/2020 23:01:58,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3359,2997,50,312,07/09/2020 22:51:58,0,AN,0,0,0,
 Ladakh,3064,2211,35,818,07/09/2020 23:09:54,0,LA,0,0,0,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
