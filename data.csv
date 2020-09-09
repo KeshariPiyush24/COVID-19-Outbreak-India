@@ -1,11 +1,11 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4422021,3439814,74484,907121,09/09/2020 21:00:47,602,TT,54585,43787,561,
+Total,4427605,3446330,74564,906109,09/09/2020 21:44:48,602,TT,60169,50303,641,
 Maharashtra,943772,672556,27407,243446,08/09/2020 22:32:53,363,MH,0,0,0,"363 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 "
-Tamil Nadu,474940,416715,8015,50210,08/09/2020 18:54:53,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,480524,423231,8093,49200,09/09/2020 21:44:49,0,TN,5584,6516,78,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -47,7 +47,7 @@ Andaman and Nicobar Islands,3392,3035,50,307,08/09/2020 22:47:56,0,AN,0,0,0,
 Ladakh,3142,2329,35,778,09/09/2020 21:00:51,0,LA,40,41,0,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
 Chandigarh,6704,4140,77,2484,09/09/2020 19:36:55,3,CH,332,180,2,
 Dadra and Nagar Haveli and Daman and Diu,2632,2328,2,279,09/09/2020 19:21:04,23,DN,19,19,0,
-Meghalaya,3197,1823,17,1357,09/09/2020 19:22:58,0,ML,121,107,0,"[June 17]:
+Meghalaya,3197,1823,19,1355,09/09/2020 19:22:58,0,ML,121,107,2,"[June 17]:
 One case was identified to be false positive and has been removed from the confirmed cases by ML authorities."
 Sikkim,1958,1413,7,538,09/09/2020 00:20:54,0,SK,0,0,0,
 Mizoram,1192,750,0,442,09/09/2020 18:20:00,0,MZ,69,5,0,
