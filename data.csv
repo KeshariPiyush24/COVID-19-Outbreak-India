@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4406681,3425408,74223,906448,09/09/2020 20:06:47,602,TT,39245,29381,300,
+Total,4417550,3433604,74367,908977,09/09/2020 20:15:49,602,TT,50114,37577,444,
 Maharashtra,943772,672556,27407,243446,08/09/2020 22:32:53,363,MH,0,0,0,"363 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -10,17 +10,17 @@ Tamil Nadu,474940,416715,8015,50210,08/09/2020 18:54:53,0,TN,0,0,0,"[July 22]: 4
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Andhra Pradesh,527512,425607,4634,97271,09/09/2020 19:20:51,0,AP,10418,9842,74,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Karnataka,412190,308573,6680,96918,08/09/2020 21:29:00,19,KA,0,0,0,
+Karnataka,421730,315433,6808,99470,09/09/2020 20:15:50,19,KA,9540,6860,128,
 Delhi,201174,172763,4638,23773,09/09/2020 19:36:51,0,DL,4039,2623,20,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,285041,216901,4112,64028,09/09/2020 18:19:52,0,UP,6568,5731,65,
-West Bengal,190063,162992,3730,23341,09/09/2020 20:06:48,0,WB,3107,2967,53,
+West Bengal,190063,162992,3730,23341,09/09/2020 20:10:49,0,WB,3107,2967,53,
 Bihar,152192,135791,775,15625,09/09/2020 18:19:54,1,BR,1498,1702,10,
 Telangana,147642,115072,916,31654,09/09/2020 09:00:52,0,TG,2479,2485,10,"[July 27]
 Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
-Gujarat,106966,87579,3134,16253,08/09/2020 20:34:55,0,GJ,0,0,0,
+Gujarat,108295,88915,3150,16230,09/09/2020 20:15:52,0,GJ,1329,1336,16,
 Assam,130823,101240,378,29202,08/09/2020 22:47:52,3,AS,0,0,0,Includes 1 case from Nagaland
 Rajasthan,94126,77872,1164,15090,08/09/2020 22:04:53,0,RJ,0,0,0,
 Odisha,135130,102185,633,32312,09/09/2020 12:42:54,0,OR,3748,0,11,"[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count
