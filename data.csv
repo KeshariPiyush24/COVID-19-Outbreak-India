@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4489442,3487835,75294,925705,10/09/2020 19:12:50,608,TT,26477,18751,203,
+Total,4494389,3490908,75328,927545,10/09/2020 19:25:50,608,TT,31424,21824,237,
 Maharashtra,967349,686462,27787,252734,09/09/2020 23:47:49,366,MH,0,0,0,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -10,9 +10,9 @@ Tamil Nadu,480524,423231,8093,49200,09/09/2020 21:51:48,0,TN,0,0,0,"[July 22]: 4
 These cases have been added to TN deceased tally"
 Andhra Pradesh,537687,435647,4702,97338,10/09/2020 17:19:51,0,AP,10175,10040,68,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,421730,315433,6808,99470,09/09/2020 20:29:48,19,KA,0,0,0,
-Delhi,201174,172763,4638,23773,09/09/2020 19:36:51,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,205482,175400,4666,25416,10/09/2020 19:25:52,0,DL,4308,2637,28,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Uttar Pradesh,292029,221506,4206,66317,10/09/2020 19:12:52,0,UP,6988,4605,94,
+Uttar Pradesh,292029,221506,4206,66317,10/09/2020 19:19:51,0,UP,6988,4605,94,
 West Bengal,190063,162992,3730,23341,09/09/2020 20:10:49,0,WB,0,0,0,
 Bihar,153735,137271,785,15678,10/09/2020 17:16:49,1,BR,1543,1480,10,
 Telangana,150176,117143,927,32106,10/09/2020 12:02:50,0,TG,2534,2071,11,"[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
@@ -33,7 +33,7 @@ Jammu and Kashmir,47542,33871,832,12839,09/09/2020 19:20:55,0,JK,0,0,0,
 Jharkhand,56897,40659,512,15726,09/09/2020 23:47:52,0,JH,0,0,0,
 Chhattisgarh,52932,23938,477,28517,09/09/2020 23:38:53,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
 Uttarakhand,27211,18262,372,8500,09/09/2020 23:01:49,77,UT,0,0,0,
-Goa,22251,17156,262,4833,09/09/2020 19:22:53,0,GA,0,0,0,
+Goa,22890,17592,268,5030,10/09/2020 19:25:54,0,GA,639,436,6,
 Tripura,17271,9993,167,7089,10/09/2020 13:40:50,22,TR,535,340,6,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,18084,12967,347,4770,09/09/2020 19:36:53,0,PY,0,0,0,
 Manipur,7362,5548,40,1774,09/09/2020 19:20:59,0,MN,0,0,0,
