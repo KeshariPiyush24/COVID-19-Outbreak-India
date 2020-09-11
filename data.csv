@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4562730,3542569,76322,943197,11/09/2020 09:04:51,642,TT,3005,2586,18,
+Total,4562730,3542569,76322,943197,11/09/2020 09:13:51,642,TT,3005,2586,18,
 Maharashtra,990795,700715,28282,261432,10/09/2020 21:39:53,366,MH,0,0,0,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -34,7 +34,7 @@ Jharkhand,58079,42115,517,15447,10/09/2020 23:15:54,0,JH,0,0,0,
 Chhattisgarh,55680,25855,493,29332,11/09/2020 00:27:53,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
 Uttarakhand,28226,18783,377,8955,10/09/2020 23:32:55,111,UT,0,0,0,
 Goa,22890,17592,268,5030,10/09/2020 19:39:55,0,GA,0,0,0,
-Tripura,17830,10255,172,7381,11/09/2020 09:04:53,22,TR,559,262,5,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
+Tripura,17830,10255,172,7381,11/09/2020 09:13:53,22,TR,559,262,5,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,18536,13389,353,4794,10/09/2020 21:19:57,0,PY,0,0,0,
 Manipur,7470,5793,44,1633,10/09/2020 20:47:58,0,MN,0,0,0,
 Himachal Pradesh,8466,5666,65,2722,10/09/2020 21:59:59,13,HP,0,0,0,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
