@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4657379,3621438,77506,957787,12/09/2020 00:01:51,648,TT,97654,81455,1202,
+Total,4657379,3621438,77506,957787,12/09/2020 00:06:51,648,TT,97654,81455,1202,
 Maharashtra,1015681,715023,28724,271566,11/09/2020 21:50:55,368,MH,24886,14308,442,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -45,7 +45,7 @@ Ladakh,3228,2387,38,803,11/09/2020 22:09:01,0,LA,51,21,2,[Sep 08] : Testing deta
 Chandigarh,7292,4600,83,2606,11/09/2020 18:39:54,3,CH,305,269,3,
 Dadra and Nagar Haveli and Daman and Diu,2682,2390,2,265,11/09/2020 17:14:03,25,DN,24,38,0,
 Meghalaya,3447,1889,24,1534,11/09/2020 22:12:59,0,ML,151,47,4,[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.
-Sikkim,2026,1486,11,529,12/09/2020 00:01:53,0,SK,17,16,4,
+Sikkim,2026,1486,11,529,12/09/2020 00:06:53,0,SK,17,16,4,
 Mizoram,1353,790,0,563,11/09/2020 17:38:56,0,MZ,20,40,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
