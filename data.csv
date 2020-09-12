@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4745764,3695277,78567,971255,12/09/2020 22:52:51,665,TT,88385,73839,1064,
+Total,4747250,3697050,78577,970958,12/09/2020 22:58:49,665,TT,89871,75612,1074,
 Maharashtra,1037765,728512,29115,279768,12/09/2020 22:14:52,370,MH,22084,13489,391,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -30,7 +30,7 @@ One patient absconded from Palakkad to TN and one patient returned back to Mahar
 In total 66 such cases have been reduced from active count"
 Punjab,77057,55385,2288,19384,12/09/2020 21:55:59,0,PB,2441,2077,76,
 Jammu and Kashmir,52410,35285,864,16261,12/09/2020 18:52:52,0,JK,1698,596,10,
-Jharkhand,59040,43328,532,15180,11/09/2020 23:18:54,0,JH,0,0,0,
+Jharkhand,60460,45074,542,14844,12/09/2020 22:58:51,0,JH,1420,1746,10,
 Chhattisgarh,58643,27123,518,31002,11/09/2020 23:46:56,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
 Uttarakhand,30336,20031,402,9781,12/09/2020 22:01:55,122,UT,1115,603,14,
 Goa,24185,18576,286,5323,12/09/2020 20:36:56,0,GA,740,511,10,
@@ -39,9 +39,9 @@ Puducherry,19445,14228,370,4847,12/09/2020 21:26:53,0,PY,419,445,5,
 Manipur,7731,6102,45,1584,12/09/2020 19:16:52,0,MN,152,100,1,
 Himachal Pradesh,9229,5947,72,3193,12/09/2020 21:30:54,17,HP,445,123,2,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,5064,3822,8,1221,12/09/2020 17:10:55,13,NL,118,31,0,
-Arunachal Pradesh,5961,4253,10,1698,12/09/2020 22:52:53,0,AR,136,127,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Arunachal Pradesh,5961,4253,10,1698,12/09/2020 22:56:55,0,AR,136,127,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3494,3157,51,286,11/09/2020 22:27:54,0,AN,0,0,0,
-Ladakh,3228,2387,38,803,11/09/2020 22:09:01,0,LA,0,0,0,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
+Ladakh,3294,2414,38,842,12/09/2020 22:58:52,0,LA,66,27,0,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
 Chandigarh,7542,4864,89,2586,12/09/2020 19:52:53,3,CH,250,264,6,
 Dadra and Nagar Haveli and Daman and Diu,2687,2405,2,251,12/09/2020 17:38:52,29,DN,5,15,0,
 Meghalaya,3608,2020,25,1563,12/09/2020 22:34:59,0,ML,161,131,1,[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.
