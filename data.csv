@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4751788,3699306,78614,973203,13/09/2020 00:00:51,665,TT,94409,77868,1111,
+Total,4751788,3699298,78614,973211,13/09/2020 00:24:51,665,TT,94409,77860,1111,
 Maharashtra,1037765,728512,29115,279768,12/09/2020 22:14:52,370,MH,22084,13489,391,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -40,7 +40,7 @@ Manipur,7731,6102,45,1584,12/09/2020 19:16:52,0,MN,152,100,1,
 Himachal Pradesh,9229,5947,72,3193,12/09/2020 21:30:54,17,HP,445,123,2,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,5064,3822,8,1221,12/09/2020 17:10:55,13,NL,118,31,0,
 Arunachal Pradesh,5961,4253,10,1698,12/09/2020 22:56:55,0,AR,136,127,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Andaman and Nicobar Islands,3521,3210,51,260,12/09/2020 23:36:54,0,AN,27,53,0,
+Andaman and Nicobar Islands,3521,3202,51,268,13/09/2020 00:24:54,0,AN,27,45,0,
 Ladakh,3294,2414,39,841,13/09/2020 00:00:54,0,LA,66,27,1,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
 Chandigarh,7542,4864,89,2586,12/09/2020 19:52:53,3,CH,250,264,6,
 Dadra and Nagar Haveli and Daman and Diu,2706,2418,2,257,12/09/2020 23:36:55,29,DN,24,28,0,
