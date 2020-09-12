@@ -1,10 +1,10 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4682161,3642531,77682,961296,12/09/2020 18:24:52,652,TT,24782,21093,176,
+Total,4688470,3648534,77768,961516,12/09/2020 18:38:50,652,TT,31091,27096,262,
 Maharashtra,1015681,715023,28724,271566,11/09/2020 21:50:55,368,MH,0,0,0,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin."
-Tamil Nadu,491571,435422,8234,47915,11/09/2020 21:02:59,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,496182,440829,8310,47043,12/09/2020 18:38:51,0,TN,4611,5407,76,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
@@ -12,7 +12,7 @@ Andhra Pradesh,557587,457008,4846,95733,12/09/2020 18:08:51,0,AP,9901,10292,67,"
 Karnataka,440411,334999,7067,98326,11/09/2020 19:52:53,19,KA,0,0,0,
 Delhi,209748,178154,4687,26907,11/09/2020 19:21:54,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-Uttar Pradesh,305831,233527,4349,67955,12/09/2020 18:24:54,0,UP,6786,6085,67,
+Uttar Pradesh,305831,233527,4349,67955,12/09/2020 18:38:53,0,UP,6786,6085,67,
 West Bengal,196332,169043,3828,23461,11/09/2020 20:18:54,0,WB,0,0,0,
 Bihar,156866,141158,808,14899,12/09/2020 17:19:53,1,BR,1421,1700,11,
 Telangana,154880,121925,950,32005,12/09/2020 11:20:52,0,TG,2278,2458,10,"[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
@@ -29,7 +29,7 @@ Kerala,102255,73900,411,27878,11/09/2020 20:51:59,66,KL,0,0,0,"Mahe native who e
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 66 such cases have been reduced from active count"
 Punjab,74616,53308,2212,19096,11/09/2020 22:08:58,0,PB,0,0,0,
-Jammu and Kashmir,50712,34689,854,15169,11/09/2020 18:22:16,0,JK,0,0,0,
+Jammu and Kashmir,52410,35285,864,16261,12/09/2020 18:38:55,0,JK,1698,596,10,
 Jharkhand,59040,43328,532,15180,11/09/2020 23:18:54,0,JH,0,0,0,
 Chhattisgarh,58643,27123,518,31002,11/09/2020 23:46:56,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
 Uttarakhand,29221,19428,388,9294,11/09/2020 20:28:59,111,UT,0,0,0,
