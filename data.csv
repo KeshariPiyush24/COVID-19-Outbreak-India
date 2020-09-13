@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4788484,3730894,78930,977989,13/09/2020 18:39:53,671,TT,36696,31596,316,
+Total,4788484,3730894,78930,977989,13/09/2020 18:47:54,671,TT,36696,31596,316,
 Maharashtra,1037765,728512,29115,279768,12/09/2020 22:14:52,370,MH,0,0,0,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -33,10 +33,10 @@ Jammu and Kashmir,54096,35737,878,17481,13/09/2020 18:28:56,0,JK,1686,452,14,
 Jharkhand,60460,45074,542,14844,12/09/2020 23:08:53,0,JH,0,0,0,
 Chhattisgarh,61763,27978,539,33246,12/09/2020 23:26:52,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
 Uttarakhand,30336,20031,402,9781,12/09/2020 22:01:55,122,UT,0,0,0,
-Goa,24592,19129,290,5173,13/09/2020 18:39:55,0,GA,407,553,4,
+Goa,24592,19129,290,5173,13/09/2020 18:47:56,0,GA,407,553,4,
 Tripura,18929,11132,194,7581,13/09/2020 10:07:55,22,TR,629,398,12,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,19445,14228,370,4847,12/09/2020 21:26:53,0,PY,0,0,0,
-Manipur,7875,6191,46,1638,13/09/2020 18:39:56,0,MN,144,89,1,
+Manipur,7875,6191,46,1638,13/09/2020 18:47:57,0,MN,144,89,1,
 Himachal Pradesh,9229,5947,72,3193,12/09/2020 21:30:54,17,HP,0,0,0,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,5083,3883,8,1173,13/09/2020 17:35:59,19,NL,19,61,0,
 Arunachal Pradesh,5961,4253,10,1698,12/09/2020 22:56:55,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
