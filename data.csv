@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4836315,3766533,79678,989430,13/09/2020 21:55:52,674,TT,84527,67235,1064,
+Total,4836315,3766533,79678,989430,13/09/2020 22:04:53,674,TT,84527,67235,1064,
 Maharashtra,1060308,740061,29531,290344,13/09/2020 21:46:55,372,MH,22543,11549,416,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -20,7 +20,7 @@ Telangana,157096,124528,961,31607,13/09/2020 09:29:53,0,TG,2216,2603,11,"[July 2
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
 Gujarat,113662,94110,3211,16341,13/09/2020 21:17:58,0,GJ,1326,1205,15,
 Assam,140471,110883,469,29116,13/09/2020 21:46:57,3,AS,0,0,16,Includes 1 case from Nagaland
-Rajasthan,102408,84518,1236,16654,13/09/2020 21:55:54,0,RJ,1703,1616,15,
+Rajasthan,102408,84518,1236,16654,13/09/2020 22:04:54,0,RJ,1703,1616,15,
 Odisha,150807,118642,679,31486,13/09/2020 21:47:01,0,OR,3913,3363,10,"[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
 Haryana,93641,72587,975,20079,13/09/2020 20:06:58,0,HR,2526,1874,19,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
@@ -37,7 +37,7 @@ Goa,24592,19129,290,5173,13/09/2020 18:47:56,0,GA,407,553,4,
 Tripura,18929,11132,194,7581,13/09/2020 10:07:55,22,TR,629,398,12,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,19833,14570,385,4878,13/09/2020 21:02:03,0,PY,388,342,15,
 Manipur,7875,6191,46,1638,13/09/2020 18:47:57,0,MN,144,89,1,
-Himachal Pradesh,9555,6099,76,3363,13/09/2020 21:55:56,17,HP,326,152,4,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Himachal Pradesh,9555,6099,76,3363,13/09/2020 22:04:56,17,HP,326,152,4,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 Nagaland,5083,3883,8,1172,13/09/2020 19:54:58,20,NL,19,61,0,
 Arunachal Pradesh,5961,4253,10,1698,12/09/2020 22:56:55,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Andaman and Nicobar Islands,3521,3202,51,268,13/09/2020 00:28:52,0,AN,0,0,0,
