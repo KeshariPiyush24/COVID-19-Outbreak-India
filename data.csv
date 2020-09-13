@@ -1,14 +1,14 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4770563,3713623,78770,977499,13/09/2020 17:35:54,671,TT,18775,14325,156,
+Total,4785798,3729494,78910,976723,13/09/2020 18:10:55,671,TT,34010,30196,296,
 Maharashtra,1037765,728512,29115,279768,12/09/2020 22:14:52,370,MH,0,0,0,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin."
-Tamil Nadu,497066,441649,8307,47110,12/09/2020 18:56:52,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,502759,447366,8381,47012,13/09/2020 18:10:57,0,TN,5693,5717,74,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Andhra Pradesh,557587,457008,4846,95733,12/09/2020 18:08:51,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Andhra Pradesh,567123,467139,4912,95072,13/09/2020 18:10:58,0,AP,9536,10131,66,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,449551,344556,7161,97815,12/09/2020 20:28:53,19,KA,0,0,0,
 Delhi,218304,184698,4744,28862,13/09/2020 17:35:56,0,DL,4235,3403,29,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
@@ -43,7 +43,7 @@ Arunachal Pradesh,5961,4253,10,1698,12/09/2020 22:56:55,0,AR,0,0,0,[July 25]: Al
 Andaman and Nicobar Islands,3521,3202,51,268,13/09/2020 00:28:52,0,AN,0,0,0,
 Ladakh,3294,2414,39,841,13/09/2020 00:00:54,0,LA,0,0,0,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
 Chandigarh,7542,4864,89,2586,12/09/2020 19:52:53,3,CH,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2706,2418,2,257,12/09/2020 23:36:55,29,DN,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,2712,2441,2,240,13/09/2020 18:11:00,29,DN,6,23,0,
 Meghalaya,3615,2020,25,1570,12/09/2020 23:49:58,0,ML,0,0,0,[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.
 Sikkim,2055,1503,13,539,12/09/2020 23:37:57,0,SK,0,0,0,
 Mizoram,1414,830,0,584,13/09/2020 17:36:00,0,MZ,35,7,0,
