@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4845272,3777448,79760,987390,14/09/2020 08:55:59,674,TT,269,404,6,
+Total,4845272,3777448,79760,987390,14/09/2020 09:00:58,674,TT,269,404,6,
 Maharashtra,1060308,740061,29531,290344,13/09/2020 21:46:55,372,MH,0,0,0,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
@@ -34,7 +34,7 @@ Jharkhand,61474,46583,555,14336,13/09/2020 22:35:00,0,JH,0,0,0,
 Chhattisgarh,63991,31931,555,31505,13/09/2020 23:33:11,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
 Uttarakhand,31973,21040,414,10397,13/09/2020 22:18:58,122,UT,0,0,0,
 Goa,24592,19129,290,5173,13/09/2020 18:47:56,0,GA,0,0,0,
-Tripura,19184,11536,200,7426,14/09/2020 08:56:02,22,TR,255,404,6,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
+Tripura,19184,11536,200,7426,14/09/2020 09:01:00,22,TR,255,404,6,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Puducherry,19833,14570,385,4878,13/09/2020 21:02:03,0,PY,0,0,0,
 Manipur,7875,6191,46,1638,13/09/2020 18:47:57,0,MN,0,0,0,
 Himachal Pradesh,9555,6099,76,3363,13/09/2020 22:05:58,17,HP,0,0,0,"Death of Tibetan refugee is included in deceased numbers, but not in confirmed"
@@ -46,6 +46,6 @@ Chandigarh,7991,5170,90,2728,13/09/2020 18:39:05,3,CH,0,0,0,
 Dadra and Nagar Haveli and Daman and Diu,2721,2460,2,230,13/09/2020 19:54:59,29,DN,0,0,0,
 Meghalaya,3724,2075,26,1623,13/09/2020 19:33:59,0,ML,0,0,0,[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.
 Sikkim,2086,1505,16,565,13/09/2020 21:47:03,0,SK,0,0,0,
-Mizoram,1428,830,0,598,14/09/2020 08:56:04,0,MZ,14,0,0,
+Mizoram,1428,830,0,598,14/09/2020 09:01:03,0,MZ,14,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
