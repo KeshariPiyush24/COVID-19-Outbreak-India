@@ -1,16 +1,16 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,4865292,3797622,79915,987081,14/09/2020 18:27:56,674,TT,20289,20578,161,
+Total,4875502,3807439,80011,987378,14/09/2020 18:53:57,674,TT,30499,30395,257,
 Maharashtra,1060308,740061,29531,290344,13/09/2020 21:46:55,372,MH,0,0,0,"[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. 
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin."
-Tamil Nadu,502759,447366,8381,47012,13/09/2020 18:28:54,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Tamil Nadu,508511,453165,8434,46912,14/09/2020 18:53:59,0,TN,5752,5799,53,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
 Andhra Pradesh,575079,476903,4972,93204,14/09/2020 18:08:59,0,AP,7956,9764,60,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
 Karnataka,459445,352958,7265,99203,13/09/2020 20:10:54,19,KA,0,0,0,
-Delhi,218304,184698,4744,28862,13/09/2020 17:35:56,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Delhi,221533,188072,4770,28691,14/09/2020 18:54:01,0,DL,3229,3374,26,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
 Uttar Pradesh,317195,245417,4491,67287,14/09/2020 18:09:01,0,UP,5159,5932,62,
 West Bengal,202708,175139,3945,23624,13/09/2020 21:01:59,0,WB,0,0,0,
@@ -29,7 +29,7 @@ Kerala,108279,77699,440,30074,13/09/2020 20:52:00,66,KL,0,0,0,"Mahe native who e
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
 In total 66 such cases have been reduced from active count"
 Punjab,79679,57536,2356,19787,13/09/2020 20:07:00,0,PB,0,0,0,
-Jammu and Kashmir,54096,35737,878,17481,13/09/2020 18:28:56,0,JK,0,0,0,
+Jammu and Kashmir,55325,36381,895,18049,14/09/2020 18:54:04,0,JK,1229,644,17,
 Jharkhand,61474,46583,555,14336,13/09/2020 22:35:00,0,JH,0,0,0,
 Chhattisgarh,63991,31931,555,31505,13/09/2020 23:33:11,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
 Uttarakhand,31973,21040,414,10397,13/09/2020 22:18:58,122,UT,0,0,0,
